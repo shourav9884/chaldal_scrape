@@ -382,23 +382,6 @@
             "id": "54",
             "slug": "dips-spreads"
         },
-        "bengaliName": "\u09b8\u09be\u09a8\u09a1\u09cd\u09b0\u09aa \u09aa\u09bf\u09a8\u09be\u099f \u09ac\u09be\u099f\u09be\u09b0 \u0995\u09cd\u09b0\u09be\u099e\u09cd\u099a\u09bf  \u09ea\u09ec\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Origin: India \r\nAdd taste and nutrition together in your breakfast or evening snacks with Sundrop peanut butter crunchy. This food item is vegeterian. \r\nIngredients: Roasted peanuts, sugar, stabilizers, peanut oil, iodized salt.\r\nNutritional facts: Energy, Protein, Carbohydrate, Fat, Cholesterol, Sodium.",
-        "name": "Sundrop Peanut Butter Crunchy 462 gm",
-        "nameWithoutSubText": "Sundrop Peanut Butter Crunchy",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/sundrop-peanut-butter-crunchy-462-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77748&q=low&v=1"
-        ],
-        "price": 390.0,
-        "corpPrice": 390.0,
-        "objectID": 11611
-    },
-    {
-        "category": {
-            "name": "Jam & Spreads",
-            "id": "54",
-            "slug": "dips-spreads"
-        },
         "bengaliName": "\u09b8\u09cd\u099f\u09c1\u099f \u09a1\u09be\u09af\u09bc\u09be\u09ac\u09c7\u099f\u09bf\u0995 \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u099c\u09cd\u09af\u09be\u09ae \u09ea\u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Stute Diabetic Strawberry Extra Jam 430 gm",
@@ -409,6 +392,23 @@
         "price": 379.0,
         "corpPrice": 379.0,
         "objectID": 8932
+    },
+    {
+        "category": {
+            "name": "Jam & Spreads",
+            "id": "54",
+            "slug": "dips-spreads"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8\u09a1\u09cd\u09b0\u09aa \u09aa\u09bf\u09a8\u09be\u099f \u09ac\u09be\u099f\u09be\u09b0 \u0995\u09cd\u09b0\u09be\u099e\u09cd\u099a\u09bf  \u09ea\u09ec\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: India \r\nAdd taste and nutrition together in your breakfast or evening snacks with Sundrop peanut butter crunchy. This food item is vegeterian. \r\nIngredients: Roasted peanuts, sugar, stabilizers, peanut oil, iodized salt.\r\nNutritional facts: Energy, Protein, Carbohydrate, Fat, Cholesterol, Sodium.",
+        "name": "Sundrop Peanut Butter Crunchy 462 gm",
+        "nameWithoutSubText": "Sundrop Peanut Butter Crunchy",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sundrop-peanut-butter-crunchy-462-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77748&q=low&v=1"
+        ],
+        "price": 390.0,
+        "corpPrice": 390.0,
+        "objectID": 11611
     },
     {
         "category": {
@@ -433,23 +433,6 @@
             "id": "54",
             "slug": "dips-spreads"
         },
-        "bengaliName": "\u09a8\u09be\u0993\u09df\u09be\u09b0 \u09b8\u09be\u09a8\u09ab\u09cd\u09b2\u09be\u0993\u09df\u09be\u09b0  \u09ae\u09be\u09b0\u09cd\u099c\u09be\u09b0\u09bf\u09a8  \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Nawar Sunflower Margarine 500 gm",
-        "nameWithoutSubText": "Nawar Sunflower Margarine",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/nawar-sunflower-margarine-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77750&q=low&v=1"
-        ],
-        "price": 299.0,
-        "corpPrice": 299.0,
-        "objectID": 6244
-    },
-    {
-        "category": {
-            "name": "Jam & Spreads",
-            "id": "54",
-            "slug": "dips-spreads"
-        },
         "bengaliName": "\u09b8\u09cd\u099f\u09c1\u099f \u09a1\u09be\u09af\u09bc\u09be\u09ac\u09c7\u099f\u09bf\u0995 \u09b0\u09be\u09b8\u09cd\u09aa\u09ac\u09c7\u09b0\u09c0 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u099c\u09cd\u09af\u09be\u09ae \u09ea\u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Stute Diabetic Raspberry Extra Jam 430 gm",
@@ -460,6 +443,23 @@
         "price": 379.0,
         "corpPrice": 379.0,
         "objectID": 4198
+    },
+    {
+        "category": {
+            "name": "Jam & Spreads",
+            "id": "54",
+            "slug": "dips-spreads"
+        },
+        "bengaliName": "\u09a8\u09be\u0993\u09df\u09be\u09b0 \u09b8\u09be\u09a8\u09ab\u09cd\u09b2\u09be\u0993\u09df\u09be\u09b0  \u09ae\u09be\u09b0\u09cd\u099c\u09be\u09b0\u09bf\u09a8  \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nawar Sunflower Margarine 500 gm",
+        "nameWithoutSubText": "Nawar Sunflower Margarine",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nawar-sunflower-margarine-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77750&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 6244
     },
     {
         "category": {

@@ -447,23 +447,6 @@
             "id": "53",
             "slug": "chips-pretzels"
         },
-        "bengaliName": "\u09b8\u09be\u09a8 \u099a\u09bf\u09aa\u09b8\u09cd \u0993\u09df\u09be\u09b8\u09be\u09ac\u09bf \u09e9\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Sun Chips Wasabi 38 gm",
-        "nameWithoutSubText": "Sun Chips Wasabi",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/sun-chips-wasabi-38-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54963&q=low&v=1"
-        ],
-        "price": 25.0,
-        "corpPrice": 25.0,
-        "objectID": 4378
-    },
-    {
-        "category": {
-            "name": "Chips & Pretzels",
-            "id": "53",
-            "slug": "chips-pretzels"
-        },
         "bengaliName": "\u09b2\u09cd\u09af\u09c7'\u09b8 \u0987\u09a4\u09be\u09b2\u09bf\u09af\u09bc\u09be\u09a8 \u09b6\u09c7\u09aa \u09aa\u09be\u09b8\u09cd\u09a4\u09be\u099c \u099a\u09bf\u09aa\u09b8 \u09e9\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Origin: Bangladesh\r\nManufacturer: Pepsico\r\nItalian style herb and onion flavoured potato based snacks.\r\nVegan\r\nHalal certified by Bangladesh Islamic foundation.\r\nIngredients: Edible vegetable oil, corn flour, Refined wheat flour, potato flakes(15%), Natural and nature identical flavours, sugar, milk solids, salt, onion powder, parsley, dextrose, calcium carbonate, soy lecithin, gum Arabic, maltose. \r\nNutrition: Energy, protein, carbohydrate, fat, Sodium.",
         "name": "Lay's Italian Shape Pastazz Chips 37 gm",
@@ -491,6 +474,23 @@
         "price": 10.0,
         "corpPrice": 10.0,
         "objectID": 18699
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u099a\u09bf\u09aa\u09b8\u09cd \u0993\u09df\u09be\u09b8\u09be\u09ac\u09bf \u09e9\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sun Chips Wasabi 38 gm",
+        "nameWithoutSubText": "Sun Chips Wasabi",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sun-chips-wasabi-38-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54963&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 4378
     },
     {
         "category": {

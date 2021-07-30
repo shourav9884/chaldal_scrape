@@ -430,26 +430,6 @@
             "id": "1381",
             "slug": "pasta-macaroni"
         },
-        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09a6\u09c1\u09b0\u09c1\u09ae \u09b9\u09c1\u0987\u099f \u09aa\u09be\u09b8\u09cd\u09a4\u09be - \u09b8\u09cd\u09aa\u09be\u0997\u09c7\u099f\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
-        "longDesc": "Origin: Italy\r\nBarilla SPAGHETTI is the most popular shape in Italy. As everybody\u2019s favourite, Spaghetti pairs well with just about any kind of sauce. Try Spaghetti with easy tomato sauce, vegetables, with or without meat and enjoy an authentic Italian meal.\r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
-        "name": "Barilla Durum Wheat Pasta Spaghetti  500 gm",
-        "nameWithoutSubText": "Barilla Durum Wheat Pasta Spaghetti",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71315&q=low&v=1",
-            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73881&q=low&v=1",
-            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73883&q=low&v=1",
-            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74535&q=low&v=1"
-        ],
-        "price": 250.0,
-        "corpPrice": 250.0,
-        "objectID": 22724
-    },
-    {
-        "category": {
-            "name": "Pasta & Macaroni",
-            "id": "1381",
-            "slug": "pasta-macaroni"
-        },
         "bengaliName": "\u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b9\u09be\u099f \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a3\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Pasta Hat Macaroni (Big Elbow) 500 gm",
@@ -477,6 +457,26 @@
         "price": 250.0,
         "corpPrice": 250.0,
         "objectID": 24162
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09a6\u09c1\u09b0\u09c1\u09ae \u09b9\u09c1\u0987\u099f \u09aa\u09be\u09b8\u09cd\u09a4\u09be - \u09b8\u09cd\u09aa\u09be\u0997\u09c7\u099f\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Origin: Italy\r\nBarilla SPAGHETTI is the most popular shape in Italy. As everybody\u2019s favourite, Spaghetti pairs well with just about any kind of sauce. Try Spaghetti with easy tomato sauce, vegetables, with or without meat and enjoy an authentic Italian meal.\r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Durum Wheat Pasta Spaghetti  500 gm",
+        "nameWithoutSubText": "Barilla Durum Wheat Pasta Spaghetti",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71315&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73881&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73883&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74535&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 22724
     },
     {
         "category": {

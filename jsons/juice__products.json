@@ -22,6 +22,23 @@
             "id": "19",
             "slug": "juice"
         },
+        "bengaliName": "\u09b2\u09c7\u099f\u09bf\u09a8\u09be \u09e7\u09e6\u09e6% \u099c\u09c1\u09b8 (\u0995\u09ae\u09b2\u09be) \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Chaldal has a range of locally sourced 100% natural pulp fruit juice. And Latina Orange Juice is one of them. \r\nBrand: PRAN Dairy.\r\nNet Weight: 1 Ltr.\r\nJuice Type: Orange Juice.",
+        "name": "Latina 100 % Juice (Orange) 1 Ltr",
+        "nameWithoutSubText": "Latina 100 % Juice (Orange)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/latina-100-juice-orange-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45878&q=low&v=1"
+        ],
+        "price": 175.0,
+        "corpPrice": 175.0,
+        "objectID": 12162
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
         "bengaliName": "\u09b8\u09cd\u09b2\u09be\u0987\u09b8 \u09ae\u09c7\u0999\u09cd\u0997\u09cb \u099c\u09c1\u09b8 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": null,
         "name": "Slice Mango Juice 200 ml",
@@ -49,23 +66,6 @@
         "price": 400.0,
         "corpPrice": 400.0,
         "objectID": 23948
-    },
-    {
-        "category": {
-            "name": "Juice",
-            "id": "19",
-            "slug": "juice"
-        },
-        "bengaliName": "\u09b2\u09c7\u099f\u09bf\u09a8\u09be \u09e7\u09e6\u09e6% \u099c\u09c1\u09b8 (\u0995\u09ae\u09b2\u09be) \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
-        "longDesc": "Chaldal has a range of locally sourced 100% natural pulp fruit juice. And Latina Orange Juice is one of them. \r\nBrand: PRAN Dairy.\r\nNet Weight: 1 Ltr.\r\nJuice Type: Orange Juice.",
-        "name": "Latina 100 % Juice (Orange) 1 Ltr",
-        "nameWithoutSubText": "Latina 100 % Juice (Orange)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/latina-100-juice-orange-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45878&q=low&v=1"
-        ],
-        "price": 175.0,
-        "corpPrice": 175.0,
-        "objectID": 12162
     },
     {
         "category": {

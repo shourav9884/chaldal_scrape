@@ -39,23 +39,6 @@
             "id": "110",
             "slug": "ready-mix"
         },
-        "bengaliName": " \u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ae\u09b6\u09b2\u09be  \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Specially made mixed spices for mutton, beef and chicken biryani. The mixing of different spices maintains the standard recipe to prepare delicious Biryani.",
-        "name": "Radhuni Biryani Masala 40 gm",
-        "nameWithoutSubText": "Radhuni Biryani Masala",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/radhuni-biryani-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48295&q=low&v=1"
-        ],
-        "price": 55.0,
-        "corpPrice": 55.0,
-        "objectID": 2396
-    },
-    {
-        "category": {
-            "name": "Ready Mix",
-            "id": "110",
-            "slug": "ready-mix"
-        },
         "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09ae\u09cd\u09af\u09be\u0997\u09bf \u09ab\u09bf\u0989\u09b8\u09bf\u09df\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u0987\u09a1 \u09b0\u09be\u0987\u09b8 \u09b8\u09bf\u099c\u09a8\u09bf\u0982 \u09ae\u09bf\u0995\u09cd\u09b8 \u09ec \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Transforms your plain rice into a delicious wok flavored fried rice. \r\n\r\nA unique blend of different spices & flavors like Garlic, black pepper, Soya sauce & unique Asian wok flavor  \r\n\r\nIt\u2019s very easy to cook, you just need to fry one onion in a fry pan with one table spoon oil & then add plain rice and Fried rice seasoning mix. Then mix & stir it for 2-3 minutes. Your Fried rice is ready!  \r\n\r\nFor more nutrition you can add Carrot, Broccoli, Capsicum and also scrambled egg.  \r\n\r\nNet Weight: 6g \r\n\r\nOrigin: Bangladesh ",
         "name": "Nestle Maggi Fusian Fried Rice Seasoning Mix Sachet 6 gm",
@@ -66,6 +49,23 @@
         "price": 10.0,
         "corpPrice": 10.0,
         "objectID": 22756
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": " \u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ae\u09b6\u09b2\u09be  \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Specially made mixed spices for mutton, beef and chicken biryani. The mixing of different spices maintains the standard recipe to prepare delicious Biryani.",
+        "name": "Radhuni Biryani Masala 40 gm",
+        "nameWithoutSubText": "Radhuni Biryani Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-biryani-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48295&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 2396
     },
     {
         "category": {
@@ -233,23 +233,6 @@
             "id": "110",
             "slug": "ready-mix"
         },
-        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ac\u09cb\u09b0\u09b9\u09be\u09a8\u09bf \u09ae\u09b6\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Radhuni borhani masala eases preparation of the most popular beverage in our local culture. borhani is always present before the rich meals in every special occasion and festival. ",
-        "name": "Radhuni Borhani Masala 50 gm",
-        "nameWithoutSubText": "Radhuni Borhani Masala",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/radhuni-borhani-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48296&q=low&v=1"
-        ],
-        "price": 35.0,
-        "corpPrice": 35.0,
-        "objectID": 2397
-    },
-    {
-        "category": {
-            "name": "Ready Mix",
-            "id": "110",
-            "slug": "ready-mix"
-        },
         "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09a4\u09be\u09a8\u09cd\u09a6\u09c1\u09b0\u09bf \u09ae\u09c1\u09b0\u0997\u09bf\u09b0 \u09ae\u09b6\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
         "longDesc": null,
         "name": "Radhuni Chicken Tandoori Masala 50 gm ",
@@ -267,16 +250,16 @@
             "id": "110",
             "slug": "ready-mix"
         },
-        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ae\u09be\u0982\u09b8\u09c7\u09b0 \u09a4\u09b0\u0995\u09be\u09b0\u09bf \u09ae\u09b6\u09b2\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Radhuni Meat Curry Masala is riched mixed spices using ingredients like chili, turmeric, coriander, cumin, fenugreek etc to get the authentic taste of meat curry. This products is used as a complete spice for all kinds of meat cooking",
-        "name": "Radhuni Meat Curry Masala 100 gm",
-        "nameWithoutSubText": "Radhuni Meat Curry Masala",
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ac\u09cb\u09b0\u09b9\u09be\u09a8\u09bf \u09ae\u09b6\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Radhuni borhani masala eases preparation of the most popular beverage in our local culture. borhani is always present before the rich meals in every special occasion and festival. ",
+        "name": "Radhuni Borhani Masala 50 gm",
+        "nameWithoutSubText": "Radhuni Borhani Masala",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/radhuni-meat-curry-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39954&q=low&v=1"
+            "https://chaldn.com/_mpimage/radhuni-borhani-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48296&q=low&v=1"
         ],
-        "price": 65.0,
-        "corpPrice": 65.0,
-        "objectID": 2408
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 2397
     },
     {
         "category": {
@@ -294,6 +277,23 @@
         "price": 70.0,
         "corpPrice": 70.0,
         "objectID": 14975
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ae\u09be\u0982\u09b8\u09c7\u09b0 \u09a4\u09b0\u0995\u09be\u09b0\u09bf \u09ae\u09b6\u09b2\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Radhuni Meat Curry Masala is riched mixed spices using ingredients like chili, turmeric, coriander, cumin, fenugreek etc to get the authentic taste of meat curry. This products is used as a complete spice for all kinds of meat cooking",
+        "name": "Radhuni Meat Curry Masala 100 gm",
+        "nameWithoutSubText": "Radhuni Meat Curry Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-meat-curry-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39954&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 2408
     },
     {
         "category": {
@@ -641,23 +641,6 @@
             "id": "110",
             "slug": "ready-mix"
         },
-        "bengaliName": "\u09b6\u09be\u09a8 \u0995\u09b0\u09be\u099a\u09bf \u09ac\u09c0\u09ab \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Shan Karachi Beef Biriyani 60 gm",
-        "nameWithoutSubText": "Shan Karachi Beef Biriyani",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/shan-karachi-beef-biriyani-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48317&q=low&v=1"
-        ],
-        "price": 95.0,
-        "corpPrice": 95.0,
-        "objectID": 8039
-    },
-    {
-        "category": {
-            "name": "Ready Mix",
-            "id": "110",
-            "slug": "ready-mix"
-        },
         "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b9\u09be\u09b2\u09bf\u09ae \u09ae\u09bf\u0995\u09cd\u09b8 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Ahmed Haleem Mix 200 gm",
@@ -668,6 +651,23 @@
         "price": 55.0,
         "corpPrice": 55.0,
         "objectID": 23809
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u0995\u09b0\u09be\u099a\u09bf \u09ac\u09c0\u09ab \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Karachi Beef Biriyani 60 gm",
+        "nameWithoutSubText": "Shan Karachi Beef Biriyani",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-karachi-beef-biriyani-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48317&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 8039
     },
     {
         "category": {
@@ -770,6 +770,23 @@
         "price": 110.0,
         "corpPrice": 110.0,
         "objectID": 8040
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u0996\u09bf\u099a\u09c1\u09dc\u09bf \u09ae\u09bf\u0995\u09cd\u09b8\u09a1 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Khichuri Mixed 500 gm",
+        "nameWithoutSubText": "Ahmed Khichuri Mixed",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-khichuri-mixed-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74377&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 23820
     },
     {
         "category": {
@@ -940,23 +957,6 @@
         "price": 570.0,
         "corpPrice": 570.0,
         "objectID": 23842
-    },
-    {
-        "category": {
-            "name": "Ready Mix",
-            "id": "110",
-            "slug": "ready-mix"
-        },
-        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u0996\u09bf\u099a\u09c1\u09dc\u09bf \u09ae\u09bf\u0995\u09cd\u09b8\u09a1 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Ahmed Khichuri Mixed 500 gm",
-        "nameWithoutSubText": "Ahmed Khichuri Mixed",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/ahmed-khichuri-mixed-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74377&q=low&v=1"
-        ],
-        "price": 110.0,
-        "corpPrice": 110.0,
-        "objectID": 23820
     },
     {
         "category": {

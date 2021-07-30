@@ -158,23 +158,6 @@
             "id": "111",
             "slug": "salt-sugar"
         },
-        "bengaliName": "\u09ac\u09bf\u099f \u09b2\u09ac\u09a3 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Rock Salt (Bit Lobon) 100 gm",
-        "nameWithoutSubText": "Rock Salt (Bit Lobon)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/rock-salt-bit-lobon-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47115&q=low&v=1"
-        ],
-        "price": 39.0,
-        "corpPrice": 39.0,
-        "objectID": 3991
-    },
-    {
-        "category": {
-            "name": "Salt & Sugar",
-            "id": "111",
-            "slug": "salt-sugar"
-        },
         "bengaliName": "\u09b0\u0982\u09a7\u09a8\u09c1 \u09b2\u09ac\u09a8 \u09e7 \u0995\u09c7\u099c\u09bf",
         "longDesc": null,
         "name": "Rongdhanu Salt 1 kg",
@@ -185,6 +168,23 @@
         "price": 25.0,
         "corpPrice": 25.0,
         "objectID": 22599
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09ac\u09bf\u099f \u09b2\u09ac\u09a3 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Rock Salt (Bit Lobon) 100 gm",
+        "nameWithoutSubText": "Rock Salt (Bit Lobon)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rock-salt-bit-lobon-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47115&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 3991
     },
     {
         "category": {
@@ -226,23 +226,6 @@
             "id": "111",
             "slug": "salt-sugar"
         },
-        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a3 \u09b2\u09ac\u09a8 \u09e7 \u0995\u09c7\u099c\u09bf",
-        "longDesc": "Origin: Bangladesh\r\nManufacturer: Pran group\r\nPran iodized vacuum evaporated salt is manufactured by applying world\u2019s latest technology and strict quality control. This salt is clean  spotlessly white, pure and granular. Comes in air-tight pack.So, the iodin in this salt stays intact always. \r\n100% halal, iodized salt.\r\nNutrition: sodium chloride, iodin.",
-        "name": "Pran Salt 1 kg",
-        "nameWithoutSubText": "Pran Salt",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/pran-salt-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53118&q=low&v=1"
-        ],
-        "price": 38.0,
-        "corpPrice": 38.0,
-        "objectID": 20283
-    },
-    {
-        "category": {
-            "name": "Salt & Sugar",
-            "id": "111",
-            "slug": "salt-sugar"
-        },
         "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u099f\u09c7\u09b8\u09cd\u099f\u09bf\u0982 \u09b8\u09b2\u09cd\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Ahmed Testing Salt 100 gm",
@@ -253,6 +236,23 @@
         "price": 45.0,
         "corpPrice": 45.0,
         "objectID": 23810
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a3 \u09b2\u09ac\u09a8 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Pran group\r\nPran iodized vacuum evaporated salt is manufactured by applying world\u2019s latest technology and strict quality control. This salt is clean  spotlessly white, pure and granular. Comes in air-tight pack.So, the iodin in this salt stays intact always. \r\n100% halal, iodized salt.\r\nNutrition: sodium chloride, iodin.",
+        "name": "Pran Salt 1 kg",
+        "nameWithoutSubText": "Pran Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-salt-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53118&q=low&v=1"
+        ],
+        "price": 38.0,
+        "corpPrice": 38.0,
+        "objectID": 20283
     },
     {
         "category": {

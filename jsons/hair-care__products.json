@@ -261,23 +261,6 @@
             "id": "33",
             "slug": "hair-care"
         },
-        "bengaliName": "\u099f\u09cd\u09b0\u09bf\u09b8\u09bf\u09ae\u09bf \u09b6\u09cd\u09af\u09be\u09ae\u09cd\u09aa\u09c1 \u09b9\u09c7\u09df\u09be\u09b0 \u09ab\u09b2 \u09a1\u09bf\u09ab\u09c7\u09a8\u09cd\u09b8 \u09eb\u09ee\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": "Origin: Bangladesh\r\n",
-        "name": "Tresemme Shampoo Hair Fall Defense 580 ml",
-        "nameWithoutSubText": "Tresemme Shampoo Hair Fall Defense",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/tresemme-shampoo-hair-fall-defense-580-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75747&q=low&v=1"
-        ],
-        "price": 567.0,
-        "corpPrice": 567.0,
-        "objectID": 16689
-    },
-    {
-        "category": {
-            "name": "Hair Care",
-            "id": "33",
-            "slug": "hair-care"
-        },
         "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u09a8\u09c1\u09aa\u09c1\u09b0 \u09b9\u09c7\u09a8\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Godrej Nupur Henna Powder 50 gm",
@@ -288,6 +271,23 @@
         "price": 80.0,
         "corpPrice": 80.0,
         "objectID": 11040
+    },
+    {
+        "category": {
+            "name": "Hair Care",
+            "id": "33",
+            "slug": "hair-care"
+        },
+        "bengaliName": "\u099f\u09cd\u09b0\u09bf\u09b8\u09bf\u09ae\u09bf \u09b6\u09cd\u09af\u09be\u09ae\u09cd\u09aa\u09c1 \u09b9\u09c7\u09df\u09be\u09b0 \u09ab\u09b2 \u09a1\u09bf\u09ab\u09c7\u09a8\u09cd\u09b8 \u09eb\u09ee\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\n",
+        "name": "Tresemme Shampoo Hair Fall Defense 580 ml",
+        "nameWithoutSubText": "Tresemme Shampoo Hair Fall Defense",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tresemme-shampoo-hair-fall-defense-580-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75747&q=low&v=1"
+        ],
+        "price": 567.0,
+        "corpPrice": 567.0,
+        "objectID": 16689
     },
     {
         "category": {
@@ -646,23 +646,6 @@
             "id": "33",
             "slug": "hair-care"
         },
-        "bengaliName": "\u0987\u09ae\u09be\u09ae\u09bf \u09b8\u09c7\u09ad\u09c7\u09a8 \u0985\u09df\u09c7\u09b2\u09b8 \u0987\u09a8 \u0993\u09df\u09be\u09a8 \u09a8\u09a8 \u09b8\u09cd\u099f\u09bf\u0995\u09bf \u09b9\u09c7\u09df\u09be\u09b0 \u0985\u09df\u09c7\u09b2 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": null,
-        "name": "Emami 7 Oils In One Non Sticky Hair Oil 300 ml",
-        "nameWithoutSubText": "Emami 7 Oils In One Non Sticky Hair Oil",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/emami-7-oils-in-one-non-sticky-hair-oil-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73784&q=low&v=1"
-        ],
-        "price": 285.0,
-        "corpPrice": 285.0,
-        "objectID": 23633
-    },
-    {
-        "category": {
-            "name": "Hair Care",
-            "id": "33",
-            "slug": "hair-care"
-        },
         "bengaliName": "\u09a1\u09be\u09ad \u0995\u09a8\u09cd\u09a1\u09bf\u09b6\u09a8\u09be\u09b0 \u0987\u09a8\u09cd\u099f\u09c7\u09a8\u09cd\u09b8 \u09b0\u09bf\u09aa\u09c7\u09df\u09be\u09b0 \u09e7\u09ed\u09eb \u09ae\u09bf\u09b2\u09bf",
         "longDesc": null,
         "name": "Dove Conditioner Intense Repair 175 ml",
@@ -690,6 +673,23 @@
         "price": 89.0,
         "corpPrice": 89.0,
         "objectID": 17249
+    },
+    {
+        "category": {
+            "name": "Hair Care",
+            "id": "33",
+            "slug": "hair-care"
+        },
+        "bengaliName": "\u0987\u09ae\u09be\u09ae\u09bf \u09b8\u09c7\u09ad\u09c7\u09a8 \u0985\u09df\u09c7\u09b2\u09b8 \u0987\u09a8 \u0993\u09df\u09be\u09a8 \u09a8\u09a8 \u09b8\u09cd\u099f\u09bf\u0995\u09bf \u09b9\u09c7\u09df\u09be\u09b0 \u0985\u09df\u09c7\u09b2 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Emami 7 Oils In One Non Sticky Hair Oil 300 ml",
+        "nameWithoutSubText": "Emami 7 Oils In One Non Sticky Hair Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/emami-7-oils-in-one-non-sticky-hair-oil-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73784&q=low&v=1"
+        ],
+        "price": 285.0,
+        "corpPrice": 285.0,
+        "objectID": 23633
     },
     {
         "category": {

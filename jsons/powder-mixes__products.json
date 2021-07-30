@@ -23,23 +23,6 @@
             "id": "189",
             "slug": "powder-mixes"
         },
-        "bengaliName": "\u099f\u09cd\u09af\u09be\u0982 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0\u09a1 \u0987\u09a8\u09cd\u09b8\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09ed\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Beat the heat with the refreshing Orange Tang. Enjoy its yummy taste with the benefits of Vitamin A, B & C and Iron. Rejuvenate your day by drinking a glass full of fresh and energetic drink- which gives you 60% of your Vitamin C requirement of the day.",
-        "name": "Tang Orange Flavoured Instant Drink Powder 750 gm",
-        "nameWithoutSubText": "Tang Orange Flavoured Instant Drink Powder",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/tang-orange-flavoured-instant-drink-powder-750-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75642&q=low&v=1"
-        ],
-        "price": 550.0,
-        "corpPrice": 550.0,
-        "objectID": 2487
-    },
-    {
-        "category": {
-            "name": "Syrups & Powder Drinks",
-            "id": "189",
-            "slug": "powder-mixes"
-        },
         "bengaliName": "\u0993\u09ad\u09be\u09b2\u099f\u09bf\u09a8 \u09ae\u09b2\u09cd\u099f\u09c7\u09a1 \u099a\u0995\u09b2\u09c7\u099f \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099c\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Origin: Bangladesh\r\nManufacturer: Danish distribution network ltd. \r\nMalted barley drink with chocolate.\r\nNutrition: Energy, protein, carbohydrate, dietary fibre, fat, Vitamin A, vitamin B complex, vitamin C, vitamin E, folic acid, choline, biotin, calcium, zinc, phosphorus, magnesium, iron, iodine, potassium, chloride, manganese, sodium, salt. \r\nBasic ingredients: Malt extract(40%) Milk powder (10%), whea extract, cocoa powder(4.6%)",
         "name": "Ovaltine Malted Chocolate Drink Jar 400 gm",
@@ -50,6 +33,23 @@
         "price": 325.0,
         "corpPrice": 325.0,
         "objectID": 2355
+    },
+    {
+        "category": {
+            "name": "Syrups & Powder Drinks",
+            "id": "189",
+            "slug": "powder-mixes"
+        },
+        "bengaliName": "\u099f\u09cd\u09af\u09be\u0982 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0\u09a1 \u0987\u09a8\u09cd\u09b8\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09ed\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Beat the heat with the refreshing Orange Tang. Enjoy its yummy taste with the benefits of Vitamin A, B & C and Iron. Rejuvenate your day by drinking a glass full of fresh and energetic drink- which gives you 60% of your Vitamin C requirement of the day.",
+        "name": "Tang Orange Flavoured Instant Drink Powder 750 gm",
+        "nameWithoutSubText": "Tang Orange Flavoured Instant Drink Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tang-orange-flavoured-instant-drink-powder-750-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75642&q=low&v=1"
+        ],
+        "price": 550.0,
+        "corpPrice": 550.0,
+        "objectID": 2487
     },
     {
         "category": {
@@ -108,23 +108,6 @@
             "id": "189",
             "slug": "powder-mixes"
         },
-        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099a\u0995\u09b2\u09c7\u099f \u099c\u09be\u09b0 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Filled with a wide range of vitamins and minerals including as Calcium, Iron, Zinc, Phosphorous, Vitamins A, C, E, D, B1, B2, B6, B12 - Horlicks is a nourishing beverage that helps support your child\u2019s growth. Produced from a mix of malted barley, wheat and milk, this unrivaled tasty recipe has been providing nutrition to people for many years. Horlicks helps to make kids Taller, Stronger and Sharper! Now available in delicious Chocolate Flavor!",
-        "name": "Horlicks Health And Nutrition Drink Chocolate Jar 500 gm",
-        "nameWithoutSubText": "Horlicks Health And Nutrition Drink Chocolate Jar",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/horlicks-health-and-nutrition-drink-chocolate-jar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77677&q=low&v=1"
-        ],
-        "price": 350.0,
-        "corpPrice": 350.0,
-        "objectID": 21989
-    },
-    {
-        "category": {
-            "name": "Syrups & Powder Drinks",
-            "id": "189",
-            "slug": "powder-mixes"
-        },
         "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099c\u09be\u09b0 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Filled with a wide range of vitamins and minerals including as Calcium, Iron, Zinc, Phosphorous, Vitamins A, C, E, D, B1, B2, B6, B12 - Horlicks is a nourishing beverage that helps support your child\u2019s growth. Produced from a mix of malted barley, wheat and milk, this unrivaled tasty recipe has been providing nutrition to people for many years. Horlicks helps to make kids Taller, Stronger and Sharper!",
         "name": "Horlicks Health And Nutrition Drink Jar 250 gm",
@@ -135,6 +118,23 @@
         "price": 190.0,
         "corpPrice": 190.0,
         "objectID": 21719
+    },
+    {
+        "category": {
+            "name": "Syrups & Powder Drinks",
+            "id": "189",
+            "slug": "powder-mixes"
+        },
+        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099a\u0995\u09b2\u09c7\u099f \u099c\u09be\u09b0 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Filled with a wide range of vitamins and minerals including as Calcium, Iron, Zinc, Phosphorous, Vitamins A, C, E, D, B1, B2, B6, B12 - Horlicks is a nourishing beverage that helps support your child\u2019s growth. Produced from a mix of malted barley, wheat and milk, this unrivaled tasty recipe has been providing nutrition to people for many years. Horlicks helps to make kids Taller, Stronger and Sharper! Now available in delicious Chocolate Flavor!",
+        "name": "Horlicks Health And Nutrition Drink Chocolate Jar 500 gm",
+        "nameWithoutSubText": "Horlicks Health And Nutrition Drink Chocolate Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/horlicks-health-and-nutrition-drink-chocolate-jar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77677&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 21989
     },
     {
         "category": {
@@ -312,16 +312,16 @@
             "id": "189",
             "slug": "powder-mixes"
         },
-        "bengaliName": "\u0987\u09b8\u09cd\u09aa\u09bf \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 (\u0985\u09b0\u09c7\u099e\u09cd\u099c) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Preparation of ISPI instant powder drink captures the delightful taste of freshly squeezed pineapples. It is enriched with essential vitamin. \r\n\r\nIngredients: Sugar, Citric Acid, Fructose, Sodium, Citrate , Salt, Cloudy Agent, Vitamin C, Food color, Iron, Vitamin B12",
-        "name": "Ispi Instant Powder Drink (Orange) 500 gm",
-        "nameWithoutSubText": "Ispi Instant Powder Drink (Orange)",
+        "bengaliName": "\u099f\u09cd\u09af\u09be\u0982 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0\u09a1 \u0987\u09a8\u09cd\u09b8\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09aa\u09be\u0989\u09a1\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tang Orange Flavoured Instant Drink Powder 500 gm",
+        "nameWithoutSubText": "Tang Orange Flavoured Instant Drink Powder",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/ispi-instant-powder-drink-orange-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70068&q=low&v=1"
+            "https://chaldn.com/_mpimage/tang-orange-flavoured-instant-drink-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76517&q=low&v=1"
         ],
-        "price": 240.0,
-        "corpPrice": 240.0,
-        "objectID": 11545
+        "price": 289.0,
+        "corpPrice": 289.0,
+        "objectID": 4222
     },
     {
         "category": {
@@ -346,16 +346,16 @@
             "id": "189",
             "slug": "powder-mixes"
         },
-        "bengaliName": "\u099f\u09cd\u09af\u09be\u0982 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0\u09a1 \u0987\u09a8\u09cd\u09b8\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09aa\u09be\u0989\u09a1\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Tang Orange Flavoured Instant Drink Powder 500 gm",
-        "nameWithoutSubText": "Tang Orange Flavoured Instant Drink Powder",
+        "bengaliName": "\u0987\u09b8\u09cd\u09aa\u09bf \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 (\u0985\u09b0\u09c7\u099e\u09cd\u099c) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Preparation of ISPI instant powder drink captures the delightful taste of freshly squeezed pineapples. It is enriched with essential vitamin. \r\n\r\nIngredients: Sugar, Citric Acid, Fructose, Sodium, Citrate , Salt, Cloudy Agent, Vitamin C, Food color, Iron, Vitamin B12",
+        "name": "Ispi Instant Powder Drink (Orange) 500 gm",
+        "nameWithoutSubText": "Ispi Instant Powder Drink (Orange)",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/tang-orange-flavoured-instant-drink-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76517&q=low&v=1"
+            "https://chaldn.com/_mpimage/ispi-instant-powder-drink-orange-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70068&q=low&v=1"
         ],
-        "price": 289.0,
-        "corpPrice": 289.0,
-        "objectID": 4222
+        "price": 240.0,
+        "corpPrice": 240.0,
+        "objectID": 11545
     },
     {
         "category": {
@@ -679,6 +679,23 @@
         "price": 430.0,
         "corpPrice": 430.0,
         "objectID": 21312
+    },
+    {
+        "category": {
+            "name": "Syrups & Powder Drinks",
+            "id": "189",
+            "slug": "powder-mixes"
+        },
+        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09ae\u09be\u09a6\u09be\u09b0\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09ac\u09bf\u0986\u0987\u09ac\u09bf \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "The right nutrition during pregnancy is important for the mother\u2019s health and baby\u2019s growth and the mother\u2019s daily diet alone may sometimes not be sufficient.Combining the goodness of 24 essential micronutrients with Choline, Mother\u2019s Horlicks is scientifically formulated to meet the needs of expectant and breastfeeding mums.",
+        "name": "Horlicks Mothers Health And Nutrition Drink BIB 350 gm",
+        "nameWithoutSubText": "Horlicks Mothers Health And Nutrition Drink BIB",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/horlicks-mothers-health-and-nutrition-drink-bib-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77711&q=low&v=1"
+        ],
+        "price": 469.0,
+        "corpPrice": 469.0,
+        "objectID": 2254
     },
     {
         "category": {
@@ -1413,22 +1430,5 @@
         "price": 360.0,
         "corpPrice": 360.0,
         "objectID": 3343
-    },
-    {
-        "category": {
-            "name": "Syrups & Powder Drinks",
-            "id": "189",
-            "slug": "powder-mixes"
-        },
-        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09ae\u09be\u09a6\u09be\u09b0\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09ac\u09bf\u0986\u0987\u09ac\u09bf \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "The right nutrition during pregnancy is important for the mother\u2019s health and baby\u2019s growth and the mother\u2019s daily diet alone may sometimes not be sufficient.Combining the goodness of 24 essential micronutrients with Choline, Mother\u2019s Horlicks is scientifically formulated to meet the needs of expectant and breastfeeding mums.",
-        "name": "Horlicks Mothers Health And Nutrition Drink BIB 350 gm",
-        "nameWithoutSubText": "Horlicks Mothers Health And Nutrition Drink BIB",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/horlicks-mothers-health-and-nutrition-drink-bib-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77711&q=low&v=1"
-        ],
-        "price": 469.0,
-        "corpPrice": 469.0,
-        "objectID": 2254
     }
 ]

@@ -434,23 +434,6 @@
             "id": "1496",
             "slug": "female-bath"
         },
-        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b8\u09c1\u099f \u09b8\u09cd\u0995\u09bf\u09a8\u09aa\u09bf\u0993\u09b0 \u09b8\u09cb\u09aa \u09ac\u09be\u09b0 \u0995\u09cb\u0995\u09cb \u0985\u09b2\u09bf\u09ad \u098f\u09ac\u0982 \u09b2\u09c7\u09ad\u09c7\u09a8\u09cd\u09a1\u09be\u09b0 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Rediscover the magic of younger & healthy looking skin with the moisturizing goodness of Olive oil, the rich nourishment of Coconut milk and the revitalizing benefits of Lavender. Indulge in a sensual bathing experience with our range of luxury soaps, crafted from the finest skin-loving ingredients known to give younger & healthy looking skin.",
-        "name": "Parachute SkinPure Soap Bar Coco Olive & Lavender 75 gm",
-        "nameWithoutSubText": "Parachute SkinPure Soap Bar Coco Olive & Lavender",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/parachute-skinpure-soap-bar-coco-olive-lavender-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65654&q=low&v=1"
-        ],
-        "price": 29.0,
-        "corpPrice": 29.0,
-        "objectID": 22281
-    },
-    {
-        "category": {
-            "name": "Female Bath",
-            "id": "1496",
-            "slug": "female-bath"
-        },
         "bengaliName": "\u09a1\u09be\u09ad \u09ac\u09bf\u0989\u099f\u09bf \u09b8\u09be\u09ac\u09be\u09a8 \u09b9\u09cb\u09df\u09be\u0987\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "DOVE White Beauty Bar combines a gentle cleansing formula with DOVE\u2019s signature \u00bc moisturizing cream to give you softer, smoother and more glowing skin. The mild cleansers help your skin to retain its natural moisture rather than stripping it away. This DOVE bar even helps to replenish nutrients that are lost during the cleansing process \u2013 where a regular soap bar might leave your skin feeling dry and tight, a DOVE White Bar leaves it feeling soft and smooth. It\u2019s not a soap \u2013 it\u2019s a beauty bar Washing with regular soap can cause skin to feel dry, tight and irritated as some cleansing ingredients strip skin of essential nutrients. What makes DOVE different? Its gentle cleansers help your skin retain its natural moisture and its mild formula is kind to your skin. DOVE is the No.1 Brand recommended by dermatologists in India. For best results, lather up your DOVE Beauty Bar and massage the smooth, creamy lather over your face and body before rinsing thoroughly. For soft, smooth hands, you can also enjoy regular hand-washing throughout the day with your DOVE bar. Soap may dry out your hands, but the classic moisturizing formula of DOVE bars will leave skin softer, smoother and more glowing.",
         "name": "Dove Beauty Bar White 100 gm",
@@ -465,6 +448,23 @@
         "price": 75.0,
         "corpPrice": 75.0,
         "objectID": 6147
+    },
+    {
+        "category": {
+            "name": "Female Bath",
+            "id": "1496",
+            "slug": "female-bath"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b8\u09c1\u099f \u09b8\u09cd\u0995\u09bf\u09a8\u09aa\u09bf\u0993\u09b0 \u09b8\u09cb\u09aa \u09ac\u09be\u09b0 \u0995\u09cb\u0995\u09cb \u0985\u09b2\u09bf\u09ad \u098f\u09ac\u0982 \u09b2\u09c7\u09ad\u09c7\u09a8\u09cd\u09a1\u09be\u09b0 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Rediscover the magic of younger & healthy looking skin with the moisturizing goodness of Olive oil, the rich nourishment of Coconut milk and the revitalizing benefits of Lavender. Indulge in a sensual bathing experience with our range of luxury soaps, crafted from the finest skin-loving ingredients known to give younger & healthy looking skin.",
+        "name": "Parachute SkinPure Soap Bar Coco Olive & Lavender 75 gm",
+        "nameWithoutSubText": "Parachute SkinPure Soap Bar Coco Olive & Lavender",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/parachute-skinpure-soap-bar-coco-olive-lavender-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65654&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 22281
     },
     {
         "category": {
@@ -659,6 +659,23 @@
             "id": "1496",
             "slug": "female-bath"
         },
+        "bengaliName": "\u09ae\u09c7\u09b0\u09bf\u09b2 \u09ae\u09bf\u09b2\u09cd\u0995 \u098f\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09aa\u09ae\u09cd\u09af\u09be\u0997\u09cd\u09b0\u09c7\u09a8\u09c7\u099f \u09b8\u09be\u09ac\u09be\u09a8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Meril Milk & Pomegranate Soap 100 gm",
+        "nameWithoutSubText": "Meril Milk & Pomegranate Soap",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/meril-milk-pomegranate-soap-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D20687&q=low&v=1"
+        ],
+        "price": 38.0,
+        "corpPrice": 38.0,
+        "objectID": 11477
+    },
+    {
+        "category": {
+            "name": "Female Bath",
+            "id": "1496",
+            "slug": "female-bath"
+        },
         "bengaliName": "\u09a1\u09be\u09ad \u09ac\u09bf\u0989\u099f\u09bf \u09b8\u09be\u09ac\u09be\u09a8 \u0997\u09cb\u09b2\u09be\u09aa\u09bf \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "DOVE Pink Beauty Bar combines a gentle cleansing formula with DOVE\u2019s signature \u00bc moisturizing cream to give you softer, smoother and more glowing skin. The mild cleansers help your skin to retain its natural moisture rather than stripping it away. This DOVE bar even helps to replenish nutrients that are lost during the cleansing process \u2013 where a regular soap bar might leave your skin feeling dry and tight, a DOVE Pink Bar leaves it feeling soft and smooth. It\u2019s not a soap \u2013 it\u2019s a beauty bar Washing with regular soap can cause skin to feel dry, tight and irritated as some cleansing ingredients strip skin of essential nutrients. What makes DOVE different? Its gentle cleansers help your skin retain its natural moisture and its mild formula is kind to your skin. DOVE is the No.1 Brand recommended by dermatologists in India. For best results, lather up your DOVE Beauty Bar and massage the smooth, creamy lather over your face and body before rinsing thoroughly. For soft, smooth hands, you can also enjoy regular hand-washing throughout the day with your DOVE bar. Soap may dry out your hands, but the classic moisturizing formula of DOVE bars will leave skin softer, smoother and more glowing.",
         "name": "Dove Beauty Bar Pink 100 gm ",
@@ -751,23 +768,6 @@
             "id": "1496",
             "slug": "female-bath"
         },
-        "bengaliName": "\u0997\u09cd\u09b2\u09cb \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b2\u09be\u09ad\u09b2\u09bf \u09b8\u09be\u09ac\u09be\u09a8 \u09ac\u09be\u09b0 \u09ae\u09be\u09b2\u09cd\u099f\u09bf\u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8 \u09ae\u09be\u09b2\u09cd\u099f\u09bf\u09aa\u09cd\u09af\u09be\u0995 \u09e7\u09e6\u09e6\u0997\u09cd\u09b0\u09be\u09aeX\u09e9 ",
-        "longDesc": null,
-        "name": "Glow & Lovely Soap Bar Multivitamin Multipack 100gmX3",
-        "nameWithoutSubText": "Glow & Lovely Soap Bar Multivitamin Multipack 100gmX3",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/glow-lovely-soap-bar-multivitamin-multipack-100gmx3?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77521&q=low&v=1"
-        ],
-        "price": 120.0,
-        "corpPrice": 120.0,
-        "objectID": 24234
-    },
-    {
-        "category": {
-            "name": "Female Bath",
-            "id": "1496",
-            "slug": "female-bath"
-        },
         "bengaliName": "\u0987\u09df\u09be\u09b0\u09cd\u09a1\u09b2\u09c7 \u09b2\u09a8\u09cd\u09a1\u09a8 \u09b2\u09cd\u09af\u09be\u09ad\u09c7\u09a8\u09cd\u09a1\u09be\u09b0 \u09b2\u09be\u0995\u09cd\u09b8\u09be\u09b0\u09bf \u09b8\u09be\u09ac\u09be\u09a8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Yardley London Lavender Luxury Soap 100 gm",
@@ -778,6 +778,23 @@
         "price": 139.0,
         "corpPrice": 139.0,
         "objectID": 11360
+    },
+    {
+        "category": {
+            "name": "Female Bath",
+            "id": "1496",
+            "slug": "female-bath"
+        },
+        "bengaliName": "\u0997\u09cd\u09b2\u09cb \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b2\u09be\u09ad\u09b2\u09bf \u09b8\u09be\u09ac\u09be\u09a8 \u09ac\u09be\u09b0 \u09ae\u09be\u09b2\u09cd\u099f\u09bf\u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8 \u09ae\u09be\u09b2\u09cd\u099f\u09bf\u09aa\u09cd\u09af\u09be\u0995 \u09e7\u09e6\u09e6\u0997\u09cd\u09b0\u09be\u09aeX\u09e9 ",
+        "longDesc": null,
+        "name": "Glow & Lovely Soap Bar Multivitamin Multipack 100gmX3",
+        "nameWithoutSubText": "Glow & Lovely Soap Bar Multivitamin Multipack 100gmX3",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/glow-lovely-soap-bar-multivitamin-multipack-100gmx3?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77521&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 24234
     },
     {
         "category": {
@@ -887,6 +904,23 @@
             "id": "1496",
             "slug": "female-bath"
         },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b8\u09c1\u099f \u09b8\u09cd\u0995\u09bf\u09a8\u09aa\u09bf\u0993\u09b0 \u0995\u09cb\u0995\u09cb \u0985\u09b2\u09bf\u09ad \u098f\u09ac\u0982 \u0985\u09b0\u0997\u09be\u09a8 \u09b8\u09be\u09ac\u09be\u09a8 \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Rediscover the magic of younger & healthy looking skin with the moisturizing goodness of Olive oil, the rich nourishment of Coconut milk and the revitalizing benefits of Argan oil. Indulge in a sensual bathing experience with our range of luxury soaps, crafted from the finest skin-loving ingredients known to give younger & healthy looking skin.",
+        "name": "Parachute SkinPure Soap Bar Coco Olive & Argan 125gm",
+        "nameWithoutSubText": "Parachute SkinPure Soap Bar Coco Olive & Argan",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/parachute-skinpure-soap-bar-coco-olive-argan-125gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60989&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 21615
+    },
+    {
+        "category": {
+            "name": "Female Bath",
+            "id": "1496",
+            "slug": "female-bath"
+        },
         "bengaliName": "\u09a1\u09c7\u099f\u09b2 \u09ac\u09be\u09a5\u09bf\u0982 \u09ac\u09be\u09b0 \u09b8\u09be\u09ac\u09be\u09a8 \u09b8\u09cd\u0995\u09bf\u09a8 \u0995\u09c7\u09df\u09be\u09b0 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Use 75 gm bar of Dettol Skincare Soap to get the most cost-effective germ protection every day with proven care for your skin ensured by DERMATOLOGICALLY TESTED formula of pure glycerin and Trichlorocarbon that keeps your skin soft and smooth. Dettol Skincare is a Grade 1 bathing soap- providing the best value for your purchase. Recommended by Doctors of Bangladesh Private Medical Practitioners Association (BPMPA).\r\n",
         "name": "Dettol Bathing Bar Soap Skincare 75 gm",
@@ -908,23 +942,6 @@
             "id": "1496",
             "slug": "female-bath"
         },
-        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b8\u09c1\u099f \u09b8\u09cd\u0995\u09bf\u09a8\u09aa\u09bf\u0993\u09b0 \u0995\u09cb\u0995\u09cb \u0985\u09b2\u09bf\u09ad \u098f\u09ac\u0982 \u0985\u09b0\u0997\u09be\u09a8 \u09b8\u09be\u09ac\u09be\u09a8 \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae ",
-        "longDesc": "Rediscover the magic of younger & healthy looking skin with the moisturizing goodness of Olive oil, the rich nourishment of Coconut milk and the revitalizing benefits of Argan oil. Indulge in a sensual bathing experience with our range of luxury soaps, crafted from the finest skin-loving ingredients known to give younger & healthy looking skin.",
-        "name": "Parachute SkinPure Soap Bar Coco Olive & Argan 125gm",
-        "nameWithoutSubText": "Parachute SkinPure Soap Bar Coco Olive & Argan",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/parachute-skinpure-soap-bar-coco-olive-argan-125gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60989&q=low&v=1"
-        ],
-        "price": 49.0,
-        "corpPrice": 49.0,
-        "objectID": 21615
-    },
-    {
-        "category": {
-            "name": "Female Bath",
-            "id": "1496",
-            "slug": "female-bath"
-        },
         "bengaliName": "\u0997\u09cb\u09a1\u09b0\u09c7\u099c \u09a8\u09be\u09ae\u09cd\u09ac\u09be\u09b0 \u09e7 \u09b0\u09cb\u099c \u09b8\u09cb\u09aa \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae (\u0995\u09ae\u09cd\u09ac\u09cb \u0985\u09ab\u09be\u09b0)",
         "longDesc": null,
         "name": "Godrej N0 1 Rose Soap 100 gm (Combo Offer)",
@@ -935,6 +952,23 @@
         "price": 60.0,
         "corpPrice": 60.0,
         "objectID": 22823
+    },
+    {
+        "category": {
+            "name": "Female Bath",
+            "id": "1496",
+            "slug": "female-bath"
+        },
+        "bengaliName": "\u09ab\u09bf\u09df\u09be\u09ae\u09be \u09ac\u09be\u09b0\u09ac\u09c7\u09b0\u09bf \u0993 \u09ac\u09cd\u09b2\u09be\u0995\u09cd\u0995\u09be\u09b0\u09c7\u09a8\u09cd\u099f \u09ac\u09be\u09b0 \u09b8\u09be\u09ac\u09be\u09a8 \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Fiama Bearberry & Balckcurrant Bar Soap 125 gm",
+        "nameWithoutSubText": "Fiama Bearberry & Balckcurrant Bar Soap",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fiama-bearberry-balckcurrant-bar-soap-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34706&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 14331
     },
     {
         "category": {
@@ -1765,39 +1799,5 @@
         "price": 45.0,
         "corpPrice": 45.0,
         "objectID": 14958
-    },
-    {
-        "category": {
-            "name": "Female Bath",
-            "id": "1496",
-            "slug": "female-bath"
-        },
-        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09a8\u09bf\u09ae \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u09ae\u09a7\u09c1 \u0993 \u09b9\u09b2\u09c1\u09a6 \u09b8\u09be\u09ac\u09be\u09a8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "ACI Neem Original Honey & Turmeric Soap 100 gm",
-        "nameWithoutSubText": "ACI Neem Original Honey & Turmeric Soap",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/aci-neem-original-honey-turmeric-soap-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36661&q=low&v=1"
-        ],
-        "price": 42.0,
-        "corpPrice": 42.0,
-        "objectID": 14929
-    },
-    {
-        "category": {
-            "name": "Female Bath",
-            "id": "1496",
-            "slug": "female-bath"
-        },
-        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09a8\u09bf\u09ae \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 (\u099c\u09b2\u09cd\u09aa\u09be\u0987 \u0993 \u098f\u09b2\u09cb\u09ad\u09c7\u09b0\u09be) \u09b8\u09be\u09ac\u09be\u09a8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "ACI Neem Original (Olive & Aloe Vera) Soap 100 gm",
-        "nameWithoutSubText": "ACI Neem Original (Olive & Aloe Vera) Soap",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/aci-neem-original-olive-aloe-vera-soap-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36660&q=low&v=1"
-        ],
-        "price": 42.0,
-        "corpPrice": 42.0,
-        "objectID": 14928
     }
 ]

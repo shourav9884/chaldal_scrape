@@ -90,6 +90,23 @@
             "id": "1378",
             "slug": "baby-accessories"
         },
+        "bengaliName": "\u09b8\u09cd\u09ae\u09be\u09b0\u09cd\u099f\u0995\u09c7\u09df\u09be\u09b0 \u09b8\u09bf\u09b2\u09bf\u0995\u09a8 \u09a8\u09bf\u09aa\u09b2 (\u09ec+ \u09ae\u09be\u09b8) \u098f\u09b2",
+        "longDesc": "Origin: China",
+        "name": "Smartcare Silicon Nipple (6+ months) L 1 pcs",
+        "nameWithoutSubText": "Smartcare Silicon Nipple (6+ months) L",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/smartcare-silicon-nipple-6-months-l-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58909&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 15802
+    },
+    {
+        "category": {
+            "name": "Baby Accessories",
+            "id": "1378",
+            "slug": "baby-accessories"
+        },
         "bengaliName": "\u09aa\u09be\u09b0 \u09ab\u09bf\u09a1\u09bf\u0982 \u09ac\u09cb\u09a4\u09b2 (\u09e7\u09ef\u09e6\u09ec) \u09e7\u09ea\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": "Product Type: Feeder. Product Type: Feeder\r\nColor: Blue, Pink\r\nGood Quality Material\r\nBPA free Feeder",
         "name": "Pur Feeding Bottle (1906) 140 ml",
@@ -340,23 +357,6 @@
         "price": 45.0,
         "corpPrice": 45.0,
         "objectID": 15803
-    },
-    {
-        "category": {
-            "name": "Baby Accessories",
-            "id": "1378",
-            "slug": "baby-accessories"
-        },
-        "bengaliName": "\u09b8\u09cd\u09ae\u09be\u09b0\u09cd\u099f\u0995\u09c7\u09df\u09be\u09b0 \u09b8\u09bf\u09b2\u09bf\u0995\u09a8 \u09a8\u09bf\u09aa\u09b2 (\u09ec+ \u09ae\u09be\u09b8) \u098f\u09b2",
-        "longDesc": "Origin: China",
-        "name": "Smartcare Silicon Nipple (6+ months) L 1 pcs",
-        "nameWithoutSubText": "Smartcare Silicon Nipple (6+ months) L",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/smartcare-silicon-nipple-6-months-l-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58909&q=low&v=1"
-        ],
-        "price": 45.0,
-        "corpPrice": 45.0,
-        "objectID": 15802
     },
     {
         "category": {

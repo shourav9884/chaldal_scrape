@@ -73,23 +73,6 @@
             "id": "88",
             "slug": "pest-control"
         },
-        "bengaliName": "\u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09bf\u09ae \u09ae\u09b6\u09be\u09b0 \u0995\u09df\u09c7\u09b2 \u09e7\u09e6 \u099f\u09bf",
-        "longDesc": null,
-        "name": "Xtreme Mosquito Coil 10 pcs",
-        "nameWithoutSubText": "Xtreme Mosquito Coil",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/xtreme-mosquito-coil-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73893&q=low&v=1"
-        ],
-        "price": 55.0,
-        "corpPrice": 55.0,
-        "objectID": 23665
-    },
-    {
-        "category": {
-            "name": "Pest Control",
-            "id": "88",
-            "slug": "pest-control"
-        },
         "bengaliName": "\u09b8\u09c1\u09aa\u09be\u09b0 \u0985\u09cd\u09af\u09be\u0995\u09b6\u09a8 \u09ac\u09c1\u09b8\u09cd\u099f\u09be\u09b0 \u09ae\u09b6\u09be \u0995\u09af\u09bc\u09c7\u09b2 \u09e7\u09e6 \u099f\u09bf",
         "longDesc": null,
         "name": "Super Action Booster Mosquito Coil 10 pcs",
@@ -100,6 +83,23 @@
         "price": 30.0,
         "corpPrice": 30.0,
         "objectID": 20343
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09bf\u09ae \u09ae\u09b6\u09be\u09b0 \u0995\u09df\u09c7\u09b2 \u09e7\u09e6 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Xtreme Mosquito Coil 10 pcs",
+        "nameWithoutSubText": "Xtreme Mosquito Coil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/xtreme-mosquito-coil-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73893&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 23665
     },
     {
         "category": {
@@ -226,6 +226,23 @@
             "id": "88",
             "slug": "pest-control"
         },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u09ab\u09c7\u09ac\u09cd\u09b0\u09bf\u0995 \u09b0\u09cb\u09b2 \u0985\u09a8 \u09b8\u09be\u0987\u099f\u09cd\u09b0\u09be\u09b8 (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Godrej Good Knight Fabric Roll On Citrus (B1 G1 Free) 8 ml",
+        "nameWithoutSubText": "Godrej Good Knight Fabric Roll On Citrus (B1 G1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-good-knight-fabric-roll-on-citrus-b1-g1-free-8-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75477&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 24116
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
         "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u098f\u09b0\u09cb\u09b8\u09b2 \u09aa\u09cb\u0995\u09be \u09a8\u09bf\u09a7\u09a8\u0995\u09be\u09b0\u09c0 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": null,
         "name": "ACI Aerosol Insect Spray 250 ml",
@@ -253,23 +270,6 @@
         "price": 40.0,
         "corpPrice": 40.0,
         "objectID": 9196
-    },
-    {
-        "category": {
-            "name": "Pest Control",
-            "id": "88",
-            "slug": "pest-control"
-        },
-        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u09ab\u09c7\u09ac\u09cd\u09b0\u09bf\u0995 \u09b0\u09cb\u09b2 \u0985\u09a8 \u09b8\u09be\u0987\u099f\u09cd\u09b0\u09be\u09b8 (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09ee \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": null,
-        "name": "Godrej Good Knight Fabric Roll On Citrus (B1 G1 Free) 8 ml",
-        "nameWithoutSubText": "Godrej Good Knight Fabric Roll On Citrus (B1 G1 Free)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/godrej-good-knight-fabric-roll-on-citrus-b1-g1-free-8-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75477&q=low&v=1"
-        ],
-        "price": 99.0,
-        "corpPrice": 99.0,
-        "objectID": 24116
     },
     {
         "category": {

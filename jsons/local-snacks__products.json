@@ -90,23 +90,6 @@
             "id": "52",
             "slug": "local-snacks"
         },
-        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a3 \u09ae\u09c1\u09dc\u09bf \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Foods provides a significant ratio of the body. So, buy pran puffed rice (muri) from chaldal to fill up your family needs. You can have it with a cup of tea. Mix it with a packet of chanachur, then enjoy watching movies. Net weight 250 gm. Brand name: Pran Food and Beverage Limited.\r\n",
-        "name": "Pran Puffed Rice (Muri) 250 gm",
-        "nameWithoutSubText": "Pran Puffed Rice (Muri)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/pran-puffed-rice-muri-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69936&q=low&v=1"
-        ],
-        "price": 35.0,
-        "corpPrice": 35.0,
-        "objectID": 8858
-    },
-    {
-        "category": {
-            "name": "Local Snacks",
-            "id": "52",
-            "slug": "local-snacks"
-        },
         "bengaliName": "\u09b0\u09c1\u099a\u09bf \u09ac\u09bf \u09ac\u09bf \u0995\u09bf\u0989 \u099a\u09be\u09a8\u09be\u099a\u09c1\u09b0 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Ruchi Bbq Chanachur 300 gm",
@@ -117,6 +100,23 @@
         "price": 70.0,
         "corpPrice": 70.0,
         "objectID": 2433
+    },
+    {
+        "category": {
+            "name": "Local Snacks",
+            "id": "52",
+            "slug": "local-snacks"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a3 \u09ae\u09c1\u09dc\u09bf \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Foods provides a significant ratio of the body. So, buy pran puffed rice (muri) from chaldal to fill up your family needs. You can have it with a cup of tea. Mix it with a packet of chanachur, then enjoy watching movies. Net weight 250 gm. Brand name: Pran Food and Beverage Limited.\r\n",
+        "name": "Pran Puffed Rice (Muri) 250 gm",
+        "nameWithoutSubText": "Pran Puffed Rice (Muri)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-puffed-rice-muri-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69936&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 8858
     },
     {
         "category": {
@@ -209,6 +209,23 @@
             "id": "52",
             "slug": "local-snacks"
         },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b0\u09c7\u09a1\u09bf \u099f\u09c1 \u09ab\u09cd\u09b0\u09be\u0987 \u09ab\u09c1\u09b8\u0995\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM Ready To Fry Fuchka 200 gm",
+        "nameWithoutSubText": "BPM Ready To Fry Fuchka",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-ready-to-fry-fuchka-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75992&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 24206
+    },
+    {
+        "category": {
+            "name": "Local Snacks",
+            "id": "52",
+            "slug": "local-snacks"
+        },
         "bengaliName": "\u09b0\u09c1\u099a\u09bf \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09df\u09be\u09ae \u09ae\u09bf\u0995\u09cd\u09b8 \u099a\u09be\u09a8\u09be\u099a\u09c1\u09b0 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
         "longDesc": null,
         "name": "Ruchi Premium Mix Chanachur 100 gm ",
@@ -226,6 +243,24 @@
             "id": "52",
             "slug": "local-snacks"
         },
+        "bengaliName": "\u098f\u0997\u09cd\u09b0\u09cb\u09ac\u09bf\u099c \u09ae\u09c1\u09dc\u09bf (\u09b9\u09be\u09a4\u09c7 \u09a4\u09c8\u09b0\u09bf \u09ae\u09c1\u09dc\u09bf) \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Buy agrobiz puffed rice (hand made muri) as a traditional food. Totally hand made. Free from damaging hydrose. It will bring you an authentic taste. Net weight 200 gm. ",
+        "name": "Agrobiz Puffed Rice (Hand Made Muri) 200 gm ",
+        "nameWithoutSubText": "Agrobiz Puffed Rice (Hand Made Muri)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/agrobiz-puffed-rice-hand-made-muri-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46661&q=low&v=1",
+            "https://chaldn.com/_mpimage/agrobiz-puffed-rice-hand-made-muri-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36993&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 14965
+    },
+    {
+        "category": {
+            "name": "Local Snacks",
+            "id": "52",
+            "slug": "local-snacks"
+        },
         "bengaliName": "\u09b0\u09c1\u099a\u09bf \u09ae\u09c1\u09dc\u09bf \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Puffed rice (muri) is a familiar food that you can have with tea. It provides protein, iron and other nutrients, which is good for human health. You can have it regularly. So, order it from chaldal and get it hurry at your doorstep.",
         "name": "Ruchi Puffed Rice (Muri) 250 gm ",
@@ -236,23 +271,6 @@
         "price": 40.0,
         "corpPrice": 40.0,
         "objectID": 6211
-    },
-    {
-        "category": {
-            "name": "Local Snacks",
-            "id": "52",
-            "slug": "local-snacks"
-        },
-        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b0\u09c7\u09a1\u09bf \u099f\u09c1 \u09ab\u09cd\u09b0\u09be\u0987 \u09ab\u09c1\u09b8\u0995\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "BPM Ready To Fry Fuchka 200 gm",
-        "nameWithoutSubText": "BPM Ready To Fry Fuchka",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/bpm-ready-to-fry-fuchka-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75992&q=low&v=1"
-        ],
-        "price": 95.0,
-        "corpPrice": 95.0,
-        "objectID": 24206
     },
     {
         "category": {
@@ -362,23 +380,6 @@
             "id": "52",
             "slug": "local-snacks"
         },
-        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u099d\u09be\u09b2 \u099a\u09be\u09a8\u09be\u099a\u09c1\u09b0 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Ruchi Jhal Chanachur 150 gm",
-        "nameWithoutSubText": "Ruchi Jhal Chanachur",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/ruchi-jhal-chanachur-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70118&q=low&v=1"
-        ],
-        "price": 35.0,
-        "corpPrice": 35.0,
-        "objectID": 2436
-    },
-    {
-        "category": {
-            "name": "Local Snacks",
-            "id": "52",
-            "slug": "local-snacks"
-        },
         "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b8\u09cd\u09aa\u09be\u0987\u09b8\u09bf \u09ab\u09cd\u09b2\u09be\u099f\u09c7\u09a8\u09cd\u09a1 \u09b0\u09be\u0987\u09b8 (\u099d\u09be\u09b2 \u099a\u09bf\u09dc\u09be \u09ad\u09be\u099c\u09be) \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "BPM Spicy Flattened Rice (Jhal Chira Vaja) 200 gm",
@@ -389,6 +390,23 @@
         "price": 45.0,
         "corpPrice": 45.0,
         "objectID": 24208
+    },
+    {
+        "category": {
+            "name": "Local Snacks",
+            "id": "52",
+            "slug": "local-snacks"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u099d\u09be\u09b2 \u099a\u09be\u09a8\u09be\u099a\u09c1\u09b0 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ruchi Jhal Chanachur 150 gm",
+        "nameWithoutSubText": "Ruchi Jhal Chanachur",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-jhal-chanachur-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70118&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 2436
     },
     {
         "category": {
@@ -413,23 +431,6 @@
             "id": "52",
             "slug": "local-snacks"
         },
-        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u099d\u09be\u09b2 \u09ae\u09c1\u09dc\u09bf \u09e9\u09eb \u0997\u09cd\u09b0\u09be\u09ae \u09ea \u099f\u09bf ",
-        "longDesc": null,
-        "name": "Pran Jhal Muri 35 gram 4 pcs ",
-        "nameWithoutSubText": "Pran Jhal Muri 35 gram",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/pran-jhal-muri-35-gram-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46752&q=low&v=1"
-        ],
-        "price": 32.0,
-        "corpPrice": 32.0,
-        "objectID": 4574
-    },
-    {
-        "category": {
-            "name": "Local Snacks",
-            "id": "52",
-            "slug": "local-snacks"
-        },
         "bengaliName": "\u09a8\u09be\u09ac\u09be\u09ac\u09bf \u099a\u09bf\u099c\u09bf \u09ac\u09be\u0995\u09b0\u0996\u09be\u09a8\u09bf \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Nababi Cheesy Bakorkhani 400 gm",
@@ -440,6 +441,23 @@
         "price": 190.0,
         "corpPrice": 190.0,
         "objectID": 20644
+    },
+    {
+        "category": {
+            "name": "Local Snacks",
+            "id": "52",
+            "slug": "local-snacks"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u099d\u09be\u09b2 \u09ae\u09c1\u09dc\u09bf \u09e9\u09eb \u0997\u09cd\u09b0\u09be\u09ae \u09ea \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Pran Jhal Muri 35 gram 4 pcs ",
+        "nameWithoutSubText": "Pran Jhal Muri 35 gram",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-jhal-muri-35-gram-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46752&q=low&v=1"
+        ],
+        "price": 32.0,
+        "corpPrice": 32.0,
+        "objectID": 4574
     },
     {
         "category": {
@@ -532,23 +550,6 @@
             "id": "52",
             "slug": "local-snacks"
         },
-        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u09ae\u09a7\u09c1 \u0993 \u0995\u09be\u09b2\u09cb \u099c\u09bf\u09b0\u09be \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Dekko Honey & Kalo Zeera Biscuit 65 gm",
-        "nameWithoutSubText": "Dekko Honey & Kalo Zeera Biscuit",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/honey-kalo-zeera-biscuit-65-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60802&q=low&v=1"
-        ],
-        "price": 15.0,
-        "corpPrice": 15.0,
-        "objectID": 21584
-    },
-    {
-        "category": {
-            "name": "Local Snacks",
-            "id": "52",
-            "slug": "local-snacks"
-        },
         "bengaliName": "\u09ac\u09cb\u09ae\u09cd\u09ac\u09c7 \u09b8\u09c1\u0987\u099f\u09b8 \u099a\u09be\u09a8\u09be\u099a\u09c1\u09b0 \u09ac\u09cb\u09ae\u09cd\u09ac\u09c7 \u09ae\u09bf\u0995\u09cd\u09b8 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Bombay Sweets Chanachur Bombay Mix 300 gm",
@@ -559,6 +560,23 @@
         "price": 65.0,
         "corpPrice": 65.0,
         "objectID": 17030
+    },
+    {
+        "category": {
+            "name": "Local Snacks",
+            "id": "52",
+            "slug": "local-snacks"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u09ae\u09a7\u09c1 \u0993 \u0995\u09be\u09b2\u09cb \u099c\u09bf\u09b0\u09be \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Honey & Kalo Zeera Biscuit 65 gm",
+        "nameWithoutSubText": "Dekko Honey & Kalo Zeera Biscuit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/honey-kalo-zeera-biscuit-65-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60802&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 21584
     },
     {
         "category": {
@@ -583,6 +601,23 @@
             "id": "52",
             "slug": "local-snacks"
         },
+        "bengaliName": "\u09ac\u09cb\u09ae\u09cd\u09ac\u09c7 \u09b8\u09c1\u0987\u099f\u09b8 \u09a1\u09be\u09b2\u09ae\u09c1\u099f \u09a8\u09be\u09ae\u0995\u09bf\u09a8 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bombay Sweets Dalmoth Namkeen 150 gm",
+        "nameWithoutSubText": "Bombay Sweets Dalmoth Namkeen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bombay-sweets-dalmoth-namkeen-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70117&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 2156
+    },
+    {
+        "category": {
+            "name": "Local Snacks",
+            "id": "52",
+            "slug": "local-snacks"
+        },
         "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ae\u099f\u09b0 \u09ad\u09be\u099c\u09be \u09e7\u09ec \u0997\u09cd\u09b0\u09be\u09ae \u09ea \u099f\u09bf ",
         "longDesc": null,
         "name": "Pran Fried Peas (Motor Bhaja) 16 gm 4 pcs",
@@ -600,16 +635,16 @@
             "id": "52",
             "slug": "local-snacks"
         },
-        "bengaliName": "\u09b9\u09b2\u09a6\u09bf\u09b0\u09be\u09ae'\u09b8 \u098f\u09b2\u09be\u099a\u09bf \u09b8\u09a8 \u09aa\u09be\u09aa\u09dc\u09bf \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u09a8\u09ac\u09be\u09ac\u09c0 \u09b8\u09b2\u09cd\u099f\u09c7\u09a1 \u09ac\u09be\u0995\u09b0\u0996\u09be\u09a8\u09bf \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Haldiram's Elaichi Soan Papdi 200 gm",
-        "nameWithoutSubText": "Haldiram's Elaichi Soan Papdi",
+        "name": "Nababi Salted Bakhorkhani 400 gm\u00a0",
+        "nameWithoutSubText": "Nababi Salted Bakhorkhani",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/haldirams-elaichi-soan-papdi-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60053&q=best&v=1"
+            "https://chaldn.com/_mpimage/nababi-salted-bakhorkhani-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75690&q=low&v=1"
         ],
-        "price": 195.0,
-        "corpPrice": 195.0,
-        "objectID": 2621
+        "price": 140.0,
+        "corpPrice": 140.0,
+        "objectID": 24172
     },
     {
         "category": {
@@ -627,6 +662,40 @@
         "price": 35.0,
         "corpPrice": 35.0,
         "objectID": 17031
+    },
+    {
+        "category": {
+            "name": "Local Snacks",
+            "id": "52",
+            "slug": "local-snacks"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b9\u09cb\u09af\u09bc\u09be\u0987\u099f \u09ab\u09cd\u09b2\u09be\u099f\u09c7\u09a8\u09cd\u09a1 \u09b0\u09be\u0987\u09b8 (\u09b8\u09be\u09a6\u09be \u099a\u09bf\u09dc\u09be) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM White Flattened Rice (Sada Chira) 500 gm",
+        "nameWithoutSubText": "BPM White Flattened Rice (Sada Chira)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-white-flattened-rice-sada-chira-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52501&q=best&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 19925
+    },
+    {
+        "category": {
+            "name": "Local Snacks",
+            "id": "52",
+            "slug": "local-snacks"
+        },
+        "bengaliName": "\u09b9\u09b2\u09a6\u09bf\u09b0\u09be\u09ae'\u09b8 \u098f\u09b2\u09be\u099a\u09bf \u09b8\u09a8 \u09aa\u09be\u09aa\u09dc\u09bf \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Haldiram's Elaichi Soan Papdi 200 gm",
+        "nameWithoutSubText": "Haldiram's Elaichi Soan Papdi",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/haldirams-elaichi-soan-papdi-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60053&q=best&v=1"
+        ],
+        "price": 195.0,
+        "corpPrice": 195.0,
+        "objectID": 2621
     },
     {
         "category": {
@@ -661,40 +730,6 @@
         "price": 60.0,
         "corpPrice": 60.0,
         "objectID": 11999
-    },
-    {
-        "category": {
-            "name": "Local Snacks",
-            "id": "52",
-            "slug": "local-snacks"
-        },
-        "bengaliName": "\u09a8\u09ac\u09be\u09ac\u09c0 \u09b8\u09b2\u09cd\u099f\u09c7\u09a1 \u09ac\u09be\u0995\u09b0\u0996\u09be\u09a8\u09bf \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Nababi Salted Bakhorkhani 400 gm\u00a0",
-        "nameWithoutSubText": "Nababi Salted Bakhorkhani",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/nababi-salted-bakhorkhani-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75690&q=low&v=1"
-        ],
-        "price": 140.0,
-        "corpPrice": 140.0,
-        "objectID": 24172
-    },
-    {
-        "category": {
-            "name": "Local Snacks",
-            "id": "52",
-            "slug": "local-snacks"
-        },
-        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b9\u09cb\u09af\u09bc\u09be\u0987\u099f \u09ab\u09cd\u09b2\u09be\u099f\u09c7\u09a8\u09cd\u09a1 \u09b0\u09be\u0987\u09b8 (\u09b8\u09be\u09a6\u09be \u099a\u09bf\u09dc\u09be) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "BPM White Flattened Rice (Sada Chira) 500 gm",
-        "nameWithoutSubText": "BPM White Flattened Rice (Sada Chira)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/bpm-white-flattened-rice-sada-chira-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52501&q=best&v=1"
-        ],
-        "price": 65.0,
-        "corpPrice": 65.0,
-        "objectID": 19925
     },
     {
         "category": {
@@ -770,23 +805,6 @@
             "id": "52",
             "slug": "local-snacks"
         },
-        "bengaliName": "\u09b2\u09be\u09b2 \u099a\u09bf\u09dc\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Red Flattened Rice 500 gm",
-        "nameWithoutSubText": "Red Flattened Rice",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/red-flattened-rice-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69966&q=low&v=1"
-        ],
-        "price": 59.0,
-        "corpPrice": 59.0,
-        "objectID": 11651
-    },
-    {
-        "category": {
-            "name": "Local Snacks",
-            "id": "52",
-            "slug": "local-snacks"
-        },
         "bengaliName": "\u09a8\u09be\u09ac\u09be\u09ac\u09bf \u0995\u09cb\u0995\u09cb\u09a8\u09be\u099f \u09ac\u09be\u0995\u09b0\u0996\u09be\u09a8\u09bf \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Nababi Coconut Bakorkhani 400 gm",
@@ -797,6 +815,23 @@
         "price": 175.0,
         "corpPrice": 175.0,
         "objectID": 20643
+    },
+    {
+        "category": {
+            "name": "Local Snacks",
+            "id": "52",
+            "slug": "local-snacks"
+        },
+        "bengaliName": "\u09b2\u09be\u09b2 \u099a\u09bf\u09dc\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Red Flattened Rice 500 gm",
+        "nameWithoutSubText": "Red Flattened Rice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/red-flattened-rice-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69966&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 11651
     },
     {
         "category": {

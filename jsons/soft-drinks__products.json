@@ -311,23 +311,6 @@
             "id": "20",
             "slug": "soft-drinks"
         },
-        "bengaliName": "\u09b0\u09c1\u09b9 \u0986\u09ab\u099c\u09be \u09ed\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": "Vendor: Hamdard Laboratories (WAFQ) BD\r\n\r\n\r\nThe matchless qualities and merits of Rooh Afza soon brought it to the notice of the people. By its distinctive taste, fragrance and color it began, not only to attract the common people , but also inspired the writers and poets to make it a theme of their creative efforts. The following verses of Sa\u2019il Dehlvi (given here in their English translation) started appearing in Urdu not only in the advertisements of Rooh Afza but also on the wrapper of its bottle.",
-        "name": "Rooh Afza 750 ml",
-        "nameWithoutSubText": "Rooh Afza",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/rooh-afza-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70042&q=low&v=1"
-        ],
-        "price": 250.0,
-        "corpPrice": 250.0,
-        "objectID": 4150
-    },
-    {
-        "category": {
-            "name": "Soft Drinks",
-            "id": "20",
-            "slug": "soft-drinks"
-        },
         "bengaliName": "\u09aa\u09c7\u09aa\u09b8\u09bf \u09aa\u09c7\u099f \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
         "longDesc": "Through the years, Pepsi has evolved from being a cola drink to a brand that stands firmly for the all ages.\r\nPepsi is very popular drinks to everyone. Pepsi can refresh your body and keep active.",
         "name": "Pepsi Pet 1 ltr",
@@ -364,6 +347,23 @@
             "id": "20",
             "slug": "soft-drinks"
         },
+        "bengaliName": "\u09b0\u09c1\u09b9 \u0986\u09ab\u099c\u09be \u09ed\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Vendor: Hamdard Laboratories (WAFQ) BD\r\n\r\n\r\nThe matchless qualities and merits of Rooh Afza soon brought it to the notice of the people. By its distinctive taste, fragrance and color it began, not only to attract the common people , but also inspired the writers and poets to make it a theme of their creative efforts. The following verses of Sa\u2019il Dehlvi (given here in their English translation) started appearing in Urdu not only in the advertisements of Rooh Afza but also on the wrapper of its bottle.",
+        "name": "Rooh Afza 750 ml",
+        "nameWithoutSubText": "Rooh Afza",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rooh-afza-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70042&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 4150
+    },
+    {
+        "category": {
+            "name": "Soft Drinks",
+            "id": "20",
+            "slug": "soft-drinks"
+        },
         "bengaliName": "\u09ab\u09be\u09a8\u09cd\u099f\u09be \u09ec\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": "Bright, bubbly and instantly refreshing, Fanta is made with 100% natural flavors and is caffeine free.\r\n\r\nINGREDIENTS\r\nCarbonated Water, High Fructose Corn Syrup, Citric Acid, Sodium Benzoate (To Protect Taste), Natural Flavors, Modified Food Starch, Sodium Polyphosphates, Glycerol Ester Of Rosin, Yellow 6, Red 40.",
         "name": "Fanta 600 ml",
@@ -383,23 +383,6 @@
             "id": "20",
             "slug": "soft-drinks"
         },
-        "bengaliName": "\u09b0\u09c1\u09b9 \u0986\u09ab\u099c\u09be \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": "Vendor: Hamdard Laboratories (WAFQ) BD\r\n\r\n\r\nThe matchless qualities and merits of Rooh Afza soon brought it to the notice of the people. By its distinctive taste, fragrance and color it began, not only to attract the common people , but also inspired the writers and poets to make it a theme of their creative efforts. The following verses of Sa\u2019il Dehlvi (given here in their English translation) started appearing in Urdu not only in the advertisements of Rooh Afza but also on the wrapper of its bottle.",
-        "name": "Rooh Afza 300 ml",
-        "nameWithoutSubText": "Rooh Afza",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/rooh-afza-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45954&q=low&v=1"
-        ],
-        "price": 150.0,
-        "corpPrice": 150.0,
-        "objectID": 7563
-    },
-    {
-        "category": {
-            "name": "Soft Drinks",
-            "id": "20",
-            "slug": "soft-drinks"
-        },
         "bengaliName": "\u09ae\u09bf\u09b0\u09bf\u09a8\u09cd\u09a1\u09be \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
         "longDesc": null,
         "name": "Mirinda Orange 1 ltr",
@@ -410,6 +393,23 @@
         "price": 50.0,
         "corpPrice": 50.0,
         "objectID": 3777
+    },
+    {
+        "category": {
+            "name": "Soft Drinks",
+            "id": "20",
+            "slug": "soft-drinks"
+        },
+        "bengaliName": "\u09b0\u09c1\u09b9 \u0986\u09ab\u099c\u09be \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Vendor: Hamdard Laboratories (WAFQ) BD\r\n\r\n\r\nThe matchless qualities and merits of Rooh Afza soon brought it to the notice of the people. By its distinctive taste, fragrance and color it began, not only to attract the common people , but also inspired the writers and poets to make it a theme of their creative efforts. The following verses of Sa\u2019il Dehlvi (given here in their English translation) started appearing in Urdu not only in the advertisements of Rooh Afza but also on the wrapper of its bottle.",
+        "name": "Rooh Afza 300 ml",
+        "nameWithoutSubText": "Rooh Afza",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rooh-afza-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45954&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 7563
     },
     {
         "category": {
@@ -537,23 +537,6 @@
             "id": "20",
             "slug": "soft-drinks"
         },
-        "bengaliName": "\u099f\u09cd\u09b0\u09aa\u09bf\u0995\u09be\u09a8\u09be \u09ab\u09cd\u09b0\u09c1\u099f\u099c \u0995\u09ae\u09b2\u09be \u09e9\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": null,
-        "name": "Tropicana Frutz Orange 350 ml",
-        "nameWithoutSubText": "Tropicana Frutz Orange",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/tropicana-frutz-orange-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D57865&q=low&v=1"
-        ],
-        "price": 40.0,
-        "corpPrice": 40.0,
-        "objectID": 16084
-    },
-    {
-        "category": {
-            "name": "Soft Drinks",
-            "id": "20",
-            "slug": "soft-drinks"
-        },
         "bengaliName": "\u0995\u09cb\u0995\u09be \u0995\u09cb\u09b2\u09be \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
         "longDesc": null,
         "name": "Coca-Cola 1 ltr",
@@ -581,6 +564,23 @@
         "price": 20.0,
         "corpPrice": 20.0,
         "objectID": 11873
+    },
+    {
+        "category": {
+            "name": "Soft Drinks",
+            "id": "20",
+            "slug": "soft-drinks"
+        },
+        "bengaliName": "\u099f\u09cd\u09b0\u09aa\u09bf\u0995\u09be\u09a8\u09be \u09ab\u09cd\u09b0\u09c1\u099f\u099c \u0995\u09ae\u09b2\u09be \u09e9\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Tropicana Frutz Orange 350 ml",
+        "nameWithoutSubText": "Tropicana Frutz Orange",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tropicana-frutz-orange-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D57865&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 16084
     },
     {
         "category": {
@@ -658,23 +658,6 @@
             "id": "20",
             "slug": "soft-drinks"
         },
-        "bengaliName": "\u09b8\u09cd\u09aa\u09cd\u09b0\u09be\u0987\u099f \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
-        "longDesc": null,
-        "name": "Sprite 1 ltr",
-        "nameWithoutSubText": "Sprite",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/sprite-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75325&q=low&v=1"
-        ],
-        "price": 50.0,
-        "corpPrice": 50.0,
-        "objectID": 24067
-    },
-    {
-        "category": {
-            "name": "Soft Drinks",
-            "id": "20",
-            "slug": "soft-drinks"
-        },
         "bengaliName": "\u0986\u09b0\u09b8\u09bf \u0995\u09bf\u0989 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09aa\u09c7\u099f \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": null,
         "name": "RC Q Orange Pet 250 ml",
@@ -702,6 +685,23 @@
         "price": 25.0,
         "corpPrice": 25.0,
         "objectID": 18586
+    },
+    {
+        "category": {
+            "name": "Soft Drinks",
+            "id": "20",
+            "slug": "soft-drinks"
+        },
+        "bengaliName": "\u09b8\u09cd\u09aa\u09cd\u09b0\u09be\u0987\u099f \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Sprite 1 ltr",
+        "nameWithoutSubText": "Sprite",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sprite-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75325&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 24067
     },
     {
         "category": {
@@ -760,23 +760,6 @@
             "id": "20",
             "slug": "soft-drinks"
         },
-        "bengaliName": "\u09ab\u09be\u09a8\u09cd\u099f\u09be \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": null,
-        "name": "Fanta 500 ml",
-        "nameWithoutSubText": "Fanta",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/fanta-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75323&q=low&v=1"
-        ],
-        "price": 35.0,
-        "corpPrice": 35.0,
-        "objectID": 24065
-    },
-    {
-        "category": {
-            "name": "Soft Drinks",
-            "id": "20",
-            "slug": "soft-drinks"
-        },
         "bengaliName": "\u09b8\u09cd\u09aa\u09c0\u09a1 \u0995\u09cd\u09af\u09be\u09a8 \u09e8\u09eb\u09e6  \u09ae\u09bf\u09b2\u09bf",
         "longDesc": null,
         "name": "Speed Can 250 ml",
@@ -787,6 +770,23 @@
         "price": 35.0,
         "corpPrice": 35.0,
         "objectID": 18587
+    },
+    {
+        "category": {
+            "name": "Soft Drinks",
+            "id": "20",
+            "slug": "soft-drinks"
+        },
+        "bengaliName": "\u09ab\u09be\u09a8\u09cd\u099f\u09be \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Fanta 500 ml",
+        "nameWithoutSubText": "Fanta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fanta-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75323&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 24065
     },
     {
         "category": {
@@ -838,6 +838,23 @@
         "price": 40.0,
         "corpPrice": 40.0,
         "objectID": 3787
+    },
+    {
+        "category": {
+            "name": "Soft Drinks",
+            "id": "20",
+            "slug": "soft-drinks"
+        },
+        "bengaliName": "\u09b8\u09cd\u0995\u09c1\u0987\u09aa\u09cd\u09af\u09bf\u09b8 \u09a1\u09cd\u09b0\u09be\u0987 \u099c\u09bf\u099e\u09cd\u099c\u09be\u09b0 \u0985\u09cd\u09af\u09be\u09b2\u09cd\u09af\u09be \u0995\u09cd\u09af\u09be\u09a8 \u09e9\u09e8\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Schweppes Dry Ginger Ale Can is part of the Schweppes Mixers range. It can be enjoyed on its own or combined with alcohol or fruit juice.\r\n\r\nIngredients: Carbonated Water, Sugar, Flavourings Including Extracts of Ginger, Citric Acid, Colour (Caramel E150d).",
+        "name": "Schweppes Dry Ginger Ale Can 320 ml",
+        "nameWithoutSubText": "Schweppes Dry Ginger Ale Can",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/schweppes-dry-ginger-ale-can-320-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D5694&q=low&v=1"
+        ],
+        "price": 179.0,
+        "corpPrice": 179.0,
+        "objectID": 5689
     },
     {
         "category": {
@@ -1314,23 +1331,6 @@
         "price": 199.0,
         "corpPrice": 199.0,
         "objectID": 5691
-    },
-    {
-        "category": {
-            "name": "Soft Drinks",
-            "id": "20",
-            "slug": "soft-drinks"
-        },
-        "bengaliName": "\u09b8\u09cd\u0995\u09c1\u0987\u09aa\u09cd\u09af\u09bf\u09b8 \u09a1\u09cd\u09b0\u09be\u0987 \u099c\u09bf\u099e\u09cd\u099c\u09be\u09b0 \u0985\u09cd\u09af\u09be\u09b2\u09cd\u09af\u09be \u0995\u09cd\u09af\u09be\u09a8 \u09e9\u09e8\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": "Schweppes Dry Ginger Ale Can is part of the Schweppes Mixers range. It can be enjoyed on its own or combined with alcohol or fruit juice.\r\n\r\nIngredients: Carbonated Water, Sugar, Flavourings Including Extracts of Ginger, Citric Acid, Colour (Caramel E150d).",
-        "name": "Schweppes Dry Ginger Ale Can 320 ml",
-        "nameWithoutSubText": "Schweppes Dry Ginger Ale Can",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/schweppes-dry-ginger-ale-can-320-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D5694&q=low&v=1"
-        ],
-        "price": 179.0,
-        "corpPrice": 179.0,
-        "objectID": 5689
     },
     {
         "category": {

@@ -22,23 +22,6 @@
             "id": "223",
             "slug": "bath-skincare"
         },
-        "bengaliName": "\u09b9\u09bf\u09ae\u09be\u09b2\u09be\u09df\u09be \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ae\u09df\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09bf\u0982 \u09ac\u09c7\u09ac\u09bf \u09b8\u09cb\u09aa \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Origin: India",
-        "name": "Himalaya Extra Moisturizing Baby Soap 75 gm",
-        "nameWithoutSubText": "Himalaya Extra Moisturizing Baby Soap",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/himalaya-extra-moisturizing-baby-soap-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74187&q=low&v=1"
-        ],
-        "price": 80.0,
-        "corpPrice": 80.0,
-        "objectID": 23759
-    },
-    {
-        "category": {
-            "name": "Bath & Skincare",
-            "id": "223",
-            "slug": "bath-skincare"
-        },
         "bengaliName": "\u09aa\u09cd\u09af\u09b0\u09be\u09b8\u09c1\u099f  \u099c\u09be\u09b8\u09cd\u099f \u09ab\u09b0 \u09ac\u09c7\u09ac\u09bf - \u09ac\u09c7\u09ac\u09bf \u0993\u09df\u09be\u09b6 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": "Parachute Just for Baby - Baby Wash\r\nJust for Baby Body & Hair wash gently cleanses your baby\u2019s hair and body, leaving it nicely scented. No tears formula lets your baby enjoy the bath while maintaining natural softness of Baby\u2019s skin. \r\n\r\nIt has been tested for allergy & formulated with 100% safe ingredients.",
         "name": "Parachute Just For Baby - Baby Wash 200 ml",
@@ -57,6 +40,23 @@
         "price": 189.0,
         "corpPrice": 189.0,
         "objectID": 15703
+    },
+    {
+        "category": {
+            "name": "Bath & Skincare",
+            "id": "223",
+            "slug": "bath-skincare"
+        },
+        "bengaliName": "\u09b9\u09bf\u09ae\u09be\u09b2\u09be\u09df\u09be \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ae\u09df\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09bf\u0982 \u09ac\u09c7\u09ac\u09bf \u09b8\u09cb\u09aa \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: India",
+        "name": "Himalaya Extra Moisturizing Baby Soap 75 gm",
+        "nameWithoutSubText": "Himalaya Extra Moisturizing Baby Soap",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/himalaya-extra-moisturizing-baby-soap-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74187&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 23759
     },
     {
         "category": {
@@ -134,23 +134,6 @@
             "id": "223",
             "slug": "bath-skincare"
         },
-        "bengaliName": "\u09ae\u09c7\u09b0\u09bf\u09b2 \u09ac\u09c7\u09ac\u09bf \u09ae\u09be\u0987\u09b2\u09a1 \u09b9\u09be\u09a8\u09bf \u09b8\u09cb\u09aa \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Origin: Bangladesh\r\nManufacturer: square toiletries ltd.\r\nMeril Baby soap is 5 times milder than regular soap. It gently cleans baby's skin without drying or irritating. The lotion and honey give moisturizer to the babies' skin. Presence of Honey also makes babies skin soft, supple and healthy. This soap moisturizes baby's skin even while bathing. So, ensure the best care and growth of your baby by regular use of Meril Baby Soap.\r\nIngredients\r\nSodium Palmate, Sodium Palm Kernelate, Aqua, Baby Lotion, Honey, Glycerine, Fragrance, Titanium dioxide, Sunflower Oil, EDTA, CI 45100, CI 11680",
-        "name": "Meril Baby Mild Honey Soap 75 gm  ",
-        "nameWithoutSubText": "Meril Baby Mild Honey Soap",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/meril-baby-mild-honey-soap-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69508&q=low&v=1"
-        ],
-        "price": 70.0,
-        "corpPrice": 70.0,
-        "objectID": 10253
-    },
-    {
-        "category": {
-            "name": "Bath & Skincare",
-            "id": "223",
-            "slug": "bath-skincare"
-        },
         "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b8\u09c1\u099f \u099c\u09be\u09b8\u09cd\u099f \u09ab\u09b0 \u09ac\u09c7\u09ac\u09bf - \u09b6\u09bf\u09b6\u09c1\u09a6\u09c7\u09b0 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Just for Baby Powder with goodness of Almond Milk & Neemcreates a barrier that locks moisture for 24 hours & protects your baby\u2019s beautiful skin from dryness. This rich nourishing lotion enriched with vitamin E gets easily absorbed in your baby\u2019s skin & keeps it smooth and soft naturally.",
         "name": "Parachute Just For Baby - Baby Powder 200 gm",
@@ -161,6 +144,23 @@
         "price": 144.0,
         "corpPrice": 144.0,
         "objectID": 17003
+    },
+    {
+        "category": {
+            "name": "Bath & Skincare",
+            "id": "223",
+            "slug": "bath-skincare"
+        },
+        "bengaliName": "\u09ae\u09c7\u09b0\u09bf\u09b2 \u09ac\u09c7\u09ac\u09bf \u09ae\u09be\u0987\u09b2\u09a1 \u09b9\u09be\u09a8\u09bf \u09b8\u09cb\u09aa \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: square toiletries ltd.\r\nMeril Baby soap is 5 times milder than regular soap. It gently cleans baby's skin without drying or irritating. The lotion and honey give moisturizer to the babies' skin. Presence of Honey also makes babies skin soft, supple and healthy. This soap moisturizes baby's skin even while bathing. So, ensure the best care and growth of your baby by regular use of Meril Baby Soap.\r\nIngredients\r\nSodium Palmate, Sodium Palm Kernelate, Aqua, Baby Lotion, Honey, Glycerine, Fragrance, Titanium dioxide, Sunflower Oil, EDTA, CI 45100, CI 11680",
+        "name": "Meril Baby Mild Honey Soap 75 gm  ",
+        "nameWithoutSubText": "Meril Baby Mild Honey Soap",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/meril-baby-mild-honey-soap-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69508&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 10253
     },
     {
         "category": {
@@ -202,23 +202,6 @@
             "id": "223",
             "slug": "bath-skincare"
         },
-        "bengaliName": "\u09b9\u09bf\u09ae\u09be\u09b2\u09be\u09df\u09be \u09ac\u09c7\u09ac\u09bf \u0995\u09cd\u09b0\u09bf\u09ae \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Origin: India",
-        "name": "Himalaya Baby Cream 100 gm",
-        "nameWithoutSubText": "Himalaya Baby Cream",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/himalaya-baby-cream-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74184&q=low&v=1"
-        ],
-        "price": 190.0,
-        "corpPrice": 190.0,
-        "objectID": 23756
-    },
-    {
-        "category": {
-            "name": "Bath & Skincare",
-            "id": "223",
-            "slug": "bath-skincare"
-        },
         "bengaliName": "\u0995\u09cb\u09a1\u09cb\u09ae\u09cb \u09ac\u09c7\u09ac\u09bf \u09ac\u09be\u09a5 \u098f\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u099c\u09c7\u09a8\u09cd\u099f\u09c7\u09b2 \u09b8\u09ab\u099f \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": "Origin: Thailand",
         "name": "Kodomo Baby Bath & Gentle Soft 100 ml",
@@ -229,6 +212,23 @@
         "price": 190.0,
         "corpPrice": 190.0,
         "objectID": 12448
+    },
+    {
+        "category": {
+            "name": "Bath & Skincare",
+            "id": "223",
+            "slug": "bath-skincare"
+        },
+        "bengaliName": "\u09b9\u09bf\u09ae\u09be\u09b2\u09be\u09df\u09be \u09ac\u09c7\u09ac\u09bf \u0995\u09cd\u09b0\u09bf\u09ae \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: India",
+        "name": "Himalaya Baby Cream 100 gm",
+        "nameWithoutSubText": "Himalaya Baby Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/himalaya-baby-cream-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74184&q=low&v=1"
+        ],
+        "price": 190.0,
+        "corpPrice": 190.0,
+        "objectID": 23756
     },
     {
         "category": {

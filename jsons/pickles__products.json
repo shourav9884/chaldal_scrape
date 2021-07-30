@@ -39,23 +39,6 @@
             "id": "78",
             "slug": "pickles"
         },
-        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u0986\u09ae\u09c7\u09b0 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Pran Mango Pickle 400 gm",
-        "nameWithoutSubText": "Pran Mango Pickle",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/pran-mango-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48263&q=low&v=1"
-        ],
-        "price": 135.0,
-        "corpPrice": 135.0,
-        "objectID": 2387
-    },
-    {
-        "category": {
-            "name": "Pickles",
-            "id": "78",
-            "slug": "pickles"
-        },
         "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u09aa\u09bf\u0995\u09b2 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Ahmed Mango Pickle 300 gm",
@@ -66,6 +49,23 @@
         "price": 120.0,
         "corpPrice": 120.0,
         "objectID": 16948
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u0986\u09ae\u09c7\u09b0 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Mango Pickle 400 gm",
+        "nameWithoutSubText": "Pran Mango Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-mango-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48263&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 2387
     },
     {
         "category": {

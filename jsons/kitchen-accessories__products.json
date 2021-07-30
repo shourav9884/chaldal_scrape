@@ -295,23 +295,6 @@
             "id": "85",
             "slug": "kitchen-accessories"
         },
-        "bengaliName": "\u09ac\u09be\u099c\u09be\u099c \u09b8\u09c1\u09aa\u09be\u09b0 \u0987\u09b2\u09c7\u0995\u099f\u09cd\u09b0\u09a8\u09bf\u0995 \u0997\u09cd\u09af\u09be\u09b8 \u09b2\u09be\u0987\u099f\u09be\u09b0 (\u09ad\u09be\u09b0\u09a4)",
-        "longDesc": null,
-        "name": "Bajaj Super Electronic Gas Lighter (India)",
-        "nameWithoutSubText": "Bajaj Super Electronic Gas Lighter (India)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/bajaj-super-electronic-gas-lighter-india?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D20309&q=low&v=1"
-        ],
-        "price": 99.0,
-        "corpPrice": 99.0,
-        "objectID": 11424
-    },
-    {
-        "category": {
-            "name": "Kitchen Accessories",
-            "id": "85",
-            "slug": "kitchen-accessories"
-        },
         "bengaliName": "\u09a1\u09bf\u09b6 \u0993\u09df\u09be\u09b6\u09bf\u0982 \u09aa\u09cd\u09b2\u09be\u09b8\u09cd\u099f\u09bf\u0995 \u09b8\u09cd\u09aa\u099e\u09cd\u099c \u09ae\u09be\u09b2\u09cd\u099f\u09bf \u0995\u09be\u09b2\u09be\u09b0 \u09eb \u099f\u09bf",
         "longDesc": null,
         "name": "Dish Washing Plastic Sponge Multi Color 5 Pcs",
@@ -322,6 +305,23 @@
         "price": 79.0,
         "corpPrice": 79.0,
         "objectID": 14350
+    },
+    {
+        "category": {
+            "name": "Kitchen Accessories",
+            "id": "85",
+            "slug": "kitchen-accessories"
+        },
+        "bengaliName": "\u09ac\u09be\u099c\u09be\u099c \u09b8\u09c1\u09aa\u09be\u09b0 \u0987\u09b2\u09c7\u0995\u099f\u09cd\u09b0\u09a8\u09bf\u0995 \u0997\u09cd\u09af\u09be\u09b8 \u09b2\u09be\u0987\u099f\u09be\u09b0 (\u09ad\u09be\u09b0\u09a4)",
+        "longDesc": null,
+        "name": "Bajaj Super Electronic Gas Lighter (India)",
+        "nameWithoutSubText": "Bajaj Super Electronic Gas Lighter (India)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bajaj-super-electronic-gas-lighter-india?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D20309&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 11424
     },
     {
         "category": {

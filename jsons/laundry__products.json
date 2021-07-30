@@ -556,23 +556,6 @@
             "id": "86",
             "slug": "laundry"
         },
-        "bengaliName": "\u099c\u09c7\u099f \u0987\u09ae\u09cd\u09aa\u09cd\u09b0\u09cb\u09ad\u09a1 \u09ab\u09b0\u09cd\u09ae\u09c1\u09b2\u09be \u09b2\u09bf\u0995\u09c1\u0987\u09a1 \u09a1\u09bf\u099f\u09be\u09b0\u099c\u09c7\u09a8\u09cd\u099f \u09e7\u09e6\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf ",
-        "longDesc": null,
-        "name": "Jet Improved Formula Liquid Detergent 1000 ml",
-        "nameWithoutSubText": "Jet Improved Formula Liquid Detergent",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/jet-improved-formula-liquid-detergent-1000-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39007&q=low&v=1"
-        ],
-        "price": 500.0,
-        "corpPrice": 500.0,
-        "objectID": 15283
-    },
-    {
-        "category": {
-            "name": "Laundry",
-            "id": "86",
-            "slug": "laundry"
-        },
         "bengaliName": "\u09a4\u09bf\u09ac\u09cd\u09ac\u09a4 \u09b2\u09a8\u09cd\u09a1\u09cd\u09b0\u09bf \u09b8\u09be\u09ac\u09be\u09a8 \u09b8\u09ac\u09c1\u099c \u09e7\u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Tibet Laundry Soap Green 130 gm",
@@ -590,16 +573,16 @@
             "id": "86",
             "slug": "laundry"
         },
-        "bengaliName": "\u0995\u09c7\u09b2\u09bf'\u09b8 \u09a1\u09bf\u099f\u09be\u09b0\u099c\u09c7\u09a8\u09cd\u099f \u09b2\u09a8\u09cd\u09a1\u09cd\u09b0\u09bf \u0993\u09df\u09b6 \u09e7\u09e6\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "bengaliName": "\u099c\u09c7\u099f \u0987\u09ae\u09cd\u09aa\u09cd\u09b0\u09cb\u09ad\u09a1 \u09ab\u09b0\u09cd\u09ae\u09c1\u09b2\u09be \u09b2\u09bf\u0995\u09c1\u0987\u09a1 \u09a1\u09bf\u099f\u09be\u09b0\u099c\u09c7\u09a8\u09cd\u099f \u09e7\u09e6\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf ",
         "longDesc": null,
-        "name": "Kelly's Detergent Laundry Wash 1000 ml",
-        "nameWithoutSubText": "Kelly's Detergent Laundry Wash",
+        "name": "Jet Improved Formula Liquid Detergent 1000 ml",
+        "nameWithoutSubText": "Jet Improved Formula Liquid Detergent",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/kellys-detergent-laundry-wash-1000-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44511&q=low&v=1"
+            "https://chaldn.com/_mpimage/jet-improved-formula-liquid-detergent-1000-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39007&q=low&v=1"
         ],
-        "price": 230.0,
-        "corpPrice": 230.0,
-        "objectID": 8684
+        "price": 500.0,
+        "corpPrice": 500.0,
+        "objectID": 15283
     },
     {
         "category": {
@@ -617,6 +600,23 @@
         "price": 429.0,
         "corpPrice": 429.0,
         "objectID": 16854
+    },
+    {
+        "category": {
+            "name": "Laundry",
+            "id": "86",
+            "slug": "laundry"
+        },
+        "bengaliName": "\u0995\u09c7\u09b2\u09bf'\u09b8 \u09a1\u09bf\u099f\u09be\u09b0\u099c\u09c7\u09a8\u09cd\u099f \u09b2\u09a8\u09cd\u09a1\u09cd\u09b0\u09bf \u0993\u09df\u09b6 \u09e7\u09e6\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Kelly's Detergent Laundry Wash 1000 ml",
+        "nameWithoutSubText": "Kelly's Detergent Laundry Wash",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kellys-detergent-laundry-wash-1000-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44511&q=low&v=1"
+        ],
+        "price": 230.0,
+        "corpPrice": 230.0,
+        "objectID": 8684
     },
     {
         "category": {

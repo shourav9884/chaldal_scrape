@@ -1295,6 +1295,23 @@
             "id": "1373",
             "slug": "facial-care"
         },
+        "bengaliName": "\u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u099c\u09c7\u09a8\u09be \u09b8\u09cd\u09aa\u099f \u09b8\u09cd\u099f\u09cd\u09b0\u09c7\u09b8 \u0995\u09a8\u09cd\u099f\u09cd\u09b0\u09cb\u09b2 \u09a1\u09c7\u09b2\u09bf \u09b8\u09cd\u0995\u09cd\u09b0\u09be\u09ac \u09e7\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Neutrogena Spot Stress Control Daily Scurb 150 ml",
+        "nameWithoutSubText": "Neutrogena Spot Stress Control Daily Scurb",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/neutrogena-spot-stress-control-daily-scurb-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50076&q=low&v=1"
+        ],
+        "price": 600.0,
+        "corpPrice": 600.0,
+        "objectID": 18368
+    },
+    {
+        "category": {
+            "name": "Facial Care",
+            "id": "1373",
+            "slug": "facial-care"
+        },
         "bengaliName": "\u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u099c\u09bf\u09a8\u09be \u09aa\u09cb\u09b0 \u098f\u09ac\u0982 \u09b6\u09be\u0987\u09a8 \u09a1\u09c7\u0987\u09b2\u09c0 \u09b8\u09cd\u0995\u09be\u09b0\u09cd\u09ac \u09e7\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": null,
         "name": "Neutrogena Pore & Shine Daily Scurb 150 ml",
@@ -1699,22 +1716,5 @@
         "price": 165.0,
         "corpPrice": 165.0,
         "objectID": 15128
-    },
-    {
-        "category": {
-            "name": "Facial Care",
-            "id": "1373",
-            "slug": "facial-care"
-        },
-        "bengaliName": "\u09b2\u09bf\u09ad\u09be\u09b0 \u0986\u09df\u09cd\u09af\u09c1\u09b8 \u09ab\u09c7\u09b8 \u0995\u09cd\u09b0\u09bf\u09ae \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u09b8\u09cd\u09af\u09be\u09ab\u09b0\u09a8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "A unique blend on 16 herbs and oil formulated to help skin beautiful. Extracts of Symplocos, Ushira and blue lotus calm and soothe skin. Manjishtha, saffron and padmakashtha help clear marks, lighten skin color and improve complexion. ",
-        "name": "Lever Ayush Face Cream Natural Saffron 50 gm",
-        "nameWithoutSubText": "Lever Ayush Face Cream Natural Saffron",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/lever-ayush-face-cream-natural-saffron-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77694&q=low&v=1"
-        ],
-        "price": 150.0,
-        "corpPrice": 150.0,
-        "objectID": 15127
     }
 ]

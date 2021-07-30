@@ -168,23 +168,6 @@
             "id": "34",
             "slug": "oral"
         },
-        "bengaliName": "\u09aa\u09c7\u09aa\u09b8\u09cb\u09a1\u09c7\u09a8\u09cd\u099f \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u09b8\u09c7\u09a8\u09b8\u09bf\u099f\u09bf\u09ad \u098f\u0995\u09cd\u09b8\u09aa\u09be\u09b0\u09cd\u099f \u09aa\u09cd\u09b0\u09ab\u09c7\u09b6\u09a8\u09be\u09b2 \u09ae\u09be\u09b2\u09cd\u099f\u09bf\u09aa\u09cd\u09af\u09be\u0995 \u09e7\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Pepsodent Toothpaste Sensitive Expert Professional Multipack 140 gm",
-        "nameWithoutSubText": "Pepsodent Toothpaste Sensitive Expert Professional Multipack",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/pepsodent-toothpaste-sensitive-expert-professional-multipack-140-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74162&q=low&v=1"
-        ],
-        "price": 240.0,
-        "corpPrice": 240.0,
-        "objectID": 23300
-    },
-    {
-        "category": {
-            "name": "Oral Care",
-            "id": "34",
-            "slug": "oral"
-        },
         "bengaliName": "\u0995\u09cd\u09b2\u09cb\u099c \u0986\u09aa \u09b0\u09c7\u09a1 \u09b9\u099f \u099f\u09c1\u09a5 \u09aa\u09c7\u09b8\u09cd\u099f \u09e7\u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Do you brush your teeth hurriedly? Do you often forget to use mouthwash or not use it altogether? Are your teeth dull and covered with a yellowish coating of plaque? If your answer to the above questions is yes then Closeup Red Hot Toothpaste is the toothpaste for you. Its unique Active Zinc Mouthwash not only cleans deep corners of your mouth of residual germs it also gives you upto 12 Hours Fresh Breath. It helps your teeth stay strong and healthy thanks to the fluoride in it and its microshine crystals help reduce the yellowing of your teeth. * Upto 12 hours of lasting fresh breath is based on In-vivo study with regular use over 4 weeks. \r\n Kill the bacteria that cause bad breath with Closeup Red Hot Toothpaste. Bad breath can be caused by the millions of bacteria that live in your mouth. If you don't brush and floss every day, plaque germs can form. Closeup gel toothpaste helps kill the bacteria and helps prevents bad breath. *Dental plaque germs\r\n Brushing with Closeup gel toothpaste is one simple step you can incorporate into your daily routine to help keep your mouth healthy, and it can have a positive effect on your oral health. FDI \u2013 World Dental Federation recognizes that brushing twice daily with Closeup Red Hot Toothpaste is beneficial to oral health. Buy Now!\"Kill the bacteria that cause bad breath with Closeup Red Hot Toothpaste. Bad breath can be caused by the millions of bacteria that live in your mouth. If you don't brush and floss every day, plaque germs can form. Closeup gel toothpaste helps kill the bacteria and helps prevents bad breath. *Dental plaque germs\r\nBrushing with Closeup gel toothpaste is one simple step you can incorporate into your daily routine to help keep your mouth healthy, and it can have a positive effect on your oral health. FDI \u2013 World Dental Federation recognizes that brushing twice daily with Closeup Red Hot Toothpaste is beneficial to oral health. Buy Now!\r\n\r\n",
         "name": "Closeup Toothpaste Red Hot 145 gm",
@@ -211,6 +194,23 @@
             "id": "34",
             "slug": "oral"
         },
+        "bengaliName": "\u09aa\u09c7\u09aa\u09b8\u09cb\u09a1\u09c7\u09a8\u09cd\u099f \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u09b8\u09c7\u09a8\u09b8\u09bf\u099f\u09bf\u09ad \u098f\u0995\u09cd\u09b8\u09aa\u09be\u09b0\u09cd\u099f \u09aa\u09cd\u09b0\u09ab\u09c7\u09b6\u09a8\u09be\u09b2 \u09ae\u09be\u09b2\u09cd\u099f\u09bf\u09aa\u09cd\u09af\u09be\u0995 \u09e7\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pepsodent Toothpaste Sensitive Expert Professional Multipack 140 gm",
+        "nameWithoutSubText": "Pepsodent Toothpaste Sensitive Expert Professional Multipack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pepsodent-toothpaste-sensitive-expert-professional-multipack-140-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74162&q=low&v=1"
+        ],
+        "price": 240.0,
+        "corpPrice": 240.0,
+        "objectID": 23300
+    },
+    {
+        "category": {
+            "name": "Oral Care",
+            "id": "34",
+            "slug": "oral"
+        },
         "bengaliName": "\u09aa\u09cd\u09b0\u09a1\u09c7\u09a8\u09cd\u099f\u09be\u09b2\u09ac\u09bf \u098f\u099f\u09bf\u099a\u09c1\u09a1 \u099f\u09c2\u09a5 \u09ac\u09cd\u09b0\u09be\u09b6 \u09e7 \u099f\u09bf",
         "longDesc": null,
         "name": "ProDentalB Attitude Toothbrush 1 pcs",
@@ -221,6 +221,23 @@
         "price": 60.0,
         "corpPrice": 60.0,
         "objectID": 9424
+    },
+    {
+        "category": {
+            "name": "Oral Care",
+            "id": "34",
+            "slug": "oral"
+        },
+        "bengaliName": "\u09aa\u09c7\u09aa\u09b8\u09cb\u09a1\u09c7\u09a8\u09cd\u099f \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u099a\u09be\u09b0\u0995\u09cb\u09b2 \u09b9\u09cb\u09df\u09be\u0987\u099f \u09e7\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pepsodent Toothpaste Charcoal White 140 gm",
+        "nameWithoutSubText": "Pepsodent Toothpaste Charcoal White",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pepsodent-toothpaste-charcoal-white-140-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76204&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 15766
     },
     {
         "category": {
@@ -245,23 +262,6 @@
         "price": 120.0,
         "corpPrice": 120.0,
         "objectID": 23538
-    },
-    {
-        "category": {
-            "name": "Oral Care",
-            "id": "34",
-            "slug": "oral"
-        },
-        "bengaliName": "\u09aa\u09c7\u09aa\u09b8\u09cb\u09a1\u09c7\u09a8\u09cd\u099f \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u099a\u09be\u09b0\u0995\u09cb\u09b2 \u09b9\u09cb\u09df\u09be\u0987\u099f \u09e7\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Pepsodent Toothpaste Charcoal White 140 gm",
-        "nameWithoutSubText": "Pepsodent Toothpaste Charcoal White",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/pepsodent-toothpaste-charcoal-white-140-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76204&q=low&v=1"
-        ],
-        "price": 99.0,
-        "corpPrice": 99.0,
-        "objectID": 15766
     },
     {
         "category": {
@@ -320,6 +320,23 @@
             "id": "34",
             "slug": "oral"
         },
+        "bengaliName": "\u09a1\u09be\u09ac\u09b0 \u09b0\u09c7\u09a1 \u099f\u09c1\u09a5\u09aa\u09c7\u09b7\u09cd\u099f \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Dabur Red Paste is a unique blend of traditional medicine prepared with natural ingredients and modern pharmaceutical technology bringing out the best of both. This side effects free, effective formulation is useful for maintaining oral hygiene and keeping the gums and teeth healthy. Dabur Red Paste is packed with the power of 13 active natural ingredients like Laung, Pudina & Tomar among others that keeps 7 dental problems away. Dabur Red Paste has been clinically tested for reduction in plaque, gingivitis & bad breath. In-vivo study of Dabur Red Paste had been done using healthy subjects. A statistically significant improvement was observed in user when all the four conditions like plaque, gingivitis, stain and malodor were assessed.\r\n\r\nAyurvedic Toothpaste Ingredients\r\n\u2022 Clove Oil: Helps in fighting germs and useful in gingivitis\r\n\u2022 Pudina Sattva: Helps prevent Bad breath & Toothache\r\n\u2022 Tomar Beej (Zanthoxylum alatum): Helps prevent dental diseases\r\n\u2022 Sunthi (Ginger): Helps prevent toothache",
+        "name": "Dabur Red Toothpaste (Free Toothbrush) 200 gm",
+        "nameWithoutSubText": "Dabur Red Toothpaste (Free Toothbrush)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dabur-red-toothpaste-free-toothbrush-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78526&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 21405
+    },
+    {
+        "category": {
+            "name": "Oral Care",
+            "id": "34",
+            "slug": "oral"
+        },
         "bengaliName": "\u09a1\u09be\u09ac\u09b0 \u09ae\u09c7\u09b8\u0993\u09df\u09be\u0995 \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f (\u09ab\u09cd\u09b0\u09bf  \u099f\u09c1\u09a5 \u09ac\u09cd\u09b0\u09be\u09b6 ) \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Meswak is made from a rare herb, which grows slowly, resisting the brutal forces of nature amidst the sand dunes of Africa and South Asia. Even a small portion of this herb is capable to provide Complete Oral Care. Dabur brings to you, this herb in the form of Incredible \u201cMeswak\u201d Toothpaste. It is scientifically proven to help reduce tartar and plaque, fight germs and bacteria to keep gums healthy, helps prevent tooth decay, eliminate bad breath and ensure strong teeth, all at once to provide Complete Oral Care.\r\n\r\nIngredients:\r\nCalcium Carbonate, Sorbitol, Water, Silica, Sodium Lauryl Sulphate, Flavor, Meswak Extract, Cellulose Gum, Carrageenan, Sodium Silicate, PVM/MA Copolymer, Sodium Saccharin, Sodium Benzoate, CI 77891, Triclosan",
         "name": "Dabur Meswak Toothpaste (Free Toothbrush) 200 gm",
@@ -337,16 +354,16 @@
             "id": "34",
             "slug": "oral"
         },
-        "bengaliName": "\u09a1\u09be\u09ac\u09b0 \u09b0\u09c7\u09a1 \u099f\u09c1\u09a5\u09aa\u09c7\u09b7\u09cd\u099f \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Dabur Red Paste is a unique blend of traditional medicine prepared with natural ingredients and modern pharmaceutical technology bringing out the best of both. This side effects free, effective formulation is useful for maintaining oral hygiene and keeping the gums and teeth healthy. Dabur Red Paste is packed with the power of 13 active natural ingredients like Laung, Pudina & Tomar among others that keeps 7 dental problems away. Dabur Red Paste has been clinically tested for reduction in plaque, gingivitis & bad breath. In-vivo study of Dabur Red Paste had been done using healthy subjects. A statistically significant improvement was observed in user when all the four conditions like plaque, gingivitis, stain and malodor were assessed.\r\n\r\nAyurvedic Toothpaste Ingredients\r\n\u2022 Clove Oil: Helps in fighting germs and useful in gingivitis\r\n\u2022 Pudina Sattva: Helps prevent Bad breath & Toothache\r\n\u2022 Tomar Beej (Zanthoxylum alatum): Helps prevent dental diseases\r\n\u2022 Sunthi (Ginger): Helps prevent toothache",
-        "name": "Dabur Red Toothpaste (Free Toothbrush) 200 gm",
-        "nameWithoutSubText": "Dabur Red Toothpaste (Free Toothbrush)",
+        "bengaliName": "\u0995\u09cb\u09b2\u0997\u09c7\u099f \u098f\u09a8\u09cd\u099f\u09bf\u0995\u09c7\u09ad\u09bf\u099f\u09bf \u098f\u0995\u099f\u09bf\u09ad \u09b8\u09b2\u09cd\u099f \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Colgate Anticavity Active Salt Toothpaste 200 gm",
+        "nameWithoutSubText": "Colgate Anticavity Active Salt Toothpaste",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/dabur-red-toothpaste-free-toothbrush-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78526&q=low&v=1"
+            "https://chaldn.com/_mpimage/colgate-anticavity-active-salt-toothpaste-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D62915&q=low&v=1"
         ],
-        "price": 120.0,
-        "corpPrice": 120.0,
-        "objectID": 21405
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 10607
     },
     {
         "category": {
@@ -373,23 +390,6 @@
         "price": 85.0,
         "corpPrice": 85.0,
         "objectID": 6076
-    },
-    {
-        "category": {
-            "name": "Oral Care",
-            "id": "34",
-            "slug": "oral"
-        },
-        "bengaliName": "\u0995\u09cb\u09b2\u0997\u09c7\u099f \u098f\u09a8\u09cd\u099f\u09bf\u0995\u09c7\u09ad\u09bf\u099f\u09bf \u098f\u0995\u099f\u09bf\u09ad \u09b8\u09b2\u09cd\u099f \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
-        "longDesc": null,
-        "name": "Colgate Anticavity Active Salt Toothpaste 200 gm",
-        "nameWithoutSubText": "Colgate Anticavity Active Salt Toothpaste",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/colgate-anticavity-active-salt-toothpaste-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D62915&q=low&v=1"
-        ],
-        "price": 150.0,
-        "corpPrice": 150.0,
-        "objectID": 10607
     },
     {
         "category": {
@@ -500,16 +500,16 @@
             "id": "34",
             "slug": "oral"
         },
-        "bengaliName": "\u09b8\u09c7\u09a8\u09b8\u09cb\u09a1\u09be\u0987\u09a8 \u09b0\u09bf\u09aa\u09c7\u09df\u09be\u09b0 \u098f\u09a8\u09cd\u09a1 \u09aa\u09cd\u09b0\u09cb\u099f\u09c7\u0995\u09cd\u099f \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u09ed\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": " \u09aa\u09cd\u09b0\u09cb\u09a1\u09c7\u09a8\u09cd\u099f\u09b2\u09be \u09ac\u09bf \u0986\u09b2\u09cd\u099f\u09cd\u09b0\u09be \u099f\u09c1\u0987\u09a8 \u099f\u09c1\u09a5 \u09ac\u09cd\u09b0\u09be\u09b6 \u09e7 \u099f\u09bf",
         "longDesc": null,
-        "name": "Sensodyne Repair and Protect Toothpaste 70 gm",
-        "nameWithoutSubText": "Sensodyne Repair and Protect Toothpaste",
+        "name": "Prodentla B Ultra Twin Toothbrush 1 pcs",
+        "nameWithoutSubText": "Prodentla B Ultra Twin Toothbrush",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/sensodyne-repair-and-protect-toothpaste-70-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69564&q=low&v=1"
+            "https://chaldn.com/_mpimage/prodentla-b-ultra-twin-toothbrush-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53993&q=best&v=1"
         ],
-        "price": 295.0,
-        "corpPrice": 295.0,
-        "objectID": 22236
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 20512
     },
     {
         "category": {
@@ -534,16 +534,16 @@
             "id": "34",
             "slug": "oral"
         },
-        "bengaliName": " \u09aa\u09cd\u09b0\u09cb\u09a1\u09c7\u09a8\u09cd\u099f\u09b2\u09be \u09ac\u09bf \u0986\u09b2\u09cd\u099f\u09cd\u09b0\u09be \u099f\u09c1\u0987\u09a8 \u099f\u09c1\u09a5 \u09ac\u09cd\u09b0\u09be\u09b6 \u09e7 \u099f\u09bf",
+        "bengaliName": "\u09b8\u09c7\u09a8\u09b8\u09cb\u09a1\u09be\u0987\u09a8 \u09b0\u09bf\u09aa\u09c7\u09df\u09be\u09b0 \u098f\u09a8\u09cd\u09a1 \u09aa\u09cd\u09b0\u09cb\u099f\u09c7\u0995\u09cd\u099f \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u09ed\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Prodentla B Ultra Twin Toothbrush 1 pcs",
-        "nameWithoutSubText": "Prodentla B Ultra Twin Toothbrush",
+        "name": "Sensodyne Repair and Protect Toothpaste 70 gm",
+        "nameWithoutSubText": "Sensodyne Repair and Protect Toothpaste",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/prodentla-b-ultra-twin-toothbrush-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53993&q=best&v=1"
+            "https://chaldn.com/_mpimage/sensodyne-repair-and-protect-toothpaste-70-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69564&q=low&v=1"
         ],
-        "price": 100.0,
-        "corpPrice": 100.0,
-        "objectID": 20512
+        "price": 295.0,
+        "corpPrice": 295.0,
+        "objectID": 22236
     },
     {
         "category": {
@@ -585,23 +585,6 @@
             "id": "34",
             "slug": "oral"
         },
-        "bengaliName": "\u09aa\u09c7\u09aa\u09b8\u09cb\u09a1\u09c7\u09a8\u09cd\u099f \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u099a\u09be\u09b0\u0995\u09cb\u09b2 \u09b9\u09cb\u09df\u09be\u0987\u099f \u09ef\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Pepsodent Toothpaste Charcoal White 90 gm",
-        "nameWithoutSubText": "Pepsodent Toothpaste Charcoal White",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/pepsodent-toothpaste-charcoal-white-90-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76205&q=low&v=1"
-        ],
-        "price": 75.0,
-        "corpPrice": 75.0,
-        "objectID": 15767
-    },
-    {
-        "category": {
-            "name": "Oral Care",
-            "id": "34",
-            "slug": "oral"
-        },
         "bengaliName": "\u0995\u09cd\u09b2\u09cb\u099c\u0986\u09aa \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf \u09ac\u09cd\u09af\u09be\u0995\u099f\u09c7\u09b0\u09bf\u09af\u09bc\u09be\u09b2 \u09a8\u09c7\u099a\u09be\u09b0 \u09ac\u09c1\u09b8\u09cd\u099f \u09ae\u09be\u0989\u09a5\u0993\u09af\u09bc\u09be\u09b6 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": "Closeup anti-bacterial Nature Boost mouthwash is infused with active zinc formula that has 100% proven action against bacteria for whole mouth protection 24/7*. it reaches all over the mouth and areas that are hard to reach with brushing alone to deliver 24 long lasting fresh breath* and confidence. enjoy the refreshing burst of flavor.\r\n\r\nHow to use: rinse with undiluted 20ml for 30 seconds. gargle & expel. do not swallow the rinse. use twice daily. do not rinse mouth with water or eat or drink 30 minutes post rinse. for best results, use together with closeup toothpaste.\r\n\r\nStorage direction: store in a cool and dry place. keep it away from direct heat or sunlight.\r\n\r\nSafety warning: for external use only. not to be swallowed. keep out of reach of children.",
         "name": "Closeup Anti Bacterial Nature Boost Mouth Wash 300 ml",
@@ -617,6 +600,23 @@
         "price": 300.0,
         "corpPrice": 300.0,
         "objectID": 22832
+    },
+    {
+        "category": {
+            "name": "Oral Care",
+            "id": "34",
+            "slug": "oral"
+        },
+        "bengaliName": "\u09aa\u09c7\u09aa\u09b8\u09cb\u09a1\u09c7\u09a8\u09cd\u099f \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u099a\u09be\u09b0\u0995\u09cb\u09b2 \u09b9\u09cb\u09df\u09be\u0987\u099f \u09ef\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pepsodent Toothpaste Charcoal White 90 gm",
+        "nameWithoutSubText": "Pepsodent Toothpaste Charcoal White",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pepsodent-toothpaste-charcoal-white-90-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76205&q=low&v=1"
+        ],
+        "price": 75.0,
+        "corpPrice": 75.0,
+        "objectID": 15767
     },
     {
         "category": {
@@ -760,23 +760,6 @@
             "id": "34",
             "slug": "oral"
         },
-        "bengaliName": " \u0995\u09bf\u0989\u099f \u09ab\u09cd\u09b2\u09c1\u09b0\u09be\u0987\u09a1 \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Origin: Bangladesh\r\nFlouride toothpaste, made in association with the american association IFF, is designed for cavity protection and contains clove oil. Clove, known for its antibacterial and analgesic properties, is effective in combating bacterial decomposition of food particles. It helps fight germs and prevents tooth decay and cavities. Its analgesic action help relieve toothaches and strong antibacterial properties fights germs and prevents tooth decay. Regular brushing freshens breath,helps prevent plaque and tartar buildup\r\nINGREDIENT\r\n\u2022          Calcium Carbonate\r\n\u2022          Sorbitol, Silica\r\n\u2022          Sodium Lauryl Sulfate\r\n\u2022          Dodecyl benzoin Sulphonate\r\n\u2022          Cellules\r\n\u2022          Sodium Monofluorophosphate\r\n\u2022          Flavor",
-        "name": "Cute Fluoride Toothpaste 100 gm",
-        "nameWithoutSubText": "Cute Fluoride Toothpaste",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/cute-fluoride-toothpaste-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50485&q=low&v=1"
-        ],
-        "price": 45.0,
-        "corpPrice": 45.0,
-        "objectID": 18630
-    },
-    {
-        "category": {
-            "name": "Oral Care",
-            "id": "34",
-            "slug": "oral"
-        },
         "bengaliName": "\u0993\u09b0\u09be\u09b2-\u09ac\u09bf \u098f\u09b8\u09c7\u09a8\u09b6\u09bf\u09df\u09be\u09b2 \u09a1\u09c7\u09a8\u09cd\u099f\u09be\u09b2 \u09ab\u09cd\u09b2\u09b8 \u09eb\u09e6 \u09ae\u09bf\u099f\u09be\u09b0",
         "longDesc": null,
         "name": "Oral-B Essential Dental Floss 50 mtr",
@@ -787,6 +770,23 @@
         "price": 199.0,
         "corpPrice": 199.0,
         "objectID": 11135
+    },
+    {
+        "category": {
+            "name": "Oral Care",
+            "id": "34",
+            "slug": "oral"
+        },
+        "bengaliName": " \u0995\u09bf\u0989\u099f \u09ab\u09cd\u09b2\u09c1\u09b0\u09be\u0987\u09a1 \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nFlouride toothpaste, made in association with the american association IFF, is designed for cavity protection and contains clove oil. Clove, known for its antibacterial and analgesic properties, is effective in combating bacterial decomposition of food particles. It helps fight germs and prevents tooth decay and cavities. Its analgesic action help relieve toothaches and strong antibacterial properties fights germs and prevents tooth decay. Regular brushing freshens breath,helps prevent plaque and tartar buildup\r\nINGREDIENT\r\n\u2022          Calcium Carbonate\r\n\u2022          Sorbitol, Silica\r\n\u2022          Sodium Lauryl Sulfate\r\n\u2022          Dodecyl benzoin Sulphonate\r\n\u2022          Cellules\r\n\u2022          Sodium Monofluorophosphate\r\n\u2022          Flavor",
+        "name": "Cute Fluoride Toothpaste 100 gm",
+        "nameWithoutSubText": "Cute Fluoride Toothpaste",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cute-fluoride-toothpaste-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50485&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 18630
     },
     {
         "category": {

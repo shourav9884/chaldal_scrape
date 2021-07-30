@@ -158,6 +158,23 @@
             "id": "50",
             "slug": "cookies"
         },
+        "bengaliName": "\u099f\u09bf\u09ab\u09be\u09a8\u09bf \u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09bf \u0995\u09ae\u09b2\u09be \u0995\u09cd\u09b0\u09bf\u09ae \u09ac\u09bf\u09b8\u09cd\u0995\u09bf\u099f \u09e7\u09ec\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tiffany Sugar free Orange Cream Biscuits 162 gm",
+        "nameWithoutSubText": "Tiffany Sugar free Orange Cream Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tiffany-sugar-free-orange-cream-biscuits-162-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43641&q=low&v=1"
+        ],
+        "price": 259.0,
+        "corpPrice": 259.0,
+        "objectID": 16176
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
         "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u098f\u09b2\u09be\u099a\u09bf \u0995\u09c1\u0995\u09bf\u09b8 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Olympic Elach Cookies 240 gm",
@@ -185,23 +202,6 @@
         "price": 50.0,
         "corpPrice": 50.0,
         "objectID": 16652
-    },
-    {
-        "category": {
-            "name": "Cookies",
-            "id": "50",
-            "slug": "cookies"
-        },
-        "bengaliName": "\u099f\u09bf\u09ab\u09be\u09a8\u09bf \u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09bf \u0995\u09ae\u09b2\u09be \u0995\u09cd\u09b0\u09bf\u09ae \u09ac\u09bf\u09b8\u09cd\u0995\u09bf\u099f \u09e7\u09ec\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Tiffany Sugar free Orange Cream Biscuits 162 gm",
-        "nameWithoutSubText": "Tiffany Sugar free Orange Cream Biscuits",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/tiffany-sugar-free-orange-cream-biscuits-162-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43641&q=low&v=1"
-        ],
-        "price": 259.0,
-        "corpPrice": 259.0,
-        "objectID": 16176
     },
     {
         "category": {

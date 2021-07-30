@@ -131,6 +131,23 @@
             "id": "93",
             "slug": "noodles"
         },
+        "bengaliName": "\u0995\u09cb\u0995\u09cb\u09b2\u09be \u09b9\u099f \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b8\u09cd\u09aa\u09be\u0987\u09b8\u09bf \u0995\u09be\u09aa \u09a8\u09c1\u09a1\u09b2\u09b8  (\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Cocola Hot & Spicy Cup Noodles 40 gm",
+        "nameWithoutSubText": "Cocola Hot & Spicy Cup Noodles",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cocola-hot-spicy-cup-noodles-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51945&q=best&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 19798
+    },
+    {
+        "category": {
+            "name": "Noodles",
+            "id": "93",
+            "slug": "noodles"
+        },
         "bengaliName": "\u0987\u09ab\u09be\u09a6 \u098f\u0997\u09bf \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 (\u09a6\u09c1\u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u098f\u0995\u099f\u09bf \u09ab\u09cd\u09b0\u09bf) \u09ea\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Ifad Eggy Instant Masala Noodles (Buy 2 Get 1 Free)  480 gm",
@@ -158,23 +175,6 @@
         "price": 135.0,
         "corpPrice": 135.0,
         "objectID": 7772
-    },
-    {
-        "category": {
-            "name": "Noodles",
-            "id": "93",
-            "slug": "noodles"
-        },
-        "bengaliName": "\u0995\u09cb\u0995\u09cb\u09b2\u09be \u09b9\u099f \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b8\u09cd\u09aa\u09be\u0987\u09b8\u09bf \u0995\u09be\u09aa \u09a8\u09c1\u09a1\u09b2\u09b8  (\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7 \u099f\u09bf",
-        "longDesc": null,
-        "name": "Cocola Hot & Spicy Cup Noodles 40 gm",
-        "nameWithoutSubText": "Cocola Hot & Spicy Cup Noodles",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/cocola-hot-spicy-cup-noodles-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51945&q=best&v=1"
-        ],
-        "price": 30.0,
-        "corpPrice": 30.0,
-        "objectID": 19798
     },
     {
         "category": {
@@ -369,23 +369,6 @@
             "id": "93",
             "slug": "noodles"
         },
-        "bengaliName": "\u0987\u09ab\u09be\u09a6 \u098f\u0997\u09bf \u0987\u09a8\u09cd\u09b8\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09ae\u09be\u09b8\u09be\u09b2\u09be (\u09e8 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09ea \u099f\u09bf",
-        "longDesc": null,
-        "name": "Ifad Eggy Instant Noodles Masala (Buy 2 Get 1 Free) 4 pcs",
-        "nameWithoutSubText": "Ifad Eggy Instant Noodles Masala (Buy 2 Get 1 Free)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/ifad-eggy-instant-noodles-masala-buy-2-get-1-free-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73667&q=low&v=1"
-        ],
-        "price": 136.0,
-        "corpPrice": 136.0,
-        "objectID": 23584
-    },
-    {
-        "category": {
-            "name": "Noodles",
-            "id": "93",
-            "slug": "noodles"
-        },
         "bengaliName": "\u09ae\u09be\u09ae\u09be \u09b9\u099f \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b8\u09cd\u09aa\u09be\u0987\u09b8\u09bf \u0995\u09be\u09aa \u09a8\u09c1\u09a1\u09b2\u09b8 \u09ec\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Mama Hot & Spicy Cup Noodles 62 gm",
@@ -396,6 +379,23 @@
         "price": 60.0,
         "corpPrice": 60.0,
         "objectID": 20505
+    },
+    {
+        "category": {
+            "name": "Noodles",
+            "id": "93",
+            "slug": "noodles"
+        },
+        "bengaliName": "\u0987\u09ab\u09be\u09a6 \u098f\u0997\u09bf \u0987\u09a8\u09cd\u09b8\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09ae\u09be\u09b8\u09be\u09b2\u09be (\u09e8 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09ea \u099f\u09bf",
+        "longDesc": null,
+        "name": "Ifad Eggy Instant Noodles Masala (Buy 2 Get 1 Free) 4 pcs",
+        "nameWithoutSubText": "Ifad Eggy Instant Noodles Masala (Buy 2 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ifad-eggy-instant-noodles-masala-buy-2-get-1-free-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73667&q=low&v=1"
+        ],
+        "price": 136.0,
+        "corpPrice": 136.0,
+        "objectID": 23584
     },
     {
         "category": {
@@ -488,23 +488,6 @@
             "id": "93",
             "slug": "noodles"
         },
-        "bengaliName": "\u09ae\u09be\u09ae\u09be \u0993\u09b0\u09bf\u09df\u09c7\u09a8\u09cd\u099f\u09be\u09b2 \u09b8\u09cd\u099f\u09be\u0987\u09b2 \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09b8\u09cd\u09b0\u09bf\u09ae\u09cd\u09aa \u099f\u09ae \u0987\u09df\u09be\u09ae \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
-        "longDesc": "\u2022Very convenient and easy to make, enjoy as a meal or snack.\r\n\r\n\u2022Make it your own by adding vegetables or a protein.\r\n\r\n\u2022Individually wrapped packages,  eat at home, work, or on-the-go\r\n\r\n\u2022Product of Thailand, Authentic Flavor.\r\n",
-        "name": "Mama OS Instant Noodles Shrimp Tom Yum Flavor 60 gm",
-        "nameWithoutSubText": "Mama OS Instant Noodles Shrimp Tom Yum Flavor",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/mama-os-instant-noodles-shrimp-tom-yum-flavor-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68902&q=low&v=1"
-        ],
-        "price": 40.0,
-        "corpPrice": 40.0,
-        "objectID": 22859
-    },
-    {
-        "category": {
-            "name": "Noodles",
-            "id": "93",
-            "slug": "noodles"
-        },
         "bengaliName": "\u09ae\u09be\u09ae\u09be \u0993\u09b0\u09bf\u09df\u09c7\u09a8\u09cd\u099f\u09be\u09b2 \u09b8\u09cd\u099f\u09be\u0987\u09b2 \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09b8\u09cd\u09b0\u09bf\u09ae\u09cd\u09aa \u0995\u09cd\u09b0\u09bf\u09ae\u09bf \u099f\u09ae \u0987\u09df\u09be\u09ae \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
         "longDesc": "\u2022Very convenient and easy to make, enjoy as a meal or snack.\r\n\r\n\u2022Make it your own by adding vegetables or a protein.\r\n\r\n\u2022Individually wrapped packages,  eat at home, work, or on-the-go\r\n\r\n\u2022Product of Thailand, Authentic Flavor.\r\n",
         "name": "Mama OS Instant Noodles Shrimp Creamy Tom Yum Flavor 60 gm",
@@ -515,23 +498,6 @@
         "price": 40.0,
         "corpPrice": 40.0,
         "objectID": 22858
-    },
-    {
-        "category": {
-            "name": "Noodles",
-            "id": "93",
-            "slug": "noodles"
-        },
-        "bengaliName": "\u09ae\u09be\u09ae\u09be \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09b6\u09cd\u09b0\u09bf\u09ae\u09cd\u09aa \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ea \u099f\u09bf \u09e8\u09ea\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Mama Noodles Shrimp Flavour 4 pcs 248 gm",
-        "nameWithoutSubText": "Mama Noodles Shrimp Flavour 4 pcs",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/mama-noodles-shrimp-flavour-4-pcs-248-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46392&q=low&v=1"
-        ],
-        "price": 70.0,
-        "corpPrice": 70.0,
-        "objectID": 5803
     },
     {
         "category": {
@@ -556,16 +522,16 @@
             "id": "93",
             "slug": "noodles"
         },
-        "bengaliName": "\u09a1\u09cd\u09b0\u09be\u0997\u09a8 \u09ac\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u09ae\u09be\u09ae\u09be \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09b6\u09cd\u09b0\u09bf\u09ae\u09cd\u09aa \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ea \u099f\u09bf \u09e8\u09ea\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Dragon Brand Noodles 300 gm",
-        "nameWithoutSubText": "Dragon Brand Noodles",
+        "name": "Mama Noodles Shrimp Flavour 4 pcs 248 gm",
+        "nameWithoutSubText": "Mama Noodles Shrimp Flavour 4 pcs",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/dragon-brand-noodles-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65246&q=low&v=1"
+            "https://chaldn.com/_mpimage/mama-noodles-shrimp-flavour-4-pcs-248-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46392&q=low&v=1"
         ],
-        "price": 39.0,
-        "corpPrice": 39.0,
-        "objectID": 2213
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 5803
     },
     {
         "category": {
@@ -590,6 +556,23 @@
             "id": "93",
             "slug": "noodles"
         },
+        "bengaliName": "\u09a1\u09cd\u09b0\u09be\u0997\u09a8 \u09ac\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dragon Brand Noodles 300 gm",
+        "nameWithoutSubText": "Dragon Brand Noodles",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dragon-brand-noodles-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65246&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 2213
+    },
+    {
+        "category": {
+            "name": "Noodles",
+            "id": "93",
+            "slug": "noodles"
+        },
         "bengaliName": "\u09ae\u09be\u09ae\u09be \u099a\u09bf\u0982\u09a1\u09bc\u09bf \u09a8\u09c1\u09a1\u09b2\u09b8 \u09ee \u09aa\u09bf\u09b8\u09bf \u09ea\u09ef\u09ec \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Mama Shrimp Noodles 8 pcs 496 gm",
@@ -600,6 +583,23 @@
         "price": 135.0,
         "corpPrice": 135.0,
         "objectID": 20507
+    },
+    {
+        "category": {
+            "name": "Noodles",
+            "id": "93",
+            "slug": "noodles"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cd\u0995\u09cb \u09a1\u09bf\u09ae \u09a8\u09c1\u09a1\u09b2\u09b8 \u09e8\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Egg Noodles 280 gm",
+        "nameWithoutSubText": "Dekko Egg Noodles",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dekko-egg-noodles-280-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61361&q=low&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 21811
     },
     {
         "category": {
@@ -624,16 +624,16 @@
             "id": "93",
             "slug": "noodles"
         },
-        "bengaliName": "\u09a1\u09c7\u0995\u09cd\u0995\u09cb \u09a1\u09bf\u09ae \u09a8\u09c1\u09a1\u09b2\u09b8 \u09e8\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Dekko Egg Noodles 280 gm",
-        "nameWithoutSubText": "Dekko Egg Noodles",
+        "bengaliName": "\u09ae\u09be\u09ae\u09be \u0993\u09b0\u09bf\u09df\u09c7\u09a8\u09cd\u099f\u09be\u09b2 \u09b8\u09cd\u099f\u09be\u0987\u09b2 \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09b8\u09cd\u09b0\u09bf\u09ae\u09cd\u09aa \u099f\u09ae \u0987\u09df\u09be\u09ae \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "\u2022Very convenient and easy to make, enjoy as a meal or snack.\r\n\r\n\u2022Make it your own by adding vegetables or a protein.\r\n\r\n\u2022Individually wrapped packages,  eat at home, work, or on-the-go\r\n\r\n\u2022Product of Thailand, Authentic Flavor.\r\n",
+        "name": "Mama OS Instant Noodles Shrimp Tom Yum Flavor 60 gm",
+        "nameWithoutSubText": "Mama OS Instant Noodles Shrimp Tom Yum Flavor",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/dekko-egg-noodles-280-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61361&q=low&v=1"
+            "https://chaldn.com/_mpimage/mama-os-instant-noodles-shrimp-tom-yum-flavor-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68902&q=low&v=1"
         ],
-        "price": 30.0,
-        "corpPrice": 30.0,
-        "objectID": 21811
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 22859
     },
     {
         "category": {
@@ -760,23 +760,6 @@
             "id": "93",
             "slug": "noodles"
         },
-        "bengaliName": "\u099a\u09aa\u09b8\u09cd\u099f\u09bf\u0995 \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09a6\u09c7\u09b6\u09bf \u09ae\u09be\u09b8\u09be\u09b2\u09be (\u09ab\u09cd\u09b0\u09c0 \u09a4\u09c7\u09b9\u09be\u09b0\u09bf \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09ed\u09ea\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Chopstick Noodles DM (Free Tehari Masala 40 gm) 744 gm",
-        "nameWithoutSubText": "Chopstick Noodles DM (Free Tehari Masala 40 gm)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/chopstick-noodles-dm-free-tehari-masala-40-gm-744-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74871&q=low&v=1"
-        ],
-        "price": 200.0,
-        "corpPrice": 200.0,
-        "objectID": 23677
-    },
-    {
-        "category": {
-            "name": "Noodles",
-            "id": "93",
-            "slug": "noodles"
-        },
         "bengaliName": "\u09ae\u09be\u09ae\u09be \u0993\u09b0\u09bf\u09df\u09c7\u09a8\u09cd\u099f\u09be\u09b2 \u09b8\u09cd\u099f\u09be\u0987\u09b2 \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u099a\u09bf\u0995\u09c7\u09a8 \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
         "longDesc": "\u2022Very convenient and easy to make, enjoy as a meal or snack.\r\n\r\n\u2022Make it your own by adding vegetables or a protein.\r\n\r\n\u2022Individually wrapped packages,  eat at home, work, or on-the-go\r\n\r\n\u2022Product of Thailand, Authentic Flavor.\r\n",
         "name": "Mama OS Instant Noodles Chicken Masala Flavor 60 gm",
@@ -794,23 +777,6 @@
             "id": "93",
             "slug": "noodles"
         },
-        "bengaliName": "\u09ae\u09be\u09ae\u09be \u0993\u09b0\u09bf\u09df\u09c7\u09a8\u09cd\u099f\u09be\u09b2 \u0995\u09bf\u099a\u09c7\u09a8 \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09b9\u099f \u0995\u09cb\u09b0\u09bf\u09df\u09be\u09a8 \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ee\u09eb \u0997\u09cd\u09b0\u09be\u09ae ",
-        "longDesc": "\u2022Very convenient and easy to make, enjoy as a meal or snack.\r\n\r\n\u2022Make it your own by adding vegetables or a protein.\r\n\r\n\u2022Individually wrapped packages,  eat at home, work, or on-the-go.\r\n\r\n\u2022Product of Thailand, Authentic Flavor.\r\n",
-        "name": "Mama OK Instant Noodles Hot Korean Flavour 85 gm",
-        "nameWithoutSubText": "Mama OK Instant Noodles Hot Korean Flavour",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/mama-ok-instant-noodles-hot-korean-flavour-85-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68898&q=low&v=1"
-        ],
-        "price": 85.0,
-        "corpPrice": 85.0,
-        "objectID": 22854
-    },
-    {
-        "category": {
-            "name": "Noodles",
-            "id": "93",
-            "slug": "noodles"
-        },
         "bengaliName": "\u0995\u09cb\u0995\u09cb\u09b2\u09be \u0995\u09c1\u0995 \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Cocola Cook Masala Noodles 400 gm",
@@ -821,6 +787,40 @@
         "price": 65.0,
         "corpPrice": 65.0,
         "objectID": 11323
+    },
+    {
+        "category": {
+            "name": "Noodles",
+            "id": "93",
+            "slug": "noodles"
+        },
+        "bengaliName": "\u099a\u09aa\u09b8\u09cd\u099f\u09bf\u0995 \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09a6\u09c7\u09b6\u09bf \u09ae\u09be\u09b8\u09be\u09b2\u09be (\u09ab\u09cd\u09b0\u09c0 \u09a4\u09c7\u09b9\u09be\u09b0\u09bf \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09ed\u09ea\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Chopstick Noodles DM (Free Tehari Masala 40 gm) 744 gm",
+        "nameWithoutSubText": "Chopstick Noodles DM (Free Tehari Masala 40 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chopstick-noodles-dm-free-tehari-masala-40-gm-744-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74871&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 23677
+    },
+    {
+        "category": {
+            "name": "Noodles",
+            "id": "93",
+            "slug": "noodles"
+        },
+        "bengaliName": "\u09ae\u09be\u09ae\u09be \u0993\u09b0\u09bf\u09df\u09c7\u09a8\u09cd\u099f\u09be\u09b2 \u0995\u09bf\u099a\u09c7\u09a8 \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09b9\u099f \u0995\u09cb\u09b0\u09bf\u09df\u09be\u09a8 \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ee\u09eb \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "\u2022Very convenient and easy to make, enjoy as a meal or snack.\r\n\r\n\u2022Make it your own by adding vegetables or a protein.\r\n\r\n\u2022Individually wrapped packages,  eat at home, work, or on-the-go.\r\n\r\n\u2022Product of Thailand, Authentic Flavor.\r\n",
+        "name": "Mama OK Instant Noodles Hot Korean Flavour 85 gm",
+        "nameWithoutSubText": "Mama OK Instant Noodles Hot Korean Flavour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mama-ok-instant-noodles-hot-korean-flavour-85-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68898&q=low&v=1"
+        ],
+        "price": 85.0,
+        "corpPrice": 85.0,
+        "objectID": 22854
     },
     {
         "category": {

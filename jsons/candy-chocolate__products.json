@@ -211,23 +211,6 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
-        "bengaliName": "\u098f\u09ae\u098f\u09a8\u09cd\u09a1\u098f\u09ae \u099a\u0995\u09b2\u09c7\u099f \u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "M&M Chocolate 45 gm",
-        "nameWithoutSubText": "M&M Chocolate",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/mm-chocolate-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65297&q=low&v=1"
-        ],
-        "price": 80.0,
-        "corpPrice": 80.0,
-        "objectID": 3708
-    },
-    {
-        "category": {
-            "name": "Candy & Chocolate",
-            "id": "51",
-            "slug": "candy-chocolate"
-        },
         "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u0995\u09bf\u099f\u0995\u09cd\u09af\u09be\u099f \u09e8 \u09ab\u09bf\u0999\u09cd\u0997\u09be\u09b0 \u099a\u0995\u09b2\u09c7\u099f \u0995\u09ad\u09be\u09b0\u09a1 \u0993\u09df\u09c7\u09ab\u09be\u09b0 \u09ac\u09be\u09b0 \u09e8\u09e6.\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "NESTL\u00c9 KITKAT Chocolate Bar is the ideal snack for those who really value their break. Just unwrap the bar and break off one of the 2 fingers, snap it into two and savour the deliciously smooth milk chocolate.\r\nImported from Nestl\u00e9 Dubai",
         "name": "Nestle KitKat 2 Finger Chocolate Covered Wafer Bar 20.5 gm",
@@ -238,6 +221,23 @@
         "price": 35.0,
         "corpPrice": 35.0,
         "objectID": 22667
+    },
+    {
+        "category": {
+            "name": "Candy & Chocolate",
+            "id": "51",
+            "slug": "candy-chocolate"
+        },
+        "bengaliName": "\u098f\u09ae\u098f\u09a8\u09cd\u09a1\u098f\u09ae \u099a\u0995\u09b2\u09c7\u099f \u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "M&M Chocolate 45 gm",
+        "nameWithoutSubText": "M&M Chocolate",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mm-chocolate-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65297&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 3708
     },
     {
         "category": {
@@ -449,17 +449,16 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
-        "bengaliName": "\u0986\u09ae\u09c1\u09b2 \u09ae\u09bf\u09b2\u09cd\u0995 \u099a\u0995\u09b2\u09c7\u099f \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Origin: India\r\nAmul Milk Chocolate is a pure pleasure for your taste buds. It is a premium quality chocolate made with goodness of rich creamy milk and delicious cocoa. The milk chocolate by Amul consists of high-quality ingredients and is processed with the world class technology. Achieved through world-class refining, savor this mesmerizing combination as it leaves you with a delightful taste!\r\n\u2022 Real milk chocolate\r\n\u2022 No milk solids\r\n\u2022 Best cocoa and milk fat used",
-        "name": "Amul Milk Chocolate 40 gm",
-        "nameWithoutSubText": "Amul Milk Chocolate",
+        "bengaliName": "\u0995\u09cd\u09af\u09be\u09a1\u09ac\u09c7\u09b0\u09bf \u09a1\u09c7\u0987\u09b0\u09bf \u09ae\u09bf\u09b2\u09cd\u0995 \u099a\u0995\u09cb\u09b2\u09c7\u099f \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Cadbury Dairy Milk Chocolate 50 gm",
+        "nameWithoutSubText": "Cadbury Dairy Milk Chocolate",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/amul-milk-chocolate-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72189&q=low&v=1",
-            "https://chaldn.com/_mpimage/amul-milk-chocolate-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72190&q=low&v=1"
+            "https://chaldn.com/_mpimage/cadbury-dairy-milk-chocolate-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61386&q=low&v=1"
         ],
-        "price": 89.0,
-        "corpPrice": 89.0,
-        "objectID": 23476
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 21830
     },
     {
         "category": {
@@ -485,16 +484,17 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
-        "bengaliName": "\u0995\u09cd\u09af\u09be\u09a1\u09ac\u09c7\u09b0\u09bf \u09a1\u09c7\u0987\u09b0\u09bf \u09ae\u09bf\u09b2\u09cd\u0995 \u099a\u0995\u09cb\u09b2\u09c7\u099f \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Cadbury Dairy Milk Chocolate 50 gm",
-        "nameWithoutSubText": "Cadbury Dairy Milk Chocolate",
+        "bengaliName": "\u0986\u09ae\u09c1\u09b2 \u09ae\u09bf\u09b2\u09cd\u0995 \u099a\u0995\u09b2\u09c7\u099f \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: India\r\nAmul Milk Chocolate is a pure pleasure for your taste buds. It is a premium quality chocolate made with goodness of rich creamy milk and delicious cocoa. The milk chocolate by Amul consists of high-quality ingredients and is processed with the world class technology. Achieved through world-class refining, savor this mesmerizing combination as it leaves you with a delightful taste!\r\n\u2022 Real milk chocolate\r\n\u2022 No milk solids\r\n\u2022 Best cocoa and milk fat used",
+        "name": "Amul Milk Chocolate 40 gm",
+        "nameWithoutSubText": "Amul Milk Chocolate",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/cadbury-dairy-milk-chocolate-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61386&q=low&v=1"
+            "https://chaldn.com/_mpimage/amul-milk-chocolate-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72189&q=low&v=1",
+            "https://chaldn.com/_mpimage/amul-milk-chocolate-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72190&q=low&v=1"
         ],
-        "price": 80.0,
-        "corpPrice": 80.0,
-        "objectID": 21830
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 23476
     },
     {
         "category": {
@@ -553,6 +553,23 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
+        "bengaliName": "\u099f\u09bf\u0995 \u099f\u09cd\u09af\u09be\u0995 \u09b0\u09c7\u09a1 \u0985\u09cd\u09af\u09be\u09aa\u09c7\u09b2 \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0\u09a1 \u09ae\u09be\u0989\u09a5 \u09ab\u09cd\u09b0\u09c7\u09b6\u09a8\u09be\u09b0 \u09ed.\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Tic Tac\u2019s snazzy flip-top pack jazzes-up a boring day with your gang of buddies staying true to its core idea of \u201cRefreshment to be shared\u201d. It\u2019s unique rattle sound and playful little pills help shake-up your day and bring a smile to your face.",
+        "name": "Tic Tac Red Apple Flavored Mouth Freshener 7.2 gm",
+        "nameWithoutSubText": "Tic Tac Red Apple Flavored Mouth Freshener",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tic-tac-red-apple-flavored-mouth-freshener-72-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75906&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 21837
+    },
+    {
+        "category": {
+            "name": "Candy & Chocolate",
+            "id": "51",
+            "slug": "candy-chocolate"
+        },
         "bengaliName": "\u098f\u09cd\u09af\u09be\u09b2\u09aa\u09c7\u09a8\u09b2\u09bf\u09ac\u09c7 \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u0995\u09c7\u09b0\u09be\u09ae\u09c7\u09b2 \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09bf \u09aa\u09be\u0989\u099a \u09ef\u09e6 \u099f\u09bf",
         "longDesc": "90 Pcs Candy",
         "name": "Alpenliebe Original Caramel Candy Pouch 90 pcs",
@@ -564,23 +581,6 @@
         "price": 90.0,
         "corpPrice": 90.0,
         "objectID": 9782
-    },
-    {
-        "category": {
-            "name": "Candy & Chocolate",
-            "id": "51",
-            "slug": "candy-chocolate"
-        },
-        "bengaliName": "\u099f\u09bf\u0995 \u099f\u09cd\u09af\u09be\u0995 \u09b0\u09c7\u09a1 \u0985\u09cd\u09af\u09be\u09aa\u09c7\u09b2 \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0\u09a1 \u09ae\u09be\u0989\u09a5 \u09ab\u09cd\u09b0\u09c7\u09b6\u09a8\u09be\u09b0 \u09ed.\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Tic Tac\u2019s snazzy flip-top pack jazzes-up a boring day with your gang of buddies staying true to its core idea of \u201cRefreshment to be shared\u201d. It\u2019s unique rattle sound and playful little pills help shake-up your day and bring a smile to your face.",
-        "name": "Tic Tac Red Apple Flavored Mouth Freshener 7.2 gm",
-        "nameWithoutSubText": "Tic Tac Red Apple Flavored Mouth Freshener",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/tic-tac-red-apple-flavored-mouth-freshener-72-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75906&q=low&v=1"
-        ],
-        "price": 25.0,
-        "corpPrice": 25.0,
-        "objectID": 21837
     },
     {
         "category": {
@@ -639,23 +639,6 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
-        "bengaliName": "\u09b8\u09bf\u09ac\u09bf\u098f\u09b2 \u09ae\u09c1\u09a8\u09cd\u099a\u09bf \u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be \u0993\u09af\u09bc\u09be\u09ab\u09be\u09b0 \u098f\u0995\u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u098f\u0995\u099f\u09bf \u09ab\u09cd\u09b0\u09bf \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "CBL Munchee Vanilla Wafer (Buy 1 Get 1 Free) 100 gm",
-        "nameWithoutSubText": "CBL Munchee Vanilla Wafer (Buy 1 Get 1 Free)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/cbl-munchee-vanilla-wafer-buy-1-get-1-free-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74111&q=low&v=1"
-        ],
-        "price": 80.0,
-        "corpPrice": 80.0,
-        "objectID": 23730
-    },
-    {
-        "category": {
-            "name": "Candy & Chocolate",
-            "id": "51",
-            "slug": "candy-chocolate"
-        },
         "bengaliName": "\u09b2\u099f\u09bf \u09b8\u09cd\u09aa\u09be\u0989\u099f \u0997\u09cd\u09b0\u09c7\u09aa \u09e8\u09e9.\u09ee\u09ec \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Lotte Spout Grape 23.86 gm",
@@ -666,6 +649,23 @@
         "price": 25.0,
         "corpPrice": 25.0,
         "objectID": 24144
+    },
+    {
+        "category": {
+            "name": "Candy & Chocolate",
+            "id": "51",
+            "slug": "candy-chocolate"
+        },
+        "bengaliName": "\u09b8\u09bf\u09ac\u09bf\u098f\u09b2 \u09ae\u09c1\u09a8\u09cd\u099a\u09bf \u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be \u0993\u09af\u09bc\u09be\u09ab\u09be\u09b0 \u098f\u0995\u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u098f\u0995\u099f\u09bf \u09ab\u09cd\u09b0\u09bf \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "CBL Munchee Vanilla Wafer (Buy 1 Get 1 Free) 100 gm",
+        "nameWithoutSubText": "CBL Munchee Vanilla Wafer (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cbl-munchee-vanilla-wafer-buy-1-get-1-free-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74111&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 23730
     },
     {
         "category": {
@@ -710,23 +710,6 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
-        "bengaliName": "\u09ae\u09be\u09b0\u09cd\u09b8 \u099a\u0995\u09cb\u09b2\u09c7\u099f \u09ac\u09be\u09b0 \u09eb\u09e7 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Mars Chocolate Bar 51 gm",
-        "nameWithoutSubText": "Mars Chocolate Bar",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/mars-chocolate-bar-51-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70097&q=low&v=1"
-        ],
-        "price": 59.0,
-        "corpPrice": 59.0,
-        "objectID": 7295
-    },
-    {
-        "category": {
-            "name": "Candy & Chocolate",
-            "id": "51",
-            "slug": "candy-chocolate"
-        },
         "bengaliName": "\u09ac\u09be\u0989\u09a8\u09cd\u099f\u09bf \u09e8 \u098f\u0995\u09cd\u09b8 \u099a\u0995\u09b2\u09c7\u099f \u09eb\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Bounty is a chocolate bar manufactured by Mars, Incorporated and sold internationally. It was introduced in 1951 in the United Kingdom and Canada, initially only with a milk chocolate coating. Bounty has a coconut filling enrobed with milk chocolate (which is sold in a blue wrapper) or dark chocolate (which is sold in a red wrapper) and is sold as two pieces wrapped in one package.",
         "name": "Bounty 2x Chocolate 57 gm",
@@ -744,18 +727,16 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
-        "bengaliName": "\u0986\u09ae\u09c1\u09b2 \u09a1\u09be\u09b0\u09cd\u0995 \u099a\u0995\u09b2\u09c7\u099f \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Origin: India\r\nAmul Dark Chocolate is made with the finest ingredients and delicious cocoa. For a better texture, the finest particle size (approx. 20 microns) is achieved through world-class refining, leaving you to indulge in the exquisite taste of rich dark chocolate. \r\n\u2022 55% dark chocolate\r\n\u2022 No milk solids\r\n\u2022 No vegetable fat\r\n\u2022 Pure cocoa butter & solids ",
-        "name": "Amul Dark Chocolate 150 gm",
-        "nameWithoutSubText": "Amul Dark Chocolate",
+        "bengaliName": "\u09ae\u09be\u09b0\u09cd\u09b8 \u099a\u0995\u09cb\u09b2\u09c7\u099f \u09ac\u09be\u09b0 \u09eb\u09e7 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mars Chocolate Bar 51 gm",
+        "nameWithoutSubText": "Mars Chocolate Bar",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/amul-dark-chocolate-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72155&q=low&v=1",
-            "https://chaldn.com/_mpimage/amul-dark-chocolate-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72168&q=low&v=1",
-            "https://chaldn.com/_mpimage/amul-dark-chocolate-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72169&q=low&v=1"
+            "https://chaldn.com/_mpimage/mars-chocolate-bar-51-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70097&q=low&v=1"
         ],
-        "price": 289.0,
-        "corpPrice": 289.0,
-        "objectID": 23467
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 7295
     },
     {
         "category": {
@@ -815,6 +796,25 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
+        "bengaliName": "\u0986\u09ae\u09c1\u09b2 \u09a1\u09be\u09b0\u09cd\u0995 \u099a\u0995\u09b2\u09c7\u099f \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: India\r\nAmul Dark Chocolate is made with the finest ingredients and delicious cocoa. For a better texture, the finest particle size (approx. 20 microns) is achieved through world-class refining, leaving you to indulge in the exquisite taste of rich dark chocolate. \r\n\u2022 55% dark chocolate\r\n\u2022 No milk solids\r\n\u2022 No vegetable fat\r\n\u2022 Pure cocoa butter & solids ",
+        "name": "Amul Dark Chocolate 150 gm",
+        "nameWithoutSubText": "Amul Dark Chocolate",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/amul-dark-chocolate-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72155&q=low&v=1",
+            "https://chaldn.com/_mpimage/amul-dark-chocolate-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72168&q=low&v=1",
+            "https://chaldn.com/_mpimage/amul-dark-chocolate-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72169&q=low&v=1"
+        ],
+        "price": 289.0,
+        "corpPrice": 289.0,
+        "objectID": 23467
+    },
+    {
+        "category": {
+            "name": "Candy & Chocolate",
+            "id": "51",
+            "slug": "candy-chocolate"
+        },
         "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u0995\u09bf\u099f \u0995\u09cd\u09af\u09be\u099f \u099a\u09be\u0999\u09cd\u0995\u09bf \u09ae\u09bf\u09b2\u09cd\u0995 \u099a\u0995\u09cb\u09b2\u09c7\u099f \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "NESTL\u00c9 KITKAT Chocolate Bar is the ideal snack for those who really value their break. Just unwrap the bar and break off one of the 4 fingers, snap it into two and savour the deliciously smooth milk chocolate.\r\nImported from Nestl\u00e9 Dubai",
         "name": "Nestle Kit Kat Chunky Milk Chocolate 40 gm",
@@ -866,23 +866,6 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
-        "bengaliName": "\u09b2\u099f\u09bf \u09b8\u09cd\u09aa\u09be\u0989\u099f \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u09e8\u09e9.\u09ee\u09ec \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Lotte Spout Strawberry 23.86 gm",
-        "nameWithoutSubText": "Lotte Spout Strawberry",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/lotte-spout-strawberry-2386-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75560&q=low&v=1"
-        ],
-        "price": 25.0,
-        "corpPrice": 25.0,
-        "objectID": 24143
-    },
-    {
-        "category": {
-            "name": "Candy & Chocolate",
-            "id": "51",
-            "slug": "candy-chocolate"
-        },
         "bengaliName": "\u09b8\u09cd\u09a8\u09bf\u0995\u09be\u09b0\u09cd\u09b8 \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u09aa\u09cd\u09af\u09be\u0995 \u099a\u0995\u09b2\u09c7\u099f \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Snickers Family Pack Chocolate 180 gm",
@@ -893,6 +876,23 @@
         "price": 225.0,
         "corpPrice": 225.0,
         "objectID": 11430
+    },
+    {
+        "category": {
+            "name": "Candy & Chocolate",
+            "id": "51",
+            "slug": "candy-chocolate"
+        },
+        "bengaliName": "\u09b2\u099f\u09bf \u09b8\u09cd\u09aa\u09be\u0989\u099f \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u09e8\u09e9.\u09ee\u09ec \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Lotte Spout Strawberry 23.86 gm",
+        "nameWithoutSubText": "Lotte Spout Strawberry",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lotte-spout-strawberry-2386-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75560&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 24143
     },
     {
         "category": {
@@ -936,6 +936,26 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
+        "bengaliName": "\u0995\u09bf\u09a8\u09cd\u09a1\u09be\u09b0 \u099c\u09df (\u099b\u09c7\u09b2\u09c7) \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kinder Joy (Boys) 20 gm",
+        "nameWithoutSubText": "Kinder Joy (Boys)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kinder-joy-boys-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80661&q=low&v=1",
+            "https://chaldn.com/_mpimage/kinder-joy-boys-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80662&q=best&v=1",
+            "https://chaldn.com/_mpimage/kinder-joy-boys-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80663&q=best&v=1",
+            "https://chaldn.com/_mpimage/kinder-joy-boys-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80664&q=best&v=1"
+        ],
+        "price": 75.0,
+        "corpPrice": 75.0,
+        "objectID": 6717
+    },
+    {
+        "category": {
+            "name": "Candy & Chocolate",
+            "id": "51",
+            "slug": "candy-chocolate"
+        },
         "bengaliName": "\u09ae\u09c7\u09a8\u099f\u09b8 \u09ae\u09bf\u09a8\u09cd\u099f \u09b0\u09cb\u09b2 \u09e8\u09e7.\u09ec \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "8 Pcs",
         "name": "Mentos Mint Roll 21.6 gm ",
@@ -963,26 +983,6 @@
         "price": 55.0,
         "corpPrice": 55.0,
         "objectID": 18622
-    },
-    {
-        "category": {
-            "name": "Candy & Chocolate",
-            "id": "51",
-            "slug": "candy-chocolate"
-        },
-        "bengaliName": "\u0995\u09bf\u09a8\u09cd\u09a1\u09be\u09b0 \u099c\u09df (\u099b\u09c7\u09b2\u09c7) \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Kinder Joy (Boys) 20 gm",
-        "nameWithoutSubText": "Kinder Joy (Boys)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/kinder-joy-boys-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80661&q=low&v=1",
-            "https://chaldn.com/_mpimage/kinder-joy-boys-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80662&q=best&v=1",
-            "https://chaldn.com/_mpimage/kinder-joy-boys-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80663&q=best&v=1",
-            "https://chaldn.com/_mpimage/kinder-joy-boys-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80664&q=best&v=1"
-        ],
-        "price": 75.0,
-        "corpPrice": 75.0,
-        "objectID": 6717
     },
     {
         "category": {
@@ -1025,6 +1025,23 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09a8\u0995 \u099a\u0995\u09b2\u09c7\u099f \u0995\u09cb\u099f\u09c7\u09a1 \u0993\u09df\u09c7\u09ab\u09be\u09b0 \u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Knock Chocolate Coated Wafer 25 gm",
+        "nameWithoutSubText": "Olympic Knock Chocolate Coated Wafer",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-knock-wafer-chocolate-coated-with-chocolate-cream-25-gm-fresh-crispy-chocolate-coated-wafer-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47021&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 16891
+    },
+    {
+        "category": {
+            "name": "Candy & Chocolate",
+            "id": "51",
+            "slug": "candy-chocolate"
+        },
         "bengaliName": "\u0985\u09cd\u09af\u09be\u09b2\u09aa\u09c7\u09a8\u09b2\u09bf\u09ac\u09c7 \u09aa\u09aa \u099c\u09be\u09b0 \u09e9\u09ec \u099f\u09bf",
         "longDesc": null,
         "name": "Alpenliebe Pop Jar 36 pcs",
@@ -1052,23 +1069,6 @@
         "price": 25.0,
         "corpPrice": 25.0,
         "objectID": 24140
-    },
-    {
-        "category": {
-            "name": "Candy & Chocolate",
-            "id": "51",
-            "slug": "candy-chocolate"
-        },
-        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09a8\u0995 \u099a\u0995\u09b2\u09c7\u099f \u0995\u09cb\u099f\u09c7\u09a1 \u0993\u09df\u09c7\u09ab\u09be\u09b0 \u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Olympic Knock Chocolate Coated Wafer 25 gm",
-        "nameWithoutSubText": "Olympic Knock Chocolate Coated Wafer",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/olympic-knock-wafer-chocolate-coated-with-chocolate-cream-25-gm-fresh-crispy-chocolate-coated-wafer-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47021&q=low&v=1"
-        ],
-        "price": 15.0,
-        "corpPrice": 15.0,
-        "objectID": 16891
     },
     {
         "category": {
@@ -1127,23 +1127,6 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
-        "bengaliName": "\u0986\u09ae\u09c1\u09b2 \u09ae\u09bf\u09b2\u09cd\u0995 \u099a\u0995\u09b2\u09c7\u099f \u09ae\u09bf\u09a8\u09bf\u09b8 \u0997\u09cd\u09af\u09be\u09ac\u09c7\u09b2 \u09aa\u09be\u0989\u099a \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Origin: India\r\nAmul Milk Chocolate is a pure pleasure for your taste buds. It is a premium quality chocolate made with goodness of rich creamy milk and delicious cocoa. The milk chocolate by Amul consists of high-quality ingredients and is processed with the world class technology. Achieved through world-class refining, savor this mesmerizing combination as it leaves you with a delightful taste!\r\n\u2022 Real milk chocolate\r\n\u2022 No milk solids\r\n\u2022 Best cocoa and milk fat used\r\n\u2022 20 mini (5g each) delights in the gable top pouch pack",
-        "name": "Amul Milk Chocolate Minis Gable Pouch 100 gm",
-        "nameWithoutSubText": "Amul Milk Chocolate Minis Gable Pouch",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/amul-milk-chocolate-minis-gable-pouch-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72184&q=low&v=1"
-        ],
-        "price": 280.0,
-        "corpPrice": 280.0,
-        "objectID": 23474
-    },
-    {
-        "category": {
-            "name": "Candy & Chocolate",
-            "id": "51",
-            "slug": "candy-chocolate"
-        },
         "bengaliName": "\u09b8\u09bf\u09ac\u09bf\u098f\u09b2 \u09ae\u09be\u099e\u09cd\u099a\u09bf \u099a\u0995\u09b2\u09c7\u099f \u09ab\u09bf\u0999\u09cd\u0997\u09be\u09b0\u09cd\u09b8 \u09ef\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "A crisp \"finger\" biscuit coated in rich milk\r\nchocolate. So irresistible, that once you start\r\ntasting \u2026 you simply won\u2019t be able to stop!",
         "name": "CBL Munchee Chocolate Fingers 90 gm",
@@ -1154,6 +1137,23 @@
         "price": 60.0,
         "corpPrice": 60.0,
         "objectID": 14971
+    },
+    {
+        "category": {
+            "name": "Candy & Chocolate",
+            "id": "51",
+            "slug": "candy-chocolate"
+        },
+        "bengaliName": "\u0986\u09ae\u09c1\u09b2 \u09ae\u09bf\u09b2\u09cd\u0995 \u099a\u0995\u09b2\u09c7\u099f \u09ae\u09bf\u09a8\u09bf\u09b8 \u0997\u09cd\u09af\u09be\u09ac\u09c7\u09b2 \u09aa\u09be\u0989\u099a \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: India\r\nAmul Milk Chocolate is a pure pleasure for your taste buds. It is a premium quality chocolate made with goodness of rich creamy milk and delicious cocoa. The milk chocolate by Amul consists of high-quality ingredients and is processed with the world class technology. Achieved through world-class refining, savor this mesmerizing combination as it leaves you with a delightful taste!\r\n\u2022 Real milk chocolate\r\n\u2022 No milk solids\r\n\u2022 Best cocoa and milk fat used\r\n\u2022 20 mini (5g each) delights in the gable top pouch pack",
+        "name": "Amul Milk Chocolate Minis Gable Pouch 100 gm",
+        "nameWithoutSubText": "Amul Milk Chocolate Minis Gable Pouch",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/amul-milk-chocolate-minis-gable-pouch-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72184&q=low&v=1"
+        ],
+        "price": 280.0,
+        "corpPrice": 280.0,
+        "objectID": 23474
     },
     {
         "category": {
@@ -1218,6 +1218,23 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
+        "bengaliName": "\u099f\u09bf\u0995 \u099f\u09cd\u09af\u09be\u0995 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0\u09a1 \u09ae\u09be\u0989\u09a5 \u09ab\u09cd\u09b0\u09c7\u09b6\u09a8\u09be\u09b0 \u09ed.\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Tic Tac\u2019s snazzy flip-top pack jazzes-up a boring day with your gang of buddies staying true to its core idea of \u201cRefreshment to be shared\u201d. It\u2019s unique rattle sound and playful little pills help shake-up your day and bring a smile to your face.",
+        "name": "Tic Tac Orange Flavored Mouth Freshener 7.2 gm",
+        "nameWithoutSubText": "Tic Tac Orange Flavored Mouth Freshener",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tic-tac-orange-flavored-mouth-freshener-72-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76955&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 21849
+    },
+    {
+        "category": {
+            "name": "Candy & Chocolate",
+            "id": "51",
+            "slug": "candy-chocolate"
+        },
         "bengaliName": "\u09b9\u09b0\u09bf\u09ac\u09cb \u0997\u09cb\u09b2\u09cd\u09a1\u09ac\u09bf\u09af\u09bc\u09be\u09b0\u09cd\u09b8 \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09bf \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "\"HARIBO Goldbears have been the gummi candy gold standard worldwide for over 90 years. Each bag contains five fruity flavors- Lemon, Orange, Pineapple, Raspberry, and Strawberry. HARIBO Sour Goldbears feature our original gummi bear flavors with a mildly sour, tangy coating. \r\nOur gummi bears are perfect for snacking and sharing.\r\n\r\nHARIBO Goldbears represent childlike happiness, no matter your age, and no matter the occasion.  Eat them, play with them, make them dance- our soft, chewy, fruit-flavored gummies are the perfect treat to share with friends, family, or co-workers.  \r\n\r\nTry a bag of these delicious gummies today, and let us know which flavor is \u201cmore gooder!\u201d\"",
         "name": "Haribo Goldbears Candy 80 gm",
@@ -1229,23 +1246,6 @@
         "price": 165.0,
         "corpPrice": 165.0,
         "objectID": 20673
-    },
-    {
-        "category": {
-            "name": "Candy & Chocolate",
-            "id": "51",
-            "slug": "candy-chocolate"
-        },
-        "bengaliName": "\u0995\u09bf\u09a8\u09cd\u09a1\u09be\u09b0 \u09ac\u09c1\u09df\u09c7\u09a8\u09cb \u0993\u09df\u09be\u09b0\u09cd\u09aa\u09a1 \u09ac\u09be\u09b0\u09b8 \u09ea\u09e9 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Kinder Bueno Wrapped Bars 43 gm",
-        "nameWithoutSubText": "Kinder Bueno Wrapped Bars",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/kinder-bueno-wrapped-bars-43-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46686&q=low&v=1"
-        ],
-        "price": 169.0,
-        "corpPrice": 169.0,
-        "objectID": 3664
     },
     {
         "category": {
@@ -1270,33 +1270,16 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
-        "bengaliName": "\u099f\u09bf\u0995 \u099f\u09cd\u09af\u09be\u0995 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0\u09a1 \u09ae\u09be\u0989\u09a5 \u09ab\u09cd\u09b0\u09c7\u09b6\u09a8\u09be\u09b0 \u09ed.\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Tic Tac\u2019s snazzy flip-top pack jazzes-up a boring day with your gang of buddies staying true to its core idea of \u201cRefreshment to be shared\u201d. It\u2019s unique rattle sound and playful little pills help shake-up your day and bring a smile to your face.",
-        "name": "Tic Tac Orange Flavored Mouth Freshener 7.2 gm",
-        "nameWithoutSubText": "Tic Tac Orange Flavored Mouth Freshener",
+        "bengaliName": "\u0995\u09bf\u09a8\u09cd\u09a1\u09be\u09b0 \u09ac\u09c1\u09df\u09c7\u09a8\u09cb \u0993\u09df\u09be\u09b0\u09cd\u09aa\u09a1 \u09ac\u09be\u09b0\u09b8 \u09ea\u09e9 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kinder Bueno Wrapped Bars 43 gm",
+        "nameWithoutSubText": "Kinder Bueno Wrapped Bars",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/tic-tac-orange-flavored-mouth-freshener-72-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76955&q=low&v=1"
+            "https://chaldn.com/_mpimage/kinder-bueno-wrapped-bars-43-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46686&q=low&v=1"
         ],
-        "price": 25.0,
-        "corpPrice": 25.0,
-        "objectID": 21849
-    },
-    {
-        "category": {
-            "name": "Candy & Chocolate",
-            "id": "51",
-            "slug": "candy-chocolate"
-        },
-        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u0995\u09bf\u099f\u0995\u09be\u099f 2 \u09ab\u09bf\u09a8\u0997\u09be\u09b0\u09cd\u09b8 \u0995\u09cd\u09af\u09be\u09b0\u09be\u09ae\u09c7\u09b2 \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u09aa \u099a\u0995\u09cb\u09b2\u09c7\u099f \u0993\u09af\u09bc\u09be\u09ab\u09be\u09b0 \u09e7\u09ef.\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "A unique mix offering of wafer mini fingers filled with rich ingredients Milk ,Caramel ,Mocha , Hazelnut & Cookies and cream. No Artificial Flavor. Imported from Nestl\u00e9 Dubai",
-        "name": "Nestle KitKat 2Fingers Caramel Crisp Chocolate Wafer 19.5 gm",
-        "nameWithoutSubText": "Nestle KitKat 2Fingers Caramel Crisp Chocolate Wafer",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/nestle-kitkat-2fingers-caramel-crisp-chocolate-wafer-195-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70753&q=low&v=1"
-        ],
-        "price": 50.0,
-        "corpPrice": 50.0,
-        "objectID": 21072
+        "price": 169.0,
+        "corpPrice": 169.0,
+        "objectID": 3664
     },
     {
         "category": {
@@ -1314,6 +1297,23 @@
         "price": 80.0,
         "corpPrice": 80.0,
         "objectID": 23775
+    },
+    {
+        "category": {
+            "name": "Candy & Chocolate",
+            "id": "51",
+            "slug": "candy-chocolate"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u0995\u09bf\u099f\u0995\u09be\u099f 2 \u09ab\u09bf\u09a8\u0997\u09be\u09b0\u09cd\u09b8 \u0995\u09cd\u09af\u09be\u09b0\u09be\u09ae\u09c7\u09b2 \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u09aa \u099a\u0995\u09cb\u09b2\u09c7\u099f \u0993\u09af\u09bc\u09be\u09ab\u09be\u09b0 \u09e7\u09ef.\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "A unique mix offering of wafer mini fingers filled with rich ingredients Milk ,Caramel ,Mocha , Hazelnut & Cookies and cream. No Artificial Flavor. Imported from Nestl\u00e9 Dubai",
+        "name": "Nestle KitKat 2Fingers Caramel Crisp Chocolate Wafer 19.5 gm",
+        "nameWithoutSubText": "Nestle KitKat 2Fingers Caramel Crisp Chocolate Wafer",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-kitkat-2fingers-caramel-crisp-chocolate-wafer-195-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70753&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 21072
     },
     {
         "category": {
@@ -1355,6 +1355,23 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
+        "bengaliName": "\u099f\u09c7\u09b8\u09cd\u099f\u09bf \u099f\u09cd\u09b0\u09bf\u099f\u09b8 \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09bf \u09ac\u0995\u09cd\u09b8",
+        "longDesc": null,
+        "name": "Sweet Treats Candy Box",
+        "nameWithoutSubText": "Sweet Treats Candy Box",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sweet-treats-candy-box?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65309&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 21128
+    },
+    {
+        "category": {
+            "name": "Candy & Chocolate",
+            "id": "51",
+            "slug": "candy-chocolate"
+        },
         "bengaliName": "\u0986\u09ae\u09c1\u09b2 \u099f\u09cd\u09b0\u09aa\u09bf\u0995\u09be\u09b2 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09a1\u09be\u09b0\u09cd\u0995 \u099a\u0995\u09b2\u09c7\u099f \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Origin: India\r\nAmul Dark Chocolate is made with the finest ingredients and delicious cocoa. For a better texture, the finest particle size (approx. 20 microns) is achieved through world-class refining, leaving you to indulge in the exquisite taste of rich dark chocolate. \r\n\u2022 55% dark chocolate\r\n\u2022 No milk solids\r\n\u2022 No vegetable fat\r\n\u2022 Pure cocoa butter & solids ",
         "name": "Amul Tropical Orange Dark Chocolate 150 gm",
@@ -1368,23 +1385,6 @@
         "price": 350.0,
         "corpPrice": 350.0,
         "objectID": 23470
-    },
-    {
-        "category": {
-            "name": "Candy & Chocolate",
-            "id": "51",
-            "slug": "candy-chocolate"
-        },
-        "bengaliName": "\u099f\u09c7\u09b8\u09cd\u099f\u09bf \u099f\u09cd\u09b0\u09bf\u099f\u09b8 \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09bf \u09ac\u0995\u09cd\u09b8",
-        "longDesc": null,
-        "name": "Sweet Treats Candy Box",
-        "nameWithoutSubText": "Sweet Treats Candy Box",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/sweet-treats-candy-box?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65309&q=low&v=1"
-        ],
-        "price": 100.0,
-        "corpPrice": 100.0,
-        "objectID": 21128
     },
     {
         "category": {
@@ -1530,6 +1530,23 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09a4\u09c7\u0981\u09a4\u09c1\u09b2 \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09bf \u09e8\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Tetul Candy 125 gm",
+        "nameWithoutSubText": "Olympic Tetul Candy",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-tetul-candy-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65304&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 19981
+    },
+    {
+        "category": {
+            "name": "Candy & Chocolate",
+            "id": "51",
+            "slug": "candy-chocolate"
+        },
         "bengaliName": "\u099f\u09c1\u0987\u0995\u09cd\u09b8 \u099a\u0995\u09b2\u09c7\u099f \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Twix Chocolate 50 gm",
@@ -1599,23 +1616,6 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
-        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09a4\u09c7\u0981\u09a4\u09c1\u09b2 \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09bf \u09e8\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Olympic Tetul Candy 125 gm",
-        "nameWithoutSubText": "Olympic Tetul Candy",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/olympic-tetul-candy-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65304&q=low&v=1"
-        ],
-        "price": 50.0,
-        "corpPrice": 50.0,
-        "objectID": 19981
-    },
-    {
-        "category": {
-            "name": "Candy & Chocolate",
-            "id": "51",
-            "slug": "candy-chocolate"
-        },
         "bengaliName": "\u099a\u0995 \u0995\u09df\u09c7\u09a8 \u099a\u0995\u09b2\u09c7\u099f \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09eb\u09ec \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Choc Coin Chocolate Flavour 56 gm",
@@ -1651,23 +1651,6 @@
             "id": "51",
             "slug": "candy-chocolate"
         },
-        "bengaliName": "\u09ae\u09c7\u09a8\u099f\u09b8 \u09aa\u09bf\u0993\u09b0 \u09ab\u09cd\u09b0\u09c7\u09b6 \u099a\u09bf\u0989\u0987\u0982 \u09b2\u09be\u0987\u09ae \u09ae\u09bf\u09a8\u099f \u09b8\u09c1\u0997\u09be\u09b0\u09ab\u09cd\u09b0\u09bf \u0997\u09be\u09ae \u09e8\u09ef. \u09ed \u0997\u09cd\u09b0\u09be\u09ae   ",
-        "longDesc": null,
-        "name": "Mentos Pure Fresh Chewing Lime Mint Sugarfree Gum 29.7gm",
-        "nameWithoutSubText": "Mentos Pure Fresh Chewing Lime Mint Sugarfree Gum",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/mentos-pure-fresh-chewing-lime-mint-sugarfree-gum-297gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68689&q=low&v=1"
-        ],
-        "price": 110.0,
-        "corpPrice": 110.0,
-        "objectID": 22815
-    },
-    {
-        "category": {
-            "name": "Candy & Chocolate",
-            "id": "51",
-            "slug": "candy-chocolate"
-        },
         "bengaliName": "\u09b9\u09be\u09b0\u09bf\u09ac\u09cb \u0993\u09af\u09bc\u09be\u09b0\u09cd\u09ae\u09b8 \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09bf \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "What could be more fun than having worm shaped gummi candies especially for our younger HARIBO fans. They make a good time better, no matter where you are. With their two-colors in the different fruity flavor combinations, these fun-loving gummi candies make any occasion a little more fun and brighter. ",
         "name": "Haribo Worms Candy 80 gm",
@@ -1696,6 +1679,23 @@
         "price": 75.0,
         "corpPrice": 75.0,
         "objectID": 12943
+    },
+    {
+        "category": {
+            "name": "Candy & Chocolate",
+            "id": "51",
+            "slug": "candy-chocolate"
+        },
+        "bengaliName": "\u09ae\u09c7\u09a8\u099f\u09b8 \u09aa\u09bf\u0993\u09b0 \u09ab\u09cd\u09b0\u09c7\u09b6 \u099a\u09bf\u0989\u0987\u0982 \u09b2\u09be\u0987\u09ae \u09ae\u09bf\u09a8\u099f \u09b8\u09c1\u0997\u09be\u09b0\u09ab\u09cd\u09b0\u09bf \u0997\u09be\u09ae \u09e8\u09ef. \u09ed \u0997\u09cd\u09b0\u09be\u09ae   ",
+        "longDesc": null,
+        "name": "Mentos Pure Fresh Chewing Lime Mint Sugarfree Gum 29.7gm",
+        "nameWithoutSubText": "Mentos Pure Fresh Chewing Lime Mint Sugarfree Gum",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mentos-pure-fresh-chewing-lime-mint-sugarfree-gum-297gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68689&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 22815
     },
     {
         "category": {

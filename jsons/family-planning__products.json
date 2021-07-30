@@ -145,23 +145,6 @@
             "id": "47",
             "slug": "family-planning"
         },
-        "bengaliName": "\u098f\u09b2 \u09e9 \u0995\u09cb\u09b0\u09be\u09b2 \u09b2\u0982 \u09b2\u09be\u09b8\u099f\u09bf\u0982 \u0995\u09a8\u09a1\u09ae (\u09aa\u09cd\u09b0\u09b8\u09cd\u09a5 \u09eb\u09e8 \u00b1 \u09e8 \u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
-        "longDesc": "Made in Malaysia\r\n\r\nLength: 180 mm\r\nWidth : 52mm \u00b1 2 mm\r\nThickness :0.065mm \u00b1 0.015 mm\r\n",
-        "name": "L3 Coral Long Lasting Condom (Width 52 \u00b1 2 mm) 3 Pcs",
-        "nameWithoutSubText": "L3 Coral Long Lasting Condom (Width 52 \u00b1 2 mm)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/l3-coral-long-lasting-condom-width-52-2-mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45275&q=low&v=1"
-        ],
-        "price": 49.0,
-        "corpPrice": 49.0,
-        "objectID": 16467
-    },
-    {
-        "category": {
-            "name": "Family Planning",
-            "id": "47",
-            "slug": "family-planning"
-        },
         "bengaliName": "\u0995\u09cb\u09b0\u09be\u09b2 \u09ab\u09cd\u09b0\u09c1\u099f\u09bf \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u09b2\u09c7\u099f\u09c7\u0995\u09cd\u09b8 \u09e9 \u09ab\u09cd\u09b0\u09c1\u099f \u0995\u09a8\u09a1\u09ae \u09e9 \u099f\u09bf",
         "longDesc": "Made in Malaysia\r\n\r\nLength: 180 mm\r\nWidth : 52mm \u00b1 2 mm\r\nThickness :0.065mm \u00b1 0.015 mm",
         "name": "L8 Coral Frutte Natural Latex 3 Fruits Condom 3 pcs",
@@ -172,6 +155,23 @@
         "price": 39.0,
         "corpPrice": 39.0,
         "objectID": 16471
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u098f\u09b2 \u09e9 \u0995\u09cb\u09b0\u09be\u09b2 \u09b2\u0982 \u09b2\u09be\u09b8\u099f\u09bf\u0982 \u0995\u09a8\u09a1\u09ae (\u09aa\u09cd\u09b0\u09b8\u09cd\u09a5 \u09eb\u09e8 \u00b1 \u09e8 \u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
+        "longDesc": "Made in Malaysia\r\n\r\nLength: 180 mm\r\nWidth : 52mm \u00b1 2 mm\r\nThickness :0.065mm \u00b1 0.015 mm\r\n",
+        "name": "L3 Coral Long Lasting Condom (Width 52 \u00b1 2 mm) 3 Pcs",
+        "nameWithoutSubText": "L3 Coral Long Lasting Condom (Width 52 \u00b1 2 mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/l3-coral-long-lasting-condom-width-52-2-mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45275&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 16467
     },
     {
         "category": {

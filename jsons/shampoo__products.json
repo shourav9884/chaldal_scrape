@@ -162,6 +162,23 @@
             "id": "39",
             "slug": "shampoo"
         },
+        "bengaliName": "\u09a1\u09be\u09ad \u09b6\u09cd\u09af\u09be\u09ae\u09cd\u09aa\u09c1 \u0985\u0995\u09cd\u09b8\u09bf\u099c\u09c7\u09a8 \u09ae\u09df\u09c7\u09b6\u09cd\u099a\u09be\u09b0 (\u09ab\u09cd\u09b0\u09bf \u09ac\u09cd\u09af\u09be\u0997) \u09e9\u09ea\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Dove Shampoo Oxygen Moisture (Free Bag) 340 ml",
+        "nameWithoutSubText": "Dove Shampoo Oxygen Moisture (Free Bag)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dove-shampoo-oxygen-moisture-free-bag-340-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71600&q=low&v=1"
+        ],
+        "price": 370.0,
+        "corpPrice": 370.0,
+        "objectID": 23229
+    },
+    {
+        "category": {
+            "name": "Shampoo",
+            "id": "39",
+            "slug": "shampoo"
+        },
         "bengaliName": "\u099f\u09cd\u09b0\u09c7\u09b8\u09c7\u09ae\u09c7 \u0995\u09a8\u09cd\u09a1\u09bf\u09b6\u09a8\u09be\u09b0 \u09ac\u09cb\u099f\u09be\u09a8\u09bf\u0995 \u09a8\u09b0\u09bf\u09b6 \u098f\u09a8\u09cd\u09a1 \u09b0\u09bf\u09aa\u09cd\u09b2\u09c7\u09a8\u09bf\u09b6 \u09e7\u09ef\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": "Launched in 1948, TRESemm\u00e9 was named after renowned hair care expert Edna Emm\u00e9. Up until the 1950's, TRESemm\u00e9 was sold only in salons. Today it is available at a shop near you, so that you can have salon style hair at home. For over 60 years, TRESemm\u00e9 has built a history of success in 13 countries around the world. From its origins in 1947 and salon expertise, TRESemme has been driven by  a simple truth: every woman deserves to look & feel fabulous, like she has just stepped out of the salon, everyday. This range has been carefully selected for its advanced formula. Driven by our salon heritage, we work with our stylists to deliver expert solutions from salon quality products without the salon price tag. Our expertly crafted system is infused with rich botanical blend of olive oil and camelia oil. The system gently cleanses and nourishes hair, leaving hair feeling moisturized and beautifully soft. No parabens. No Dyes. Safe for color-treated hair.  Apply to wet hair, gently massage into scalp and work into a lather. Rinse thoroughly. from roots to tips. Work into a lather. Rinse thouroughly. Follow with TRESemme Botanique Nourish & Replenish Conditioner. Start Shopping Now!\r\n",
         "name": "Tresemme Conditioner Botanique Nourish And Replenish 190 ml",
@@ -176,23 +193,6 @@
         "price": 252.0,
         "corpPrice": 252.0,
         "objectID": 13328
-    },
-    {
-        "category": {
-            "name": "Shampoo",
-            "id": "39",
-            "slug": "shampoo"
-        },
-        "bengaliName": "\u09a1\u09be\u09ad \u09b6\u09cd\u09af\u09be\u09ae\u09cd\u09aa\u09c1 \u0985\u0995\u09cd\u09b8\u09bf\u099c\u09c7\u09a8 \u09ae\u09df\u09c7\u09b6\u09cd\u099a\u09be\u09b0 (\u09ab\u09cd\u09b0\u09bf \u09ac\u09cd\u09af\u09be\u0997) \u09e9\u09ea\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": null,
-        "name": "Dove Shampoo Oxygen Moisture (Free Bag) 340 ml",
-        "nameWithoutSubText": "Dove Shampoo Oxygen Moisture (Free Bag)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/dove-shampoo-oxygen-moisture-free-bag-340-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71600&q=low&v=1"
-        ],
-        "price": 370.0,
-        "corpPrice": 370.0,
-        "objectID": 23229
     },
     {
         "category": {

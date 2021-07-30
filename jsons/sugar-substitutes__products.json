@@ -260,23 +260,6 @@
             "id": "191",
             "slug": "sugar-substitutes"
         },
-        "bengaliName": "\u09b8\u09c1\u0987\u099f\u09cb \u0995\u09cd\u09af\u09be\u09b2\u09b0\u09bf \u098f\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09ab\u09cd\u09af\u09be\u099f \u09ab\u09cd\u09b0\u09bf \u09b8\u09c1\u0987\u099f\u09c7\u09a8\u09be\u09b0 \u09ac\u0995\u09cd\u09b8 \u09eb\u09e6 \u09b8\u09c7\u09b6\u09c7\u099f\u09b8",
-        "longDesc": null,
-        "name": "Suito Calorie & Fat Free Sweetener Box 50 Sachets",
-        "nameWithoutSubText": "Suito Calorie & Fat Free Sweetener Box 50 Sachets",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/suito-calorie-fat-free-sweetener-box-50-sachets?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43048&q=low&v=1"
-        ],
-        "price": 175.0,
-        "corpPrice": 175.0,
-        "objectID": 16030
-    },
-    {
-        "category": {
-            "name": "Diabetic Food",
-            "id": "191",
-            "slug": "sugar-substitutes"
-        },
         "bengaliName": "\u099f\u09bf\u09ab\u09be\u09a8\u09bf \u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09bf \u0995\u09ae\u09b2\u09be \u0995\u09cd\u09b0\u09bf\u09ae \u09ac\u09bf\u09b8\u09cd\u0995\u09bf\u099f \u09e7\u09ec\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Tiffany Sugar free Orange Cream Biscuits 162 gm",
@@ -287,6 +270,23 @@
         "price": 259.0,
         "corpPrice": 259.0,
         "objectID": 16176
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b8\u09c1\u0987\u099f\u09cb \u0995\u09cd\u09af\u09be\u09b2\u09b0\u09bf \u098f\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09ab\u09cd\u09af\u09be\u099f \u09ab\u09cd\u09b0\u09bf \u09b8\u09c1\u0987\u099f\u09c7\u09a8\u09be\u09b0 \u09ac\u0995\u09cd\u09b8 \u09eb\u09e6 \u09b8\u09c7\u09b6\u09c7\u099f\u09b8",
+        "longDesc": null,
+        "name": "Suito Calorie & Fat Free Sweetener Box 50 Sachets",
+        "nameWithoutSubText": "Suito Calorie & Fat Free Sweetener Box 50 Sachets",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/suito-calorie-fat-free-sweetener-box-50-sachets?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43048&q=low&v=1"
+        ],
+        "price": 175.0,
+        "corpPrice": 175.0,
+        "objectID": 16030
     },
     {
         "category": {

@@ -90,23 +90,6 @@
             "id": "235",
             "slug": "energy-boosters"
         },
-        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099a\u0995\u09b2\u09c7\u099f \u099c\u09be\u09b0 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Filled with a wide range of vitamins and minerals including as Calcium, Iron, Zinc, Phosphorous, Vitamins A, C, E, D, B1, B2, B6, B12 - Horlicks is a nourishing beverage that helps support your child\u2019s growth. Produced from a mix of malted barley, wheat and milk, this unrivaled tasty recipe has been providing nutrition to people for many years. Horlicks helps to make kids Taller, Stronger and Sharper! Now available in delicious Chocolate Flavor!",
-        "name": "Horlicks Health And Nutrition Drink Chocolate Jar 500 gm",
-        "nameWithoutSubText": "Horlicks Health And Nutrition Drink Chocolate Jar",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/horlicks-health-and-nutrition-drink-chocolate-jar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77677&q=low&v=1"
-        ],
-        "price": 350.0,
-        "corpPrice": 350.0,
-        "objectID": 21989
-    },
-    {
-        "category": {
-            "name": "Energy Boosters",
-            "id": "235",
-            "slug": "energy-boosters"
-        },
         "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099c\u09be\u09b0 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Filled with a wide range of vitamins and minerals including as Calcium, Iron, Zinc, Phosphorous, Vitamins A, C, E, D, B1, B2, B6, B12 - Horlicks is a nourishing beverage that helps support your child\u2019s growth. Produced from a mix of malted barley, wheat and milk, this unrivaled tasty recipe has been providing nutrition to people for many years. Horlicks helps to make kids Taller, Stronger and Sharper!",
         "name": "Horlicks Health And Nutrition Drink Jar 250 gm",
@@ -117,6 +100,23 @@
         "price": 190.0,
         "corpPrice": 190.0,
         "objectID": 21719
+    },
+    {
+        "category": {
+            "name": "Energy Boosters",
+            "id": "235",
+            "slug": "energy-boosters"
+        },
+        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099a\u0995\u09b2\u09c7\u099f \u099c\u09be\u09b0 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Filled with a wide range of vitamins and minerals including as Calcium, Iron, Zinc, Phosphorous, Vitamins A, C, E, D, B1, B2, B6, B12 - Horlicks is a nourishing beverage that helps support your child\u2019s growth. Produced from a mix of malted barley, wheat and milk, this unrivaled tasty recipe has been providing nutrition to people for many years. Horlicks helps to make kids Taller, Stronger and Sharper! Now available in delicious Chocolate Flavor!",
+        "name": "Horlicks Health And Nutrition Drink Chocolate Jar 500 gm",
+        "nameWithoutSubText": "Horlicks Health And Nutrition Drink Chocolate Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/horlicks-health-and-nutrition-drink-chocolate-jar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77677&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 21989
     },
     {
         "category": {
@@ -304,6 +304,23 @@
         "price": 430.0,
         "corpPrice": 430.0,
         "objectID": 21312
+    },
+    {
+        "category": {
+            "name": "Energy Boosters",
+            "id": "235",
+            "slug": "energy-boosters"
+        },
+        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09ae\u09be\u09a6\u09be\u09b0\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09ac\u09bf\u0986\u0987\u09ac\u09bf \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "The right nutrition during pregnancy is important for the mother\u2019s health and baby\u2019s growth and the mother\u2019s daily diet alone may sometimes not be sufficient.Combining the goodness of 24 essential micronutrients with Choline, Mother\u2019s Horlicks is scientifically formulated to meet the needs of expectant and breastfeeding mums.",
+        "name": "Horlicks Mothers Health And Nutrition Drink BIB 350 gm",
+        "nameWithoutSubText": "Horlicks Mothers Health And Nutrition Drink BIB",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/horlicks-mothers-health-and-nutrition-drink-bib-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77711&q=low&v=1"
+        ],
+        "price": 469.0,
+        "corpPrice": 469.0,
+        "objectID": 2254
     },
     {
         "category": {
@@ -545,22 +562,5 @@
         "price": 250.0,
         "corpPrice": 250.0,
         "objectID": 3337
-    },
-    {
-        "category": {
-            "name": "Energy Boosters",
-            "id": "235",
-            "slug": "energy-boosters"
-        },
-        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09ae\u09be\u09a6\u09be\u09b0\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09ac\u09bf\u0986\u0987\u09ac\u09bf \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "The right nutrition during pregnancy is important for the mother\u2019s health and baby\u2019s growth and the mother\u2019s daily diet alone may sometimes not be sufficient.Combining the goodness of 24 essential micronutrients with Choline, Mother\u2019s Horlicks is scientifically formulated to meet the needs of expectant and breastfeeding mums.",
-        "name": "Horlicks Mothers Health And Nutrition Drink BIB 350 gm",
-        "nameWithoutSubText": "Horlicks Mothers Health And Nutrition Drink BIB",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/horlicks-mothers-health-and-nutrition-drink-bib-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77711&q=low&v=1"
-        ],
-        "price": 469.0,
-        "corpPrice": 469.0,
-        "objectID": 2254
     }
 ]

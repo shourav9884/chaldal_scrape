@@ -294,23 +294,6 @@
             "id": "108",
             "slug": "oil"
         },
-        "bengaliName": "\u0985\u09df\u09c7\u09b2\u09bf\u09a8\u09be \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ad\u09be\u09b0\u099c\u09bf\u09a8 \u0985\u09b2\u09bf\u09ad \u0985\u09df\u09c7\u09b2 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
-        "longDesc": "Origin : Spain ",
-        "name": "Oillina Extra Virgin Olive Oil 1 ltr ",
-        "nameWithoutSubText": "Oillina Extra Virgin Olive Oil",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/oillina-extra-virgin-olive-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70533&q=low&v=1"
-        ],
-        "price": 999.0,
-        "corpPrice": 999.0,
-        "objectID": 23046
-    },
-    {
-        "category": {
-            "name": "Oil",
-            "id": "108",
-            "slug": "oil"
-        },
         "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09b8\u09b0\u09bf\u09b7\u09be \u09a4\u09c7\u09b2 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": null,
         "name": "Fresh Mustard Oil 500 ml",
@@ -321,6 +304,23 @@
         "price": 125.0,
         "corpPrice": 125.0,
         "objectID": 19855
+    },
+    {
+        "category": {
+            "name": "Oil",
+            "id": "108",
+            "slug": "oil"
+        },
+        "bengaliName": "\u0985\u09df\u09c7\u09b2\u09bf\u09a8\u09be \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ad\u09be\u09b0\u099c\u09bf\u09a8 \u0985\u09b2\u09bf\u09ad \u0985\u09df\u09c7\u09b2 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Origin : Spain ",
+        "name": "Oillina Extra Virgin Olive Oil 1 ltr ",
+        "nameWithoutSubText": "Oillina Extra Virgin Olive Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/oillina-extra-virgin-olive-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70533&q=low&v=1"
+        ],
+        "price": 999.0,
+        "corpPrice": 999.0,
+        "objectID": 23046
     },
     {
         "category": {
@@ -345,23 +345,6 @@
             "id": "108",
             "slug": "oil"
         },
-        "bengaliName": "\u0993\u09b2\u09bf\u099f\u09be\u09b2\u09bf\u09df\u09be \u09b8\u09c2\u09b0\u09cd\u09af\u09ae\u09c1\u0996\u09c0 \u09a4\u09c7\u09b2 \u09eb \u09b2\u09bf\u099f\u09be\u09b0",
-        "longDesc": null,
-        "name": "Olitalia Sunflower Oil 5 ltr",
-        "nameWithoutSubText": "Olitalia Sunflower Oil",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/olitalia-sunflower-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68793&q=low&v=1"
-        ],
-        "price": 1575.0,
-        "corpPrice": 1575.0,
-        "objectID": 7033
-    },
-    {
-        "category": {
-            "name": "Oil",
-            "id": "108",
-            "slug": "oil"
-        },
         "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09b8\u09af\u09bc\u09be\u09ac\u09bf\u09a8 \u09a4\u09c7\u09b2 \u09ee \u09b2\u09bf\u099f\u09be\u09b0",
         "longDesc": "Fresh Fortified Soyabean Oil follows 3 steps of refining process-Perfect Degumming & Neutralization, Balanced De-colorization and Five steps Deodorization to ensure right ratio of Omega 3 & 6 and intact Beta-carotene in Soyabean Oil. Fresh soyabean oil contain vitamin A. Its fresh and healthy.",
         "name": "Fresh Soyabean Oil 8 ltr",
@@ -372,6 +355,23 @@
         "price": 1135.0,
         "corpPrice": 1135.0,
         "objectID": 7602
+    },
+    {
+        "category": {
+            "name": "Oil",
+            "id": "108",
+            "slug": "oil"
+        },
+        "bengaliName": "\u0993\u09b2\u09bf\u099f\u09be\u09b2\u09bf\u09df\u09be \u09b8\u09c2\u09b0\u09cd\u09af\u09ae\u09c1\u0996\u09c0 \u09a4\u09c7\u09b2 \u09eb \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Olitalia Sunflower Oil 5 ltr",
+        "nameWithoutSubText": "Olitalia Sunflower Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olitalia-sunflower-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68793&q=low&v=1"
+        ],
+        "price": 1575.0,
+        "corpPrice": 1575.0,
+        "objectID": 7033
     },
     {
         "category": {
@@ -719,23 +719,6 @@
             "id": "108",
             "slug": "oil"
         },
-        "bengaliName": "\u0985\u09df\u09c7\u09b2\u09bf\u09a8\u09be \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ad\u09be\u09b0\u099c\u09bf\u09a8 \u0985\u09b2\u09bf\u09ad \u0985\u09df\u09c7\u09b2 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": "It works as an anti-inflammatory.\r\nProtects against diabetes.\r\nProtects against insulin resistance.\r\nReduces heart problems.\r\nImprove blood cholesterol levels.\r\nAssists in weight loss.",
-        "name": "Oillina Extra Virgin Olive Oil 250 ml",
-        "nameWithoutSubText": "Oillina Extra Virgin Olive Oil",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/oillina-extra-virgin-olive-oil-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71910&q=low&v=1"
-        ],
-        "price": 355.0,
-        "corpPrice": 355.0,
-        "objectID": 23380
-    },
-    {
-        "category": {
-            "name": "Oil",
-            "id": "108",
-            "slug": "oil"
-        },
         "bengaliName": "\u09aa\u09c7\u09b2\u09bf\u09b0\u09ae\u09cb \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ad\u09be\u09b0\u09cd\u099c\u09bf\u09a8 \u0985\u09b2\u09bf\u09ad \u0985\u09af\u09bc\u09c7\u09b2 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0 ",
         "longDesc": null,
         "name": "Palermo Organic Extra Virgin Olive Oil 1 ltr ",
@@ -770,23 +753,6 @@
             "id": "108",
             "slug": "oil"
         },
-        "bengaliName": "\u09b2\u09c1\u0997\u09b2\u09bf\u0993 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ad\u09be\u09b0\u099c\u09bf\u09a8 \u0985\u09b2\u09bf\u09ad \u0985\u09df\u09c7\u09b2 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
-        "longDesc": "Origin: Italy",
-        "name": "Luglio Extra Virgin Olive Oil 1 ltr",
-        "nameWithoutSubText": "Luglio Extra Virgin Olive Oil",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/luglio-extra-virgin-olive-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74239&q=low&v=1"
-        ],
-        "price": 1050.0,
-        "corpPrice": 1050.0,
-        "objectID": 23780
-    },
-    {
-        "category": {
-            "name": "Oil",
-            "id": "108",
-            "slug": "oil"
-        },
         "bengaliName": "\u09b2\u09c1\u0997\u09b2\u09bf\u0993 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ad\u09be\u09b0\u099c\u09bf\u09a8 \u0985\u09b2\u09bf\u09ad \u0993\u09df\u09c7\u09b2 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": "Origin: Italy",
         "name": "Luglio  Extra Virgin Olive Oil 500 ml",
@@ -797,6 +763,40 @@
         "price": 600.0,
         "corpPrice": 600.0,
         "objectID": 23779
+    },
+    {
+        "category": {
+            "name": "Oil",
+            "id": "108",
+            "slug": "oil"
+        },
+        "bengaliName": "\u0985\u09df\u09c7\u09b2\u09bf\u09a8\u09be \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ad\u09be\u09b0\u099c\u09bf\u09a8 \u0985\u09b2\u09bf\u09ad \u0985\u09df\u09c7\u09b2 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "It works as an anti-inflammatory.\r\nProtects against diabetes.\r\nProtects against insulin resistance.\r\nReduces heart problems.\r\nImprove blood cholesterol levels.\r\nAssists in weight loss.",
+        "name": "Oillina Extra Virgin Olive Oil 250 ml",
+        "nameWithoutSubText": "Oillina Extra Virgin Olive Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/oillina-extra-virgin-olive-oil-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71910&q=low&v=1"
+        ],
+        "price": 355.0,
+        "corpPrice": 355.0,
+        "objectID": 23380
+    },
+    {
+        "category": {
+            "name": "Oil",
+            "id": "108",
+            "slug": "oil"
+        },
+        "bengaliName": "\u09b2\u09c1\u0997\u09b2\u09bf\u0993 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ad\u09be\u09b0\u099c\u09bf\u09a8 \u0985\u09b2\u09bf\u09ad \u0985\u09df\u09c7\u09b2 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Origin: Italy",
+        "name": "Luglio Extra Virgin Olive Oil 1 ltr",
+        "nameWithoutSubText": "Luglio Extra Virgin Olive Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/luglio-extra-virgin-olive-oil-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74239&q=low&v=1"
+        ],
+        "price": 1050.0,
+        "corpPrice": 1050.0,
+        "objectID": 23780
     },
     {
         "category": {

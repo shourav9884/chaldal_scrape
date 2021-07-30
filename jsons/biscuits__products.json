@@ -56,23 +56,6 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u09b9\u0995 \u09ae\u09bf\u09b2\u09cd\u0995 \u099a\u0995\u09b2\u09c7\u099f \u09a1\u09be\u0987\u099c\u09c7\u09b8\u09cd\u099f\u09bf\u09ad \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e7\u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Haque Milk Chocolate Digestive Biscuit 145 gm",
-        "nameWithoutSubText": "Haque Milk Chocolate Digestive Biscuit",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/haque-milk-chocolate-digestive-biscuit-145-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65925&q=low&v=1"
-        ],
-        "price": 35.0,
-        "corpPrice": 35.0,
-        "objectID": 2243
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
         "bengaliName": "\u09a1\u09c7\u0995\u09cb \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u098f\u0995\u099f\u09bf \u09ab\u09cd\u09b0\u09bf \u0985\u09ab\u09be\u09b0",
         "longDesc": null,
         "name": "Dekko Cookies Biscuit (Buy 2 Get 1 Offer)",
@@ -90,16 +73,16 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u09ac\u0999\u09cd\u0997\u099c \u0997\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u099a\u09af\u09bc\u09c7\u09b8 \u09b8\u09b2\u09cd\u099f\u09c7\u09a1 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u09b9\u0995 \u09ae\u09bf\u09b2\u09cd\u0995 \u099a\u0995\u09b2\u09c7\u099f \u09a1\u09be\u0987\u099c\u09c7\u09b8\u09cd\u099f\u09bf\u09ad \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e7\u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Bangas Grand Choice Salted Biscuit 100 gm",
-        "nameWithoutSubText": "Bangas Grand Choice Salted Biscuit",
+        "name": "Haque Milk Chocolate Digestive Biscuit 145 gm",
+        "nameWithoutSubText": "Haque Milk Chocolate Digestive Biscuit",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/bangas-grand-choice-salted-biscuit-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47291&q=low&v=1"
+            "https://chaldn.com/_mpimage/haque-milk-chocolate-digestive-biscuit-145-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65925&q=low&v=1"
         ],
-        "price": 15.0,
-        "corpPrice": 15.0,
-        "objectID": 2141
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 2243
     },
     {
         "category": {
@@ -117,6 +100,23 @@
         "price": 100.0,
         "corpPrice": 100.0,
         "objectID": 21367
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u09ac\u0999\u09cd\u0997\u099c \u0997\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u099a\u09af\u09bc\u09c7\u09b8 \u09b8\u09b2\u09cd\u099f\u09c7\u09a1 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bangas Grand Choice Salted Biscuit 100 gm",
+        "nameWithoutSubText": "Bangas Grand Choice Salted Biscuit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bangas-grand-choice-salted-biscuit-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47291&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 2141
     },
     {
         "category": {
@@ -158,40 +158,6 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09ab\u09be\u09b0\u09cd\u09b8\u09cd\u099f \u099a\u09df\u09c7\u099a \u09b8\u09b2\u09cd\u099f\u09c7\u09a1 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Olympic First Choice Salted Biscuits 100 gm",
-        "nameWithoutSubText": "Olympic First Choice Salted Biscuits",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/olympic-first-choice-salted-biscuits-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59802&q=low&v=1"
-        ],
-        "price": 15.0,
-        "corpPrice": 15.0,
-        "objectID": 14827
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
-        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09a8\u09be\u099f\u09bf \u09b0\u09bf\u09af\u09bc\u09c7\u09b2 \u09aa\u09bf\u09a8\u09be\u099f \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Olympic Nutty Real Peanut Biscuits 80 gm",
-        "nameWithoutSubText": "Olympic Nutty Real Peanut Biscuits",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/olympic-nutty-real-peanut-biscuits-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59803&q=low&v=1"
-        ],
-        "price": 15.0,
-        "corpPrice": 15.0,
-        "objectID": 9024
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
         "bengaliName": "\u09ac\u09bf\u09b8\u09cd\u0995 \u0995\u09cd\u09b2\u09be\u09ac \u09aa\u099f\u09be\u099f\u09be \u09b8\u09cd\u09aa\u09be\u0987\u09b8\u09bf \u09b8\u09cd\u09ac\u09be\u09a6\u09c7\u09b0 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Bisk Club Potata Spicy Flavored Biscuit 100 gm",
@@ -219,6 +185,40 @@
         "price": 50.0,
         "corpPrice": 50.0,
         "objectID": 6716
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09ab\u09be\u09b0\u09cd\u09b8\u09cd\u099f \u099a\u09df\u09c7\u099a \u09b8\u09b2\u09cd\u099f\u09c7\u09a1 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic First Choice Salted Biscuits 100 gm",
+        "nameWithoutSubText": "Olympic First Choice Salted Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-first-choice-salted-biscuits-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59802&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 14827
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09a8\u09be\u099f\u09bf \u09b0\u09bf\u09af\u09bc\u09c7\u09b2 \u09aa\u09bf\u09a8\u09be\u099f \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Nutty Real Peanut Biscuits 80 gm",
+        "nameWithoutSubText": "Olympic Nutty Real Peanut Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-nutty-real-peanut-biscuits-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59803&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 9024
     },
     {
         "category": {
@@ -277,23 +277,6 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09a1\u09be\u0987\u099c\u09c7\u09b8\u099f\u09bf\u09ad \u09b9\u09be\u0987 \u09ab\u09be\u0987\u09ac\u09be\u09b0 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f\u09b8 \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Olympic Digestive High Fiber Biscuits 125 gm",
-        "nameWithoutSubText": "Olympic Digestive High Fiber Biscuits",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/olympic-digestive-high-fiber-biscuits-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59805&q=low&v=1"
-        ],
-        "price": 20.0,
-        "corpPrice": 20.0,
-        "objectID": 10395
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
         "bengaliName": "\u09ac\u09c7\u09b2\u09be\u09ae \u0995\u09cd\u09b0\u09c7\u09ae\u09cb \u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e7\u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Belleame Cremo Vanilla Biscuit 90 gm",
@@ -304,6 +287,23 @@
         "price": 30.0,
         "corpPrice": 30.0,
         "objectID": 18701
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09a1\u09be\u0987\u099c\u09c7\u09b8\u099f\u09bf\u09ad \u09b9\u09be\u0987 \u09ab\u09be\u0987\u09ac\u09be\u09b0 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f\u09b8 \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Digestive High Fiber Biscuits 125 gm",
+        "nameWithoutSubText": "Olympic Digestive High Fiber Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-digestive-high-fiber-biscuits-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59805&q=low&v=1"
+        ],
+        "price": 20.0,
+        "corpPrice": 20.0,
+        "objectID": 10395
     },
     {
         "category": {
@@ -464,40 +464,6 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09b2\u09c7\u0995\u09cd\u09b8\u09be\u09b8 \u09ad\u09c7\u099c\u09bf \u0995\u09cd\u09b0\u09c7\u0995\u09be\u09b0\u09b8 \u09e8\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Olympic Lexus Vege Crackers 240 gm",
-        "nameWithoutSubText": "Olympic Lexus Vege Crackers",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/olympic-lexus-vege-crackers-240-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65922&q=low&v=1"
-        ],
-        "price": 80.0,
-        "corpPrice": 80.0,
-        "objectID": 10939
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
-        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u099f\u09bf\u09aa \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ed\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Olympic Tip Biscuits 70 gm",
-        "nameWithoutSubText": "Olympic Tip Biscuits",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/olympic-tip-biscuits-70-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65918&q=low&v=1"
-        ],
-        "price": 15.0,
-        "corpPrice": 15.0,
-        "objectID": 9025
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
         "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09af\u09bc\u09be\u09ae \u099f\u09cb\u09b8\u09cd\u099f \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Olympic Premium Toast 250 gm",
@@ -525,6 +491,40 @@
         "price": 45.0,
         "corpPrice": 45.0,
         "objectID": 23370
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09b2\u09c7\u0995\u09cd\u09b8\u09be\u09b8 \u09ad\u09c7\u099c\u09bf \u0995\u09cd\u09b0\u09c7\u0995\u09be\u09b0\u09b8 \u09e8\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Lexus Vege Crackers 240 gm",
+        "nameWithoutSubText": "Olympic Lexus Vege Crackers",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-lexus-vege-crackers-240-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65922&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 10939
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u099f\u09bf\u09aa \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ed\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Tip Biscuits 70 gm",
+        "nameWithoutSubText": "Olympic Tip Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-tip-biscuits-70-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65918&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 9025
     },
     {
         "category": {
@@ -600,23 +600,6 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09ae\u09bf\u09b2\u09cd\u0995 \u09ae\u09c7\u09b0\u09bf \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u09ee\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Olympic Milk Marie Biscuit 285 gm",
-        "nameWithoutSubText": "Olympic Milk Marie Biscuit",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/olympic-milk-marie-biscuit-285-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47425&q=low&v=1"
-        ],
-        "price": 50.0,
-        "corpPrice": 50.0,
-        "objectID": 3876
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
         "bengaliName": "\u09b0\u09cb\u09ae\u09be\u09a8\u09bf\u09df\u09be \u0995\u09cb\u0995\u09cb\u09a8\u09be\u099f \u09ae\u09bf\u09b2\u09cd\u0995 \u09ac\u09bf\u09b8\u09cd\u0995\u09bf\u099f\u09b8 \u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Romania Coconut Milk Biscuits 65 gm",
@@ -627,6 +610,23 @@
         "price": 10.0,
         "corpPrice": 10.0,
         "objectID": 23793
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09ae\u09bf\u09b2\u09cd\u0995 \u09ae\u09c7\u09b0\u09bf \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u09ee\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Milk Marie Biscuit 285 gm",
+        "nameWithoutSubText": "Olympic Milk Marie Biscuit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-milk-marie-biscuit-285-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47425&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 3876
     },
     {
         "category": {
@@ -651,23 +651,6 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u09b8\u09be\u09a8\u09ab\u09bf\u09b8\u09cd\u099f \u09a1\u09be\u09b0\u09cd\u0995 \u09ab\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09be\u09b8\u09bf \u099a\u0995\u09cb \u09ab\u09bf\u09b2\u09b8 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "6 pcs",
-        "name": "Sunfeast Dark Fantasy Choco Fills 75 gm",
-        "nameWithoutSubText": "Sunfeast Dark Fantasy Choco Fills",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/sunfeast-dark-fantasy-choco-fills-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47451&q=low&v=1"
-        ],
-        "price": 99.0,
-        "corpPrice": 99.0,
-        "objectID": 2480
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
         "bengaliName": "\u0987\u09b8\u09cd\u09aa\u09be\u09b9\u09be\u09a8\u09bf \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09df\u09be\u09ae \u099f\u09cb\u09b8\u09cd\u099f \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e9\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Ispahani Premium Toast Biscuit 320 gm",
@@ -678,6 +661,23 @@
         "price": 50.0,
         "corpPrice": 50.0,
         "objectID": 11554
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8\u09ab\u09bf\u09b8\u09cd\u099f \u09a1\u09be\u09b0\u09cd\u0995 \u09ab\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09be\u09b8\u09bf \u099a\u0995\u09cb \u09ab\u09bf\u09b2\u09b8 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "6 pcs",
+        "name": "Sunfeast Dark Fantasy Choco Fills 75 gm",
+        "nameWithoutSubText": "Sunfeast Dark Fantasy Choco Fills",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sunfeast-dark-fantasy-choco-fills-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47451&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 2480
     },
     {
         "category": {
@@ -770,40 +770,6 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09ac\u09be\u099f\u09be\u09b0 \u0995\u09c1\u0995\u09bf \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u099c\u09be\u09b0 \u09e7\u09e6\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Fresh Butter Cookies Biscuit Jar 1000 gm",
-        "nameWithoutSubText": "Fresh Butter Cookies Biscuit Jar",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/fresh-butter-cookies-biscuit-jar-1000-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61659&q=low&v=1"
-        ],
-        "price": 150.0,
-        "corpPrice": 150.0,
-        "objectID": 21983
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
-        "bengaliName": "\u09ae\u09bf.\u0995\u09c1\u0995\u09bf \u09ac\u09be\u099f\u09be\u09b0 \u0995\u09cb\u0995\u09cb\u09a8\u09be\u099f \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f\u09b8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Mr.Cookie Butter Coconut Biscuits 250 gm",
-        "nameWithoutSubText": "Mr.Cookie Butter Coconut Biscuits",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/mrcookie-butter-coconut-biscuits-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65919&q=low&v=1"
-        ],
-        "price": 50.0,
-        "corpPrice": 50.0,
-        "objectID": 10323
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
         "bengaliName": "\u09b8\u09bf\u09ac\u09bf\u098f\u09b2 \u09ae\u09be\u099e\u09cd\u099a\u09bf \u09b8\u09cd\u099f\u09bf\u0995\u09cd\u09b8 \u099a\u0995\u09b2\u09c7\u099f \u0993\u09df\u09c7\u09ab\u09be\u09b0 (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "CBL Munchee Stix Chocolate Wafer (Buy 1 Get 1 Free) 200 gm",
@@ -821,16 +787,16 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u0987\u09b8\u09cd\u09aa\u09be\u09b9\u09be\u09a8\u09bf \u0985\u09b0\u09c7\u099e\u09cd\u099c \u099f\u09bf \u099f\u09be\u0987\u09ae \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f\u09b8 \u09ed\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09ac\u09be\u099f\u09be\u09b0 \u0995\u09c1\u0995\u09bf \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u099c\u09be\u09b0 \u09e7\u09e6\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Ispahani Orange Tea Time Biscuits 70 gm",
-        "nameWithoutSubText": "Ispahani Orange Tea Time Biscuits",
+        "name": "Fresh Butter Cookies Biscuit Jar 1000 gm",
+        "nameWithoutSubText": "Fresh Butter Cookies Biscuit Jar",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/ispahani-orange-tea-time-biscuits-70-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65901&q=low&v=1"
+            "https://chaldn.com/_mpimage/fresh-butter-cookies-biscuit-jar-1000-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61659&q=low&v=1"
         ],
-        "price": 10.0,
-        "corpPrice": 10.0,
-        "objectID": 11560
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 21983
     },
     {
         "category": {
@@ -855,16 +821,33 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u0987\u09ab\u09be\u09a6 \u0995\u09be\u099c\u09c1 \u0993 \u09ac\u09be\u099f\u09be\u09b0 \u09ac\u09bf\u09b8\u09cd\u0995\u09bf\u099f (\u09ab\u09cd\u09b0\u09c0 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09bf\u099f) \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u09ae\u09bf.\u0995\u09c1\u0995\u09bf \u09ac\u09be\u099f\u09be\u09b0 \u0995\u09cb\u0995\u09cb\u09a8\u09be\u099f \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f\u09b8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Ifad Kaju & Butter Biscuit (Free Orange Biscuit) 250 gm",
-        "nameWithoutSubText": "Ifad Kaju & Butter Biscuit (Free Orange Biscuit)",
+        "name": "Mr.Cookie Butter Coconut Biscuits 250 gm",
+        "nameWithoutSubText": "Mr.Cookie Butter Coconut Biscuits",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/ifad-kaju-butter-biscuit-free-orange-biscuit-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73668&q=low&v=1"
+            "https://chaldn.com/_mpimage/mrcookie-butter-coconut-biscuits-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65919&q=low&v=1"
         ],
-        "price": 125.0,
-        "corpPrice": 125.0,
-        "objectID": 23585
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 10323
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u0987\u09b8\u09cd\u09aa\u09be\u09b9\u09be\u09a8\u09bf \u0985\u09b0\u09c7\u099e\u09cd\u099c \u099f\u09bf \u099f\u09be\u0987\u09ae \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f\u09b8 \u09ed\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ispahani Orange Tea Time Biscuits 70 gm",
+        "nameWithoutSubText": "Ispahani Orange Tea Time Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ispahani-orange-tea-time-biscuits-70-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65901&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 11560
     },
     {
         "category": {
@@ -889,6 +872,40 @@
             "id": "75",
             "slug": "biscuits"
         },
+        "bengaliName": "\u0987\u09ab\u09be\u09a6 \u0995\u09be\u099c\u09c1 \u0993 \u09ac\u09be\u099f\u09be\u09b0 \u09ac\u09bf\u09b8\u09cd\u0995\u09bf\u099f (\u09ab\u09cd\u09b0\u09c0 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09bf\u099f) \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ifad Kaju & Butter Biscuit (Free Orange Biscuit) 250 gm",
+        "nameWithoutSubText": "Ifad Kaju & Butter Biscuit (Free Orange Biscuit)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ifad-kaju-butter-biscuit-free-orange-biscuit-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73668&q=low&v=1"
+        ],
+        "price": 125.0,
+        "corpPrice": 125.0,
+        "objectID": 23585
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09ab\u09be\u09b0\u09cd\u09b8\u09cd\u099f \u099a\u09af\u09bc\u09c7\u09b8 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic First Choice Biscuits 240 gm",
+        "nameWithoutSubText": "Olympic First Choice Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-first-choice-biscuits-240-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59810&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 19978
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
         "bengaliName": "\u0987\u09ab\u09be\u09a6 \u099a\u09bf\u099c\u09bf \u09ac\u09be\u0987\u099f\u09b8 \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u09aa\u09cd\u09af\u09be\u0995 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Ifad Cheesy Bites Family Pack 300 gm",
@@ -899,6 +916,23 @@
         "price": 60.0,
         "corpPrice": 60.0,
         "objectID": 11119
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u09aa\u09bf\u0995 \u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09c1\u0995\u09bf\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Pick Star Cookies Biscuits 250 gm",
+        "nameWithoutSubText": "Dekko Pick Star Cookies Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dekko-pick-star-biscuits-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52254&q=best&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 19847
     },
     {
         "category": {
@@ -933,40 +967,6 @@
         "price": 50.0,
         "corpPrice": 50.0,
         "objectID": 21068
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
-        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09ab\u09be\u09b0\u09cd\u09b8\u09cd\u099f \u099a\u09af\u09bc\u09c7\u09b8 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Olympic First Choice Biscuits 240 gm",
-        "nameWithoutSubText": "Olympic First Choice Biscuits",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/olympic-first-choice-biscuits-240-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59810&q=low&v=1"
-        ],
-        "price": 40.0,
-        "corpPrice": 40.0,
-        "objectID": 19978
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
-        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u09aa\u09bf\u0995 \u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09c1\u0995\u09bf\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Dekko Pick Star Cookies Biscuits 250 gm",
-        "nameWithoutSubText": "Dekko Pick Star Cookies Biscuits",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/dekko-pick-star-biscuits-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52254&q=best&v=1"
-        ],
-        "price": 55.0,
-        "corpPrice": 55.0,
-        "objectID": 19847
     },
     {
         "category": {
@@ -1042,23 +1042,6 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u09ae\u09a7\u09c1 \u0993 \u0995\u09be\u09b2\u09cb \u099c\u09bf\u09b0\u09be \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Dekko Honey & Kalo Zeera Biscuit 65 gm",
-        "nameWithoutSubText": "Dekko Honey & Kalo Zeera Biscuit",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/honey-kalo-zeera-biscuit-65-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60802&q=low&v=1"
-        ],
-        "price": 15.0,
-        "corpPrice": 15.0,
-        "objectID": 21584
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
         "bengaliName": "\u09a1\u09c7\u0995\u09cb \u09ae\u09c7\u09b0\u09bf \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Dekko Marie Classic Biscuit 300 gm",
@@ -1069,6 +1052,23 @@
         "price": 50.0,
         "corpPrice": 50.0,
         "objectID": 19845
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u09ae\u09a7\u09c1 \u0993 \u0995\u09be\u09b2\u09cb \u099c\u09bf\u09b0\u09be \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Honey & Kalo Zeera Biscuit 65 gm",
+        "nameWithoutSubText": "Dekko Honey & Kalo Zeera Biscuit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/honey-kalo-zeera-biscuit-65-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60802&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 21584
     },
     {
         "category": {
@@ -1144,16 +1144,16 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09ac\u09be\u099f\u09be\u09b0 \u09ac\u09be\u0987\u099f \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ed\u09e9 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u099f\u09bf\u09ae \u099f\u09bf\u09ae \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ec\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Olympic Butter Bite Bisuits 73 gm",
-        "nameWithoutSubText": "Olympic Butter Bite Bisuits",
+        "name": "Olympic Tim Tim Orange Bisuits 68 gm",
+        "nameWithoutSubText": "Olympic Tim Tim Orange Bisuits",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/olympic-butter-bite-bisuits-73-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71139&q=low&v=1"
+            "https://chaldn.com/_mpimage/olympic-tim-tim-orange-bisuits-68-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65903&q=best&v=1"
         ],
-        "price": 15.0,
-        "corpPrice": 15.0,
-        "objectID": 19966
+        "price": 12.0,
+        "corpPrice": 12.0,
+        "objectID": 19963
     },
     {
         "category": {
@@ -1178,16 +1178,16 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u099f\u09bf\u09ae \u099f\u09bf\u09ae \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ec\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09ac\u09be\u099f\u09be\u09b0 \u09ac\u09be\u0987\u099f \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ed\u09e9 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Olympic Tim Tim Orange Bisuits 68 gm",
-        "nameWithoutSubText": "Olympic Tim Tim Orange Bisuits",
+        "name": "Olympic Butter Bite Bisuits 73 gm",
+        "nameWithoutSubText": "Olympic Butter Bite Bisuits",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/olympic-tim-tim-orange-bisuits-68-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65903&q=best&v=1"
+            "https://chaldn.com/_mpimage/olympic-butter-bite-bisuits-73-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71139&q=low&v=1"
         ],
-        "price": 12.0,
-        "corpPrice": 12.0,
-        "objectID": 19963
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 19966
     },
     {
         "category": {
@@ -1246,23 +1246,6 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u0987\u09b8\u09cd\u09aa\u09be\u09b9\u09be\u09a8\u09bf \u09ae\u09bf\u09b2\u0995\u09cb\u099c \u099f\u09bf \u099f\u09be\u0987\u09ae \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ed\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Ispahani Milkose Tea Time Biscuits 70 gm",
-        "nameWithoutSubText": "Ispahani Milkose Tea Time Biscuits",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/ispahani-milkose-tea-time-biscuits-70-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65957&q=best&v=1"
-        ],
-        "price": 10.0,
-        "corpPrice": 10.0,
-        "objectID": 11561
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
         "bengaliName": "\u0987\u09ab\u09be\u09a6 \u099a\u0995\u09cb \u09a1\u09bf\u09b2\u09be\u0987\u099f \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Ifad Choco Delight Biscuit 250 gm",
@@ -1273,6 +1256,23 @@
         "price": 50.0,
         "corpPrice": 50.0,
         "objectID": 11113
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u0987\u09b8\u09cd\u09aa\u09be\u09b9\u09be\u09a8\u09bf \u09ae\u09bf\u09b2\u0995\u09cb\u099c \u099f\u09bf \u099f\u09be\u0987\u09ae \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ed\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ispahani Milkose Tea Time Biscuits 70 gm",
+        "nameWithoutSubText": "Ispahani Milkose Tea Time Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ispahani-milkose-tea-time-biscuits-70-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65957&q=best&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 11561
     },
     {
         "category": {
@@ -1314,23 +1314,6 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u0995\u09c7\u09a1\u09ac\u09be\u09b0\u09bf \u0985\u09b0\u09bf\u0993 \u099a\u0995\u09b2\u09c7\u099f \u0995\u09cd\u09b0\u09bf\u09ae \u09b8\u09c7\u09a8\u09cd\u09a1\u09c1\u0987\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e7\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
-        "longDesc": null,
-        "name": "Cadbury Oreo Chocolate Cream Sandwich Biscuits 120 gm",
-        "nameWithoutSubText": "Cadbury Oreo Chocolate Cream Sandwich Biscuits",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/cadbury-oreo-chocolate-cream-sandwich-biscuits-120-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36647&q=low&v=1"
-        ],
-        "price": 119.0,
-        "corpPrice": 119.0,
-        "objectID": 14843
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
         "bengaliName": "\u09a1\u09c7\u0995\u09cb \u0993\u09ad\u09be\u09b2\u099f\u09bf\u09a8 \u0995\u09c1\u0995\u09bf\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Dekko Ovaltin Cookies Biscuit 350 gm",
@@ -1358,6 +1341,23 @@
         "price": 100.0,
         "corpPrice": 100.0,
         "objectID": 18559
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u0995\u09c7\u09a1\u09ac\u09be\u09b0\u09bf \u0985\u09b0\u09bf\u0993 \u099a\u0995\u09b2\u09c7\u099f \u0995\u09cd\u09b0\u09bf\u09ae \u09b8\u09c7\u09a8\u09cd\u09a1\u09c1\u0987\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e7\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Cadbury Oreo Chocolate Cream Sandwich Biscuits 120 gm",
+        "nameWithoutSubText": "Cadbury Oreo Chocolate Cream Sandwich Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cadbury-oreo-chocolate-cream-sandwich-biscuits-120-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36647&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 14843
     },
     {
         "category": {
@@ -1471,23 +1471,6 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09ae\u09bf\u09b2\u09cd\u0995 \u09aa\u09cd\u09b2\u09be\u09b8 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Olympic Milk Plus Biscuit 65 gm",
-        "nameWithoutSubText": "Olympic Milk Plus Biscuit",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/olympic-milk-plus-biscuit-65-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65963&q=best&v=1"
-        ],
-        "price": 10.0,
-        "corpPrice": 10.0,
-        "objectID": 3877
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
         "bengaliName": "\u09a1\u09c7\u0995\u09cb \u0986\u09ae\u09cb\u09b0\u09c7 \u0995\u09c1\u0995\u09bf\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f  \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u09aa\u09cd\u09af\u09be\u0995 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Dekko Aamore Cookies Biscuit Family Pack 300 gm",
@@ -1498,6 +1481,23 @@
         "price": 50.0,
         "corpPrice": 50.0,
         "objectID": 19841
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09ae\u09bf\u09b2\u09cd\u0995 \u09aa\u09cd\u09b2\u09be\u09b8 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Milk Plus Biscuit 65 gm",
+        "nameWithoutSubText": "Olympic Milk Plus Biscuit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-milk-plus-biscuit-65-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65963&q=best&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 3877
     },
     {
         "category": {
@@ -1522,23 +1522,6 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u0987\u09b8\u09cd\u09aa\u09be\u09b9\u09be\u09a8\u09bf \u09aa\u09be\u09ab\u09bf \u09ac\u09be\u0987\u099f \u09ac\u09bf\u09b8\u09cd\u0995\u09bf\u099f \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Ispahani Puffy Bite Biscuit 150 gm",
-        "nameWithoutSubText": "Ispahani Puffy Bite Biscuit",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/ispahani-puffy-bite-biscuit-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74323&q=low&v=1"
-        ],
-        "price": 75.0,
-        "corpPrice": 75.0,
-        "objectID": 23801
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
         "bengaliName": "\u09a1\u09c7\u0995\u09cb \u0996\u09bf\u09b0 \u0995\u09c1\u0995\u09bf\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u09aa\u09cd\u09af\u09be\u0995 \u09e8\u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Dekko Kheer Cookies Biscuit Family pack 265 gm",
@@ -1549,6 +1532,23 @@
         "price": 50.0,
         "corpPrice": 50.0,
         "objectID": 19844
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u0987\u09b8\u09cd\u09aa\u09be\u09b9\u09be\u09a8\u09bf \u09aa\u09be\u09ab\u09bf \u09ac\u09be\u0987\u099f \u09ac\u09bf\u09b8\u09cd\u0995\u09bf\u099f \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ispahani Puffy Bite Biscuit 150 gm",
+        "nameWithoutSubText": "Ispahani Puffy Bite Biscuit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ispahani-puffy-bite-biscuit-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74323&q=low&v=1"
+        ],
+        "price": 75.0,
+        "corpPrice": 75.0,
+        "objectID": 23801
     },
     {
         "category": {
@@ -1573,23 +1573,6 @@
             "id": "75",
             "slug": "biscuits"
         },
-        "bengaliName": "\u09b9\u0995 \u09ae\u09bf\u09b8\u09cd\u099f\u09be\u09b0 \u098f\u09a8\u09be\u09b0\u09cd\u099c\u09bf \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f\u09b8 \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Haque Mr.Energy Biscuits 80 gm",
-        "nameWithoutSubText": "Haque Mr.Energy Biscuits",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/haque-mrenergy-biscuits-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65940&q=low&v=1"
-        ],
-        "price": 15.0,
-        "corpPrice": 15.0,
-        "objectID": 10333
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
         "bengaliName": " \u09a1\u09cd\u09af\u09be\u09a8\u09bf\u09b6 \u09b2\u09c7\u0995\u09cd\u09b8\u09be\u09b8 \u09ad\u09c7\u099c\u09bf\u099f\u09c7\u09ac\u09b2 \u0995\u09cd\u09b0\u09cd\u09af\u09be\u0995\u09be\u09b0 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u099f\u09bf\u09a8  \u09ed\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Danish Lexus Vegetable Crackers Biscuit Tin 700 gm",
@@ -1600,6 +1583,23 @@
         "price": 320.0,
         "corpPrice": 320.0,
         "objectID": 15998
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
+        "bengaliName": "\u09b9\u0995 \u09ae\u09bf\u09b8\u09cd\u099f\u09be\u09b0 \u098f\u09a8\u09be\u09b0\u09cd\u099c\u09bf \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f\u09b8 \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Haque Mr.Energy Biscuits 80 gm",
+        "nameWithoutSubText": "Haque Mr.Energy Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/haque-mrenergy-biscuits-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65940&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 10333
     },
     {
         "category": {
@@ -1675,6 +1675,23 @@
             "id": "75",
             "slug": "biscuits"
         },
+        "bengaliName": "\u0987\u09b8\u09cd\u09aa\u09be\u09b9\u09be\u09a8\u09c0 \u09ac\u09be\u099f\u09be\u09b0\u09ab\u09c1\u09b2 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ispahani Butterful Biscuits 300 gm",
+        "nameWithoutSubText": "Ispahani Butterful Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ispahani-butterful-biscuits-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59809&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 21067
+    },
+    {
+        "category": {
+            "name": "Biscuits",
+            "id": "75",
+            "slug": "biscuits"
+        },
         "bengaliName": "\u09ae\u09c7\u0987\u099c\u09bf \u09aa\u09cd\u09b2\u09c7\u0987\u09a8 \u0993\u099f \u0995\u09cd\u09b0\u09be\u0995\u09be\u09b0\u09b8 \u09e7\u09e6\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Meiji Plain Oat Crackers 104 gm",
@@ -1685,22 +1702,5 @@
         "price": 180.0,
         "corpPrice": 180.0,
         "objectID": 21948
-    },
-    {
-        "category": {
-            "name": "Biscuits",
-            "id": "75",
-            "slug": "biscuits"
-        },
-        "bengaliName": "\u09ae\u09be\u09a8\u099a\u09bf'\u09b8 \u0993\u099f \u0995\u09cd\u09b0\u09be\u099e\u09cd\u099a \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u0993 \u09ac\u09cd\u09b2\u09be\u0995 \u0995\u09be\u09b0\u09c7\u09a8\u09cd\u099f  \u09e8\u09e6\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Munchy's Oat Krunch Strawberry & Blackcurrant  208 gm",
-        "nameWithoutSubText": "Munchy's Oat Krunch Strawberry & Blackcurrant",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/munchys-oat-krunch-strawberry-blackcurrant-208-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47413&q=low&v=1"
-        ],
-        "price": 325.0,
-        "corpPrice": 325.0,
-        "objectID": 16723
     }
 ]

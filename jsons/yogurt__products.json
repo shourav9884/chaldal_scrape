@@ -195,23 +195,6 @@
             "id": "64",
             "slug": "yogurt"
         },
-        "bengaliName": "\u09b6\u0995\u09cd\u09a4\u09bf \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u09a6\u0987 \u0986\u09ae\u09c7\u09b0 \u0995\u09ae\u09cd\u09ac\u09cb \u09aa\u09cd\u09af\u09be\u0995 \u09ea \u099f\u09bf ",
-        "longDesc": "Origin: Bangladesh\r\nManufacturer: Grameen-Danone foods\r\nUnique fortified yogurt for little ones. Enriched with iodin, iron, zinc and vitamin A.\r\nIron increases blood.\r\nVitamin A improves eyesight\r\nIodin helps in brain development\r\nZinc maintains physical fitness\r\nProbiotic keeps gut healthy\r\nMango flavoured yougurt\r\nFullfils 30% of daily needs",
-        "name": "Shokti Plus Sweet Yogurt Mango Combo Pack 4 pcs",
-        "nameWithoutSubText": "Shokti Plus Sweet Yogurt Mango Combo Pack",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/shokti-plus-sweet-yogurt-mango-combo-pack-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47610&q=low&v=1"
-        ],
-        "price": 196.0,
-        "corpPrice": 196.0,
-        "objectID": 15303
-    },
-    {
-        "category": {
-            "name": "Yogurt & Sweet",
-            "id": "64",
-            "slug": "yogurt"
-        },
         "bengaliName": "\u09b6\u0995\u09cd\u09a4\u09bf \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u09a6\u0987 \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u0995\u09ae\u09cd\u09ac\u09cb \u09aa\u09cd\u09af\u09be\u0995 \u09ea \u099f\u09bf",
         "longDesc": "Origin: Bangladesh\r\nManufacturer: Grameen-Danone foods\r\nUnique fortified yogurt for little ones. Enriched with iodin, iron, zinc and vitamin A.\r\nIron increases blood.\r\nVitamin A improves eyesight\r\nIodin helps in brain development\r\nZinc maintains physical fitness\r\nProbiotic keeps gut healthy\r\nStrawberry flavoured yogurt\r\nFullfills 30% of daily needs",
         "name": "Shokti Plus Sweet Yogurt Strawberry Combo Pack 4 Pcs",
@@ -222,6 +205,23 @@
         "price": 196.0,
         "corpPrice": 196.0,
         "objectID": 15304
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u09b6\u0995\u09cd\u09a4\u09bf \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u09a6\u0987 \u0986\u09ae\u09c7\u09b0 \u0995\u09ae\u09cd\u09ac\u09cb \u09aa\u09cd\u09af\u09be\u0995 \u09ea \u099f\u09bf ",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Grameen-Danone foods\r\nUnique fortified yogurt for little ones. Enriched with iodin, iron, zinc and vitamin A.\r\nIron increases blood.\r\nVitamin A improves eyesight\r\nIodin helps in brain development\r\nZinc maintains physical fitness\r\nProbiotic keeps gut healthy\r\nMango flavoured yougurt\r\nFullfils 30% of daily needs",
+        "name": "Shokti Plus Sweet Yogurt Mango Combo Pack 4 pcs",
+        "nameWithoutSubText": "Shokti Plus Sweet Yogurt Mango Combo Pack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shokti-plus-sweet-yogurt-mango-combo-pack-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47610&q=low&v=1"
+        ],
+        "price": 196.0,
+        "corpPrice": 196.0,
+        "objectID": 15303
     },
     {
         "category": {

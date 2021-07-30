@@ -320,23 +320,6 @@
             "id": "16",
             "slug": "cereals"
         },
-        "bengaliName": "\u0995\u09c7\u09b2\u0997\u09b8 \u09ab\u09cd\u09b0\u09c1\u099f \u09b2\u09c1\u09aa\u09b8 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Kellogg's Froot Loops 300 gm",
-        "nameWithoutSubText": "Kellogg's Froot Loops",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/kelloggs-froot-loops-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74356&q=low&v=1"
-        ],
-        "price": 629.0,
-        "corpPrice": 629.0,
-        "objectID": 23804
-    },
-    {
-        "category": {
-            "name": "Cereals",
-            "id": "16",
-            "slug": "cereals"
-        },
         "bengaliName": "\u09a8\u09c7\u09b8\u09cd\u099f\u09b2\u09c7 \u0995\u09cb\u0995\u09cb \u0995\u09cd\u09b0\u09be\u099e\u09cd\u099a \u09ac\u09cd\u09b0\u09c7\u0995\u09ab\u09be\u09b8\u09cd\u099f \u09b8\u09bf\u09b0\u09bf\u09af\u09bc\u09be\u09b2 \u09e7\u09ed\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Wake up your child\u2019s mind with Happy, Healthy Energy for a great day of learning with a bowl of delicious NESTL\u00c9 KOKO KRUNCH Breakfast Cereal made with goodness of Wholegrain. \r\n\r\nNESTL\u00c9 KOKO KRUNCH Breakfast Cereal is a source of Iron, B vitamins & Calcium and it\u2019s main ingredient is whole grain. \r\n\r\nWhole Grain contains dietary fiber, iron is important for healthy red blood cells & Calcium is required for normal growth and bone development in children. \r\n\r\nNESTL\u00c9 KOKO KRUNCH Breakfast Cereal is applicable for children above 5years old \r\n\r\nFlavour: Chocolate  \r\n\r\nNet Weight: 170g \r\n\r\nOrigin: Malaysia \r\n\r\nMarketed by Nestl\u00e9 Bangladesh Limited ",
         "name": "Nestl\u00e9 Koko Krunch Breakfast Cereal 170 gm",
@@ -347,6 +330,23 @@
         "price": 200.0,
         "corpPrice": 200.0,
         "objectID": 21533
+    },
+    {
+        "category": {
+            "name": "Cereals",
+            "id": "16",
+            "slug": "cereals"
+        },
+        "bengaliName": "\u0995\u09c7\u09b2\u0997\u09b8 \u09ab\u09cd\u09b0\u09c1\u099f \u09b2\u09c1\u09aa\u09b8 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kellogg's Froot Loops 300 gm",
+        "nameWithoutSubText": "Kellogg's Froot Loops",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kelloggs-froot-loops-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74356&q=low&v=1"
+        ],
+        "price": 629.0,
+        "corpPrice": 629.0,
+        "objectID": 23804
     },
     {
         "category": {
@@ -681,25 +681,6 @@
         "price": 350.0,
         "corpPrice": 350.0,
         "objectID": 22126
-    },
-    {
-        "category": {
-            "name": "Cereals",
-            "id": "16",
-            "slug": "cereals"
-        },
-        "bengaliName": "\u0995\u09c7\u09b2\u0997\u09b8  \u09ae\u09bf\u0989\u09b8\u09b2\u09bf \u09ac\u09cd\u09b0\u09c7\u0995\u09ab\u09be\u09b8\u09cd\u099f \u09b8\u09bf\u09b0\u09bf\u09df\u09be\u09b2 \u09ab\u09b2 \u09ae\u09cd\u09af\u09be\u099c\u09bf\u0995 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
-        "longDesc": "\u2022Kellogg's muesli with 24% fruit magic is an indulgent combination of select ingredients for your discerning palate.\r\n\r\n\u2022Four nutritious grains (wheat, oats, rice and corn) and four delicious inclusions (papaya, apple, peach and raisins) come together to give you an unparalleled taste experience.\r\n\r\n\u2022A quick, convenient and irresistible breakfast option that provides b group vitamins (B1, B2, B3, B6 & folate), vitamin c, iron and fibre for a nourishing start to the day.\r\n\r\n\u2022Naturally cholesterol free breakfast cereal.\r\n",
-        "name": "Kellogg's Muesli Breakfast Cereal Fruit Magic 500 gm",
-        "nameWithoutSubText": "Kellogg's Muesli Breakfast Cereal Fruit Magic",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/kelloggs-muesli-fruit-magic-500-gm-kelloggs-muesli-breakfast-cereal-fruit-magic-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68160&q=low&v=1",
-            "https://chaldn.com/_mpimage/kelloggs-muesli-fruit-magic-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68161&q=low&v=1",
-            "https://chaldn.com/_mpimage/kelloggs-muesli-fruit-magic-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68162&q=low&v=1"
-        ],
-        "price": 630.0,
-        "corpPrice": 630.0,
-        "objectID": 21825
     },
     {
         "category": {

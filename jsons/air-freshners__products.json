@@ -294,23 +294,6 @@
             "id": "82",
             "slug": "air-freshners"
         },
-        "bengaliName": "\u098f\u09cd\u09af\u09be\u099e\u09cd\u099c\u09c7\u09b2\u09bf\u0995 \u09ab\u09cd\u09b0\u09c7\u09b6 \u098f\u09df\u09be\u09b0 \u09ab\u09cd\u09b0\u09c7\u09b6\u09cd\u09a8\u09be\u09b0 \u09ae\u09bf\u09b8\u09cd\u099f\u09bf \u0989\u09a1 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": "Angelic Fresh Air Freshener Misty Wood has cool soothing fragrance and to make the environment relaxed and tranquil. Its enticing fragrances are made from essential oils extracted from fruits, flowers and plants which lift your mood up and take you to the world of imagination. ",
-        "name": "Angelic Fresh Air Freshener Misty Wood 300 ml",
-        "nameWithoutSubText": "Angelic Fresh Air Freshener Misty Wood",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/angelic-fresh-air-freshener-misty-wood-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48481&q=low&v=1"
-        ],
-        "price": 215.0,
-        "corpPrice": 215.0,
-        "objectID": 9054
-    },
-    {
-        "category": {
-            "name": "Air Fresheners",
-            "id": "82",
-            "slug": "air-freshners"
-        },
         "bengaliName": "\u09ab\u09c7 \u098f\u09df\u09be\u09b0 \u09ab\u09cd\u09b0\u09c7\u09b6\u09a8\u09be\u09b0 \u09b2\u09cd\u09af\u09be\u09ad\u09c7\u09a8\u09cd\u09a1\u09be\u09b0 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf.",
         "longDesc": "\"Fay Lavender\" leaves the room with the unique fragrance of the beautiful blue-violet flower of Lavender shrubs. The rich extracts from the essential oil of the Lavender make the air elegantly perfumed.  ",
         "name": "Fay Air Freshener Lavender 300 ml",
@@ -321,6 +304,23 @@
         "price": 220.0,
         "corpPrice": 220.0,
         "objectID": 2589
+    },
+    {
+        "category": {
+            "name": "Air Fresheners",
+            "id": "82",
+            "slug": "air-freshners"
+        },
+        "bengaliName": "\u098f\u09cd\u09af\u09be\u099e\u09cd\u099c\u09c7\u09b2\u09bf\u0995 \u09ab\u09cd\u09b0\u09c7\u09b6 \u098f\u09df\u09be\u09b0 \u09ab\u09cd\u09b0\u09c7\u09b6\u09cd\u09a8\u09be\u09b0 \u09ae\u09bf\u09b8\u09cd\u099f\u09bf \u0989\u09a1 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Angelic Fresh Air Freshener Misty Wood has cool soothing fragrance and to make the environment relaxed and tranquil. Its enticing fragrances are made from essential oils extracted from fruits, flowers and plants which lift your mood up and take you to the world of imagination. ",
+        "name": "Angelic Fresh Air Freshener Misty Wood 300 ml",
+        "nameWithoutSubText": "Angelic Fresh Air Freshener Misty Wood",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/angelic-fresh-air-freshener-misty-wood-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48481&q=low&v=1"
+        ],
+        "price": 215.0,
+        "corpPrice": 215.0,
+        "objectID": 9054
     },
     {
         "category": {

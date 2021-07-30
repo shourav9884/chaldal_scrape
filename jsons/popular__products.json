@@ -114,8 +114,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/mango-fazli-50-gm-3-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80575&q=low&v=1"
         ],
-        "price": 299.0,
-        "corpPrice": 299.0,
+        "price": 359.0,
+        "corpPrice": 359.0,
         "objectID": 10288
     },
     {
@@ -182,8 +182,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/cherry-anaros-cherry-pineapple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77400&q=low&v=1"
         ],
-        "price": 25.0,
-        "corpPrice": 25.0,
+        "price": 19.0,
+        "corpPrice": 19.0,
         "objectID": 23825
     },
     {
@@ -528,6 +528,23 @@
             "id": "238",
             "slug": "popular"
         },
+        "bengaliName": "\u09ae\u09b8\u09c1\u09b0 \u09a1\u09be\u09b2 (\u0987\u09ae\u09cd\u09aa\u09cb\u09b0\u099f\u09c7\u09a1) \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Local  ",
+        "name": "Moshur Dal (Imported) 1 kg",
+        "nameWithoutSubText": "Moshur Dal (Imported)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/moshur-dal-imported-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47049&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 6940
+    },
+    {
+        "category": {
+            "name": "Popular",
+            "id": "238",
+            "slug": "popular"
+        },
         "bengaliName": "\u099c\u09bf\u09b0\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Cumin Seed (Jira) 100 gm",
@@ -555,23 +572,6 @@
         "price": 339.0,
         "corpPrice": 339.0,
         "objectID": 6252
-    },
-    {
-        "category": {
-            "name": "Popular",
-            "id": "238",
-            "slug": "popular"
-        },
-        "bengaliName": "\u09ae\u09b8\u09c1\u09b0 \u09a1\u09be\u09b2 (\u0987\u09ae\u09cd\u09aa\u09cb\u09b0\u099f\u09c7\u09a1) \u09e7 \u0995\u09c7\u099c\u09bf",
-        "longDesc": "Local  ",
-        "name": "Moshur Dal (Imported) 1 kg",
-        "nameWithoutSubText": "Moshur Dal (Imported)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/moshur-dal-imported-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47049&q=low&v=1"
-        ],
-        "price": 99.0,
-        "corpPrice": 99.0,
-        "objectID": 6940
     },
     {
         "category": {
@@ -1120,6 +1120,23 @@
             "id": "238",
             "slug": "popular"
         },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u0996\u09be\u0981\u099f\u09bf \u09b8\u09b0\u09bf\u09b7\u09be\u09b0 \u09a4\u09c7\u09b2 (\u09ab\u09cd\u09b0\u09c0 \u09aa\u09be\u0981\u099a\u09ab\u09cb\u09a1\u09bc\u09a8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Radhuni Pure Mustard Oil (Free Panchforan 50 gm) 500 ml",
+        "nameWithoutSubText": "Radhuni Pure Mustard Oil (Free Panchforan 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-pure-mustard-oil-free-panchforan-50-gm-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76740&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 24260
+    },
+    {
+        "category": {
+            "name": "Popular",
+            "id": "238",
+            "slug": "popular"
+        },
         "bengaliName": "\u09aa\u09bf\u0989\u09b0\u0987\u099f \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995 \u099c\u09be\u09b0\u09cd\u09ae \u0995\u09bf\u09b2 \u0995\u09bf\u099f \u09e9\u09e6\u09e6\u09e6 \u09b2\u09bf\u099f\u09be\u09b0",
         "longDesc": "Pureit is a revolutionary innovation by Unilever to provide solution to the need of safe drinking water. It is world\u2019s one of the most advanced in-home water purifier and first of its kind. Infact, it is world\u2019s largest selling water purifier. Pureit uses advanced \u201c4-Step GermKill Technology\u201d to purify water. First, water passes through micro fiber mesh, which removes visible dirt and other material in the water. Second, it passes through the activated carbon trap, which stops all harmful parasites and other objects not visible to naked eye. At the third step, it passes through the germ kill processor that kills all the harmful virus and bacteria. Finally, the water passes through the polisher that removes any chlorine in the water and other unwanted taste or odor causing elements. ",
         "name": "Pureit Classic Germ Kill Kit 3000 ltr",
@@ -1132,23 +1149,6 @@
         "price": 1200.0,
         "corpPrice": 1200.0,
         "objectID": 8171
-    },
-    {
-        "category": {
-            "name": "Popular",
-            "id": "238",
-            "slug": "popular"
-        },
-        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u0996\u09be\u0981\u099f\u09bf \u09b8\u09b0\u09bf\u09b7\u09be\u09b0 \u09a4\u09c7\u09b2 (\u09ab\u09cd\u09b0\u09c0 \u09aa\u09be\u0981\u099a\u09ab\u09cb\u09a1\u09bc\u09a8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": null,
-        "name": "Radhuni Pure Mustard Oil (Free Panchforan 50 gm) 500 ml",
-        "nameWithoutSubText": "Radhuni Pure Mustard Oil (Free Panchforan 50 gm)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/radhuni-pure-mustard-oil-free-panchforan-50-gm-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76740&q=low&v=1"
-        ],
-        "price": 135.0,
-        "corpPrice": 135.0,
-        "objectID": 24260
     },
     {
         "category": {

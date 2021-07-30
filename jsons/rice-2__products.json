@@ -447,23 +447,6 @@
             "id": "80",
             "slug": "rice-2"
         },
-        "bengaliName": "\u09aa\u09be\u0987\u099c\u09be\u09ae \u0986\u09a4\u09aa \u099a\u09be\u09b2 \u09eb \u0995\u09c7\u099c\u09bf",
-        "longDesc": null,
-        "name": "Pizam Atop Rice 5 kg",
-        "nameWithoutSubText": "Pizam Atop Rice",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/pizam-atop-rice-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74583&q=low&v=1"
-        ],
-        "price": 319.0,
-        "corpPrice": 319.0,
-        "objectID": 23875
-    },
-    {
-        "category": {
-            "name": "Rice",
-            "id": "80",
-            "slug": "rice-2"
-        },
         "bengaliName": "\u099c\u09bf\u09b0\u09be \u09ae\u09bf\u09a8\u09bf\u0995\u09c7\u099f \u099a\u09be\u09b2 \u09eb \u0995\u09c7\u099c\u09bf",
         "longDesc": null,
         "name": "Jira Miniket Rice 5 Kg",
@@ -474,6 +457,23 @@
         "price": 319.0,
         "corpPrice": 319.0,
         "objectID": 24266
+    },
+    {
+        "category": {
+            "name": "Rice",
+            "id": "80",
+            "slug": "rice-2"
+        },
+        "bengaliName": "\u09aa\u09be\u0987\u099c\u09be\u09ae \u0986\u09a4\u09aa \u099a\u09be\u09b2 \u09eb \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Pizam Atop Rice 5 kg",
+        "nameWithoutSubText": "Pizam Atop Rice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pizam-atop-rice-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74583&q=low&v=1"
+        ],
+        "price": 319.0,
+        "corpPrice": 319.0,
+        "objectID": 23875
     },
     {
         "category": {
@@ -719,23 +719,6 @@
             "id": "80",
             "slug": "rice-2"
         },
-        "bengaliName": "\u09a2\u09be\u0995\u09be\u0987\u09df\u09be \u099a\u09bf\u09a8\u09bf \u0997\u09c1\u09dc\u09be \u099a\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
-        "longDesc": null,
-        "name": "Dhakaiya Chinigura Rice 1 kg ",
-        "nameWithoutSubText": "Dhakaiya Chinigura Rice",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/dhakaiya-chinigura-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74879&q=low&v=1"
-        ],
-        "price": 125.0,
-        "corpPrice": 125.0,
-        "objectID": 23960
-    },
-    {
-        "category": {
-            "name": "Rice",
-            "id": "80",
-            "slug": "rice-2"
-        },
         "bengaliName": "\u09b8\u09c1\u09aa\u09cd\u09b0\u09bf\u09ae \u09ac\u09be\u09b8\u09ae\u09a4\u09c0 \u099a\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
         "longDesc": null,
         "name": "Supreme Basmati Rice 1 kg",
@@ -746,6 +729,23 @@
         "price": 250.0,
         "corpPrice": 250.0,
         "objectID": 21928
+    },
+    {
+        "category": {
+            "name": "Rice",
+            "id": "80",
+            "slug": "rice-2"
+        },
+        "bengaliName": "\u09a2\u09be\u0995\u09be\u0987\u09df\u09be \u099a\u09bf\u09a8\u09bf \u0997\u09c1\u09dc\u09be \u099a\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Dhakaiya Chinigura Rice 1 kg ",
+        "nameWithoutSubText": "Dhakaiya Chinigura Rice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dhakaiya-chinigura-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74879&q=low&v=1"
+        ],
+        "price": 125.0,
+        "corpPrice": 125.0,
+        "objectID": 23960
     },
     {
         "category": {
@@ -770,23 +770,6 @@
             "id": "80",
             "slug": "rice-2"
         },
-        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u0986\u09ae\u09a8 \u09b0\u09c7\u09a1 \u09b0\u09be\u0987\u09b8 \u09e7 \u0995\u09c7\u099c\u09bf",
-        "longDesc": null,
-        "name": "BPM Amon\u00a0Red Rice 1 kg",
-        "nameWithoutSubText": "BPM Amon\u00a0Red Rice",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/bpm-amonred-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52040&q=low&v=1"
-        ],
-        "price": 100.0,
-        "corpPrice": 100.0,
-        "objectID": 19912
-    },
-    {
-        "category": {
-            "name": "Rice",
-            "id": "80",
-            "slug": "rice-2"
-        },
         "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b8\u09be\u09a6\u09be \u09ac\u09bf\u09a8\u09cd\u09a8\u09bf \u099a\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
         "longDesc": null,
         "name": "BPM White Binni Rice 1 kg",
@@ -797,6 +780,23 @@
         "price": 110.0,
         "corpPrice": 110.0,
         "objectID": 15220
+    },
+    {
+        "category": {
+            "name": "Rice",
+            "id": "80",
+            "slug": "rice-2"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u0986\u09ae\u09a8 \u09b0\u09c7\u09a1 \u09b0\u09be\u0987\u09b8 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "BPM Amon\u00a0Red Rice 1 kg",
+        "nameWithoutSubText": "BPM Amon\u00a0Red Rice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-amonred-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52040&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 19912
     },
     {
         "category": {
@@ -838,23 +838,6 @@
             "id": "80",
             "slug": "rice-2"
         },
-        "bengaliName": "\u0995\u09bf\u09b2\u09cd\u09b2\u09be \u0997\u09cb\u09b2\u09cd\u09a1 \u09ac\u09be\u09b8\u09ae\u09be\u09a4\u09bf \u099a\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
-        "longDesc": null,
-        "name": "Qilla Gold Basmati Rice 1 kg",
-        "nameWithoutSubText": "Qilla Gold Basmati Rice",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/qilla-gold-basmati-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71921&q=low&v=1"
-        ],
-        "price": 345.0,
-        "corpPrice": 345.0,
-        "objectID": 23383
-    },
-    {
-        "category": {
-            "name": "Rice",
-            "id": "80",
-            "slug": "rice-2"
-        },
         "bengaliName": "\u09ae\u09c7\u09b9\u09c7\u09b0\u09be\u09a8 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09b2\u0982 \u09ac\u09be\u09b8\u09ae\u09a4\u09bf  \u099a\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
         "longDesc": null,
         "name": "Mehran Extra Long Basmati  Rice 1 Kg",
@@ -865,6 +848,23 @@
         "price": 329.0,
         "corpPrice": 329.0,
         "objectID": 3744
+    },
+    {
+        "category": {
+            "name": "Rice",
+            "id": "80",
+            "slug": "rice-2"
+        },
+        "bengaliName": "\u0995\u09bf\u09b2\u09cd\u09b2\u09be \u0997\u09cb\u09b2\u09cd\u09a1 \u09ac\u09be\u09b8\u09ae\u09be\u09a4\u09bf \u099a\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Qilla Gold Basmati Rice 1 kg",
+        "nameWithoutSubText": "Qilla Gold Basmati Rice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/qilla-gold-basmati-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71921&q=low&v=1"
+        ],
+        "price": 345.0,
+        "corpPrice": 345.0,
+        "objectID": 23383
     },
     {
         "category": {

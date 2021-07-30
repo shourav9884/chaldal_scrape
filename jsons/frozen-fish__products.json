@@ -1,9 +1,9 @@
 [
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u09ac\u09cb\u09af\u09bc\u09be\u09b2 \u099b\u09cb\u099f \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u0995\u09be\u099f \u00b1 \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
@@ -18,9 +18,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u09b9\u09b0\u09bf\u09a8\u09be \u099a\u09bf\u0982\u09a1\u09bc\u09bf 500 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
@@ -35,9 +35,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u099a\u09bf\u0982\u09a1\u09bc\u09bf \u09ac\u09be\u0997\u09a6\u09be  500 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
@@ -52,9 +52,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u0997\u09c1\u09a1\u09bc\u09be \u099a\u09bf\u0982\u09a1\u09bc\u09bf \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
@@ -69,9 +69,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u09b9\u09be\u0993\u09b0\u09c7\u09b0 \u09ae\u09be\u099b \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
         "longDesc": null,
@@ -86,9 +86,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u099a\u09bf\u0982\u09a1\u09bc\u09bf \u0997\u09cb\u09b2\u09cd\u09a1\u09be  500 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
@@ -103,9 +103,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u09ae\u09be\u0997\u09c1\u09b0 \u09ae\u09be\u099b (\u09aa\u09cd\u09b0\u09b8\u09c7\u09b8 \u0995\u09b0\u09be) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
@@ -120,9 +120,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u09b0\u09c1\u0987 \u09a6\u09c7\u09b6\u09bf \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u0995\u09be\u099f (\u09ab\u09cd\u09b0\u09c7\u09b6 \u09e8.\u09ea \u0995\u09c7\u099c\u09bf +; \u09a8\u09c7\u099f \u0993\u09af\u09bc\u09c7\u099f +/-\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e8 \u0995\u09c7\u099c\u09bf",
         "longDesc": null,
@@ -137,9 +137,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u09ac\u09cb\u09af\u09bc\u09be\u09b2 \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u0995\u09be\u099f (\u09ab\u09cd\u09b0\u09c7\u09b8 \u09e7.\u09e8 \u0995\u09c7\u099c\u09bf, \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09be\u0987\u09a8\u09be\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7.\u09eb \u0995\u09c7\u099c\u09bf",
         "longDesc": null,
@@ -154,9 +154,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u0986\u0987\u09b0 \u09ae\u09be\u099d\u09be\u09b0\u09bf \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u0995\u09be\u099f \u09e7 \u0995\u09c7\u099c\u09bf (+/-\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae)",
         "longDesc": null,
@@ -171,9 +171,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u0995\u09be\u099a\u0995\u09bf \u09ae\u09be\u099b \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
@@ -188,26 +188,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
-        },
-        "bengaliName": "\u09aa\u09be\u09ac\u09a6\u09be \u09ae\u09be\u099b \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Pabda Fish 500 gm",
-        "nameWithoutSubText": "Pabda Fish",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/pabda-fish-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72251&q=low&v=1"
-        ],
-        "price": 199.0,
-        "corpPrice": 199.0,
-        "objectID": 13686
-    },
-    {
-        "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u09b0\u09c1\u0987 \u09ae\u09be\u099b \u0995\u09be\u099f\u09be\u09b0 \u09aa\u09b0\u09c7 (\u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae)) \u09e7 \u0995\u09c7\u099c\u09bf",
         "longDesc": null,
@@ -222,145 +205,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
-        },
-        "bengaliName": "\u09a6\u09c7\u09b6\u09c0 \u09ae\u09b2\u09be \u09ae\u09be\u099b \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Mola Fish Deshi 250 gm",
-        "nameWithoutSubText": "Mola Fish Deshi",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/mola-fish-deshi-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74210&q=low&v=1"
-        ],
-        "price": 99.0,
-        "corpPrice": 99.0,
-        "objectID": 9562
-    },
-    {
-        "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
-        },
-        "bengaliName": "\u09a4\u09c7\u09b2\u09be\u09aa\u09bf\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09b8\u09c7\u09b8 \u09e8 \u09aa\u09bf\u09b8 ( \u09a8\u09c7\u099f \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09be\u0987\u09a8\u09be\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7 \u0995\u09c7\u099c\u09bf",
-        "longDesc": null,
-        "name": "Telapiya Fish Processed (Net Weight \u00b1 50 Gm) 1 kg ",
-        "nameWithoutSubText": "Telapiya Fish Processed (Net Weight \u00b1 50 Gm)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/telapiya-fish-processed-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73643&q=low&v=1"
-        ],
-        "price": 189.0,
-        "corpPrice": 189.0,
-        "objectID": 23070
-    },
-    {
-        "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
-        },
-        "bengaliName": "\u09a6\u09c7\u09b6\u09c0 \u09aa\u09be\u0982\u0997\u09be\u09b8 \u0995\u09be\u0981\u099f\u09be\u09b0 \u09aa\u09b0 (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7 \u0995\u09c7\u099c\u09bf",
-        "longDesc": null,
-        "name": "Pangas Fish Family Cut (Net Weight \u00b1 50 Gm) 1 kg",
-        "nameWithoutSubText": "Pangas Fish Family Cut (Net Weight \u00b1 50 Gm)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/pangas-fish-family-cut-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73764&q=low&v=1"
-        ],
-        "price": 169.0,
-        "corpPrice": 169.0,
-        "objectID": 20596
-    },
-    {
-        "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
-        },
-        "bengaliName": "\u0995\u0987 \u09ae\u09be\u099b \u0995\u09be\u099f\u09be\u09b0 \u09aa\u09b0  \u09e7 \u0995\u09c7\u099c\u09bf",
-        "longDesc": "Before process 1.2 kg   ",
-        "name": "Koi Fish Processed  1 kg",
-        "nameWithoutSubText": "Koi Fish Processed",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/koi-fish-processed-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72293&q=low&v=1"
-        ],
-        "price": 249.0,
-        "corpPrice": 249.0,
-        "objectID": 22222
-    },
-    {
-        "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
-        },
-        "bengaliName": "\u09aa\u09c1\u099f\u09bf \u09ae\u09be\u099b \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Puti Fish 250 gm",
-        "nameWithoutSubText": "Puti Fish",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/puti-fish-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74206&q=low&v=1"
-        ],
-        "price": 99.0,
-        "corpPrice": 99.0,
-        "objectID": 23065
-    },
-    {
-        "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
-        },
-        "bengaliName": "\u09b6\u09bf\u0982 \u09ae\u09be\u099b \u0995\u09be\u099f\u09be\u09b0 \u09aa\u09b0\u09c7 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Shing Fish Processed 500 gm",
-        "nameWithoutSubText": "Shing Fish Processed",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/shing-fish-processed-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74207&q=low&v=1"
-        ],
-        "price": 269.0,
-        "corpPrice": 269.0,
-        "objectID": 13695
-    },
-    {
-        "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
-        },
-        "bengaliName": "\u09b0\u09c2\u09aa\u099a\u09be\u0981\u09a6\u09be \u09ae\u09bf\u09a1\u09bf\u09af\u09bc\u09be\u09ae   \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Rupchanda Fish Medium  500 gm",
-        "nameWithoutSubText": "Rupchanda Fish Medium",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/rupchanda-fish-medium-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74211&q=low&v=1"
-        ],
-        "price": 399.0,
-        "corpPrice": 399.0,
-        "objectID": 23069
-    },
-    {
-        "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
-        },
-        "bengaliName": "\u099f\u09be\u099f\u0995\u09bf\u09a8\u09bf \u09ae\u09be\u099b \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Tatkini Fish 500 gm",
-        "nameWithoutSubText": "Tatkini Fish",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/tatkini-fish-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74208&q=low&v=1"
-        ],
-        "price": 115.0,
-        "corpPrice": 115.0,
-        "objectID": 13688
-    },
-    {
-        "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u09b8\u09b0\u09aa\u09c1\u0981\u099f\u09bf  \u09ae\u09be\u099b   \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
         "longDesc": null,
@@ -375,9 +222,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u09ac\u09be\u0987\u09b2\u09be \u09ae\u09be\u099b \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
@@ -392,9 +239,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u09aa\u09cb\u09df\u09be \u09ae\u09be\u099b \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
@@ -409,9 +256,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u099f\u09cd\u09af\u09be\u0982\u09b0\u09be \u09ae\u09be\u099b \u09a6\u09c7\u09b6\u09bf  400 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
@@ -426,26 +273,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
-        },
-        "bengaliName": "\u0986\u0987\u09b0 \u09ae\u09be\u099b \u099b\u09cb\u099f (\u0995\u09be\u099f\u09be\u09b0 \u09aa\u09b0 \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09be\u0987\u09a8\u09be\u09b8 \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Ayre Fish After Cutting  (Net Weight \u00b1 50 Gm) 500  gm",
-        "nameWithoutSubText": "Ayre Fish After Cutting  (Net Weight \u00b1 50 Gm)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/ayre-fish-after-cutting-net-weight-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73328&q=low&v=1&m=400"
-        ],
-        "price": 345.0,
-        "corpPrice": 345.0,
-        "objectID": 23056
-    },
-    {
-        "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u099f\u09c1\u09a8\u09be \u09ae\u09be\u099b (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e8 \u0995\u09c7\u099c\u09bf",
         "longDesc": null,
@@ -460,9 +290,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u0997\u09c1\u09b2\u09b6\u09be \u09ae\u09be\u099b \u09ae\u09be\u099d\u09be\u09b0\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
@@ -477,9 +307,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u0995\u09be\u09a4\u09b2\u09be \u09ae\u09be\u099b \u0995\u09be\u0981\u099f\u09be\u09b0 \u09aa\u09b0 (\u09a8\u09c7\u099f \u0993\u09df\u09c7\u099f \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7.\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
@@ -494,9 +324,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u09b6\u09cb\u09b2 \u09ae\u09be\u099b \u0995\u09be\u099f\u09be\u09b0 \u09aa\u09b0 (\u09e8 \u09aa\u09bf\u09b8) \u09e7 \u0995\u09c7\u099c\u09bf",
         "longDesc": null,
@@ -511,9 +341,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u0995\u09cb\u09b0\u09be\u09b2 \u0995\u09be\u099f 1 kg",
         "longDesc": null,
@@ -528,26 +358,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
-        },
-        "bengaliName": "\u0995\u09be\u09b0\u09cd\u09ab\u09c1 \u09ae\u09be\u099b \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u0995\u09be\u099f (\u09a8\u09c7\u099f \u0993\u09af\u09bc\u09c7\u099f \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09be\u0987\u09a8\u09be\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7 \u0995\u09c7\u099c\u09bf",
-        "longDesc": null,
-        "name": "Carfu Fish After Cutting (Net Weight \u00b1 50 Gm) 1 kg",
-        "nameWithoutSubText": "Carfu Fish After Cutting (Net Weight \u00b1 50 Gm)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/carfu-fish-after-cutting-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73644&q=low&v=1"
-        ],
-        "price": 269.0,
-        "corpPrice": 269.0,
-        "objectID": 23059
-    },
-    {
-        "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u0986\u09b8\u09cd\u09a4 \u09ab\u09cd\u09b0\u09cb\u099c\u09c7\u09a8 \u0987\u09b2\u09bf\u09b6 (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae)  600\u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Bangladesh this fish is prepared in varity of way like it can be smoked, fried, steamed, baked, prepared with mustard seed paste, curd, brinjal (eggplant). Some common hilsa menus are Fried hilsa, Khichuri-Ilish, Sorshe Ilish, Panta Ilish,Vapa Ilish etc.\r\nIt has cultural value in Bangali\u2019s life. It is an obvious food in many cultural festival like Pahela Boishakh, Saraswati Puja. ",
@@ -562,26 +375,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
-        },
-        "bengaliName": "\u09b0\u09c1\u0987 \u09ae\u09be\u099b\u09c7\u09b0 \u09a1\u09bf\u09ae \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "This is a frozen item, we have special packaging for frozen products.",
-        "name": "Rui Fish Egg  250 Gm",
-        "nameWithoutSubText": "Rui Fish Egg",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/rui-fish-egg-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72111&q=low&v=1"
-        ],
-        "price": 169.0,
-        "corpPrice": 169.0,
-        "objectID": 23368
-    },
-    {
-        "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u09ac\u09be\u0987\u09ae \u09ae\u09be\u099b  \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
@@ -596,26 +392,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
-        },
-        "bengaliName": "\u09ac\u09be\u099b\u09be \u09ae\u09be\u099b \u09ab\u09bf\u09b2\u09b2\u09c7\u099f \u09e7 \u0995\u09c7\u099c\u09bf",
-        "longDesc": null,
-        "name": "Basa Fish Fillet 1 kg",
-        "nameWithoutSubText": "Basa Fish Fillet",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/basa-fish-fillet-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71451&q=low&v=1"
-        ],
-        "price": 465.0,
-        "corpPrice": 465.0,
-        "objectID": 7027
-    },
-    {
-        "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u0986\u09b8\u09cd\u09a4 \u0987\u09b2\u09bf\u09b6 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09ed\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
         "longDesc": "Bangladesh this fish is prepared in varity of way like it can be smoked, fried, steamed, baked, prepared with mustard seed paste, curd, brinjal (eggplant). Some common hilsa menus are Fried hilsa, Khichuri-Ilish, Sorshe Ilish, Panta Ilish,Vapa Ilish etc.\r\nIt has cultural value in Bangali\u2019s life. It is an obvious food in many cultural festival like Pahela Boishakh, Saraswati Puja. ",
@@ -631,9 +410,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u0986\u09b8\u09cd\u09a4 \u0987\u09b2\u09bf\u09b6 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09ef\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
         "longDesc": "Bangladesh this fish is prepared in varity of way like it can be smoked, fried, steamed, baked, prepared with mustard seed paste, curd, brinjal (eggplant). Some common hilsa menus are Fried hilsa, Khichuri-Ilish, Sorshe Ilish, Panta Ilish,Vapa Ilish etc.\r\nIt has cultural value in Bangali\u2019s life. It is an obvious food in many cultural festival like Pahela Boishakh, Saraswati Puja. ",
@@ -648,9 +427,9 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u09b0\u09c1\u0987 \u09b8\u09cd\u099f\u09c7\u0995 \u099a\u09be\u0987\u09a8\u09bf\u099c \u0995\u09be\u099f (\u09a8\u09c7\u099f \u0993\u09df\u09c7\u099f \u00b1 50 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7.\u09eb \u0995\u09c7\u099c\u09bf",
         "longDesc": "Year Ending Offer\r\n(Frozen fish) \r\n",
@@ -665,9 +444,43 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
+        },
+        "bengaliName": "\u0986\u09b8\u09cd\u09a4 \u0987\u09b2\u09bf\u09b6 (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7.\u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Bangladesh this fish is prepared in varity of way like it can be smoked, fried, steamed, baked, prepared with mustard seed paste, curd, brinjal (eggplant). Some common hilsa menus are Fried hilsa, Khichuri-Ilish, Sorshe Ilish, Panta Ilish,Vapa Ilish etc.\r\nIt has cultural value in Bangali\u2019s life. It is an obvious food in many cultural festival like Pahela Boishakh, Saraswati Puja. ",
+        "name": "Asto Ilish (Whole Hilsha) \u00b1 50 gm 1.2 kg",
+        "nameWithoutSubText": "Asto Ilish (Whole Hilsha) \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/asto-ilish-whole-hilsha-50-gm-12-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73541&q=low&v=1"
+        ],
+        "price": 1649.0,
+        "corpPrice": 1649.0,
+        "objectID": 16642
+    },
+    {
+        "category": {
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
+        },
+        "bengaliName": "\u0995\u09be\u09b8\u09cd\u0995\u09bf \u09ae\u09be\u099b \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kaski Fish  500 gm",
+        "nameWithoutSubText": "Kaski Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kaski-fish-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73327&q=low&v=1"
+        ],
+        "price": 219.0,
+        "corpPrice": 219.0,
+        "objectID": 11171
+    },
+    {
+        "category": {
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u0995\u09be\u09a4\u09b2\u09be \u09ae\u09be\u099b \u09b8\u09cd\u099f\u09c7\u0995 \u099a\u09be\u0987\u09a8\u09bf\u099c \u0995\u09be\u099f (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7.\u09eb \u0995\u09c7\u099c\u09bf",
         "longDesc": null,
@@ -682,26 +495,26 @@
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
-        "bengaliName": "\u0986\u09b8\u09cd\u09a4 \u09ab\u09cd\u09b0\u09cb\u099c\u09c7\u09a8 \u0987\u09b2\u09bf\u09b6 (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7\u09e6\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Ilish or Hilsha is a national fish of Bangladesh. Ilish body is strongly compressed and moderately deep with dorsal and ventral profile equally convex. It is considered to be one of most favorite and delicious fish in the world. t is an oily fish and rich in essential omega 3 fatty acids. n Bangladesh this fish is prepared in varity of way like it can be smoked, fried, steamed, baked, prepared with mustard seed paste, curd, brinjal (eggplant). Some common hilsa menus are Fried hilsa, Khichuri-Ilish, Sorshe Ilish, Panta Ilish,Vapa Ilish etc.\r\nIt has cultural value in Bangali\u2019s life. It is an obvious food in many cultural festival like Pahela Boishakh, Saraswati Puja. ",
-        "name": "Whole Frozen Hilsha (Net Weight \u00b1 50 gm) 1 kg ",
+        "bengaliName": "\u0986\u09b8\u09cd\u09a4 \u09ab\u09cd\u09b0\u09cb\u099c\u09c7\u09a8 \u0987\u09b2\u09bf\u09b6 (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb0 \u0997\u09cd\u09b0\u09be\u09ae) \u09ee\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Ilish or Hilsha is a national fish of Bangladesh. Ilish body is strongly compressed and moderately deep with dorsal and ventral profile equally convex.We provide it in frozen condition. It is considered to be one of most favorite and delicious fish in the world. t is an oily fish and rich in essential omega 3 fatty acids. n Bangladesh this fish is prepared in varity of way like it can be smoked, fried, steamed, baked, prepared with mustard seed paste, curd, brinjal (eggplant). Some common hilsa menus are Fried hilsa, Khichuri-Ilish, Sorshe Ilish, Panta Ilish,Vapa Ilish etc.\r\nIt has cultural value in Bangali\u2019s life. It is an obvious food in many cultural festival like Pahela Boishakh, Saraswati Puja.",
+        "name": "Whole Frozen Hilsha (Net Weight \u00b1 50 gm) 800 gm",
         "nameWithoutSubText": "Whole Frozen Hilsha (Net Weight \u00b1 50 gm)",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/whole-frozen-hilsha-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67755&q=low&v=1"
+            "https://chaldn.com/_mpimage/whole-frozen-hilsha-net-weight-50-gm-800-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67752&q=low&v=1"
         ],
-        "price": 1279.0,
-        "corpPrice": 1279.0,
-        "objectID": 7175
+        "price": 799.0,
+        "corpPrice": 799.0,
+        "objectID": 7260
     },
     {
         "category": {
-            "name": "Fresh Fish",
-            "id": "1262",
-            "slug": "fresh-fish-2"
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
         },
         "bengaliName": "\u099a\u09bf\u0982\u09dc\u09bf  \u09b9\u09b0\u09bf\u09a8\u09be \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
         "longDesc": null,
@@ -713,5 +526,22 @@
         "price": 159.0,
         "corpPrice": 159.0,
         "objectID": 24478
+    },
+    {
+        "category": {
+            "name": "Frozen Fish",
+            "id": "1235",
+            "slug": "frozen-fish"
+        },
+        "bengaliName": "\u09b8\u09cd\u0995\u09c1\u0987\u09a1 \u09ae\u09be\u099b \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Squid Fish 500 gm",
+        "nameWithoutSubText": "Squid Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/squid-fish-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67482&q=low&v=1"
+        ],
+        "price": 499.0,
+        "corpPrice": 499.0,
+        "objectID": 10778
     }
 ]

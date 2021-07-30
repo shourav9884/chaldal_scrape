@@ -118,8 +118,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/shosha-cucumber-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64357&q=low&v=1"
         ],
-        "price": 19.0,
-        "corpPrice": 19.0,
+        "price": 25.0,
+        "corpPrice": 25.0,
         "objectID": 6298
     },
     {
@@ -152,8 +152,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/deshi-peyaj-local-onion-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52358&q=low&v=1"
         ],
-        "price": 49.0,
-        "corpPrice": 49.0,
+        "price": 55.0,
+        "corpPrice": 55.0,
         "objectID": 19987
     },
     {
@@ -238,8 +238,8 @@
             "https://chaldn.com/_mpimage/roshun-garlic-imported-10-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D15026&q=low&v=1",
             "https://chaldn.com/_mpimage/garlic-roshun-premium-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22342&q=low&v=1"
         ],
-        "price": 69.0,
-        "corpPrice": 69.0,
+        "price": 75.0,
+        "corpPrice": 75.0,
         "objectID": 8103
     },
     {
@@ -306,8 +306,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/gajor-imported-carrot-20-gm-600-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78085&q=low&v=1"
         ],
-        "price": 55.0,
-        "corpPrice": 55.0,
+        "price": 59.0,
+        "corpPrice": 59.0,
         "objectID": 16963
     },
     {
@@ -321,8 +321,8 @@
         "name": "Boro Alu (Big Diamond Potato) \u00b1 50 gm 1 kg",
         "nameWithoutSubText": "Boro Alu (Big Diamond Potato) \u00b1 50 gm",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/boro-alu-big-diamond-potato-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79694&q=low&v=1",
-            "https://chaldn.com/_mpimage/big-potato-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22307&q=low&v=1"
+            "https://chaldn.com/_mpimage/boro-alu-big-diamond-potato-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79694&q=low&v=1&m=400",
+            "https://chaldn.com/_mpimage/big-potato-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22307&q=low&v=1&m=400"
         ],
         "price": 25.0,
         "corpPrice": 25.0,
@@ -341,8 +341,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/potol-pointed-gourd-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35666&q=low&v=1"
         ],
-        "price": 19.0,
-        "corpPrice": 19.0,
+        "price": 25.0,
+        "corpPrice": 25.0,
         "objectID": 6339
     },
     {
@@ -359,8 +359,8 @@
             "https://chaldn.com/_mpimage/deshi-ada-local-ginger-10-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D9418&q=low&v=1",
             "https://chaldn.com/_mpimage/ginger-deshi-ada-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22310&q=low&v=1"
         ],
-        "price": 69.0,
-        "corpPrice": 69.0,
+        "price": 79.0,
+        "corpPrice": 79.0,
         "objectID": 8102
     },
     {
@@ -394,8 +394,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/green-capsicum-20-gm-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28574&q=low&v=1"
         ],
-        "price": 69.0,
-        "corpPrice": 69.0,
+        "price": 59.0,
+        "corpPrice": 59.0,
         "objectID": 10224
     },
     {
@@ -428,8 +428,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/misti-alu-sweet-potato-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54835&q=low&v=1"
         ],
-        "price": 35.0,
-        "corpPrice": 35.0,
+        "price": 39.0,
+        "corpPrice": 39.0,
         "objectID": 6844
     },
     {
@@ -552,8 +552,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/pudina-pata-mint-leaves-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7827&q=low&v=1"
         ],
-        "price": 29.0,
-        "corpPrice": 29.0,
+        "price": 25.0,
+        "corpPrice": 25.0,
         "objectID": 5923
     },
     {
@@ -740,8 +740,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/kacha-kola-banana-green-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79342&q=low&v=1"
         ],
-        "price": 39.0,
-        "corpPrice": 39.0,
+        "price": 29.0,
+        "corpPrice": 29.0,
         "objectID": 6226
     },
     {
@@ -835,23 +835,6 @@
             "id": "12",
             "slug": "fresh-vegetable"
         },
-        "bengaliName": "\u09a7\u09c1\u09a8\u09cd\u09a6\u09c1\u09b2 \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Sponge Gourd is dark green with an average length of 61 cm and diameter of 7.6 cm. The flesh is white, soft, with white beans. But when it is old, the seeds turn to black, and coarse fibrous tissue when its old.  Sponge Gourd contains various antioxidants, minerals, vitamins, nutrients and lipids. It is an excellent source of Vitamin A and carbohydrates. It is also a very good source of Vitamin B5, Manganese, Potassium, Copper, Total dietary fiber, Vitamin B6, Vitamin C and Magnesium.",
-        "name": "Dhundhul (Sponge Gourd) \u00b120 gm 500 gm",
-        "nameWithoutSubText": "Dhundhul (Sponge Gourd) \u00b120 gm",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/dhundhul-sponge-gourd-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77228&q=low&v=1"
-        ],
-        "price": 25.0,
-        "corpPrice": 25.0,
-        "objectID": 9589
-    },
-    {
-        "category": {
-            "name": "Fresh Vegetables",
-            "id": "12",
-            "slug": "fresh-vegetable"
-        },
         "bengaliName": "\u0995\u09be\u0981\u0995\u09b0\u09cb\u09b2 \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Kakrol (Sweet Bitter Gourd)  \u00b120 gm 500 gm",
@@ -869,6 +852,23 @@
             "id": "12",
             "slug": "fresh-vegetable"
         },
+        "bengaliName": "\u09a7\u09c1\u09a8\u09cd\u09a6\u09c1\u09b2 \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Sponge Gourd is dark green with an average length of 61 cm and diameter of 7.6 cm. The flesh is white, soft, with white beans. But when it is old, the seeds turn to black, and coarse fibrous tissue when its old.  Sponge Gourd contains various antioxidants, minerals, vitamins, nutrients and lipids. It is an excellent source of Vitamin A and carbohydrates. It is also a very good source of Vitamin B5, Manganese, Potassium, Copper, Total dietary fiber, Vitamin B6, Vitamin C and Magnesium.",
+        "name": "Dhundhul (Sponge Gourd) \u00b120 gm 500 gm",
+        "nameWithoutSubText": "Dhundhul (Sponge Gourd) \u00b120 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dhundhul-sponge-gourd-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77228&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 9589
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
         "bengaliName": "\u09b2\u09c7\u099f\u09c1\u09b8 \u09aa\u09be\u09a4\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Locally sourced.It has soft and delicate leaves, varying in color from mid-green to brown or red tinged. It has a subtle, slightly sweet flavor, and is good in all kinds of salads.",
         "name": "Lettuce Leaves 100 gm",
@@ -877,8 +877,8 @@
             "https://chaldn.com/_mpimage/lettuce-leaves-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28797&q=low&v=1",
             "https://chaldn.com/_mpimage/lettuce-leaf-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22409&q=low&v=1"
         ],
-        "price": 35.0,
-        "corpPrice": 35.0,
+        "price": 29.0,
+        "corpPrice": 29.0,
         "objectID": 5929
     },
     {
@@ -929,8 +929,8 @@
             "https://chaldn.com/_mpimage/beetroot-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35682&q=low&v=1",
             "https://chaldn.com/_mpimage/beetroot-net-weight-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25950&q=best&v=1"
         ],
-        "price": 59.0,
-        "corpPrice": 59.0,
+        "price": 65.0,
+        "corpPrice": 65.0,
         "objectID": 6343
     },
     {
@@ -980,8 +980,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/aloe-vera-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35684&q=low&v=1"
         ],
-        "price": 25.0,
-        "corpPrice": 25.0,
+        "price": 19.0,
+        "corpPrice": 19.0,
         "objectID": 6843
     },
     {
@@ -1031,8 +1031,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/kacha-holud-raw-turmeric-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7662&q=low&v=1"
         ],
-        "price": 29.0,
-        "corpPrice": 29.0,
+        "price": 25.0,
+        "corpPrice": 25.0,
         "objectID": 6839
     },
     {
@@ -1048,8 +1048,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/baby-corn-550-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7995&q=low&v=1"
         ],
-        "price": 89.0,
-        "corpPrice": 89.0,
+        "price": 79.0,
+        "corpPrice": 79.0,
         "objectID": 7118
     },
     {
@@ -1065,8 +1065,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/jaam-alu-small-potato-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65817&q=low&v=1"
         ],
-        "price": 45.0,
-        "corpPrice": 45.0,
+        "price": 49.0,
+        "corpPrice": 49.0,
         "objectID": 11526
     },
     {
@@ -1082,8 +1082,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/lomba-kochu-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D14302&q=low&v=1"
         ],
-        "price": 55.0,
-        "corpPrice": 55.0,
+        "price": 49.0,
+        "corpPrice": 49.0,
         "objectID": 6846
     },
     {
@@ -1133,8 +1133,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/yellow-capsicum-20-gm-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D16552&q=low&v=1"
         ],
-        "price": 115.0,
-        "corpPrice": 115.0,
+        "price": 105.0,
+        "corpPrice": 105.0,
         "objectID": 10225
     },
     {
@@ -1150,8 +1150,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/mehendi-pata-henna-leaves-3-bundles?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7669&q=low&v=1"
         ],
-        "price": 29.0,
-        "corpPrice": 29.0,
+        "price": 49.0,
+        "corpPrice": 49.0,
         "objectID": 6847
     },
     {
@@ -1201,8 +1201,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/paan-betel-leaf-30-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40757&q=low&v=1"
         ],
-        "price": 65.0,
-        "corpPrice": 65.0,
+        "price": 69.0,
+        "corpPrice": 69.0,
         "objectID": 15708
     },
     {
@@ -1218,8 +1218,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/badhacopi-pata-chinese-cabbage-leaves-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7070&q=low&v=1"
         ],
-        "price": 29.0,
-        "corpPrice": 29.0,
+        "price": 39.0,
+        "corpPrice": 39.0,
         "objectID": 6227
     },
     {
@@ -1286,8 +1286,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/misti-kumra-sweet-pumpkin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35681&q=low&v=1"
         ],
-        "price": 55.0,
-        "corpPrice": 55.0,
+        "price": 59.0,
+        "corpPrice": 59.0,
         "objectID": 5933
     }
 ]

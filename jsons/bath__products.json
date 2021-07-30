@@ -219,6 +219,23 @@
             "id": "38",
             "slug": "bath"
         },
+        "bengaliName": "\u09b8\u09cd\u099f\u09c1\u09a1\u09bf\u0993 \u098f\u0995\u09cd\u09b8 \u0995\u09cd\u09b2\u09bf\u09a8 \u098f\u09ac\u0982 \u09ab\u09cd\u09b0\u09c7\u09b6 \u09ab\u09b0 \u09ae\u09c7\u09a8",
+        "longDesc": "Studio X Clean & Fresh Soap for men is co-created by international styling experts. It is designed from a deep understanding of men's tough skin. It contains menthol, which gives a refreshing, cool feel and has a masculine fragrance developed by international perfume experts all over the world. Now, build a unique manly aura of impression every time and bring alive the winner in you.",
+        "name": "Studio X Clean & Fresh Soap for Men 125gm",
+        "nameWithoutSubText": "Studio X Clean & Fresh Soap for Men",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/studio-x-clean-fresh-soap-for-men-125gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60991&q=low&v=1"
+        ],
+        "price": 52.0,
+        "corpPrice": 52.0,
+        "objectID": 21616
+    },
+    {
+        "category": {
+            "name": "Bath",
+            "id": "38",
+            "slug": "bath"
+        },
         "bengaliName": "\u09a1\u09c7\u099f\u09b2 \u09b8\u09be\u09ac\u09be\u09a8 \u09b6\u09c0\u09a4\u09b2  \u09b8\u09cd\u09a8\u09be\u09a8 \u09ac\u09be\u09b0 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Use 75 gm bar of Dettol Cool Soap to get Dettol\u2019s trusted germ protection every day with the refreshing crispy menthol fragrance of its DERMATOLOGICALLY TESTED unique formula that keeps your skin moist and leaves it feeling healthy and fresh. Dettol Cool is a Grade 1 bathing soap- providing the best value for your purchase. Recommended by Doctors of Bangladesh Private Medical Practitioners Association (BPMPA).\r\n",
         "name": "Dettol Soap Cool Bathing Bar 75 gm",
@@ -233,23 +250,6 @@
         "price": 39.0,
         "corpPrice": 39.0,
         "objectID": 5860
-    },
-    {
-        "category": {
-            "name": "Bath",
-            "id": "38",
-            "slug": "bath"
-        },
-        "bengaliName": "\u09b8\u09cd\u099f\u09c1\u09a1\u09bf\u0993 \u098f\u0995\u09cd\u09b8 \u0995\u09cd\u09b2\u09bf\u09a8 \u098f\u09ac\u0982 \u09ab\u09cd\u09b0\u09c7\u09b6 \u09ab\u09b0 \u09ae\u09c7\u09a8",
-        "longDesc": "Studio X Clean & Fresh Soap for men is co-created by international styling experts. It is designed from a deep understanding of men's tough skin. It contains menthol, which gives a refreshing, cool feel and has a masculine fragrance developed by international perfume experts all over the world. Now, build a unique manly aura of impression every time and bring alive the winner in you.",
-        "name": "Studio X Clean & Fresh Soap for Men 125gm",
-        "nameWithoutSubText": "Studio X Clean & Fresh Soap for Men",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/studio-x-clean-fresh-soap-for-men-125gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60991&q=low&v=1"
-        ],
-        "price": 52.0,
-        "corpPrice": 52.0,
-        "objectID": 21616
     },
     {
         "category": {
@@ -476,23 +476,6 @@
             "id": "38",
             "slug": "bath"
         },
-        "bengaliName": "\u09a1\u09c7\u099f\u09b2 \u09b8\u09cb\u09aa \u09b8\u09cd\u0995\u09bf\u09a8\u0995\u09c7\u09af\u09bc\u09be\u09b0 \u09ad\u09cd\u09af\u09be\u09b2\u09c1 \u09aa\u09cd\u09af\u09be\u0995 \u0985\u09ab \u09ea \u09ac\u09be\u09a5\u09bf\u0982 \u09ac\u09be\u09b0 \u09b8\u09cb\u09aa \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Dettol Soap Skincare Bathing Bar Soap Quad Pack 125 Gm X 4 Pack\r\n  ",
-        "name": "Dettol Soap Skincare Value Pack Of 4 Bathing Bar Soap 500 gm",
-        "nameWithoutSubText": "Dettol Soap Skincare Value Pack Of 4 Bathing Bar Soap",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/dettol-soap-skincare-value-pack-of-4-bathing-bar-soap-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80342&q=low&v=1"
-        ],
-        "price": 219.0,
-        "corpPrice": 219.0,
-        "objectID": 22232
-    },
-    {
-        "category": {
-            "name": "Bath",
-            "id": "38",
-            "slug": "bath"
-        },
         "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09b8\u09cd\u09af\u09be\u09ad\u09b2\u09a8 \u09b8\u09be\u09ac\u09be\u09a8 \u09ae\u09c7\u09a8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "ACI Savlon Soap Men 100 gm",
@@ -503,6 +486,23 @@
         "price": 55.0,
         "corpPrice": 55.0,
         "objectID": 9530
+    },
+    {
+        "category": {
+            "name": "Bath",
+            "id": "38",
+            "slug": "bath"
+        },
+        "bengaliName": "\u09a1\u09c7\u099f\u09b2 \u09b8\u09cb\u09aa \u09b8\u09cd\u0995\u09bf\u09a8\u0995\u09c7\u09af\u09bc\u09be\u09b0 \u09ad\u09cd\u09af\u09be\u09b2\u09c1 \u09aa\u09cd\u09af\u09be\u0995 \u0985\u09ab \u09ea \u09ac\u09be\u09a5\u09bf\u0982 \u09ac\u09be\u09b0 \u09b8\u09cb\u09aa \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Dettol Soap Skincare Bathing Bar Soap Quad Pack 125 Gm X 4 Pack\r\n  ",
+        "name": "Dettol Soap Skincare Value Pack Of 4 Bathing Bar Soap 500 gm",
+        "nameWithoutSubText": "Dettol Soap Skincare Value Pack Of 4 Bathing Bar Soap",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dettol-soap-skincare-value-pack-of-4-bathing-bar-soap-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80342&q=low&v=1"
+        ],
+        "price": 219.0,
+        "corpPrice": 219.0,
+        "objectID": 22232
     },
     {
         "category": {
@@ -622,6 +622,23 @@
             "id": "38",
             "slug": "bath"
         },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09a8\u09bf\u09ae \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u0996\u09be\u0981\u099f\u09bf \u09a8\u09bf\u09ae \u09b8\u09be\u09ac\u09be\u09a8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "ACI Neem Original Pure Neem Soap 100 gm",
+        "nameWithoutSubText": "ACI Neem Original Pure Neem Soap",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-neem-original-pure-neem-soap-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36662&q=low&v=1"
+        ],
+        "price": 42.0,
+        "corpPrice": 42.0,
+        "objectID": 14927
+    },
+    {
+        "category": {
+            "name": "Bath",
+            "id": "38",
+            "slug": "bath"
+        },
         "bengaliName": "\u09a1\u09c7\u099f\u09b2 \u09ac\u09be\u09a5\u09bf\u0982 \u09ac\u09be\u09b0 \u09b8\u09be\u09ac\u09be\u09a8 \u09b8\u09cd\u0995\u09bf\u09a8 \u0995\u09c7\u09df\u09be\u09b0 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Use 75 gm bar of Dettol Skincare Soap to get the most cost-effective germ protection every day with proven care for your skin ensured by DERMATOLOGICALLY TESTED formula of pure glycerin and Trichlorocarbon that keeps your skin soft and smooth. Dettol Skincare is a Grade 1 bathing soap- providing the best value for your purchase. Recommended by Doctors of Bangladesh Private Medical Practitioners Association (BPMPA).\r\n",
         "name": "Dettol Bathing Bar Soap Skincare 75 gm",
@@ -636,23 +653,6 @@
         "price": 39.0,
         "corpPrice": 39.0,
         "objectID": 5858
-    },
-    {
-        "category": {
-            "name": "Bath",
-            "id": "38",
-            "slug": "bath"
-        },
-        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09a8\u09bf\u09ae \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u0996\u09be\u0981\u099f\u09bf \u09a8\u09bf\u09ae \u09b8\u09be\u09ac\u09be\u09a8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "ACI Neem Original Pure Neem Soap 100 gm",
-        "nameWithoutSubText": "ACI Neem Original Pure Neem Soap",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/aci-neem-original-pure-neem-soap-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36662&q=low&v=1"
-        ],
-        "price": 42.0,
-        "corpPrice": 42.0,
-        "objectID": 14927
     },
     {
         "category": {

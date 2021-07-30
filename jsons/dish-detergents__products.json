@@ -236,6 +236,23 @@
             "id": "83",
             "slug": "dish-detergents"
         },
+        "bengaliName": " \u09ad\u09bf\u09ae \u09ae\u09be\u09b8\u09bf\u0995 \u09a1\u09bf\u09b6 \u0993\u09df\u09be\u09b6\u09bf\u0982 \u09ac\u09be\u09a8\u09cd\u09a1\u09c7\u09b2",
+        "longDesc": null,
+        "name": " Vim Monthly Dishwashing Bundle  ",
+        "nameWithoutSubText": " Vim Monthly Dishwashing Bundle  ",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vim-monthly-dishwashing-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71832&q=low&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 23285
+    },
+    {
+        "category": {
+            "name": "Dish Detergents",
+            "id": "83",
+            "slug": "dish-detergents"
+        },
         "bengaliName": "\u099f\u09cd\u09b0\u09bf\u0995\u09cd\u09b8 \u09a1\u09bf\u09b6\u0993\u09af\u09bc\u09be\u09b6\u09bf\u0982 \u09b2\u09bf\u0995\u09c1\u0987\u09a1 \u09b2\u09c7\u09ae\u09a8 \u09ac\u09cb\u09a4\u09b2 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": "\"Trix dishwashing liquid gives you the fastest and shiniest scratch-free clean. Its power-rich thick foam quickly works through the toughest of grease stains and unseen food residue bringing your dishes to their incredible best; fresh, shiny and sparkling clean. It is hard on grease but soft on hands. Available in Lemon fragrance.     \r\n\"\t\t\t\t  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n  ",
         "name": "Trix Dishwashing Liquid Lemon Bottle 500 ml",
@@ -250,23 +267,6 @@
         "price": 99.0,
         "corpPrice": 99.0,
         "objectID": 7635
-    },
-    {
-        "category": {
-            "name": "Dish Detergents",
-            "id": "83",
-            "slug": "dish-detergents"
-        },
-        "bengaliName": " \u09ad\u09bf\u09ae \u09ae\u09be\u09b8\u09bf\u0995 \u09a1\u09bf\u09b6 \u0993\u09df\u09be\u09b6\u09bf\u0982 \u09ac\u09be\u09a8\u09cd\u09a1\u09c7\u09b2",
-        "longDesc": null,
-        "name": " Vim Monthly Dishwashing Bundle  ",
-        "nameWithoutSubText": " Vim Monthly Dishwashing Bundle  ",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/vim-monthly-dishwashing-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71832&q=low&v=1"
-        ],
-        "price": 275.0,
-        "corpPrice": 275.0,
-        "objectID": 23285
     },
     {
         "category": {

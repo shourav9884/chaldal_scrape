@@ -255,23 +255,6 @@
             "id": "37",
             "slug": "skin-care"
         },
-        "bengaliName": "\u09b9\u09bf\u09ae\u09be\u09b2\u09bf\u09df\u09be \u09aa\u09bf\u0989\u09b0\u09bf\u09ab\u09be\u0987\u0982 \u09a8\u09bf\u09ae \u09ab\u09c7\u09b8 \u0993\u09df\u09be\u09b6 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": "Origin: India\r\nManufacturer: The Himalaya drugs Ltd.\r\nClinically Proven Pimple-free Healthy Skin Expert\r\nHimalaya's Purifying Neem Face Wash is a soap-free formulation that cleans impurities and helps clear pimples.\r\nIngredients:\r\nNeem\r\nNeem is an excellent skincare ingredient known for its antibacterial properties. It improves general skin health and combating bacterial infection like acne.\r\n\r\nTurmeric\r\nTurmeric has been used as an antiseptic for centuries and is regarded as one of nature's most powerful healers. The herb helps to even out your skin tone and color, making it an excellent ingredient in a face wash. Turmeric has strong anti-inflammatory properties, which help soothe your skin.",
-        "name": "Himalaya Purifying Neem Face Wash 100 ml",
-        "nameWithoutSubText": "Himalaya Purifying Neem Face Wash",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/himalaya-purifying-neem-face-wash-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28608&q=low&v=1"
-        ],
-        "price": 185.0,
-        "corpPrice": 185.0,
-        "objectID": 13424
-    },
-    {
-        "category": {
-            "name": "Skin Care",
-            "id": "37",
-            "slug": "skin-care"
-        },
         "bengaliName": "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09be\u09b2\u09bf\u09a8\u09be \u099a\u09a8\u09cd\u09a6\u09a8 \u09b8\u09be\u09ac\u09be\u09a8 \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Sandalina Sandal Soap 125 gm",
@@ -282,6 +265,23 @@
         "price": 47.0,
         "corpPrice": 47.0,
         "objectID": 2446
+    },
+    {
+        "category": {
+            "name": "Skin Care",
+            "id": "37",
+            "slug": "skin-care"
+        },
+        "bengaliName": "\u09b9\u09bf\u09ae\u09be\u09b2\u09bf\u09df\u09be \u09aa\u09bf\u0989\u09b0\u09bf\u09ab\u09be\u0987\u0982 \u09a8\u09bf\u09ae \u09ab\u09c7\u09b8 \u0993\u09df\u09be\u09b6 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: India\r\nManufacturer: The Himalaya drugs Ltd.\r\nClinically Proven Pimple-free Healthy Skin Expert\r\nHimalaya's Purifying Neem Face Wash is a soap-free formulation that cleans impurities and helps clear pimples.\r\nIngredients:\r\nNeem\r\nNeem is an excellent skincare ingredient known for its antibacterial properties. It improves general skin health and combating bacterial infection like acne.\r\n\r\nTurmeric\r\nTurmeric has been used as an antiseptic for centuries and is regarded as one of nature's most powerful healers. The herb helps to even out your skin tone and color, making it an excellent ingredient in a face wash. Turmeric has strong anti-inflammatory properties, which help soothe your skin.",
+        "name": "Himalaya Purifying Neem Face Wash 100 ml",
+        "nameWithoutSubText": "Himalaya Purifying Neem Face Wash",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/himalaya-purifying-neem-face-wash-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28608&q=low&v=1"
+        ],
+        "price": 185.0,
+        "corpPrice": 185.0,
+        "objectID": 13424
     },
     {
         "category": {

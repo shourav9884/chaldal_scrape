@@ -1,10 +1,10 @@
+import json
+
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver import ActionChains
 import time
 from selenium.webdriver.common.by import By
-from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.chrome.options import Options
+
 
 options = Options()
 options.add_argument("--headless")
@@ -69,7 +69,10 @@ for cat in high_level_cats:
 	cat_dict['slug'] = a_element.get_attribute('href').strip('/')
 	cats.append(cat_dict)
 	i+=1
-print(cats)
+
+
+with open('jsons/categories.json', 'w+') as file:
+	json.dump(cats, file, indent=4)
 driver.close()
 
 

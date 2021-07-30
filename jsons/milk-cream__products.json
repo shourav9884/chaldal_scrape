@@ -722,23 +722,6 @@
             "id": "62",
             "slug": "milk-cream"
         },
-        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09a8\u09bf\u09a1\u09cb \u09ab\u09b0\u099f\u09bf\u0997\u09cd\u09b0\u09cb \u09ab\u09c1\u09b2 \u0995\u09cd\u09b0\u09bf\u09ae \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 \u099f\u09bf\u09a8 \u09e8.\u09eb \u0995\u09c7\u099c\u09bf",
-        "longDesc": "NIDO Fortigrow- World\u2019s no 1 selling milk powder which ensures proper nutrition for children above 5 years old. \r\n\r\nIt has Iron, Vitamin A, C & D which help to maintain your child's normal immune function and overall growth \r\n\r\n#Source: Euromonitor International Limited; Packaged Food 2019 Edition; NIDO brand shares by umbrella brand name, as per powder milk definition; all retail channels; retail value rsp. 2018 data. \r\n\r\nNet Weight: 2.5kg \r\n\r\nOrigin: New Zealand \r\n\r\nMarketed by Nestl\u00e9 Bangladesh Limited ",
-        "name": "Nestle Nido Fortigrow Full Cream Milk Powder Tin 2.5 kg",
-        "nameWithoutSubText": "Nestle Nido Fortigrow Full Cream Milk Powder Tin",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/nestle-nido-fortigrow-full-cream-milk-powder-tin-25-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73376&q=low&v=1"
-        ],
-        "price": 2500.0,
-        "corpPrice": 2500.0,
-        "objectID": 3843
-    },
-    {
-        "category": {
-            "name": "Powder Milk & Cream",
-            "id": "62",
-            "slug": "milk-cream"
-        },
         "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09a8\u09bf\u09a1\u09cb \u09ab\u09c1\u09b2 \u0995\u09cd\u09b0\u09bf\u09ae \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 (\u09ab\u09cd\u09b0\u09bf \u0995\u09cb\u0995\u09cb \u0995\u09cd\u09b0\u09be\u099e\u09cd\u099a) \u09ef\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Tin 900 gm",
         "name": "Nestle Nido Full Cream Milk Powder (Free Koko Krunch) 900 gm",
@@ -1242,6 +1225,23 @@
         "price": 450.0,
         "corpPrice": 450.0,
         "objectID": 7824
+    },
+    {
+        "category": {
+            "name": "Powder Milk & Cream",
+            "id": "62",
+            "slug": "milk-cream"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09a8\u09bf\u09a1\u09cb \u09ab\u09b0\u099f\u09bf\u0997\u09cd\u09b0\u09cb \u09ab\u09c1\u09b2 \u0995\u09cd\u09b0\u09bf\u09ae \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 \u099f\u09bf\u09a8 \u09e8.\u09eb \u0995\u09c7\u099c\u09bf",
+        "longDesc": "NIDO Fortigrow- World\u2019s no 1 selling milk powder which ensures proper nutrition for children above 5 years old. \r\n\r\nIt has Iron, Vitamin A, C & D which help to maintain your child's normal immune function and overall growth \r\n\r\n#Source: Euromonitor International Limited; Packaged Food 2019 Edition; NIDO brand shares by umbrella brand name, as per powder milk definition; all retail channels; retail value rsp. 2018 data. \r\n\r\nNet Weight: 2.5kg \r\n\r\nOrigin: New Zealand \r\n\r\nMarketed by Nestl\u00e9 Bangladesh Limited ",
+        "name": "Nestle Nido Fortigrow Full Cream Milk Powder Tin 2.5 kg",
+        "nameWithoutSubText": "Nestle Nido Fortigrow Full Cream Milk Powder Tin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-nido-fortigrow-full-cream-milk-powder-tin-25-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73376&q=low&v=1"
+        ],
+        "price": 2500.0,
+        "corpPrice": 2500.0,
+        "objectID": 3843
     },
     {
         "category": {

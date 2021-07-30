@@ -141,23 +141,6 @@
             "id": "228",
             "slug": "local-breakfast"
         },
-        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u09ae\u09c1\u09dc\u09bf \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Puffed rice (muri) is a familiar food that you can have with tea. It provides protein, iron and other nutrients, which is good for human health. You can have it regularly. So, order it from chaldal and get it hurry at your doorstep.",
-        "name": "Ruchi Puffed Rice (Muri) 250 gm ",
-        "nameWithoutSubText": "Ruchi Puffed Rice (Muri)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/ruchi-puffed-rice-muri-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69959&q=low&v=1"
-        ],
-        "price": 40.0,
-        "corpPrice": 40.0,
-        "objectID": 6211
-    },
-    {
-        "category": {
-            "name": "Local Breakfast",
-            "id": "228",
-            "slug": "local-breakfast"
-        },
         "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u09b9\u09be\u09b0\u09ad\u09c7\u09b7\u09cd\u099f \u09ae\u09c7\u0997\u09be \u09a6\u09c7\u09b6\u09c0 \u09aa\u09b0\u09cb\u099f\u09be \u09e7\u09ec\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e8\u09e6 \u099f\u09bf",
         "longDesc": "Golden harvest mega deshi paratha is a good food for a big family since it has 20pcs in one pack. Very easy to prepare. It saves your valuable time. Just tear off the packet and put it on the griddle and wait for a few minutes. Then it will be ready to serve. Net weight 1600gm. 20 pcs in one packet. ",
         "name": "Golden Harvest Mega Deshi Paratha 1600 gm 20 pcs",
@@ -168,6 +151,41 @@
         "price": 269.0,
         "corpPrice": 269.0,
         "objectID": 4417
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u098f\u0997\u09cd\u09b0\u09cb\u09ac\u09bf\u099c \u09ae\u09c1\u09dc\u09bf (\u09b9\u09be\u09a4\u09c7 \u09a4\u09c8\u09b0\u09bf \u09ae\u09c1\u09dc\u09bf) \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Buy agrobiz puffed rice (hand made muri) as a traditional food. Totally hand made. Free from damaging hydrose. It will bring you an authentic taste. Net weight 200 gm. ",
+        "name": "Agrobiz Puffed Rice (Hand Made Muri) 200 gm ",
+        "nameWithoutSubText": "Agrobiz Puffed Rice (Hand Made Muri)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/agrobiz-puffed-rice-hand-made-muri-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46661&q=low&v=1",
+            "https://chaldn.com/_mpimage/agrobiz-puffed-rice-hand-made-muri-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36993&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 14965
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u09ae\u09c1\u09dc\u09bf \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Puffed rice (muri) is a familiar food that you can have with tea. It provides protein, iron and other nutrients, which is good for human health. You can have it regularly. So, order it from chaldal and get it hurry at your doorstep.",
+        "name": "Ruchi Puffed Rice (Muri) 250 gm ",
+        "nameWithoutSubText": "Ruchi Puffed Rice (Muri)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-puffed-rice-muri-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69959&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 6211
     },
     {
         "category": {

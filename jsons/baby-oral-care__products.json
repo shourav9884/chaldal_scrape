@@ -158,23 +158,6 @@
             "id": "1379",
             "slug": "baby-oral-care"
         },
-        "bengaliName": "\u09b9\u09cb\u09df\u09be\u0987\u099f\u09aa\u09cd\u09b2\u09be\u09b8 \u0995\u09bf\u09a1\u09b8 \u09ac\u09be\u09ac\u09b2 \u0997\u09be\u09ae \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Origin: Bangladesh\r\n1.5+ Years Baby\r\n2.Daily Enamel Repair\r\n3.500-600 PPM Fluoride Toothpaste\r\n4.Bubble Gum Flavor ",
-        "name": "WhitePlus Kids Bubble Gum Toothpaste 80 gm",
-        "nameWithoutSubText": "WhitePlus Kids Bubble Gum Toothpaste",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/whiteplus-kids-bubble-gum-toothpaste-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38916&q=low&v=1"
-        ],
-        "price": 70.0,
-        "corpPrice": 70.0,
-        "objectID": 15259
-    },
-    {
-        "category": {
-            "name": "Baby Oral Care",
-            "id": "1379",
-            "slug": "baby-oral-care"
-        },
         "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b8\u09cd\u09af\u09c1\u099f \u099c\u09be\u09b8\u09cd\u099f \u09ab\u09b0 \u09ac\u09c7\u09ac\u09bf - \u09b6\u09bf\u09b6\u09c1\u09a6\u09c7\u09b0 \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f (\u0985\u09b0\u09c7\u099e\u09cd\u099c) \u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Parachute Just for BabyTM Baby toothpaste is specially formulated for Baby teeth. Its fluoride free formula is gentle on baby\u2019s teeth and gums. It is carefully formulated with food grade ingredients, making it safe if accidentally swallowed. Its sweet flavor is especially suited for babies and is sure to make brushing a fun experience for them\r\n\r\nBenefits: \r\n1. Synthetic color free\r\n2. Fluoride Free\r\n3. Sugar Free\r\n4. SLS Free \r\n5. Australian Certified Toxic Free\r\n6. Made Safe Certified\r\n7. Gentle on Teeth and Gums\r\n8. Tested under dentist supervision\r\n\r\nIngredients:\r\nDicalcium phosphate dihydrate, aqua, glycerin, maltitol, xylitol, chondrus crispus extract(carrageenan), flavour, sodium benzoate,tri magnesium phosphate, sodium\u00a0 methyl cocoyl taurate, citric acid, sodium citrate",
         "name": "Parachute Just For Baby - Baby Toothpaste (Orange) 45 gm",
@@ -185,6 +168,23 @@
         "price": 72.0,
         "corpPrice": 72.0,
         "objectID": 23604
+    },
+    {
+        "category": {
+            "name": "Baby Oral Care",
+            "id": "1379",
+            "slug": "baby-oral-care"
+        },
+        "bengaliName": "\u09b9\u09cb\u09df\u09be\u0987\u099f\u09aa\u09cd\u09b2\u09be\u09b8 \u0995\u09bf\u09a1\u09b8 \u09ac\u09be\u09ac\u09b2 \u0997\u09be\u09ae \u099f\u09c1\u09a5\u09aa\u09c7\u09b8\u09cd\u099f \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\n1.5+ Years Baby\r\n2.Daily Enamel Repair\r\n3.500-600 PPM Fluoride Toothpaste\r\n4.Bubble Gum Flavor ",
+        "name": "WhitePlus Kids Bubble Gum Toothpaste 80 gm",
+        "nameWithoutSubText": "WhitePlus Kids Bubble Gum Toothpaste",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/whiteplus-kids-bubble-gum-toothpaste-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38916&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 15259
     },
     {
         "category": {

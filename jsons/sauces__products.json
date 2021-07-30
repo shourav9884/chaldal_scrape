@@ -158,23 +158,6 @@
             "id": "193",
             "slug": "sauces"
         },
-        "bengaliName": "\u09b9\u09c7\u0987\u09a8\u09cd\u099c \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Heinz Chilli Sauce 300 gm",
-        "nameWithoutSubText": "Heinz Chilli Sauce",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/heinz-chilli-sauce-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64604&q=low&v=1"
-        ],
-        "price": 124.0,
-        "corpPrice": 124.0,
-        "objectID": 2246
-    },
-    {
-        "category": {
-            "name": "Sauces",
-            "id": "193",
-            "slug": "sauces"
-        },
         "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u09b9\u09be\u09b0\u09ad\u09c7\u09b8\u09cd\u099f \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Golden Harvest Chilli Sauce 340 gm",
@@ -192,16 +175,16 @@
             "id": "193",
             "slug": "sauces"
         },
-        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u09b9\u09be\u09b0\u09ad\u09c7\u09b8\u09cd\u099f \u0997\u09be\u09b0\u09cd\u09b2\u09bf\u0995 \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u09b9\u09c7\u0987\u09a8\u09cd\u099c \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Golden Harvest Garlic Chilli Sauce 340 gm",
-        "nameWithoutSubText": "Golden Harvest Garlic Chilli Sauce",
+        "name": "Heinz Chilli Sauce 300 gm",
+        "nameWithoutSubText": "Heinz Chilli Sauce",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/golden-harvest-garlic-chilli-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48567&q=low&v=1"
+            "https://chaldn.com/_mpimage/heinz-chilli-sauce-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64604&q=low&v=1"
         ],
-        "price": 100.0,
-        "corpPrice": 100.0,
-        "objectID": 17152
+        "price": 124.0,
+        "corpPrice": 124.0,
+        "objectID": 2246
     },
     {
         "category": {
@@ -219,6 +202,23 @@
         "price": 90.0,
         "corpPrice": 90.0,
         "objectID": 16956
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u09b9\u09be\u09b0\u09ad\u09c7\u09b8\u09cd\u099f \u0997\u09be\u09b0\u09cd\u09b2\u09bf\u0995 \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Golden Harvest Garlic Chilli Sauce 340 gm",
+        "nameWithoutSubText": "Golden Harvest Garlic Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/golden-harvest-garlic-chilli-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48567&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 17152
     },
     {
         "category": {
@@ -566,23 +566,6 @@
             "id": "193",
             "slug": "sauces"
         },
-        "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u09b9\u099f \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Ahmed Hot Chilli Sauce 340 gm",
-        "nameWithoutSubText": "Ahmed Hot Chilli Sauce",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/ahmed-hot-chilli-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59369&q=low&v=1"
-        ],
-        "price": 95.0,
-        "corpPrice": 95.0,
-        "objectID": 21371
-    },
-    {
-        "category": {
-            "name": "Sauces",
-            "id": "193",
-            "slug": "sauces"
-        },
         "bengaliName": "\u09ae\u09c7\u0997\u09bf \u09b8\u09af\u09bc\u09be \u09b8\u09b8 \u09ed\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": null,
         "name": "Maggi Soya Sauce 700 ml",
@@ -593,6 +576,23 @@
         "price": 220.0,
         "corpPrice": 220.0,
         "objectID": 21408
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u09b9\u099f \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Hot Chilli Sauce 340 gm",
+        "nameWithoutSubText": "Ahmed Hot Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-hot-chilli-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59369&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 21371
     },
     {
         "category": {

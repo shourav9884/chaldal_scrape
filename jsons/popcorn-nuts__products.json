@@ -260,23 +260,6 @@
             "id": "56",
             "slug": "popcorn-nuts"
         },
-        "bengaliName": "\u0997\u09cd\u09b0\u09c0\u09a8 \u09aa\u09be\u09b0\u09cd\u0995 \u0997\u09cd\u09b0\u09c0\u09a8 \u09ae\u099f\u09b0 \u09ea\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Green Park Green Peas 425 gm",
-        "nameWithoutSubText": "Green Park Green Peas",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/green-park-green-peas-425-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75372&q=low&v=1"
-        ],
-        "price": 99.0,
-        "corpPrice": 99.0,
-        "objectID": 24091
-    },
-    {
-        "category": {
-            "name": "Popcorn & Nuts",
-            "id": "56",
-            "slug": "popcorn-nuts"
-        },
         "bengaliName": "\u099f\u0982 \u0997\u09be\u09b0\u09cd\u09a1\u09c7\u09a8 \u0993\u09df\u09be\u09b8\u09be\u09ac\u09bf \u0995\u09cb\u099f\u09c7\u09a1 \u0997\u09cd\u09b0\u09bf\u09a8 \u09aa\u09bf\u09df\u09be\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Tong Garden Wasabi Coated Green Peas 50 gm",
@@ -287,6 +270,23 @@
         "price": 80.0,
         "corpPrice": 80.0,
         "objectID": 18315
+    },
+    {
+        "category": {
+            "name": "Popcorn & Nuts",
+            "id": "56",
+            "slug": "popcorn-nuts"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09c0\u09a8 \u09aa\u09be\u09b0\u09cd\u0995 \u0997\u09cd\u09b0\u09c0\u09a8 \u09ae\u099f\u09b0 \u09ea\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Green Park Green Peas 425 gm",
+        "nameWithoutSubText": "Green Park Green Peas",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/green-park-green-peas-425-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75372&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 24091
     },
     {
         "category": {
@@ -328,23 +328,6 @@
             "id": "56",
             "slug": "popcorn-nuts"
         },
-        "bengaliName": "\u099f\u0982 \u0997\u09be\u09b0\u09cd\u09a1\u09c7\u09a8 \u09b8\u09b2\u09cd\u099f\u09c7\u09a1 \u0995\u0995\u099f\u09c7\u0987\u09b2 \u09a8\u09be\u099f\u09b8 \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Tong Garden Salted Cocktail Nuts 40 gm",
-        "nameWithoutSubText": "Tong Garden Salted Cocktail Nuts",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/tong-garden-salted-cocktail-nuts-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50015&q=low&v=1"
-        ],
-        "price": 125.0,
-        "corpPrice": 125.0,
-        "objectID": 18316
-    },
-    {
-        "category": {
-            "name": "Popcorn & Nuts",
-            "id": "56",
-            "slug": "popcorn-nuts"
-        },
         "bengaliName": "\u09a8\u09cb\u0986\u0987 \u09b8\u09b2\u09cd\u099f\u09c7\u09a1 \u09aa\u09bf\u09a8\u09be\u099f\u09cd\u09b8 \u09e7\u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Noi Salted Peanuts 110 gm",
@@ -355,6 +338,23 @@
         "price": 159.0,
         "corpPrice": 159.0,
         "objectID": 18469
+    },
+    {
+        "category": {
+            "name": "Popcorn & Nuts",
+            "id": "56",
+            "slug": "popcorn-nuts"
+        },
+        "bengaliName": "\u099f\u0982 \u0997\u09be\u09b0\u09cd\u09a1\u09c7\u09a8 \u09b8\u09b2\u09cd\u099f\u09c7\u09a1 \u0995\u0995\u099f\u09c7\u0987\u09b2 \u09a8\u09be\u099f\u09b8 \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tong Garden Salted Cocktail Nuts 40 gm",
+        "nameWithoutSubText": "Tong Garden Salted Cocktail Nuts",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tong-garden-salted-cocktail-nuts-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50015&q=low&v=1"
+        ],
+        "price": 125.0,
+        "corpPrice": 125.0,
+        "objectID": 18316
     },
     {
         "category": {
@@ -413,23 +413,6 @@
             "id": "56",
             "slug": "popcorn-nuts"
         },
-        "bengaliName": "\u09a8\u09be\u099f \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09bf \u09b8\u09b2\u09cd\u099f\u09c7\u09a1 \u0995\u09cd\u09af\u09be\u09b6\u09be\u0993 \u09a8\u09be\u099f\u09b6 \u09e7\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Nut Candy Salted Cashew Nuts 140 gm",
-        "nameWithoutSubText": "Nut Candy Salted Cashew Nuts",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/nut-candy-salted-cashew-nuts-140-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50192&q=low&v=1"
-        ],
-        "price": 399.0,
-        "corpPrice": 399.0,
-        "objectID": 18465
-    },
-    {
-        "category": {
-            "name": "Popcorn & Nuts",
-            "id": "56",
-            "slug": "popcorn-nuts"
-        },
         "bengaliName": "\u09a8\u09be\u099f \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09bf \u0993\u09df\u09be\u09b8\u09be\u09ac\u09bf \u0995\u09cb\u099f\u09c7\u09a1 \u0997\u09cd\u09b0\u09bf\u09a8 \u09aa\u09bf\u09df\u09be\u09b8 \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Nut Candy Wasabi Coated Green Peas 180 gm",
@@ -440,6 +423,23 @@
         "price": 249.0,
         "corpPrice": 249.0,
         "objectID": 18462
+    },
+    {
+        "category": {
+            "name": "Popcorn & Nuts",
+            "id": "56",
+            "slug": "popcorn-nuts"
+        },
+        "bengaliName": "\u09a8\u09be\u099f \u0995\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09bf \u09b8\u09b2\u09cd\u099f\u09c7\u09a1 \u0995\u09cd\u09af\u09be\u09b6\u09be\u0993 \u09a8\u09be\u099f\u09b6 \u09e7\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nut Candy Salted Cashew Nuts 140 gm",
+        "nameWithoutSubText": "Nut Candy Salted Cashew Nuts",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nut-candy-salted-cashew-nuts-140-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50192&q=low&v=1"
+        ],
+        "price": 399.0,
+        "corpPrice": 399.0,
+        "objectID": 18465
     },
     {
         "category": {

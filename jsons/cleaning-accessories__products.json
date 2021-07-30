@@ -5,23 +5,6 @@
             "id": "1276",
             "slug": "cleaning-accessories"
         },
-        "bengaliName": "\u09a1\u09bf\u09b6 \u0993\u09af\u09bc\u09be\u09b6\u09bf\u0982 \u09b8\u09cd\u0995\u09cd\u09b0\u09be\u09ac\u09bf\u0982 \u09aa\u09cd\u09af\u09be\u09a1 \u09e7 \u09aa\u09bf\u09b8",
-        "longDesc": null,
-        "name": "Dish Washing Scrubbing Pad 1 pcs",
-        "nameWithoutSubText": "Dish Washing Scrubbing Pad",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/dish-washing-scrubbing-pad-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44027&q=low&v=1"
-        ],
-        "price": 29.0,
-        "corpPrice": 29.0,
-        "objectID": 16290
-    },
-    {
-        "category": {
-            "name": "Cleaning Accessories",
-            "id": "1276",
-            "slug": "cleaning-accessories"
-        },
         "bengaliName": "\u099f\u09cd\u09b0\u09cd\u09af\u09be\u09b6 \u09ac\u09cd\u09af\u09be\u0997 \u0995\u09be\u09b2\u09cb \u09e7\u09e8 \u099f\u09bf ",
         "longDesc": "Size: 20x30",
         "name": "Trash Bag Black 12 pcs",
@@ -32,6 +15,23 @@
         "price": 189.0,
         "corpPrice": 189.0,
         "objectID": 6981
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09a1\u09bf\u09b6 \u0993\u09af\u09bc\u09be\u09b6\u09bf\u0982 \u09b8\u09cd\u0995\u09cd\u09b0\u09be\u09ac\u09bf\u0982 \u09aa\u09cd\u09af\u09be\u09a1 \u09e7 \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Dish Washing Scrubbing Pad 1 pcs",
+        "nameWithoutSubText": "Dish Washing Scrubbing Pad",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dish-washing-scrubbing-pad-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44027&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 16290
     },
     {
         "category": {
@@ -125,23 +125,6 @@
             "id": "1276",
             "slug": "cleaning-accessories"
         },
-        "bengaliName": "\u09ac\u09c7\u09b8\u09bf\u09a8 \u0995\u09be\u09b0\u09cd\u09ad \u0995\u09cd\u09b2\u09bf\u09a8 \u09ac\u09cd\u09b0\u09be\u09b6  \u09e7 \u099f\u09bf",
-        "longDesc": null,
-        "name": "Basin Curve Clean Brush 1 pcs",
-        "nameWithoutSubText": "Basin Curve Clean Brush",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/basin-curve-clean-brush-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64491&q=low&v=1"
-        ],
-        "price": 49.0,
-        "corpPrice": 49.0,
-        "objectID": 9284
-    },
-    {
-        "category": {
-            "name": "Cleaning Accessories",
-            "id": "1276",
-            "slug": "cleaning-accessories"
-        },
         "bengaliName": "\u09ab\u09cd\u09b2\u09cb\u09b0 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09ac\u09cd\u09b0\u09be\u09b6 \u09ec \u0987\u099e\u09cd\u099a\u09bf \u09b2\u09cb\u0995\u09be\u09b2 \u09e7 \u099f\u09bf",
         "longDesc": null,
         "name": "Floor Hand Brush 6\" Local 1 pcs",
@@ -152,6 +135,23 @@
         "price": 59.0,
         "corpPrice": 59.0,
         "objectID": 9295
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09ac\u09c7\u09b8\u09bf\u09a8 \u0995\u09be\u09b0\u09cd\u09ad \u0995\u09cd\u09b2\u09bf\u09a8 \u09ac\u09cd\u09b0\u09be\u09b6  \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Basin Curve Clean Brush 1 pcs",
+        "nameWithoutSubText": "Basin Curve Clean Brush",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/basin-curve-clean-brush-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64491&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 9284
     },
     {
         "category": {

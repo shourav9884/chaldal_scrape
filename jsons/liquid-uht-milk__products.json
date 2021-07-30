@@ -452,7 +452,7 @@
             "id": "1380",
             "slug": "liquid-uht-milk"
         },
-        "bengaliName": "\u09b8\u09be\u09a8\u09cd\u099f\u09be\u09a8 \u0995\u09cb\u0995\u09cb\u09a8\u09be\u099f \u0997\u09c1\u0981\u09dc\u09cb \u09a6\u09c1\u09a7  \u09aa\u09c7\u09aa\u09be\u09b0 \u09ac\u0995\u09cd\u09b8 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u09b8\u09be\u09a8\u09cd\u099f\u09be\u09a8 \u09a8\u09be\u09b0\u09bf\u0995\u09c7\u09b2\u09c7\u09b0 \u0997\u09c1\u0981\u09dc\u09be \u09a6\u09c1\u09a7 \u09aa\u09c7\u09aa\u09be\u09b0 \u09ac\u0995\u09cd\u09b8 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Help in preventing anaemia.SANTAN\u00a0Coconut Milk Powder\u00a0is good iron sources.\r\n",
         "name": "Santan Coconut Milk Powder Paper Box 200 gm",
         "nameWithoutSubText": "Santan Coconut Milk Powder Paper Box",
@@ -503,23 +503,6 @@
             "id": "1380",
             "slug": "liquid-uht-milk"
         },
-        "bengaliName": "\u09b9\u09be\u09b0\u09ad\u09c7 \u09ab\u09cd\u09b0\u09c7\u09b8 \u09b2\u09cd\u09af\u09be\u0995\u099f\u09cb\u099c \u09ab\u09cd\u09b0\u09c0 \u0987\u0989\u098f\u0987\u099a\u099f\u09bf \u09b8\u09cd\u0995\u09bf\u09ae \u09ae\u09bf\u09b2\u09cd\u0995 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0 ",
-        "longDesc": null,
-        "name": "Harvey Fresh Lactose Free UHT Skim Milk 1 ltr",
-        "nameWithoutSubText": "Harvey Fresh Lactose Free UHT Skim Milk",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/harvey-fresh-lactose-free-uht-skim-milk-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43987&q=low&v=1"
-        ],
-        "price": 389.0,
-        "corpPrice": 389.0,
-        "objectID": 16271
-    },
-    {
-        "category": {
-            "name": "Liquid & UHT Milk",
-            "id": "1380",
-            "slug": "liquid-uht-milk"
-        },
         "bengaliName": "\u09b9\u09be\u09b0\u09ad\u09c7 \u09ab\u09cd\u09b0\u09c7\u09b6  \u0987\u0989 \u098f\u0987\u099a \u099f\u09bf \u09aa\u09c2\u09b0\u09cd\u09a3 \u09a8\u09a8\u09c0 \u09af\u09c1\u0995\u09cd\u09a4 \u09a6\u09c1\u09a7 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
         "longDesc": null,
         "name": "Harvey Fresh  UHT Full Cream Milk 1 ltr",
@@ -530,22 +513,5 @@
         "price": 309.0,
         "corpPrice": 309.0,
         "objectID": 16270
-    },
-    {
-        "category": {
-            "name": "Liquid & UHT Milk",
-            "id": "1380",
-            "slug": "liquid-uht-milk"
-        },
-        "bengaliName": "\u0995\u09be\u0989\u09b9\u09c7\u09a1 \u09b8\u09cd\u09b2\u09bf\u09ae \u099a\u09b0\u09cd\u09ac\u09bf \u09ae\u09c1\u0995\u09cd\u09a4 \u09a6\u09c1\u09a7 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
-        "longDesc": "Origin: New Zealand    ",
-        "name": "Cowhead Slim Fat Free Milk 1 ltr",
-        "nameWithoutSubText": "Cowhead Slim Fat Free Milk",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/cowhead-slim-fat-free-milk-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58941&q=low&v=1"
-        ],
-        "price": 279.0,
-        "corpPrice": 279.0,
-        "objectID": 10548
     }
 ]

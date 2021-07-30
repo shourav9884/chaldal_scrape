@@ -5,23 +5,6 @@
             "id": "115",
             "slug": "pencils"
         },
-        "bengaliName": "\u09a1\u09c7\u09b2\u09bf \u09e8 \u09ac\u09bf \u09aa\u09c7\u09a8\u09cd\u09b8\u09bf\u09b2 \u09e7\u09e8 \u099f\u09bf ",
-        "longDesc": null,
-        "name": "Deli 2B pencil (U20200) 12 pcs",
-        "nameWithoutSubText": "Deli 2B pencil (U20200)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/deli-2b-pencil-u20200-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45453&q=low&v=1"
-        ],
-        "price": 75.0,
-        "corpPrice": 75.0,
-        "objectID": 16621
-    },
-    {
-        "category": {
-            "name": "Pencils",
-            "id": "115",
-            "slug": "pencils"
-        },
         "bengaliName": "\u09a1\u09c7\u09b2\u09bf \u098f\u0987\u099a\u09ac\u09bf \u09aa\u09c7\u09a8\u09cd\u09b8\u09bf\u09b2 \u09e7\u09e8 \u099f\u09bf ",
         "longDesc": null,
         "name": "Deli HB pencil (U20000) 12 pcs",
@@ -32,6 +15,23 @@
         "price": 65.0,
         "corpPrice": 65.0,
         "objectID": 16622
+    },
+    {
+        "category": {
+            "name": "Pencils",
+            "id": "115",
+            "slug": "pencils"
+        },
+        "bengaliName": "\u09a1\u09c7\u09b2\u09bf \u09e8 \u09ac\u09bf \u09aa\u09c7\u09a8\u09cd\u09b8\u09bf\u09b2 \u09e7\u09e8 \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Deli 2B pencil (U20200) 12 pcs",
+        "nameWithoutSubText": "Deli 2B pencil (U20200)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deli-2b-pencil-u20200-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45453&q=low&v=1"
+        ],
+        "price": 75.0,
+        "corpPrice": 75.0,
+        "objectID": 16621
     },
     {
         "category": {

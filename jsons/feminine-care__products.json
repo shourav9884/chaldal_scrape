@@ -221,23 +221,6 @@
             "id": "35",
             "slug": "feminine-care"
         },
-        "bengaliName": "\u09b2\u09b0\u09bf\u09af\u09bc\u09be\u09b0 \u09b0\u09bf\u09b2\u09be\u0995\u09cd\u09b8 \u09a8\u09be\u0987\u099f \u0989\u0987\u0982 \u09b8\u09cd\u09af\u09be\u09a8\u09bf\u099f\u09be\u09b0\u09bf \u09a8\u09cd\u09af\u09be\u09aa\u0995\u09bf\u09a8 \u09e7\u09ec \u099f\u09bf",
-        "longDesc": null,
-        "name": "L9 Laurier Relax Night Wing Sanitary Napkin 16 pcs",
-        "nameWithoutSubText": "L9 Laurier Relax Night Wing Sanitary Napkin",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/l9-laurier-relax-night-wing-sanitary-napkin-16-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75290&q=low&v=1"
-        ],
-        "price": 270.0,
-        "corpPrice": 270.0,
-        "objectID": 24049
-    },
-    {
-        "category": {
-            "name": "Feminine Care",
-            "id": "35",
-            "slug": "feminine-care"
-        },
         "bengaliName": "\u098f\u09b8\u098f\u09ae\u09b8\u09bf \u099c\u09cb\u09af\u09bc\u09be \u09a8\u09bf\u09af\u09bc\u09ae\u09bf\u09a4 \u0989\u0987\u0982\u09b8 \u09ee \u09aa\u09cd\u09af\u09be\u09a1",
         "longDesc": null,
         "name": "AF5 SMC Joya Regular Wings 8 pads",
@@ -248,6 +231,23 @@
         "price": 70.0,
         "corpPrice": 70.0,
         "objectID": 19996
+    },
+    {
+        "category": {
+            "name": "Feminine Care",
+            "id": "35",
+            "slug": "feminine-care"
+        },
+        "bengaliName": "\u09b2\u09b0\u09bf\u09af\u09bc\u09be\u09b0 \u09b0\u09bf\u09b2\u09be\u0995\u09cd\u09b8 \u09a8\u09be\u0987\u099f \u0989\u0987\u0982 \u09b8\u09cd\u09af\u09be\u09a8\u09bf\u099f\u09be\u09b0\u09bf \u09a8\u09cd\u09af\u09be\u09aa\u0995\u09bf\u09a8 \u09e7\u09ec \u099f\u09bf",
+        "longDesc": null,
+        "name": "L9 Laurier Relax Night Wing Sanitary Napkin 16 pcs",
+        "nameWithoutSubText": "L9 Laurier Relax Night Wing Sanitary Napkin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/l9-laurier-relax-night-wing-sanitary-napkin-16-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75290&q=low&v=1"
+        ],
+        "price": 270.0,
+        "corpPrice": 270.0,
+        "objectID": 24049
     },
     {
         "category": {

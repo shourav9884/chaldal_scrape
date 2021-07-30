@@ -29,8 +29,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/mango-fazli-50-gm-3-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80575&q=low&v=1"
         ],
-        "price": 299.0,
-        "corpPrice": 299.0,
+        "price": 359.0,
+        "corpPrice": 359.0,
         "objectID": 10288
     },
     {
@@ -46,8 +46,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/cherry-anaros-cherry-pineapple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77400&q=low&v=1"
         ],
-        "price": 25.0,
-        "corpPrice": 25.0,
+        "price": 19.0,
+        "corpPrice": 19.0,
         "objectID": 23825
     },
     {
@@ -80,8 +80,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/kacha-aam-green-mango-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35636&q=low&v=1"
         ],
-        "price": 39.0,
-        "corpPrice": 39.0,
+        "price": 49.0,
+        "corpPrice": 49.0,
         "objectID": 14554
     },
     {
@@ -97,8 +97,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/gala-apple-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18115&q=low&v=1"
         ],
-        "price": 179.0,
-        "corpPrice": 179.0,
+        "price": 189.0,
+        "corpPrice": 189.0,
         "objectID": 10727
     },
     {
@@ -131,8 +131,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/lal-angur-red-grapes-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D26171&q=low&v=1"
         ],
-        "price": 99.0,
-        "corpPrice": 99.0,
+        "price": 95.0,
+        "corpPrice": 95.0,
         "objectID": 10050
     },
     {
@@ -149,8 +149,8 @@
             "https://chaldn.com/_mpimage/china-fuji-apple-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54849&q=low&v=1",
             "https://chaldn.com/_mpimage/china-fuji-apple-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22432&q=low&v=1"
         ],
-        "price": 165.0,
-        "corpPrice": 165.0,
+        "price": 169.0,
+        "corpPrice": 169.0,
         "objectID": 6009
     },
     {
@@ -183,8 +183,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/lotkon-baccaurea-motleyana-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61087&q=low&v=1"
         ],
-        "price": 69.0,
-        "corpPrice": 69.0,
+        "price": 65.0,
+        "corpPrice": 65.0,
         "objectID": 21631
     },
     {
@@ -249,7 +249,7 @@
         "name": "Kamranga (Carambola) \u00b1 50 gm  500 gm ",
         "nameWithoutSubText": "Kamranga (Carambola) \u00b1 50 gm",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/kamranga-carambola-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D57590&q=low&v=1&m=400"
+            "https://chaldn.com/_mpimage/kamranga-carambola-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D57590&q=low&v=1"
         ],
         "price": 35.0,
         "corpPrice": 35.0,
@@ -266,10 +266,10 @@
         "name": "Dewa ( Monkey Jack ) 4 pcs",
         "nameWithoutSubText": "Dewa ( Monkey Jack )",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/dewa-monkey-jack-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67580&q=low&v=1"
+            "https://chaldn.com/_mpimage/dewa-monkey-jack-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67580&q=low&v=1&m=400"
         ],
-        "price": 119.0,
-        "corpPrice": 119.0,
+        "price": 159.0,
+        "corpPrice": 159.0,
         "objectID": 17086
     },
     {
@@ -288,40 +288,6 @@
         "price": 149.0,
         "corpPrice": 149.0,
         "objectID": 23319
-    },
-    {
-        "category": {
-            "name": "Fresh Fruits",
-            "id": "11",
-            "slug": "fresh-fruit"
-        },
-        "bengaliName": "\u0995\u09b0\u09ae\u099a\u09be \u09ab\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Carissa carandas is a species of flowering shrub in the family Apocynaceae. It produces berry-sized fruits that are commonly used as a condiment in Indian pickles and spices. It is a hardy, drought-tolerant plant that thrives well in a wide range of soils. ",
-        "name": "Koromcha Fruit  500 gm ",
-        "nameWithoutSubText": "Koromcha Fruit",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/koromcha-fruit-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79836&q=low&v=1"
-        ],
-        "price": 49.0,
-        "corpPrice": 49.0,
-        "objectID": 24670
-    },
-    {
-        "category": {
-            "name": "Fresh Fruits",
-            "id": "11",
-            "slug": "fresh-fruit"
-        },
-        "bengaliName": "\u099c\u09be\u09ae\u09b0\u09c1\u09b2 \u09ab\u09b2  \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Jamrul (Java Apple) 500 gm ",
-        "nameWithoutSubText": "Jamrul (Java Apple)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/jamrul-java-apple-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79835&q=low&v=1"
-        ],
-        "price": 79.0,
-        "corpPrice": 79.0,
-        "objectID": 24669
     },
     {
         "category": {
@@ -422,8 +388,8 @@
             "https://chaldn.com/_mpimage/anaros-pineapple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61358&q=low&v=1",
             "https://chaldn.com/_mpimage/pineapple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34716&q=best&v=1"
         ],
-        "price": 55.0,
-        "corpPrice": 55.0,
+        "price": 59.0,
+        "corpPrice": 59.0,
         "objectID": 6022
     },
     {
@@ -456,8 +422,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/green-apple-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77434&q=low&v=1"
         ],
-        "price": 209.0,
-        "corpPrice": 209.0,
+        "price": 195.0,
+        "corpPrice": 195.0,
         "objectID": 6008
     },
     {
@@ -473,8 +439,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/dalim-pomegranate-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28589&q=low&v=1"
         ],
-        "price": 149.0,
-        "corpPrice": 149.0,
+        "price": 159.0,
+        "corpPrice": 159.0,
         "objectID": 6012
     },
     {
@@ -490,8 +456,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/paka-pape-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23193&q=low&v=1"
         ],
-        "price": 155.0,
-        "corpPrice": 155.0,
+        "price": 159.0,
+        "corpPrice": 159.0,
         "objectID": 6965
     },
     {
@@ -505,10 +471,10 @@
         "name": "Sobuj Angur (Green Grapes) 250 gm",
         "nameWithoutSubText": "Sobuj Angur (Green Grapes)",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/sobuj-angur-green-grapes-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28591&q=low&v=1"
+            "https://chaldn.com/_mpimage/sobuj-angur-green-grapes-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28591&q=low&v=1&m=400"
         ],
-        "price": 109.0,
-        "corpPrice": 109.0,
+        "price": 89.0,
+        "corpPrice": 89.0,
         "objectID": 10049
     },
     {
@@ -522,28 +488,11 @@
         "name": "Bel (Wood Apple) 1 pcs",
         "nameWithoutSubText": "Bel (Wood Apple)",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/bel-wood-apple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34665&q=low&v=1"
+            "https://chaldn.com/_mpimage/bel-wood-apple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34665&q=low&v=1&m=400"
         ],
-        "price": 149.0,
-        "corpPrice": 149.0,
+        "price": 129.0,
+        "corpPrice": 129.0,
         "objectID": 14308
-    },
-    {
-        "category": {
-            "name": "Fresh Fruits",
-            "id": "11",
-            "slug": "fresh-fruit"
-        },
-        "bengaliName": "\u09b8\u09ab\u09c7\u09a6\u09be \u09e7 \u0995\u09c7\u099c\u09bf",
-        "longDesc": null,
-        "name": "Sofeda (Sapodilla) 1 kg",
-        "nameWithoutSubText": "Sofeda (Sapodilla)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/sofeda-sapodilla-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18391&q=low&v=1&m=400"
-        ],
-        "price": 99.0,
-        "corpPrice": 99.0,
-        "objectID": 10829
     },
     {
         "category": {
@@ -558,8 +507,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/jambura-pomelo-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D27679&q=low&v=1"
         ],
-        "price": 79.0,
-        "corpPrice": 79.0,
+        "price": 69.0,
+        "corpPrice": 69.0,
         "objectID": 13346
     },
     {
@@ -575,8 +524,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/mango-bari-4-50-gm-3-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80577&q=low&v=1&m=400"
         ],
-        "price": 359.0,
-        "corpPrice": 359.0,
+        "price": 345.0,
+        "corpPrice": 345.0,
         "objectID": 22168
     },
     {
@@ -592,8 +541,8 @@
         "picturesUrls": [
             "https://chaldn.com/_mpimage/amloki-amla-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7994&q=low&v=1"
         ],
-        "price": 99.0,
-        "corpPrice": 99.0,
+        "price": 119.0,
+        "corpPrice": 119.0,
         "objectID": 6841
     },
     {
@@ -619,49 +568,15 @@
             "id": "11",
             "slug": "fresh-fruit"
         },
-        "bengaliName": "\u099f\u0995 \u09ac\u09b0\u0987 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "\"Plums are extremely nutritious, with a variety of health benefits to offer.\r\n\r\nThey contain many vitamins and minerals, in addition to fiber and antioxidants that may help reduce your risk of several chronic diseases.\r\n\r\nYou can consume plums fresh or dried. Dried plums, or prunes, are known for improving several health conditions, including constipation and osteoporosis.\"\r\n\r\nNutritional facts/Ingredients :\r\n\"Benefits: \r\n-Plums Are Rich in Antioxidants\r\n-It May Help Lower Your Blood Sugar\r\n-Plums May Benefit Heart Health\r\n-Easy to Add to Your Diet\"",
-        "name": "Tok Boroi (Sour Plum) 500 Gm",
-        "nameWithoutSubText": "Tok Boroi (Sour Plum)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/sour-plum-red-tok-boroi-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53027&q=best&v=1"
-        ],
-        "price": 115.0,
-        "corpPrice": 115.0,
-        "objectID": 16381
-    },
-    {
-        "category": {
-            "name": "Fresh Fruits",
-            "id": "11",
-            "slug": "fresh-fruit"
-        },
-        "bengaliName": "\u0997\u09be\u09ac \u09ab\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Gaab Fruit  500 gm",
-        "nameWithoutSubText": "Gaab Fruit",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/gaab-fruit-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80829&q=low&v=1"
-        ],
-        "price": 79.0,
-        "corpPrice": 79.0,
-        "objectID": 24797
-    },
-    {
-        "category": {
-            "name": "Fresh Fruits",
-            "id": "11",
-            "slug": "fresh-fruit"
-        },
         "bengaliName": "\u0986\u09ae \u09b9\u09be\u09dc\u09bf\u09ad\u09be\u0999\u09cd\u0997\u09be \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e9 \u0995\u09c7\u099c\u09bf",
         "longDesc": null,
         "name": "Mango Harivanga \u00b1 50 gm 3 kg",
         "nameWithoutSubText": "Mango Harivanga \u00b1 50 gm",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/mango-harivanga-50-gm-3-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80017&q=low&v=1&m=400"
+            "https://chaldn.com/_mpimage/mango-harivanga-50-gm-3-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80017&q=low&v=1"
         ],
-        "price": 449.0,
-        "corpPrice": 449.0,
+        "price": 389.0,
+        "corpPrice": 389.0,
         "objectID": 24694
     },
     {

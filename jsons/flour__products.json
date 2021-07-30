@@ -294,23 +294,6 @@
             "id": "103",
             "slug": "flour"
         },
-        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09aa\u09bf\u0993\u09b0 \u09ae\u09df\u09a6\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
-        "longDesc": null,
-        "name": "ACI Pure Maida 2 kg",
-        "nameWithoutSubText": "ACI Pure Maida",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/aci-pure-maida-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48027&q=low&v=1"
-        ],
-        "price": 98.0,
-        "corpPrice": 98.0,
-        "objectID": 6203
-    },
-    {
-        "category": {
-            "name": "Flour",
-            "id": "103",
-            "slug": "flour"
-        },
         "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u09ae\u09df\u09a6\u09be \u09e8 \u0995\u09c7\u099c\u09bf ",
         "longDesc": null,
         "name": "Bashundhara Maida 2 Kg ",
@@ -321,6 +304,23 @@
         "price": 100.0,
         "corpPrice": 100.0,
         "objectID": 15599
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09aa\u09bf\u0993\u09b0 \u09ae\u09df\u09a6\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "ACI Pure Maida 2 kg",
+        "nameWithoutSubText": "ACI Pure Maida",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-pure-maida-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48027&q=low&v=1"
+        ],
+        "price": 98.0,
+        "corpPrice": 98.0,
+        "objectID": 6203
     },
     {
         "category": {
@@ -481,23 +481,6 @@
             "id": "103",
             "slug": "flour"
         },
-        "bengaliName": "\u099c\u09c1\u09b2\u09bf  \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09ac\u09c7\u09b6\u09a8 \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Julie Instant Beshon Mix 500 gm",
-        "nameWithoutSubText": "Julie Instant Beshon Mix",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/julie-instant-beshon-mix-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59132&q=low&v=1"
-        ],
-        "price": 135.0,
-        "corpPrice": 135.0,
-        "objectID": 21313
-    },
-    {
-        "category": {
-            "name": "Flour",
-            "id": "103",
-            "slug": "flour"
-        },
         "bengaliName": "\u0986\u09b6\u09bf\u09b0\u09cd\u09ac\u09be\u09a6 \u09ae\u09be\u09b2\u09cd\u099f\u09bf\u0997\u09cd\u09b0\u09c7\u0987\u09a8 \u0986\u099f\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
         "longDesc": null,
         "name": "Aashirvaad Multigrain Atta 2 kg",
@@ -559,6 +542,23 @@
         "price": 140.0,
         "corpPrice": 140.0,
         "objectID": 21221
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u099c\u09c1\u09b2\u09bf  \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09ac\u09c7\u09b6\u09a8 \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Julie Instant Beshon Mix 500 gm",
+        "nameWithoutSubText": "Julie Instant Beshon Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/julie-instant-beshon-mix-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59132&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 21313
     },
     {
         "category": {

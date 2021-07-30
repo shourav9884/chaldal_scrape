@@ -39,6 +39,23 @@
             "id": "1267",
             "slug": "lights-electrical"
         },
+        "bengaliName": "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u099f\u09c7\u0995 \u09e9 \u09aa\u09bf\u09a8 \u099f\u09cd\u09b0\u09cd\u09af\u09be\u09ad\u09c7\u09b2 \u0985\u09cd\u09af\u09be\u09a1\u09be\u09aa\u09cd\u099f\u09be\u09b0 (\u09e7\u09e9 \u098f\u09ae\u09cd\u09aa\u09be\u09df\u09be\u09b0)",
+        "longDesc": null,
+        "name": "Transtec 3 Pin Travel Adapter (13 AMP)",
+        "nameWithoutSubText": "Transtec 3 Pin Travel Adapter (13 AMP)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/transtec-3-pin-travel-adapter-13-amp?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58630&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 21250
+    },
+    {
+        "category": {
+            "name": "Lights & Electrical",
+            "id": "1267",
+            "slug": "lights-electrical"
+        },
         "bengaliName": "\u09ad\u09bf\u09b6\u09a8 \u09b0\u09c1\u09ae \u09b9\u09bf\u099f\u09be\u09b0 (\u09b8\u09be\u09a6\u09be) \u09e7 \u099f\u09bf",
         "longDesc": "Origin: Bangladesh\r\n\u2022        Features:\r\nSafety fuse inside   \r\nAdjustable thermostat \r\nRecessed Carry Handle \r\nSafety Tip-Over Switch\r\nOver Heating Protection \r\nPower Indicator Light\r\nCold/warm/hot wind for selection \r\n2000W FAN HEATER  \r\nPower: AC 220/50Hz\r\n2 heat settings 1000W/2000W ",
         "name": "Vision Room Heater (White) 1 Pcs",
@@ -66,23 +83,6 @@
         "price": 45.0,
         "corpPrice": 45.0,
         "objectID": 21251
-    },
-    {
-        "category": {
-            "name": "Lights & Electrical",
-            "id": "1267",
-            "slug": "lights-electrical"
-        },
-        "bengaliName": "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u099f\u09c7\u0995 \u09e9 \u09aa\u09bf\u09a8 \u099f\u09cd\u09b0\u09cd\u09af\u09be\u09ad\u09c7\u09b2 \u0985\u09cd\u09af\u09be\u09a1\u09be\u09aa\u09cd\u099f\u09be\u09b0 (\u09e7\u09e9 \u098f\u09ae\u09cd\u09aa\u09be\u09df\u09be\u09b0)",
-        "longDesc": null,
-        "name": "Transtec 3 Pin Travel Adapter (13 AMP)",
-        "nameWithoutSubText": "Transtec 3 Pin Travel Adapter (13 AMP)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/transtec-3-pin-travel-adapter-13-amp?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58630&q=low&v=1"
-        ],
-        "price": 130.0,
-        "corpPrice": 130.0,
-        "objectID": 21250
     },
     {
         "category": {

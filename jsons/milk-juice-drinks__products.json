@@ -127,23 +127,6 @@
             "id": "221",
             "slug": "milk-juice-drinks"
         },
-        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099a\u0995\u09b2\u09c7\u099f \u099c\u09be\u09b0 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": "Filled with a wide range of vitamins and minerals including as Calcium, Iron, Zinc, Phosphorous, Vitamins A, C, E, D, B1, B2, B6, B12 - Horlicks is a nourishing beverage that helps support your child\u2019s growth. Produced from a mix of malted barley, wheat and milk, this unrivaled tasty recipe has been providing nutrition to people for many years. Horlicks helps to make kids Taller, Stronger and Sharper! Now available in delicious Chocolate Flavor!",
-        "name": "Horlicks Health And Nutrition Drink Chocolate Jar 500 gm",
-        "nameWithoutSubText": "Horlicks Health And Nutrition Drink Chocolate Jar",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/horlicks-health-and-nutrition-drink-chocolate-jar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77677&q=low&v=1"
-        ],
-        "price": 350.0,
-        "corpPrice": 350.0,
-        "objectID": 21989
-    },
-    {
-        "category": {
-            "name": "Milk, Juice & Drinks",
-            "id": "221",
-            "slug": "milk-juice-drinks"
-        },
         "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099c\u09be\u09b0 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Filled with a wide range of vitamins and minerals including as Calcium, Iron, Zinc, Phosphorous, Vitamins A, C, E, D, B1, B2, B6, B12 - Horlicks is a nourishing beverage that helps support your child\u2019s growth. Produced from a mix of malted barley, wheat and milk, this unrivaled tasty recipe has been providing nutrition to people for many years. Horlicks helps to make kids Taller, Stronger and Sharper!",
         "name": "Horlicks Health And Nutrition Drink Jar 250 gm",
@@ -154,6 +137,23 @@
         "price": 190.0,
         "corpPrice": 190.0,
         "objectID": 21719
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099a\u0995\u09b2\u09c7\u099f \u099c\u09be\u09b0 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Filled with a wide range of vitamins and minerals including as Calcium, Iron, Zinc, Phosphorous, Vitamins A, C, E, D, B1, B2, B6, B12 - Horlicks is a nourishing beverage that helps support your child\u2019s growth. Produced from a mix of malted barley, wheat and milk, this unrivaled tasty recipe has been providing nutrition to people for many years. Horlicks helps to make kids Taller, Stronger and Sharper! Now available in delicious Chocolate Flavor!",
+        "name": "Horlicks Health And Nutrition Drink Chocolate Jar 500 gm",
+        "nameWithoutSubText": "Horlicks Health And Nutrition Drink Chocolate Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/horlicks-health-and-nutrition-drink-chocolate-jar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77677&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 21989
     },
     {
         "category": {

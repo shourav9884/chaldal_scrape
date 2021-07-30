@@ -202,6 +202,23 @@
             "id": "46",
             "slug": "first-aid"
         },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09b8\u09cd\u09af\u09be\u09ad\u09b2\u09a8 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u09b8\u09c7\u09aa\u09cd\u099f\u09bf\u0995 \u09b2\u09bf\u0995\u09c1\u0987\u09a1 \u09e7\u09e7\u09e8 \u09ae\u09bf\u09b2\u09bf \u09ac\u09cb\u09a4\u09b2",
+        "longDesc": null,
+        "name": "ACI Savlon Antiseptic Liquid Bottle 112 ml",
+        "nameWithoutSubText": "ACI Savlon Antiseptic Liquid Bottle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-savlon-antiseptic-liquid-bottle-112-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D5675&q=low&v=1"
+        ],
+        "price": 44.0,
+        "corpPrice": 44.0,
+        "objectID": 2450
+    },
+    {
+        "category": {
+            "name": "First Aid",
+            "id": "46",
+            "slug": "first-aid"
+        },
         "bengaliName": "\u09a1\u09c7\u099f\u09b2 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u09b8\u09c7\u09aa\u099f\u09bf\u0995 \u099c\u09c0\u09ac\u09be\u09a3\u09c1\u09a8\u09be\u09b6\u0995 \u09a4\u09b0\u09b2 (\u0998\u09a8\u09c0\u09ad\u09c2\u09a4) \u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": "Dettol Antiseptic Liquid provides lab verified protection from 100 illness causing germs. It is highly effective as first aid- used for both Medical & Personal Hygiene. Protects by killing bacteria and viruses. Please follow the instructions on product label properly.  The 50ml bottle of Dettol Antiseptic Liquid is a value pack necessary for House hold hygiene. Recommended by Doctors of Bangladesh Private Medical Practitioners Association (BPMPA).\r\n",
         "name": "Dettol Antiseptic Disinfectant Liquid (Concentrated) 50 ml",
@@ -215,23 +232,6 @@
         "price": 38.0,
         "corpPrice": 38.0,
         "objectID": 2200
-    },
-    {
-        "category": {
-            "name": "First Aid",
-            "id": "46",
-            "slug": "first-aid"
-        },
-        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09b8\u09cd\u09af\u09be\u09ad\u09b2\u09a8 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u09b8\u09c7\u09aa\u09cd\u099f\u09bf\u0995 \u09b2\u09bf\u0995\u09c1\u0987\u09a1 \u09e7\u09e7\u09e8 \u09ae\u09bf\u09b2\u09bf \u09ac\u09cb\u09a4\u09b2",
-        "longDesc": null,
-        "name": "ACI Savlon Antiseptic Liquid Bottle 112 ml",
-        "nameWithoutSubText": "ACI Savlon Antiseptic Liquid Bottle",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/aci-savlon-antiseptic-liquid-bottle-112-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D5675&q=low&v=1"
-        ],
-        "price": 44.0,
-        "corpPrice": 44.0,
-        "objectID": 2450
     },
     {
         "category": {

@@ -1,0 +1,880 @@
+[
+    {
+        "name": "Popular",
+        "id": "238",
+        "slug": "https://chaldal.com/popular"
+    },
+    {
+        "name": "Hygiene",
+        "id": "1484",
+        "slug": "https://chaldal.com/hygiene"
+    },
+    {
+        "name": "Baby Care\n ",
+        "id": "209",
+        "has_child": true,
+        "children": [
+            {
+                "name": "Newborn Essentials",
+                "id": "1483",
+                "slug": "https://chaldal.com/newborn-essentials"
+            },
+            {
+                "name": "Diapers & Wipes\n ",
+                "id": "210",
+                "slug": "https://chaldal.com/diapering",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Wipes",
+                        "id": "212",
+                        "slug": "https://chaldal.com/wipes"
+                    },
+                    {
+                        "name": "Diapers",
+                        "id": "211",
+                        "slug": "https://chaldal.com/diapers"
+                    }
+                ]
+            },
+            {
+                "name": "Feeders",
+                "id": "234",
+                "slug": "https://chaldal.com/feeders"
+            },
+            {
+                "name": "Fooding\n ",
+                "id": "216",
+                "slug": "https://chaldal.com/fooding",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Formula",
+                        "id": "217",
+                        "slug": "https://chaldal.com/formula"
+                    },
+                    {
+                        "name": "Baby & Toddler Food",
+                        "id": "219",
+                        "slug": "https://chaldal.com/toddler-food"
+                    },
+                    {
+                        "name": "Milk, Juice & Drinks",
+                        "id": "221",
+                        "slug": "https://chaldal.com/milk-juice-drinks"
+                    }
+                ]
+            },
+            {
+                "name": "Bath & Skincare",
+                "id": "223",
+                "slug": "https://chaldal.com/bath-skincare"
+            },
+            {
+                "name": "Baby Accessories",
+                "id": "1378",
+                "slug": "https://chaldal.com/baby-accessories"
+            },
+            {
+                "name": "Baby Oral Care",
+                "id": "1379",
+                "slug": "https://chaldal.com/baby-oral-care"
+            }
+        ],
+        "slug": "https://chaldal.com/babycare"
+    },
+    {
+        "name": "Pet Care\n ",
+        "id": "229",
+        "has_child": true,
+        "children": [
+            {
+                "name": "Kitten Food",
+                "id": "1383",
+                "slug": "https://chaldal.com/kitten-food"
+            },
+            {
+                "name": "Cat Food",
+                "id": "1254",
+                "slug": "https://chaldal.com/cat-food"
+            },
+            {
+                "name": "Dog Food",
+                "id": "1255",
+                "slug": "https://chaldal.com/dog-food"
+            },
+            {
+                "name": "Other Pet Foods",
+                "id": "1256",
+                "slug": "https://chaldal.com/other-pet-foods"
+            },
+            {
+                "name": "Pet Accessories",
+                "id": "1257",
+                "slug": "https://chaldal.com/pet-accessories"
+            }
+        ],
+        "slug": "https://chaldal.com/pet-care"
+    },
+    {
+        "name": "Food\n ",
+        "id": "2",
+        "has_child": true,
+        "children": [
+            {
+                "name": "Fruits & Vegetables\n ",
+                "id": "7",
+                "slug": "https://chaldal.com/fruits-vegetables",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Fresh Fruits",
+                        "id": "11",
+                        "slug": "https://chaldal.com/fresh-fruit"
+                    },
+                    {
+                        "name": "Fresh Vegetables",
+                        "id": "12",
+                        "slug": "https://chaldal.com/fresh-vegetable"
+                    }
+                ]
+            },
+            {
+                "name": "Breakfast\n ",
+                "id": "14",
+                "slug": "https://chaldal.com/breakfast",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Local Breakfast",
+                        "id": "228",
+                        "slug": "https://chaldal.com/local-breakfast"
+                    },
+                    {
+                        "name": "Energy Boosters",
+                        "id": "235",
+                        "slug": "https://chaldal.com/energy-boosters"
+                    },
+                    {
+                        "name": "Cereals",
+                        "id": "16",
+                        "slug": "https://chaldal.com/cereals"
+                    },
+                    {
+                        "name": "Jam & Spreads",
+                        "id": "54",
+                        "slug": "https://chaldal.com/dips-spreads"
+                    }
+                ]
+            },
+            {
+                "name": "Beverages\n ",
+                "id": "17",
+                "slug": "https://chaldal.com/beverages",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Tea",
+                        "id": "18",
+                        "slug": "https://chaldal.com/tea-coffee"
+                    },
+                    {
+                        "name": "Coffee",
+                        "id": "1377",
+                        "slug": "https://chaldal.com/coffee-2"
+                    },
+                    {
+                        "name": "Juice",
+                        "id": "19",
+                        "slug": "https://chaldal.com/juice"
+                    },
+                    {
+                        "name": "Soft Drinks",
+                        "id": "20",
+                        "slug": "https://chaldal.com/soft-drinks"
+                    },
+                    {
+                        "name": "Water",
+                        "id": "22",
+                        "slug": "https://chaldal.com/water"
+                    },
+                    {
+                        "name": "Syrups & Powder Drinks",
+                        "id": "189",
+                        "slug": "https://chaldal.com/powder-mixes"
+                    }
+                ]
+            },
+            {
+                "name": "Meat & Fish\n ",
+                "id": "23",
+                "slug": "https://chaldal.com/meat-fish",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Meat",
+                        "id": "25",
+                        "slug": "https://chaldal.com/meat"
+                    },
+                    {
+                        "name": "Fresh Fish",
+                        "id": "1262",
+                        "slug": "https://chaldal.com/fresh-fish-2"
+                    },
+                    {
+                        "name": "Frozen Fish",
+                        "id": "1235",
+                        "slug": "https://chaldal.com/frozen-fish"
+                    },
+                    {
+                        "name": "Dried Fish",
+                        "id": "1238",
+                        "slug": "https://chaldal.com/dried-fish"
+                    },
+                    {
+                        "name": "Tofu & Meat Alternatives",
+                        "id": "9",
+                        "slug": "https://chaldal.com/tofu-meat-alternatives"
+                    }
+                ]
+            },
+            {
+                "name": "Snacks\n ",
+                "id": "49",
+                "slug": "https://chaldal.com/snacks",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Noodles",
+                        "id": "93",
+                        "slug": "https://chaldal.com/noodles"
+                    },
+                    {
+                        "name": "Soups",
+                        "id": "194",
+                        "slug": "https://chaldal.com/soups"
+                    },
+                    {
+                        "name": "Pasta & Macaroni",
+                        "id": "1381",
+                        "slug": "https://chaldal.com/pasta-macaroni"
+                    },
+                    {
+                        "name": "Candy & Chocolate",
+                        "id": "51",
+                        "slug": "https://chaldal.com/candy-chocolate"
+                    },
+                    {
+                        "name": "Local Snacks",
+                        "id": "52",
+                        "slug": "https://chaldal.com/local-snacks"
+                    },
+                    {
+                        "name": "Chips & Pretzels",
+                        "id": "53",
+                        "slug": "https://chaldal.com/chips-pretzels"
+                    },
+                    {
+                        "name": "Popcorn & Nuts",
+                        "id": "56",
+                        "slug": "https://chaldal.com/popcorn-nuts"
+                    },
+                    {
+                        "name": "Biscuits",
+                        "id": "75",
+                        "slug": "https://chaldal.com/biscuits"
+                    },
+                    {
+                        "name": "Salad Dressing",
+                        "id": "79",
+                        "slug": "https://chaldal.com/salad-dressing"
+                    },
+                    {
+                        "name": "Sauces",
+                        "id": "193",
+                        "slug": "https://chaldal.com/sauces"
+                    }
+                ]
+            },
+            {
+                "name": "Dairy\n ",
+                "id": "58",
+                "slug": "https://chaldal.com/dairy",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Liquid & UHT Milk",
+                        "id": "1380",
+                        "slug": "https://chaldal.com/liquid-uht-milk"
+                    },
+                    {
+                        "name": "Butter & Sour Cream",
+                        "id": "59",
+                        "slug": "https://chaldal.com/butter-sour-cream"
+                    },
+                    {
+                        "name": "Cheese",
+                        "id": "60",
+                        "slug": "https://chaldal.com/cheese-2"
+                    },
+                    {
+                        "name": "Eggs",
+                        "id": "61",
+                        "slug": "https://chaldal.com/eggs"
+                    },
+                    {
+                        "name": "Powder Milk & Cream",
+                        "id": "62",
+                        "slug": "https://chaldal.com/milk-cream"
+                    },
+                    {
+                        "name": "Yogurt & Sweet",
+                        "id": "64",
+                        "slug": "https://chaldal.com/yogurt"
+                    }
+                ]
+            },
+            {
+                "name": "Frozen & Canned\n ",
+                "id": "65",
+                "slug": "https://chaldal.com/frozen-foods",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Frozen Snacks",
+                        "id": "195",
+                        "slug": "https://chaldal.com/frozen-snacks"
+                    },
+                    {
+                        "name": "Canned Food",
+                        "id": "197",
+                        "slug": "https://chaldal.com/canned-meat-seafood"
+                    }
+                ]
+            },
+            {
+                "name": "Bread & Bakery\n ",
+                "id": "72",
+                "slug": "https://chaldal.com/bread-bakery",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Cookies",
+                        "id": "50",
+                        "slug": "https://chaldal.com/cookies"
+                    },
+                    {
+                        "name": "Bakery Snacks",
+                        "id": "73",
+                        "slug": "https://chaldal.com/bakery-snacks"
+                    },
+                    {
+                        "name": "Breads",
+                        "id": "74",
+                        "slug": "https://chaldal.com/breads"
+                    },
+                    {
+                        "name": "Dips & Spreads",
+                        "id": "76",
+                        "slug": "https://chaldal.com/jams-spreads"
+                    },
+                    {
+                        "name": "Honey",
+                        "id": "77",
+                        "slug": "https://chaldal.com/honey"
+                    },
+                    {
+                        "name": "Cakes",
+                        "id": "196",
+                        "slug": "https://chaldal.com/cakes"
+                    }
+                ]
+            },
+            {
+                "name": "Baking Needs\n ",
+                "id": "100",
+                "slug": "https://chaldal.com/baking-needs",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Nuts & Dried Fruits",
+                        "id": "8",
+                        "slug": "https://chaldal.com/nuts-dried-fruits"
+                    },
+                    {
+                        "name": "Baking Tools",
+                        "id": "1493",
+                        "slug": "https://chaldal.com/baking-tools"
+                    },
+                    {
+                        "name": "Baking & Dessert Mixes",
+                        "id": "101",
+                        "slug": "https://chaldal.com/baking-mixes"
+                    },
+                    {
+                        "name": "Baking Ingredients",
+                        "id": "102",
+                        "slug": "https://chaldal.com/baking-ingredients"
+                    },
+                    {
+                        "name": "Flour",
+                        "id": "103",
+                        "slug": "https://chaldal.com/flour"
+                    }
+                ]
+            },
+            {
+                "name": "Cooking\n ",
+                "id": "104",
+                "slug": "https://chaldal.com/cooking",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Rice",
+                        "id": "80",
+                        "slug": "https://chaldal.com/rice-2"
+                    },
+                    {
+                        "name": "Premium Ingredients",
+                        "id": "1266",
+                        "slug": "https://chaldal.com/premium-ingredients"
+                    },
+                    {
+                        "name": "Colors & Flavours",
+                        "id": "1372",
+                        "slug": "https://chaldal.com/colors-flavours"
+                    },
+                    {
+                        "name": "Pickles",
+                        "id": "78",
+                        "slug": "https://chaldal.com/pickles"
+                    },
+                    {
+                        "name": "Spices",
+                        "id": "107",
+                        "slug": "https://chaldal.com/spices"
+                    },
+                    {
+                        "name": "Oil",
+                        "id": "108",
+                        "slug": "https://chaldal.com/oil"
+                    },
+                    {
+                        "name": "Ghee",
+                        "id": "109",
+                        "slug": "https://chaldal.com/ghee"
+                    },
+                    {
+                        "name": "Ready Mix",
+                        "id": "110",
+                        "slug": "https://chaldal.com/ready-mix"
+                    },
+                    {
+                        "name": "Salt & Sugar",
+                        "id": "111",
+                        "slug": "https://chaldal.com/salt-sugar"
+                    },
+                    {
+                        "name": "Dal or Lentil",
+                        "id": "198",
+                        "slug": "https://chaldal.com/dal-or-lentil"
+                    },
+                    {
+                        "name": "Special Ingredients",
+                        "id": "200",
+                        "slug": "https://chaldal.com/miscellaneous"
+                    },
+                    {
+                        "name": "Shemai & Suji",
+                        "id": "1352",
+                        "slug": "https://chaldal.com/shemai-suji"
+                    }
+                ]
+            },
+            {
+                "name": "Diabetic Food",
+                "id": "191",
+                "slug": "https://chaldal.com/sugar-substitutes"
+            }
+        ],
+        "slug": "https://chaldal.com/grocery"
+    },
+    {
+        "name": "Home & Cleaning\n ",
+        "id": "81",
+        "has_child": true,
+        "children": [
+            {
+                "name": "Air Fresheners",
+                "id": "82",
+                "slug": "https://chaldal.com/air-freshners"
+            },
+            {
+                "name": "Dish Detergents",
+                "id": "83",
+                "slug": "https://chaldal.com/dish-detergents"
+            },
+            {
+                "name": "Cleaning Supplies",
+                "id": "84",
+                "slug": "https://chaldal.com/cleaning-supplies"
+            },
+            {
+                "name": "Kitchen Accessories",
+                "id": "85",
+                "slug": "https://chaldal.com/kitchen-accessories"
+            },
+            {
+                "name": "Laundry",
+                "id": "86",
+                "slug": "https://chaldal.com/laundry"
+            },
+            {
+                "name": "Napkins & Paper Products",
+                "id": "87",
+                "slug": "https://chaldal.com/paper-products"
+            },
+            {
+                "name": "Pest Control",
+                "id": "88",
+                "slug": "https://chaldal.com/pest-control"
+            },
+            {
+                "name": "Shoe Care",
+                "id": "89",
+                "slug": "https://chaldal.com/shoe-care"
+            },
+            {
+                "name": "Tableware & Trash Bags",
+                "id": "90",
+                "slug": "https://chaldal.com/tableware-trash-bags"
+            },
+            {
+                "name": "Food Storage",
+                "id": "91",
+                "slug": "https://chaldal.com/food-storage"
+            },
+            {
+                "name": "Cleaning Accessories",
+                "id": "1276",
+                "slug": "https://chaldal.com/cleaning-accessories"
+            }
+        ],
+        "slug": "https://chaldal.com/cleaning"
+    },
+    {
+        "name": "Office Products\n ",
+        "id": "3",
+        "has_child": true,
+        "children": [
+            {
+                "name": "Batteries",
+                "id": "230",
+                "slug": "https://chaldal.com/batteries"
+            },
+            {
+                "name": "Writing & Drawing\n ",
+                "id": "113",
+                "slug": "https://chaldal.com/writing",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Colours",
+                        "id": "225",
+                        "slug": "https://chaldal.com/colours"
+                    },
+                    {
+                        "name": "Pens",
+                        "id": "114",
+                        "slug": "https://chaldal.com/pens"
+                    },
+                    {
+                        "name": "Pencils",
+                        "id": "115",
+                        "slug": "https://chaldal.com/pencils"
+                    },
+                    {
+                        "name": "Highlighters & Markers",
+                        "id": "116",
+                        "slug": "https://chaldal.com/highlighters"
+                    },
+                    {
+                        "name": "Erasers & Correction Fluid",
+                        "id": "117",
+                        "slug": "https://chaldal.com/erasers-correction-fluid"
+                    },
+                    {
+                        "name": "Notebooks",
+                        "id": "119",
+                        "slug": "https://chaldal.com/notebooks"
+                    }
+                ]
+            },
+            {
+                "name": "Organizing\n ",
+                "id": "201",
+                "slug": "https://chaldal.com/organizing",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Glue & Tapes",
+                        "id": "226",
+                        "slug": "https://chaldal.com/glue-tapes"
+                    },
+                    {
+                        "name": "Hardware",
+                        "id": "202",
+                        "slug": "https://chaldal.com/hardware-2"
+                    },
+                    {
+                        "name": "Files & Folders",
+                        "id": "203",
+                        "slug": "https://chaldal.com/files-folders-2"
+                    },
+                    {
+                        "name": "Cutting",
+                        "id": "204",
+                        "slug": "https://chaldal.com/cutting-2"
+                    },
+                    {
+                        "name": "Envelopes & Stickers",
+                        "id": "205",
+                        "slug": "https://chaldal.com/stickers-2"
+                    }
+                ]
+            },
+            {
+                "name": "Printing\n ",
+                "id": "206",
+                "slug": "https://chaldal.com/printing",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Paper",
+                        "id": "207",
+                        "slug": "https://chaldal.com/paper-2"
+                    },
+                    {
+                        "name": "Toner & Ink",
+                        "id": "208",
+                        "slug": "https://chaldal.com/printer-ink"
+                    }
+                ]
+            }
+        ],
+        "slug": "https://chaldal.com/office"
+    },
+    {
+        "name": "Beauty & Health\n ",
+        "id": "224",
+        "has_child": true,
+        "children": [
+            {
+                "name": "Health Care\n ",
+                "id": "42",
+                "slug": "https://chaldal.com/health-care",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Food Supplements",
+                        "id": "227",
+                        "slug": "https://chaldal.com/food-supplements"
+                    },
+                    {
+                        "name": "Herbal & Digestive Aids",
+                        "id": "232",
+                        "slug": "https://chaldal.com/herbal-products"
+                    },
+                    {
+                        "name": "First Aid",
+                        "id": "46",
+                        "slug": "https://chaldal.com/first-aid"
+                    },
+                    {
+                        "name": "Family Planning",
+                        "id": "47",
+                        "slug": "https://chaldal.com/family-planning"
+                    },
+                    {
+                        "name": "Antiseptics",
+                        "id": "192",
+                        "slug": "https://chaldal.com/antiseptics"
+                    },
+                    {
+                        "name": "Adult Diapers",
+                        "id": "1261",
+                        "slug": "https://chaldal.com/adult-diapers"
+                    },
+                    {
+                        "name": "Keto Food",
+                        "id": "1505",
+                        "slug": "https://chaldal.com/keto-food"
+                    }
+                ]
+            },
+            {
+                "name": "Personal Care\n ",
+                "id": "30",
+                "slug": "https://chaldal.com/personal-care",
+                "has_child": true,
+                "children": [
+                    {
+                        "name": "Clothing Essentials",
+                        "id": "1490",
+                        "slug": "https://chaldal.com/cloth-shopping"
+                    },
+                    {
+                        "name": "Women's Care\n ",
+                        "id": "1494",
+                        "slug": "https://chaldal.com/female-care",
+                        "has_child": true,
+                        "children": [
+                            {
+                                "name": "Facial Care",
+                                "id": "1373",
+                                "slug": "https://chaldal.com/facial-care"
+                            },
+                            {
+                                "name": "Female Bath",
+                                "id": "1496",
+                                "slug": "https://chaldal.com/female-bath"
+                            },
+                            {
+                                "name": "Female Moisturizer",
+                                "id": "1497",
+                                "slug": "https://chaldal.com/female-moisturizer"
+                            },
+                            {
+                                "name": "Female Deo",
+                                "id": "1499",
+                                "slug": "https://chaldal.com/female-deo"
+                            },
+                            {
+                                "name": "Female Shampoo",
+                                "id": "1501",
+                                "slug": "https://chaldal.com/female-shampoo"
+                            },
+                            {
+                                "name": "Hair Care",
+                                "id": "33",
+                                "slug": "https://chaldal.com/hair-care"
+                            },
+                            {
+                                "name": "Feminine Care",
+                                "id": "35",
+                                "slug": "https://chaldal.com/feminine-care"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Men's Care\n ",
+                        "id": "1495",
+                        "slug": "https://chaldal.com/male-care",
+                        "has_child": true,
+                        "children": [
+                            {
+                                "name": "Bath",
+                                "id": "38",
+                                "slug": "https://chaldal.com/bath"
+                            },
+                            {
+                                "name": "Cream & Lotion",
+                                "id": "1354",
+                                "slug": "https://chaldal.com/lotion-cream"
+                            },
+                            {
+                                "name": "Beard Grooming",
+                                "id": "1468",
+                                "slug": "https://chaldal.com/beard-grooming"
+                            },
+                            {
+                                "name": "Men's Facewash",
+                                "id": "1498",
+                                "slug": "https://chaldal.com/mens-facewash"
+                            },
+                            {
+                                "name": "Men's Hair Care",
+                                "id": "1500",
+                                "slug": "https://chaldal.com/mens-hair-care"
+                            },
+                            {
+                                "name": "Deodorants",
+                                "id": "31",
+                                "slug": "https://chaldal.com/deodorants"
+                            },
+                            {
+                                "name": "Shaving Needs",
+                                "id": "32",
+                                "slug": "https://chaldal.com/shaving-needs"
+                            },
+                            {
+                                "name": "Shampoo",
+                                "id": "39",
+                                "slug": "https://chaldal.com/shampoo"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hair Color",
+                        "id": "1504",
+                        "slug": "https://chaldal.com/hair-color"
+                    },
+                    {
+                        "name": "Oral Care",
+                        "id": "34",
+                        "slug": "https://chaldal.com/oral"
+                    },
+                    {
+                        "name": "Skin Care",
+                        "id": "37",
+                        "slug": "https://chaldal.com/skin-care"
+                    },
+                    {
+                        "name": "Handwash",
+                        "id": "40",
+                        "slug": "https://chaldal.com/handwash"
+                    },
+                    {
+                        "name": "Tissue & Wipes",
+                        "id": "41",
+                        "slug": "https://chaldal.com/tissue-wipes"
+                    },
+                    {
+                        "name": "Talcom Powder",
+                        "id": "190",
+                        "slug": "https://chaldal.com/talcom-powder"
+                    }
+                ]
+            }
+        ],
+        "slug": "https://chaldal.com/health-and-beauty"
+    },
+    {
+        "name": "Home Appliances\n ",
+        "id": "1240",
+        "has_child": true,
+        "children": [
+            {
+                "name": "Lights & Electrical",
+                "id": "1267",
+                "slug": "https://chaldal.com/lights-electrical"
+            },
+            {
+                "name": "Tools & Hardware",
+                "id": "1268",
+                "slug": "https://chaldal.com/tools-hardware"
+            },
+            {
+                "name": "Kitchen Appliances",
+                "id": "1269",
+                "slug": "https://chaldal.com/kitchen-appliances"
+            }
+        ],
+        "slug": "https://chaldal.com/electric"
+    },
+    {
+        "name": "Vehicle Essentials",
+        "id": "1417",
+        "slug": "https://chaldal.com/vehicle-essentials"
+    }
+]

@@ -90,6 +90,23 @@
             "id": "102",
             "slug": "baking-ingredients"
         },
+        "bengaliName": "\u09ad\u09bf\u09ad\u09cb \u099f\u09aa\u09bf\u0982 \u098f\u0987\u09b8 \u09b9\u09c1\u0987\u09aa\u09bf\u0982 \u0995\u09cd\u09b0\u09bf\u09ae \u09e7\u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Vivo Topping Ace Whipping Cream 1100 gm",
+        "nameWithoutSubText": "Vivo Topping Ace Whipping Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vivo-topping-ace-whipping-cream-1100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68693&q=low&v=1"
+        ],
+        "price": 430.0,
+        "corpPrice": 430.0,
+        "objectID": 22818
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
         "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09ac\u09c7\u0995\u09bf\u0982 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u099f\u09bf\u09a8 \u09e8\u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Ahmed Baking Powder Tin 265 gm",
@@ -117,23 +134,6 @@
         "price": 239.0,
         "corpPrice": 239.0,
         "objectID": 23595
-    },
-    {
-        "category": {
-            "name": "Baking Ingredients",
-            "id": "102",
-            "slug": "baking-ingredients"
-        },
-        "bengaliName": "\u09ad\u09bf\u09ad\u09cb \u099f\u09aa\u09bf\u0982 \u098f\u0987\u09b8 \u09b9\u09c1\u0987\u09aa\u09bf\u0982 \u0995\u09cd\u09b0\u09bf\u09ae \u09e7\u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Vivo Topping Ace Whipping Cream 1100 gm",
-        "nameWithoutSubText": "Vivo Topping Ace Whipping Cream",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/vivo-topping-ace-whipping-cream-1100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68693&q=low&v=1"
-        ],
-        "price": 430.0,
-        "corpPrice": 430.0,
-        "objectID": 22818
     },
     {
         "category": {
@@ -481,23 +481,6 @@
             "id": "102",
             "slug": "baking-ingredients"
         },
-        "bengaliName": "\u099a\u0995\u09b2\u09c7\u099f \u099a\u09bf\u09aa\u09b8 \u09b9\u09cb\u09df\u09be\u0987\u099f \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Chocolate Chips White 250 gm",
-        "nameWithoutSubText": "Chocolate Chips White",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/chocolate-chips-white-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73695&q=low&v=1"
-        ],
-        "price": 239.0,
-        "corpPrice": 239.0,
-        "objectID": 23594
-    },
-    {
-        "category": {
-            "name": "Baking Ingredients",
-            "id": "102",
-            "slug": "baking-ingredients"
-        },
         "bengaliName": "\u0995\u09cd\u09af\u09be\u09a1\u09ac\u09c7\u09b0\u09c0 \u0995\u09cb\u0995\u09cb\u09df\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Made In India.",
         "name": "Cadbury Cocoa Powder 250 gm",
@@ -525,6 +508,23 @@
         "price": 60.0,
         "corpPrice": 60.0,
         "objectID": 3210
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u099a\u0995\u09b2\u09c7\u099f \u099a\u09bf\u09aa\u09b8 \u09b9\u09cb\u09df\u09be\u0987\u099f \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Chocolate Chips White 250 gm",
+        "nameWithoutSubText": "Chocolate Chips White",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chocolate-chips-white-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73695&q=low&v=1"
+        ],
+        "price": 239.0,
+        "corpPrice": 239.0,
+        "objectID": 23594
     },
     {
         "category": {

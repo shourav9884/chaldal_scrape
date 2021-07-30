@@ -702,23 +702,6 @@
             "id": "1255",
             "slug": "dog-food"
         },
-        "bengaliName": "\u09b0\u09df\u09cd\u09af\u09be\u09b2 \u0995\u09cd\u09af\u09be\u09a8\u09bf\u09a8 \u09aa\u09be\u09aa\u09cd\u09aa\u09bf \u09ae\u09bf\u09a8\u09bf \u09e8 \u0995\u09c7\u099c\u09bf",
-        "longDesc": "\"Recommended for small breed puppies (up to 10kg adult weight) this Royal Canin dog food provides everything your puppy needs to be happy and healthy. It is to be fed to your puppy up to 10 months old and contains an exclusive combination of nutrients.\r\nRoyal Canin Mini Junior Puppy is suitable for small dogs with adult weight up to 10 kg. From 2 to 10 months old.\r\n\r\nThis dry puppy food includes LIP proteins and prebiotics for their developing digestive system. This also helps to balance the good bacteria in the gut and improves stool quality.\r\nAppropriate calcium levels to support skeletal development.\r\nAntioxidants and manno-oligo-saccharides support the natural defences.\r\nAdequate energy for small breed puppies. with their intense energy requirements.\r\nMini Puppy helps support your puppy\u2019s natural defences thanks particularly to a patented combination of nutrients with high quality protein and prebiotics.\r\nSupports digestive health and balance of intestinal flora, which contributes to good stool quality. \r\nMeets the energy needs of small breed puppies during the growth period, and satisfies fussy appetites.\"\r\n\r\nNutritional facts/Ingredients :\"Ingredients:\r\nComposition: Dehydrated Poultry Protein, Rice, Animal Fats, Vegetable Protein Isolate (L.I.P.: protein selected for its very high digestibility), Maize, Beet Pulp, Maize Flour, Hydrolysed Animal Proteins, Maize Gluten, Minerals, Fish Oil, Soya Oil, Fructo-oligo-saccharides (0,34%), Hydrolysed Yeast (Source of Manno-oligo-saccharides), Yeasts Extracts (Source of Beta-glucans), Marigold Extract (Source of Lutein). Additives: Nutritional additives: Vitamin A: 21500 IU, Vitamin D3: 1000 IU, Vitamin E: 510 mg, E1 (Iron): 38 mg, E2 (Iodine): 3,8 mg, E4 (Copper): 12 mg, E5 (Manganese): 49 mg, E6 (Zinc): 126 mg, E8 (Selenium): 0,06 mg - Technological additives: Clinoptilolite of sedimentary origin: 10 g - Sensory additives: Yucca extract: 125 mg - Preservatives - Antioxidants.\"",
-        "name": "Royal Canin Puppy Mini 2 kg",
-        "nameWithoutSubText": "Royal Canin Puppy Mini",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/royal-canin-puppy-mini-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51758&q=best&v=1"
-        ],
-        "price": 1799.0,
-        "corpPrice": 1799.0,
-        "objectID": 16442
-    },
-    {
-        "category": {
-            "name": "Dog Food",
-            "id": "1255",
-            "slug": "dog-food"
-        },
         "bengaliName": "\u09b0\u09df\u09cd\u09af\u09be\u09b2 \u0995\u09cd\u09af\u09be\u09a8\u09bf\u09a8 \u09ae\u09cd\u09af\u09be\u0995\u09cd\u09b8\u09bf \u098f\u09a1\u09be\u09b2\u09cd\u099f \u09e7\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Royal Canin  Maxi Adult 140 gm",
@@ -1698,5 +1681,22 @@
         "price": 985.0,
         "corpPrice": 985.0,
         "objectID": 8736
+    },
+    {
+        "category": {
+            "name": "Dog Food",
+            "id": "1255",
+            "slug": "dog-food"
+        },
+        "bengaliName": "\u09b8\u09cd\u09ae\u09be\u09b0\u09cd\u099f\u09b9\u09be\u09b0\u09cd\u099f \u0985\u09cd\u09af\u09be\u09a1\u09be\u09b2\u09cd\u099f \u0995\u09c1\u0995\u09c1\u09b0\u09c7\u09b0 \u0996\u09be\u09ac\u09be\u09b0 \u09b8\u09cd\u09ae\u09cb\u0995\u09a1 \u09b2\u09bf\u09ad\u09be\u09b0 \u09ab\u09cd\u09b2\u09cd\u09af\u09be\u09ad\u09b0 \u09e9 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "\"Adult dogs require complete and balanced nutrition that meets their requirements to maintain good health and condition. SmartHeart adult dog food is formulated to meet adult dog\u2019s requirements using the best quality ingredients and supplemented with fish oil (rich in DHA and Omega-3 fatty acid) and Lecithin (rich in Choline) to help enhance brain and nervous system function and promote heart health.\r\n\r\nEnhanced Brain Function : DHA (from fish oil) and choline (from lecithin) for enhanced brain and nervous system function\r\nHealthy Heart : Omega-3 fatty acids from fish oil for a healthy heart\r\nHealthy Skin and Coat : Balanced Omega 3 & 6 essential fatty acids for a healthy skin and shiny coat\r\nImmune System : Vitamin E and Selenium for strong immune system\r\nHealthy Digestion : Highly digestible ingredients for improved digestion and stool quality\"\r\n\r\n\"Ingredients:\r\nCorn, poultry meal, rice, soybean meal, chicken oil, full fat soybean, brewer's dried yeast, liver digest, lecithin, fish oil, iodized salt, vitamins and minerals, antioxidants and food colouring\"",
+        "name": "SmartHeart Adult Dog Food Smoked Liver Flavor 3 kg",
+        "nameWithoutSubText": "SmartHeart Adult Dog Food Smoked Liver Flavor",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/smartheart-adult-dog-food-smoked-liver-flavor-3-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64702&q=low&v=1"
+        ],
+        "price": 985.0,
+        "corpPrice": 985.0,
+        "objectID": 8733
     }
 ]

@@ -277,23 +277,6 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u099c\u09bf\u09b0\u09be \u0997\u09c1\u0981\u09dc\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Radhuni Cumin (Jeera) Powder 200 gm",
-        "nameWithoutSubText": "Radhuni Cumin (Jeera) Powder",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/radhuni-cumin-jeera-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75689&q=low&v=1"
-        ],
-        "price": 155.0,
-        "corpPrice": 155.0,
-        "objectID": 4047
-    },
-    {
-        "category": {
-            "name": "Spices",
-            "id": "107",
-            "slug": "spices"
-        },
         "bengaliName": " \u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09b0\u09cb\u09b8\u09cd\u099f\u09c7\u09b0 \u09ae\u09b6\u09b2\u09be \u09e9\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": "Radhuni easy mix roast masala gives you the optimum taste of roast in the easiest way, without having to add any other spices. just add sour curd in preparation and edible oil in cooking with chicken.",
         "name": "Radhuni Roast Masala 35 gm",
@@ -304,6 +287,23 @@
         "price": 60.0,
         "corpPrice": 60.0,
         "objectID": 4050
+    },
+    {
+        "category": {
+            "name": "Spices",
+            "id": "107",
+            "slug": "spices"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u099c\u09bf\u09b0\u09be \u0997\u09c1\u0981\u09dc\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Cumin (Jeera) Powder 200 gm",
+        "nameWithoutSubText": "Radhuni Cumin (Jeera) Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-cumin-jeera-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75689&q=low&v=1"
+        ],
+        "price": 155.0,
+        "corpPrice": 155.0,
+        "objectID": 4047
     },
     {
         "category": {
@@ -447,23 +447,6 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u09a4\u0995\u09ae\u09be \u09ac\u09bf\u099c \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Tokma Seed 100 gm",
-        "nameWithoutSubText": "Tokma Seed",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/tokma-seed-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48426&q=low&v=1"
-        ],
-        "price": 39.0,
-        "corpPrice": 39.0,
-        "objectID": 4288
-    },
-    {
-        "category": {
-            "name": "Spices",
-            "id": "107",
-            "slug": "spices"
-        },
         "bengaliName": "\u0993\u09b0\u09bf\u0997\u09c7\u09a8\u09cb \u09b2\u09bf\u09ab \u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Oregano Leaves 10 gm",
@@ -474,6 +457,23 @@
         "price": 59.0,
         "corpPrice": 59.0,
         "objectID": 8801
+    },
+    {
+        "category": {
+            "name": "Spices",
+            "id": "107",
+            "slug": "spices"
+        },
+        "bengaliName": "\u09a4\u0995\u09ae\u09be \u09ac\u09bf\u099c \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tokma Seed 100 gm",
+        "nameWithoutSubText": "Tokma Seed",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tokma-seed-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48426&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 4288
     },
     {
         "category": {
@@ -685,23 +685,6 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b0\u09b8\u09c1\u09a8 \u09ac\u09be\u099f\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Ahmed Garlic Paste 100 gm",
-        "nameWithoutSubText": "Ahmed Garlic Paste",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/ahmed-garlic-paste-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48341&q=low&v=1"
-        ],
-        "price": 30.0,
-        "corpPrice": 30.0,
-        "objectID": 11810
-    },
-    {
-        "category": {
-            "name": "Spices",
-            "id": "107",
-            "slug": "spices"
-        },
         "bengaliName": "\u09aa\u09cb\u09b8\u09cd\u09a4\u09be \u09a6\u09be\u09a8\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Poppy Seed (Posto Dana) 50 gm",
@@ -719,16 +702,16 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u0995\u09be\u09b2\u09cb \u098f\u09b2\u09be\u099a \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b0\u09b8\u09c1\u09a8 \u09ac\u09be\u099f\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Black Cardamom 50 gm",
-        "nameWithoutSubText": "Black Cardamom",
+        "name": "Ahmed Garlic Paste 100 gm",
+        "nameWithoutSubText": "Ahmed Garlic Paste",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/black-cardamom-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50292&q=low&v=1"
+            "https://chaldn.com/_mpimage/ahmed-garlic-paste-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48341&q=low&v=1"
         ],
-        "price": 59.0,
-        "corpPrice": 59.0,
-        "objectID": 18535
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 11810
     },
     {
         "category": {
@@ -753,16 +736,16 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u09b0\u0982\u09a7\u09a8\u09c1 \u09a7\u09a8\u09bf\u09af\u09bc\u09be \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u0995\u09be\u09b2\u09cb \u098f\u09b2\u09be\u099a \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Rongdhanu Coriander Powder 100 gm",
-        "nameWithoutSubText": "Rongdhanu Coriander Powder",
+        "name": "Black Cardamom 50 gm",
+        "nameWithoutSubText": "Black Cardamom",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/rongdhanu-coriander-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68065&q=low&v=1"
+            "https://chaldn.com/_mpimage/black-cardamom-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50292&q=low&v=1"
         ],
-        "price": 30.0,
-        "corpPrice": 30.0,
-        "objectID": 22593
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 18535
     },
     {
         "category": {
@@ -780,6 +763,40 @@
         "price": 89.0,
         "corpPrice": 89.0,
         "objectID": 18532
+    },
+    {
+        "category": {
+            "name": "Spices",
+            "id": "107",
+            "slug": "spices"
+        },
+        "bengaliName": "\u09b0\u0982\u09a7\u09a8\u09c1 \u09a7\u09a8\u09bf\u09af\u09bc\u09be \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Rongdhanu Coriander Powder 100 gm",
+        "nameWithoutSubText": "Rongdhanu Coriander Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rongdhanu-coriander-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68065&q=low&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 22593
+    },
+    {
+        "category": {
+            "name": "Spices",
+            "id": "107",
+            "slug": "spices"
+        },
+        "bengaliName": "\u099c\u09df\u09bf\u09a4\u09cd\u09b0\u09bf \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mace (Jaytree) 50 gm",
+        "nameWithoutSubText": "Mace (Jaytree)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mace-jaytree-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50288&q=low&v=1"
+        ],
+        "price": 129.0,
+        "corpPrice": 129.0,
+        "objectID": 18531
     },
     {
         "category": {
@@ -821,23 +838,6 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u099c\u09df\u09bf\u09a4\u09cd\u09b0\u09bf \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Mace (Jaytree) 50 gm",
-        "nameWithoutSubText": "Mace (Jaytree)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/mace-jaytree-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50288&q=low&v=1"
-        ],
-        "price": 129.0,
-        "corpPrice": 129.0,
-        "objectID": 18531
-    },
-    {
-        "category": {
-            "name": "Spices",
-            "id": "107",
-            "slug": "spices"
-        },
         "bengaliName": "\u09a1\u09cd\u09af\u09be\u09a8\u09bf\u09b6 \u09ae\u09b0\u09bf\u099a \u0997\u09c1\u0981\u09dc\u09be \u099c\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Danish Chilli Powder Jar 200 gm",
@@ -855,23 +855,6 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u0987\u09ae\u09a8 \u099a\u09bf\u09df\u09be \u09ac\u09c0\u099c \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Emon Chia Seeds 100 gm",
-        "nameWithoutSubText": "Emon Chia Seeds",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/emon-chia-seeds-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74088&q=low&v=1"
-        ],
-        "price": 200.0,
-        "corpPrice": 200.0,
-        "objectID": 23684
-    },
-    {
-        "category": {
-            "name": "Spices",
-            "id": "107",
-            "slug": "spices"
-        },
         "bengaliName": "\u0997\u09cd\u09b2\u09cb\u09ac \u09b0\u09c7\u09a1 \u099a\u09bf\u09b2\u09bf \u09ab\u09cd\u09b2\u09c7\u0995\u09cd\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
         "longDesc": null,
         "name": "Globe Red Chilli Flakes 50 gm",
@@ -882,6 +865,23 @@
         "price": 70.0,
         "corpPrice": 70.0,
         "objectID": 22893
+    },
+    {
+        "category": {
+            "name": "Spices",
+            "id": "107",
+            "slug": "spices"
+        },
+        "bengaliName": "\u0987\u09ae\u09a8 \u099a\u09bf\u09df\u09be \u09ac\u09c0\u099c \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Emon Chia Seeds 100 gm",
+        "nameWithoutSubText": "Emon Chia Seeds",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/emon-chia-seeds-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74088&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 23684
     },
     {
         "category": {
@@ -957,23 +957,6 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u09b8\u09be\u09a6\u09be \u0997\u09cb\u09b2\u09ae\u09b0\u09bf\u099a \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "White Pepper Whole 50 gm",
-        "nameWithoutSubText": "White Pepper Whole",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/white-pepper-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64812&q=low&v=1"
-        ],
-        "price": 69.0,
-        "corpPrice": 69.0,
-        "objectID": 18536
-    },
-    {
-        "category": {
-            "name": "Spices",
-            "id": "107",
-            "slug": "spices"
-        },
         "bengaliName": "\u099c\u09df\u09ab\u09b2 \u0997\u09c1\u0981\u09dc\u09be \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Nutmeg (Jayfal) Powder 20 gm",
@@ -984,6 +967,23 @@
         "price": 59.0,
         "corpPrice": 59.0,
         "objectID": 9332
+    },
+    {
+        "category": {
+            "name": "Spices",
+            "id": "107",
+            "slug": "spices"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6\u09be \u0997\u09cb\u09b2\u09ae\u09b0\u09bf\u099a \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "White Pepper Whole 50 gm",
+        "nameWithoutSubText": "White Pepper Whole",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/white-pepper-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64812&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 18536
     },
     {
         "category": {
@@ -1059,23 +1059,6 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u0987\u09ae\u09a8 \u099a\u09be\u09df\u09a8\u09be \u0997\u09cd\u09b0\u09be\u09b8 \u09ed \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Emon China grass 7 gm",
-        "nameWithoutSubText": "Emon China grass",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/emon-china-grass-7-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74961&q=low&v=1"
-        ],
-        "price": 55.0,
-        "corpPrice": 55.0,
-        "objectID": 23976
-    },
-    {
-        "category": {
-            "name": "Spices",
-            "id": "107",
-            "slug": "spices"
-        },
         "bengaliName": "\u0997\u09cd\u09b2\u09cb\u09ac \u09a4\u09c1\u09b2\u09b8\u09c0 \u09aa\u09be\u09a4\u09be  \u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Globe Basil Leaves 10 gm",
@@ -1093,16 +1076,16 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u09a1\u09cd\u09af\u09be\u09a8\u09bf\u09b6 \u09b9\u09b2\u09c1\u09a6 \u0997\u09c1\u0981\u09dc\u09be \u099c\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u0987\u09ae\u09a8 \u099a\u09be\u09df\u09a8\u09be \u0997\u09cd\u09b0\u09be\u09b8 \u09ed \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Danish Turmeric Powder Jar 200 gm",
-        "nameWithoutSubText": "Danish Turmeric Powder Jar",
+        "name": "Emon China grass 7 gm",
+        "nameWithoutSubText": "Emon China grass",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/danish-turmeric-powder-jar-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75638&q=low&v=1"
+            "https://chaldn.com/_mpimage/emon-china-grass-7-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74961&q=low&v=1"
         ],
-        "price": 85.0,
-        "corpPrice": 85.0,
-        "objectID": 23941
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 23976
     },
     {
         "category": {
@@ -1127,16 +1110,16 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u0986\u099c\u0993\u09df\u09be\u0987\u09a8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u09a1\u09cd\u09af\u09be\u09a8\u09bf\u09b6 \u09b9\u09b2\u09c1\u09a6 \u0997\u09c1\u0981\u09dc\u09be \u099c\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Ajwain 100 gm",
-        "nameWithoutSubText": "Ajwain",
+        "name": "Danish Turmeric Powder Jar 200 gm",
+        "nameWithoutSubText": "Danish Turmeric Powder Jar",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/ajwain-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48342&q=low&v=1"
+            "https://chaldn.com/_mpimage/danish-turmeric-powder-jar-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75638&q=low&v=1"
         ],
-        "price": 39.0,
-        "corpPrice": 39.0,
-        "objectID": 3987
+        "price": 85.0,
+        "corpPrice": 85.0,
+        "objectID": 23941
     },
     {
         "category": {
@@ -1154,6 +1137,23 @@
         "price": 60.0,
         "corpPrice": 60.0,
         "objectID": 23816
+    },
+    {
+        "category": {
+            "name": "Spices",
+            "id": "107",
+            "slug": "spices"
+        },
+        "bengaliName": "\u0986\u099c\u0993\u09df\u09be\u0987\u09a8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ajwain 100 gm",
+        "nameWithoutSubText": "Ajwain",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ajwain-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48342&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 3987
     },
     {
         "category": {
@@ -1263,23 +1263,6 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0  \u09ae\u09b0\u09bf\u099a \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Radhuni Chilli Powder 50 gm",
-        "nameWithoutSubText": "Radhuni Chilli Powder",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/radhuni-chilli-powder-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70256&q=low&v=1"
-        ],
-        "price": 30.0,
-        "corpPrice": 30.0,
-        "objectID": 11940
-    },
-    {
-        "category": {
-            "name": "Spices",
-            "id": "107",
-            "slug": "spices"
-        },
         "bengaliName": "\u0997\u09cd\u09b2\u09cb\u09ac \u09aa\u09c7\u0981\u09df\u09be\u099c\u09c7\u09b0 \u0997\u09c1\u0981\u09dc\u09be  \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae  ",
         "longDesc": null,
         "name": "Globe Onion Powder 50 gm",
@@ -1290,6 +1273,23 @@
         "price": 90.0,
         "corpPrice": 90.0,
         "objectID": 22891
+    },
+    {
+        "category": {
+            "name": "Spices",
+            "id": "107",
+            "slug": "spices"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0  \u09ae\u09b0\u09bf\u099a \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Chilli Powder 50 gm",
+        "nameWithoutSubText": "Radhuni Chilli Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-chilli-powder-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70256&q=low&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 11940
     },
     {
         "category": {
@@ -1365,16 +1365,16 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u0997\u09cd\u09b2\u09cb\u09ac\u09be\u09b2 \u09b8\u09cd\u09aa\u09be\u0987\u09b8 \u0995\u09be\u09b8\u09cd\u09ae\u09bf\u09b0\u09bf \u09ae\u09b0\u09bf\u099a \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u0997\u09b0\u09ae \u09ae\u09b8\u09b2\u09be \u0997\u09c1\u0981\u09dc\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Global Spice Kashmiri Mirch 50 gm",
-        "nameWithoutSubText": "Global Spice Kashmiri Mirch",
+        "name": "Garam Masala Powder 50 gm",
+        "nameWithoutSubText": "Garam Masala Powder",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/global-spice-kashmiri-mirch-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74581&q=low&v=1"
+            "https://chaldn.com/_mpimage/garam-masala-powder-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48371&q=low&v=1"
         ],
-        "price": 119.0,
-        "corpPrice": 119.0,
-        "objectID": 23871
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 9326
     },
     {
         "category": {
@@ -1416,16 +1416,16 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u0997\u09b0\u09ae \u09ae\u09b8\u09b2\u09be \u0997\u09c1\u0981\u09dc\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u0997\u09cd\u09b2\u09cb\u09ac\u09be\u09b2 \u09b8\u09cd\u09aa\u09be\u0987\u09b8 \u0995\u09be\u09b8\u09cd\u09ae\u09bf\u09b0\u09bf \u09ae\u09b0\u09bf\u099a \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Garam Masala Powder 50 gm",
-        "nameWithoutSubText": "Garam Masala Powder",
+        "name": "Global Spice Kashmiri Mirch 50 gm",
+        "nameWithoutSubText": "Global Spice Kashmiri Mirch",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/garam-masala-powder-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48371&q=low&v=1"
+            "https://chaldn.com/_mpimage/global-spice-kashmiri-mirch-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74581&q=low&v=1"
         ],
-        "price": 79.0,
-        "corpPrice": 79.0,
-        "objectID": 9326
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 23871
     },
     {
         "category": {
@@ -1450,23 +1450,6 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u099c\u09df\u09a4\u09cd\u09b0\u09bf \u0997\u09c1\u0981\u09dc\u09be (\u09ac\u09cb\u09a4\u09b2) \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Mace (Joitri) Powder Bottle 20 gm",
-        "nameWithoutSubText": "Mace (Joitri) Powder Bottle",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/mace-joitri-powder-bottle-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48379&q=low&v=1"
-        ],
-        "price": 129.0,
-        "corpPrice": 129.0,
-        "objectID": 9441
-    },
-    {
-        "category": {
-            "name": "Spices",
-            "id": "107",
-            "slug": "spices"
-        },
         "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09a4\u09c7\u09b9\u09be\u09b0\u09bf \u09ae\u09b8\u09b2\u09be \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
         "name": "Ahmed Tehari Masala 40 gm",
@@ -1477,6 +1460,23 @@
         "price": 45.0,
         "corpPrice": 45.0,
         "objectID": 23819
+    },
+    {
+        "category": {
+            "name": "Spices",
+            "id": "107",
+            "slug": "spices"
+        },
+        "bengaliName": "\u099c\u09df\u09a4\u09cd\u09b0\u09bf \u0997\u09c1\u0981\u09dc\u09be (\u09ac\u09cb\u09a4\u09b2) \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mace (Joitri) Powder Bottle 20 gm",
+        "nameWithoutSubText": "Mace (Joitri) Powder Bottle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mace-joitri-powder-bottle-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48379&q=low&v=1"
+        ],
+        "price": 129.0,
+        "corpPrice": 129.0,
+        "objectID": 9441
     },
     {
         "category": {
@@ -1603,16 +1603,16 @@
             "id": "107",
             "slug": "spices"
         },
-        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u09b8\u09be\u09a6\u09be \u09ae\u09b0\u09bf\u099a \u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "bengaliName": "\u0987\u09ae\u09a8 \u0995\u09be\u09b2\u09cb \u09ad\u09c1\u09a8\u09be \u09ae\u09b8\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
         "longDesc": null,
-        "name": "Anchor White Pepper 30 gm ",
-        "nameWithoutSubText": "Anchor White Pepper",
+        "name": "Emon Beef Kala Bhuna Masala 50 gm ",
+        "nameWithoutSubText": "Emon Beef Kala Bhuna Masala",
         "picturesUrls": [
-            "https://chaldn.com/_mpimage/anchor-white-pepper-30-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67534&q=low&v=1"
+            "https://chaldn.com/_mpimage/emon-beef-kala-bhuna-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74958&q=low&v=1"
         ],
-        "price": 60.0,
-        "corpPrice": 60.0,
-        "objectID": 22461
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 23973
     },
     {
         "category": {
@@ -1630,6 +1630,23 @@
         "price": 66.0,
         "corpPrice": 66.0,
         "objectID": 23724
+    },
+    {
+        "category": {
+            "name": "Spices",
+            "id": "107",
+            "slug": "spices"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u09b8\u09be\u09a6\u09be \u09ae\u09b0\u09bf\u099a \u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor White Pepper 30 gm ",
+        "nameWithoutSubText": "Anchor White Pepper",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-white-pepper-30-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67534&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 22461
     },
     {
         "category": {
@@ -1664,23 +1681,6 @@
         "price": 75.0,
         "corpPrice": 75.0,
         "objectID": 23981
-    },
-    {
-        "category": {
-            "name": "Spices",
-            "id": "107",
-            "slug": "spices"
-        },
-        "bengaliName": "\u0987\u09ae\u09a8 \u0995\u09be\u09b2\u09cb \u09ad\u09c1\u09a8\u09be \u09ae\u09b8\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
-        "longDesc": null,
-        "name": "Emon Beef Kala Bhuna Masala 50 gm ",
-        "nameWithoutSubText": "Emon Beef Kala Bhuna Masala",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/emon-beef-kala-bhuna-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74958&q=low&v=1"
-        ],
-        "price": 80.0,
-        "corpPrice": 80.0,
-        "objectID": 23973
     },
     {
         "category": {

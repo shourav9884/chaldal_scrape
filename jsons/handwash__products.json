@@ -167,23 +167,6 @@
             "id": "40",
             "slug": "handwash"
         },
-        "bengaliName": "\u09b8\u09c7\u09aa\u09cd\u09a8\u09bf\u09b2 \u098f\u0995\u09cd\u09b8\u099f\u09be\u09b0\u09be \u09ae\u09be\u0987\u09b2\u09cd\u09a1 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u0993\u09df\u09be\u09b6 \u09ae\u09c7\u09b0\u09bf\u0997\u09cb\u09b2\u09cd\u09a1 \u09b0\u09bf\u09ab\u09bf\u09b2 \u09e7\u09ee\u09e6 \u09ae\u09bf\u09b2\u09bf ",
-        "longDesc": null,
-        "name": "Sepnil Extra Mild Hand Wash Marigold Refill 180 ml",
-        "nameWithoutSubText": "Sepnil Extra Mild Hand Wash Marigold Refill",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/sepnil-extra-mild-hand-wash-marigold-refill-180-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61225&q=low&v=1"
-        ],
-        "price": 55.0,
-        "corpPrice": 55.0,
-        "objectID": 7812
-    },
-    {
-        "category": {
-            "name": "Handwash",
-            "id": "40",
-            "slug": "handwash"
-        },
         "bengaliName": "\u09b2\u09be\u0987\u09ab\u09ac\u09af\u09bc \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u0993\u09af\u09bc\u09be\u09b6 \u09b2\u09c7\u09ae\u09a8 \u09ab\u09cd\u09b0\u09c7\u09b6 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
         "longDesc": null,
         "name": "Lifebuoy Handwash Lemon Fresh 1 ltr",
@@ -194,6 +177,23 @@
         "price": 225.0,
         "corpPrice": 225.0,
         "objectID": 22106
+    },
+    {
+        "category": {
+            "name": "Handwash",
+            "id": "40",
+            "slug": "handwash"
+        },
+        "bengaliName": "\u09b8\u09c7\u09aa\u09cd\u09a8\u09bf\u09b2 \u098f\u0995\u09cd\u09b8\u099f\u09be\u09b0\u09be \u09ae\u09be\u0987\u09b2\u09cd\u09a1 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u0993\u09df\u09be\u09b6 \u09ae\u09c7\u09b0\u09bf\u0997\u09cb\u09b2\u09cd\u09a1 \u09b0\u09bf\u09ab\u09bf\u09b2 \u09e7\u09ee\u09e6 \u09ae\u09bf\u09b2\u09bf ",
+        "longDesc": null,
+        "name": "Sepnil Extra Mild Hand Wash Marigold Refill 180 ml",
+        "nameWithoutSubText": "Sepnil Extra Mild Hand Wash Marigold Refill",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sepnil-extra-mild-hand-wash-marigold-refill-180-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61225&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 7812
     },
     {
         "category": {
@@ -313,23 +313,6 @@
             "id": "40",
             "slug": "handwash"
         },
-        "bengaliName": "\u09aa\u09cd\u09b0\u099f\u09c7\u0995\u09cd\u099f \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b8\u09cd\u09af\u09be\u09a8\u09bf\u099f\u09be\u0987\u099c\u09be\u09b0 (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": null,
-        "name": "Protekt Hand Sanitizer (Buy 1 Get 1 Free) 50 ml ",
-        "nameWithoutSubText": "Protekt Hand Sanitizer (Buy 1 Get 1 Free)",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/protekt-hand-sanitizer-buy-1-get-1-free-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75458&q=low&v=1"
-        ],
-        "price": 80.0,
-        "corpPrice": 80.0,
-        "objectID": 24106
-    },
-    {
-        "category": {
-            "name": "Handwash",
-            "id": "40",
-            "slug": "handwash"
-        },
         "bengaliName": "\u0986\u09b2\u09ae\u09be\u09b0 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0993\u09df\u09be\u09b6 \u09b0\u09bf\u09ab\u09bf\u09b2 (\u09e8 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": null,
         "name": "Almer Hand Wash Refill (Buy 2 Get 1 Free) 250 ml",
@@ -340,6 +323,23 @@
         "price": 130.0,
         "corpPrice": 130.0,
         "objectID": 22636
+    },
+    {
+        "category": {
+            "name": "Handwash",
+            "id": "40",
+            "slug": "handwash"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u099f\u09c7\u0995\u09cd\u099f \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b8\u09cd\u09af\u09be\u09a8\u09bf\u099f\u09be\u0987\u099c\u09be\u09b0 (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Protekt Hand Sanitizer (Buy 1 Get 1 Free) 50 ml ",
+        "nameWithoutSubText": "Protekt Hand Sanitizer (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/protekt-hand-sanitizer-buy-1-get-1-free-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75458&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 24106
     },
     {
         "category": {
@@ -402,23 +402,6 @@
             "id": "40",
             "slug": "handwash"
         },
-        "bengaliName": "\u09ae\u09c7\u09a1\u09bf\u0995\u09b0 \u09b8\u09c7\u09ab\u09b2\u09be\u0987\u09ab \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u0993\u09af\u09bc\u09be\u09b6 \u09b0\u09bf\u09ab\u09bf\u09b2 \u09e7\u09ed\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": "Its Nano Z technology gives super power germ protection against bacteria, fungi, virus.\r\n100% confidence of protection\r\nNatural Moisturizer \r\n\r\nIngredients:\r\nAqua, sodium laureth sulphate, sodium chloride, glycerin, PEG 40 hydrogenated castor oil, Zinc gluconate, chloromethylisothiazoline and methylisothiazolinone, Perfume, Neem oil, Olive oil",
-        "name": "Mediker SafeLife Handwash Refill 170 ml",
-        "nameWithoutSubText": "Mediker SafeLife Handwash Refill",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/mediker-safelife-handwash-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79022&q=low&v=1"
-        ],
-        "price": 42.0,
-        "corpPrice": 42.0,
-        "objectID": 21200
-    },
-    {
-        "category": {
-            "name": "Handwash",
-            "id": "40",
-            "slug": "handwash"
-        },
         "bengaliName": "\u09b2\u09be\u0987\u09ab\u09ac\u09df \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0993\u09df\u09be\u09b6 \u099f\u09cb\u099f\u09be\u09b2 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
         "longDesc": null,
         "name": "Lifebuoy Handwash Total 1 ltr",
@@ -429,6 +412,23 @@
         "price": 280.0,
         "corpPrice": 280.0,
         "objectID": 17107
+    },
+    {
+        "category": {
+            "name": "Handwash",
+            "id": "40",
+            "slug": "handwash"
+        },
+        "bengaliName": "\u09ae\u09c7\u09a1\u09bf\u0995\u09b0 \u09b8\u09c7\u09ab\u09b2\u09be\u0987\u09ab \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u0993\u09af\u09bc\u09be\u09b6 \u09b0\u09bf\u09ab\u09bf\u09b2 \u09e7\u09ed\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Its Nano Z technology gives super power germ protection against bacteria, fungi, virus.\r\n100% confidence of protection\r\nNatural Moisturizer \r\n\r\nIngredients:\r\nAqua, sodium laureth sulphate, sodium chloride, glycerin, PEG 40 hydrogenated castor oil, Zinc gluconate, chloromethylisothiazoline and methylisothiazolinone, Perfume, Neem oil, Olive oil",
+        "name": "Mediker SafeLife Handwash Refill 170 ml",
+        "nameWithoutSubText": "Mediker SafeLife Handwash Refill",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mediker-safelife-handwash-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79022&q=low&v=1"
+        ],
+        "price": 42.0,
+        "corpPrice": 42.0,
+        "objectID": 21200
     },
     {
         "category": {
@@ -875,23 +875,6 @@
             "id": "40",
             "slug": "handwash"
         },
-        "bengaliName": "\u09b2\u09be\u0987\u09ab\u09ac\u09af\u09bc \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u0993\u09af\u09bc\u09be\u09b6 \u0995\u09c1\u09b2 \u09ab\u09cd\u09b0\u09c7\u09b6 \u09b0\u09bf\u09ab\u09bf\u09b2 \u09e7\u09ed\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": null,
-        "name": "Lifebuoy Handwash Cool Fresh Refill 170 ml",
-        "nameWithoutSubText": "Lifebuoy Handwash Cool Fresh Refill",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/lifebuoy-handwash-cool-fresh-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75877&q=low&v=1"
-        ],
-        "price": 60.0,
-        "corpPrice": 60.0,
-        "objectID": 22108
-    },
-    {
-        "category": {
-            "name": "Handwash",
-            "id": "40",
-            "slug": "handwash"
-        },
         "bengaliName": "\u09a8\u09be\u0987\u09b2 \u0985\u09cd\u09af\u09be\u09b2\u09cb\u09ad\u09c7\u09b0\u09be \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u0993\u09df\u09be\u09b6 \u09b0\u09bf\u09ab\u09bf\u09b2 \u09e7\u09ed\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": null,
         "name": "Nyle Aloevera Hand Wash Refill 170 ml",
@@ -902,6 +885,23 @@
         "price": 40.0,
         "corpPrice": 40.0,
         "objectID": 23790
+    },
+    {
+        "category": {
+            "name": "Handwash",
+            "id": "40",
+            "slug": "handwash"
+        },
+        "bengaliName": "\u09b2\u09be\u0987\u09ab\u09ac\u09af\u09bc \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u0993\u09af\u09bc\u09be\u09b6 \u0995\u09c1\u09b2 \u09ab\u09cd\u09b0\u09c7\u09b6 \u09b0\u09bf\u09ab\u09bf\u09b2 \u09e7\u09ed\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Lifebuoy Handwash Cool Fresh Refill 170 ml",
+        "nameWithoutSubText": "Lifebuoy Handwash Cool Fresh Refill",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lifebuoy-handwash-cool-fresh-refill-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75877&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 22108
     },
     {
         "category": {

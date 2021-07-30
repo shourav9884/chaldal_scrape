@@ -209,23 +209,6 @@
             "id": "1484",
             "slug": "hygiene"
         },
-        "bengaliName": "\u09b9\u09c7\u0995\u09cd\u09b8\u09bf\u09b8\u09b2 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b0\u09ac \u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
-        "longDesc": "Usage :\r\n\r\nHexasol hand rub protect your hand from germ without using water.\r\n\r\nSource : ACI Pharmaceuticals Limited\r\n\r\nManufacturer : ACI Limited\r\n\r\nOrigin Country : Bangladesh",
-        "name": "Hexisol Hand Rub 50 ml",
-        "nameWithoutSubText": "Hexisol Hand Rub",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/hexisol-hand-rub-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68528&q=low&v=1"
-        ],
-        "price": 40.0,
-        "corpPrice": 40.0,
-        "objectID": 20954
-    },
-    {
-        "category": {
-            "name": "Hygiene",
-            "id": "1484",
-            "slug": "hygiene"
-        },
         "bengaliName": "\u09ae\u09c7\u09a1\u09bf\u0995\u09be\u09b0 \u09b8\u09c7\u09ab\u09b2\u09be\u0987\u09ab \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u0993\u09df\u09be\u09b6 \u09b0\u09bf\u09ab\u09bf\u09b2 (\u09e9 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u0995\u09c1\u09b0\u09ac\u09be\u09a8\u09bf \u09b8\u09cd\u09aa\u09c7\u09b6\u09be\u09b2 \u09e7\u09ed\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": null,
         "name": "Mediker SafeLife Handwash Refill (Buy 3 Get 1 Free)170 ml",
@@ -236,6 +219,23 @@
         "price": 135.0,
         "corpPrice": 135.0,
         "objectID": 23540
+    },
+    {
+        "category": {
+            "name": "Hygiene",
+            "id": "1484",
+            "slug": "hygiene"
+        },
+        "bengaliName": "\u09b9\u09c7\u0995\u09cd\u09b8\u09bf\u09b8\u09b2 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b0\u09ac \u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Usage :\r\n\r\nHexasol hand rub protect your hand from germ without using water.\r\n\r\nSource : ACI Pharmaceuticals Limited\r\n\r\nManufacturer : ACI Limited\r\n\r\nOrigin Country : Bangladesh",
+        "name": "Hexisol Hand Rub 50 ml",
+        "nameWithoutSubText": "Hexisol Hand Rub",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hexisol-hand-rub-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68528&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 20954
     },
     {
         "category": {
@@ -473,23 +473,6 @@
             "id": "1484",
             "slug": "hygiene"
         },
-        "bengaliName": "\u09ab\u09c7\u09b8 \u09b6\u09bf\u09b2\u09cd\u09a1 \u09e7 \u09aa\u09bf\u09b8",
-        "longDesc": "Usage :\r\nFace Shield is used to protect you from various germs. \r\n\r\nOrigin country : China",
-        "name": "Face Shield 1 pcs",
-        "nameWithoutSubText": "Face Shield",
-        "picturesUrls": [
-            "https://chaldn.com/_mpimage/face-shield-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79924&q=low&v=1"
-        ],
-        "price": 119.0,
-        "corpPrice": 119.0,
-        "objectID": 21451
-    },
-    {
-        "category": {
-            "name": "Hygiene",
-            "id": "1484",
-            "slug": "hygiene"
-        },
         "bengaliName": "\u09ae\u09c7\u09a1\u09bf\u0995\u09be\u09b0 \u09b8\u09c7\u09ab\u09b2\u09be\u0987\u09ab \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b8\u09cd\u09af\u09be\u09a8\u09bf\u099f\u09be\u0987\u099c\u09be\u09b0 (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u0995\u09c1\u09b0\u09ac\u09be\u09a8\u09bf \u09b8\u09cd\u09aa\u09c7\u09b6\u09be\u09b2 \u09ea\u09e6 \u09ae\u09bf\u09b2\u09bf",
         "longDesc": null,
         "name": "Mediker SafeLife Hand Sanitizer (Buy 1 Get 1 Free)  40 ml",
@@ -500,6 +483,23 @@
         "price": 65.0,
         "corpPrice": 65.0,
         "objectID": 23242
+    },
+    {
+        "category": {
+            "name": "Hygiene",
+            "id": "1484",
+            "slug": "hygiene"
+        },
+        "bengaliName": "\u09ab\u09c7\u09b8 \u09b6\u09bf\u09b2\u09cd\u09a1 \u09e7 \u09aa\u09bf\u09b8",
+        "longDesc": "Usage :\r\nFace Shield is used to protect you from various germs. \r\n\r\nOrigin country : China",
+        "name": "Face Shield 1 pcs",
+        "nameWithoutSubText": "Face Shield",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/face-shield-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79924&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 21451
     },
     {
         "category": {
