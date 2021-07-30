@@ -1,0 +1,104 @@
+[
+    {
+        "category": {
+            "name": "Breads",
+            "id": "74",
+            "slug": "breads"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6\u09be \u09ac\u09cd\u09b0\u09c7\u09a1 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "White Bread 500 gm",
+        "nameWithoutSubText": "White Bread",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/white-bread-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70765&q=low&v=1"
+        ],
+        "price": 75.0,
+        "corpPrice": 75.0,
+        "objectID": 3126
+    },
+    {
+        "category": {
+            "name": "Breads",
+            "id": "74",
+            "slug": "breads"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09cd\u0997\u09be\u09b0 \u09ac\u09be\u09a8 \u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Burger Bun 4 pcs      ",
+        "nameWithoutSubText": "Burger Bun",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/burger-bun-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47937&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 3129
+    },
+    {
+        "category": {
+            "name": "Breads",
+            "id": "74",
+            "slug": "breads"
+        },
+        "bengaliName": "\u0995\u09c1\u09aa\u09be\u09b0\u09c7\u09b0 \u09ac\u09cd\u09b0\u09be\u0989\u09a8 \u09ac\u09cd\u09b0\u09c7\u09a1 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Special Brown Bread 300 gm",
+        "nameWithoutSubText": "Special Brown Bread",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/special-brown-bread-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60376&q=low&v=1"
+        ],
+        "price": 105.0,
+        "corpPrice": 105.0,
+        "objectID": 3125
+    },
+    {
+        "category": {
+            "name": "Breads",
+            "id": "74",
+            "slug": "breads"
+        },
+        "bengaliName": "\u09b9\u099f \u09a1\u0997 \u09b0\u09cb\u09b2 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hot Dog Roll 200 gm",
+        "nameWithoutSubText": "Hot Dog Roll",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hot-dog-roll-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47938&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 3128
+    },
+    {
+        "category": {
+            "name": "Breads",
+            "id": "74",
+            "slug": "breads"
+        },
+        "bengaliName": "\u09b8\u09cd\u09af\u09be\u09ad\u09cb\u09b0\u09bf  \u09ac\u09cd\u09b0\u09c7\u09a1 \u09b8\u09cd\u0995\u09cd\u09b0\u09be\u09ae\u09cd\u09ac\u09b8 \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Savory Breadcrumbs 180 gm",
+        "nameWithoutSubText": "Savory Breadcrumbs",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savory-breadcrumbs-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74748&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 23925
+    },
+    {
+        "category": {
+            "name": "Breads",
+            "id": "74",
+            "slug": "breads"
+        },
+        "bengaliName": "\u099f\u09be\u09b8\u09cd\u099f\u09bf \u09ac\u09cd\u09b0\u09c7\u09a1\u0995\u09cd\u09b0\u09be\u09ae\u09cd\u09ac\u09b8 \u09b8\u09be\u09a6\u09be \u09aa\u09cd\u09af\u09be\u0995 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tastie Breadcrumbs White 200 gm",
+        "nameWithoutSubText": "Tastie Breadcrumbs White",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tastie-breadcrumbs-white-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71137&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 4247
+    }
+]

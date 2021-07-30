@@ -1,0 +1,529 @@
+[
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09ac\u09cb\u09ae\u09cd\u09ac\u09c7 \u09b2\u09be\u099a\u09cd\u099a\u09be \u09b8\u09c7\u09ae\u09be\u0987 \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bombay Laccha Shemai 180 gm",
+        "nameWithoutSubText": "Bombay Laccha Shemai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bombay-laccha-shemai-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64744&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 21326
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09ae\u09bf\u09a8\u09be\u09b0 \u09b2\u09be\u099a\u09cd\u099a\u09be \u09b8\u09c7\u09ae\u09be\u0987 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: GQ group of companies\r\nDelicious, fresh and healthy lachcha semai\r\nIngredients: Wheat Flour, Corn Starch, Edible Palm Oil, Vanaspati",
+        "name": "Minar Lachcha Shemai 200 gm",
+        "nameWithoutSubText": "Minar Lachcha Shemai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/minar-lachcha-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64758&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 21558
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u09b2\u09be\u099a\u09cd\u099b\u09be \u09b8\u09c7\u09ae\u09be\u0987 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Laccha Shemai 200 gm",
+        "nameWithoutSubText": "Dekko Laccha Shemai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dekko-laccha-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58672&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 21260
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09df\u09be\u09ae \u09b2\u09be\u099a\u09cd\u099b\u09be \u09b8\u09c7\u09ae\u09be\u0987  \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Premium Laccha Shemai 200 gm",
+        "nameWithoutSubText": "Khaas Food Premium Laccha Shemai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-premium-laccha-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47092&q=low&v=1"
+        ],
+        "price": 64.0,
+        "corpPrice": 64.0,
+        "objectID": 14966
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u09b2\u09be\u099a\u09cd\u099b\u09be \u09b8\u09c7\u09ae\u09be\u0987 (\u09e8 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Laccha Shemai (Buy 2 Get 1 Free) 200 gm",
+        "nameWithoutSubText": "Dekko Laccha Shemai (Buy 2 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dekko-laccha-shemai-buy-2-get-1-free-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76880&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 24280
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u0995\u09cb\u09b2\u09b8\u09a8 \u09b2\u09be\u099a\u09cd\u099b\u09be \u09b8\u09c7\u09ae\u09be\u0987 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kolson Laccha Shemai 200 gm",
+        "nameWithoutSubText": "Kolson Laccha Shemai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kolson-laccha-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80877&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 3682
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u0995\u0995 \u09b8\u09c7\u09ae\u09be\u0987 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Cock Vermicelli (Shemai) made of pure flour. Its very tasty and healthy. Cock Vermically (Shemai) can be the nice dessert for your family. \r\n\r\nManufactured by: Hashem Foods Ltd.",
+        "name": "Cock Vermicelli (Shemai) 200 gm",
+        "nameWithoutSubText": "Cock Vermicelli (Shemai)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cock-vermicelli-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80879&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 4388
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09ac\u09a8\u09ab\u09c1\u09b2 \u09b2\u09be\u099a\u09cd\u099b\u09be \u09b8\u09c7\u09ae\u09be\u0987 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Banoful Laccha Shemai 200 gm",
+        "nameWithoutSubText": "Banoful Laccha Shemai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/banoful-laccha-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47087&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 11901
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u0987\u09ab\u09be\u09a6 \u09b8\u09c1\u099c\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Ifad group\r\nHealthy and delicious semolina.\r\nEnriched with sufficient protein, vitamin and minerals. \r\nISO certified.",
+        "name": "Ifad Suji 500 gm",
+        "nameWithoutSubText": "Ifad Suji",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ifad-suji-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23703&q=low&v=1"
+        ],
+        "price": 32.0,
+        "corpPrice": 32.0,
+        "objectID": 3607
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09bf \u09b8\u09c7\u09ae\u09be\u0987 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Radhuni shemai has superb taste. it is smooth, lean & thin and easy to prepare. radhuni shemai is hygienically manufactured from finest quality flour which ensures delicious jorda shemai, milk shemai & falooda.",
+        "name": "Radhuni Shemai 200 gm",
+        "nameWithoutSubText": "Radhuni Shemai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39973&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 6238
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09aa\u09bf\u0993\u09b0 \u09b8\u09c1\u099c\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "ACI Pure Suji 500 gm",
+        "nameWithoutSubText": "ACI Pure Suji",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-pure-suji-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47085&q=low&v=1"
+        ],
+        "price": 32.0,
+        "corpPrice": 32.0,
+        "objectID": 2122
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09b8\u09c1\u099c\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Fresh Suji 500 gm",
+        "nameWithoutSubText": "Fresh Suji",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-suji-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58754&q=low&v=1"
+        ],
+        "price": 32.0,
+        "corpPrice": 32.0,
+        "objectID": 7584
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u09ad\u09be\u09b0\u09cd\u09ae\u09bf\u09b8\u09c7\u09b2\u09cd\u09b2\u09bf \u09b8\u09c7\u09ae\u09be\u0987 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Vermicelli Shemai 200 gm",
+        "nameWithoutSubText": "Dekko Vermicelli Shemai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dekko-vermicelli-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80810&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 19851
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u09b2\u09be\u099a\u09cd\u099b\u09be \u09b8\u09c7\u09ae\u09be\u0987 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bashundhara Laccha Shemai 200 gm",
+        "nameWithoutSubText": "Bashundhara Laccha Shemai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bashundhara-laccha-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54493&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 20616
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09b8\u09cd\u09ac\u09be\u09a6 \u09b8\u09c1\u099c\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shaad Suji 500 gm",
+        "nameWithoutSubText": "Shaad Suji",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shaad-suji-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45811&q=low&v=1"
+        ],
+        "price": 32.0,
+        "corpPrice": 32.0,
+        "objectID": 13732
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u09b8\u09c1\u099c\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bashundhara Suji 500 gm ",
+        "nameWithoutSubText": "Bashundhara Suji",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bashundhara-suji-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64759&q=low&v=1"
+        ],
+        "price": 32.0,
+        "corpPrice": 32.0,
+        "objectID": 15601
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u09ad\u09be\u09b0\u09cd\u09ae\u09bf\u09b8\u09c7\u09b2\u09cd\u09b2\u09bf \u09b8\u09c7\u09ae\u09be\u0987 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bashundhara Vermicelli Shemai 200 gm",
+        "nameWithoutSubText": "Bashundhara Vermicelli Shemai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bashundhara-vermicelli-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54491&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 20615
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a3 \u09ad\u09be\u09b0\u09cd\u09ae\u09bf\u09b8\u09c7\u09b2\u09bf \u09b6\u09c7\u09ae\u09be\u0987 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Vermicelli Shemai 200 gm",
+        "nameWithoutSubText": "Pran Vermicelli Shemai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-vermicelli-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53119&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 20284
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09aa\u09bf\u0993\u09b0 \u09b8\u09c7\u09ae\u09be\u0987 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "ACI Pure Vermicelli is hygienically prepared with high quality ingredients using modern technology that is very tasty.",
+        "name": "ACI Pure Vermicelli (Shemai) 200 gm",
+        "nameWithoutSubText": "ACI Pure Vermicelli (Shemai)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-pure-vermicelli-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47086&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 10156
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u0993\u09df\u09c7\u09b2 \u09ab\u09c1\u09a1 \u09b2\u09be\u099a\u09cd\u099b\u09be \u09b8\u09c7\u09ae\u09be\u0987 (\u09e8 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Well Food Laccha Shemai (Buy 2 Get 1 Free) 200 gm",
+        "nameWithoutSubText": "Well Food Laccha Shemai (Buy 2 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/well-food-laccha-shemai-buy-2-get-1-free-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80651&q=low&v=1"
+        ],
+        "price": 140.0,
+        "corpPrice": 140.0,
+        "objectID": 24826
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": " \u09ac\u09a8\u09ab\u09c1\u09b2 \u09ad\u09be\u09b0\u09ae\u09bf\u099a\u09bf\u09b2\u09bf \u09b8\u09c7\u09ae\u09be\u0987  \u09e7 \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Banoful Vermicelli Shemai1 Pcs ",
+        "nameWithoutSubText": "Banoful Vermicelli Shemai1 Pcs ",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/banoful-vermicelli-shemai1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78294&q=best&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 24436
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u099c\u09c1\u09b2\u09bf \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09b8\u09c1\u099c\u09bf \u09b9\u09be\u09b2\u0993\u09af\u09bc\u09be \u09ae\u09bf\u0995\u09cd\u09b8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Julie Instant Suji Halwa Mix 250 gm",
+        "nameWithoutSubText": "Julie Instant Suji Halwa Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/julie-instant-suji-halwa-mix-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59133&q=low&v=1"
+        ],
+        "price": 85.0,
+        "corpPrice": 85.0,
+        "objectID": 21314
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u0986\u09b0\u0995\u09c1 \u09ad\u09be\u09b0\u09cd\u09ae\u09bf\u09b8\u09c7\u09b2\u09bf \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Arku Vermicelli 200 gm",
+        "nameWithoutSubText": "Arku Vermicelli",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/arku-vermicelli-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64740&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 21233
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u0986\u09b0\u0995\u09c1 \u09b2\u09be\u099a\u09cd\u099a\u09be \u09b6\u09be\u09ae\u09be\u0987 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Arku Laccha Shemai 200 gm",
+        "nameWithoutSubText": "Arku Laccha Shemai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/arku-laccha-shemai-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58799&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 21232
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b8\u09cd\u09a4\u09bf\u09af\u09bc\u09be\u09a8\u09cb \u09ad\u09be\u09b0\u09cd\u09ae\u09bf\u09b8\u09c7\u09b2\u09cd\u09b2\u09bf \u0987\u0995\u09cb\u09a8\u09ae\u09bf \u09ea\u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin - India",
+        "name": "Pastiano Vermicelli Economy 475 gm",
+        "nameWithoutSubText": "Pastiano Vermicelli Economy",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pastiano-vermicelli-economy-475-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53610&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 20444
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b8\u09cd\u09a4\u09bf\u09af\u09bc\u09be\u09a8\u09cb \u09b0\u09cb\u09b8\u09cd\u099f\u09c7\u09a1 \u09ad\u09be\u09b0\u09cd\u09ae\u09bf\u09b8\u09c7\u09b2\u09cd\u09b2\u09bf \u099c\u09be\u09b0 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin - India",
+        "name": "Pastiano Roasted Vermicelli Jar 500 gm",
+        "nameWithoutSubText": "Pastiano Roasted Vermicelli Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pastiano-roasted-vermicelli-jar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53609&q=low&v=1"
+        ],
+        "price": 215.0,
+        "corpPrice": 215.0,
+        "objectID": 20443
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09ae\u09c1\u09b8\u0995\u09be\u09a8 \u09b8\u09c1\u099c\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Muskan Suji 500 gm",
+        "nameWithoutSubText": "Muskan Suji",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/muskan-suji-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70779&q=low&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 18709
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09aa\u09c1\u09b7\u09cd\u099f\u09bf \u09b8\u09c1\u099c\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pusti Suji 500 gm",
+        "nameWithoutSubText": "Pusti Suji",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pusti-suji-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50553&q=best&v=1"
+        ],
+        "price": 32.0,
+        "corpPrice": 32.0,
+        "objectID": 18647
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09a5\u09be\u0987 \u099a\u09af\u09bc\u09c7\u09b8 \u09b0\u09be\u0987\u09b8 \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Thai Choice Rice Noodles 200 gm",
+        "nameWithoutSubText": "Thai Choice Rice Noodles",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/thai-choice-rice-noodles-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65768&q=low&v=1"
+        ],
+        "price": 279.0,
+        "corpPrice": 279.0,
+        "objectID": 12320
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09ac\u09bf\u09a1\u09bf \u09b8\u09c7\u09ae\u09be\u0987 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BD Vermicelli 200 gm",
+        "nameWithoutSubText": "BD Vermicelli",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bd-vermicelli-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D12704&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 7929
+    },
+    {
+        "category": {
+            "name": "Shemai & Suji",
+            "id": "1352",
+            "slug": "shemai-suji"
+        },
+        "bengaliName": "\u09b9\u09b2\u09a6\u09bf\u09b0\u09be\u09ae \u09b2\u09be\u099a\u09cd\u099b\u09be \u09b8\u09c7\u09ae\u09be\u0987 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Haldiram Lachha Shemai 500 gm",
+        "nameWithoutSubText": "Haldiram Lachha Shemai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/haldiram-lachha-shemai-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43756&q=low&v=1"
+        ],
+        "price": 495.0,
+        "corpPrice": 495.0,
+        "objectID": 3538
+    }
+]

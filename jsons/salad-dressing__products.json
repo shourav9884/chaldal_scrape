@@ -1,0 +1,597 @@
+[
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b8\u09be\u09a6\u09be \u09b8\u09bf\u09b0\u0995\u09be \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Ahmed White Vinegar 500 ml",
+        "nameWithoutSubText": "Ahmed White Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-white-vinegar-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52459&q=best&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 2127
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b8\u09be\u09a6\u09be \u09b8\u09bf\u09b0\u0995\u09be \u09e9\u09e8\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Ahmed White Vinegar 325 ml",
+        "nameWithoutSubText": "Ahmed White Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-white-vinegar-325-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69553&q=best&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 8338
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u0995\u09c3\u09a4\u09cd\u09b0\u09bf\u09ae \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u09ec\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Pran Synthetic Vinegar 650 ml",
+        "nameWithoutSubText": "Pran Synthetic Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-synthetic-vinegar-650-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70155&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 3970
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09ac\u09cd\u09b0\u09be\u0997 \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u0986\u09aa\u09c7\u09b2 \u09b8\u09bf\u09a1\u09be\u09b0 \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u09ea\u09ed\u09e9 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: USA\r\nManufacturer: Bragg Live Food Products\r\nBragg\u00ae Organic Apple Cider Vinegar is made from delicious organically grown apples and contains the amazing \u2018Mother\u2019 of vinegar. The \u2018Mother\u2019 consists of strands of proteins, enzymes, and friendly bacteria that give the product its murky appearance.\r\nACV for your daily dose of wellness:\r\n\r\n\r\n\u2022 Helps maintain a healthy weight range\r\n\u2022 Delivers prebiotics to support a healthy gut\r\n\u2022 Supports a healthy immune system\r\n\u2022 Helps maintain normal glucose levels",
+        "name": "Bragg Organic Apple Cider Vinegar 473 ml",
+        "nameWithoutSubText": "Bragg Organic Apple Cider Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bragg-organic-apple-cider-vinegar-473-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70157&q=low&v=1"
+        ],
+        "price": 489.0,
+        "corpPrice": 489.0,
+        "objectID": 12887
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u099a\u09c1\u0982 \u09b9\u09cb\u09df\u09be\u0987\u099f \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u09e9\u09e8\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Chung White Vinegar 325 ml",
+        "nameWithoutSubText": "Chung White Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chung-white-vinegar-325-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64553&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 22167
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u0986\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u0997\u09be\u09b0\u09cd\u09a1\u09c7\u09a8 \u09b0\u09bf\u09af\u09bc\u09c7\u09b2 \u09ae\u09c7\u09df\u09cb\u09a8\u09bf\u099c \u09ea\u09ed\u09e9 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "American Garden Real Mayonnaise 473 ml",
+        "nameWithoutSubText": "American Garden Real Mayonnaise",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/american-garden-real-mayonnaise-473-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60042&q=low&v=1"
+        ],
+        "price": 399.0,
+        "corpPrice": 399.0,
+        "objectID": 21472
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09b9\u09c7\u0987\u09a8\u09cd\u099c \u0985\u09cd\u09af\u09be\u09aa\u09c7\u09b2 \u09b8\u09bf\u09a1\u09be\u09b0 \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u09ea\u09ed\u09e9 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Spain",
+        "name": "Heinz Apple Cider Vinegar 473 ml",
+        "nameWithoutSubText": "Heinz Apple Cider Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/heinz-apple-cider-vinegar-473-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46859&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 8324
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09ac\u09cd\u09b0\u09be\u0997 \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u0986\u09aa\u09c7\u09b2 \u09b8\u09bf\u09a1\u09be\u09b0 \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u09ef\u09ea\u09ec \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Bragg Organic Apple Cider Vinegar 946 ml",
+        "nameWithoutSubText": "Bragg Organic Apple Cider Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bragg-organic-apple-cider-vinegar-946-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70156&q=low&v=1"
+        ],
+        "price": 779.0,
+        "corpPrice": 779.0,
+        "objectID": 12873
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09b0\u09c7\u09ae\u09bf\u09df\u09be \u09b8\u09be\u09b2\u09be\u09a6 \u09a1\u09cd\u09b0\u09c7\u09b8\u09bf\u0982 \u09b0\u09b8\u09c1\u09a8 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Remia Salad Dressing Garlic 250 ml",
+        "nameWithoutSubText": "Remia Salad Dressing Garlic",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/remia-salad-dressing-garlic-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D20852&q=low&v=1"
+        ],
+        "price": 179.0,
+        "corpPrice": 179.0,
+        "objectID": 11504
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09ac\u09c7\u09b0\u09a4\u09b2\u09bf \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ad\u09be\u09b0\u09cd\u099c\u09bf\u09a8 \u0985\u09b2\u09bf\u09ad \u0993\u09df\u09c7\u09b2 \u09e8\u09eb\u09e6 \u098f\u09ae\u09b2",
+        "longDesc": null,
+        "name": "Bertolli Extra Virgin Olive Oil 250 ml",
+        "nameWithoutSubText": "Bertolli Extra Virgin Olive Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bertolli-extra-virgin-olive-oil-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61009&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 21634
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09b0\u09c7\u09ae\u09bf\u098f \u09a5\u09be\u0989\u099c\u09c7\u09a8\u09cd\u09a1 \u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b8\u09be\u09b2\u09be\u09a6 \u09a1\u09cd\u09b0\u09c7\u09b8 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Remia Thousand Island Salad Dressing 250 ml",
+        "nameWithoutSubText": "Remia Thousand Island Salad Dressing",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/remia-thousand-island-salad-dressing-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46865&q=low&v=1"
+        ],
+        "price": 169.0,
+        "corpPrice": 169.0,
+        "objectID": 4087
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09b8\u09be\u09ac\u09b0\u09cb\u09b8\u09cb \u0986\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u0985\u09cd\u09af\u09be\u09aa\u09c7\u09b2 \u09b8\u09bf\u09a1\u09be\u09b0 \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u0989\u0987\u09a5 \u09a6\u09cd\u09af\u09be \u09ae\u09be\u09a6\u09be\u09b0 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Sabroso Organic Apple Cider Vinegar With The Mother 500 ml",
+        "nameWithoutSubText": "Sabroso Organic Apple Cider Vinegar With The Mother",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sabroso-organic-apple-cider-vinegar-with-the-mother-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74953&q=low&v=1"
+        ],
+        "price": 500.0,
+        "corpPrice": 500.0,
+        "objectID": 23953
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u0987\u09a4\u09be\u09b2\u09bf\u09df\u09be\u09a8\u09cb \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u0986\u09aa\u09c7\u09b2 \u09b8\u09be\u0987\u09a1\u09be\u09b0 \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u0989\u0987\u09a5 \u09a6\u09be \u09ae\u09be\u09a6\u09be\u09b0 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf.",
+        "longDesc": "Origin: Italy\r\nRaw, unfiltered apple cider vinegar. It includes the mother vinegar. The \u2018Mother\u2019 consists of strands of proteins, enzymes, and friendly bacteria that give the product its murky appearance.\r\n \r\nNaturally gluten-free\r\nUnpasteurized",
+        "name": "Italiano Organic Apple Cider Vinegar with the mother 500 ml",
+        "nameWithoutSubText": "Italiano Organic Apple Cider Vinegar with the mother",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/italiano-organic-apple-cider-vinegar-with-the-mother-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68145&q=low&v=1"
+        ],
+        "price": 650.0,
+        "corpPrice": 650.0,
+        "objectID": 22619
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u0987\u09a4\u09be\u09b2\u09bf\u09df\u09be\u09a8\u09cb \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u0986\u09aa\u09c7\u09b2 \u09b8\u09be\u0987\u09a1\u09be\u09b0 \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u0989\u0987\u09a5 \u09a6\u09be \u09ae\u09be\u09a6\u09be\u09b0 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0 ",
+        "longDesc": "Origin: Italy\r\nRaw, unfiltered apple cider vinegar. It includes the mother vinegar.  The \u2018Mother\u2019 consists of strands of proteins, enzymes, and friendly bacteria that give the product its murky appearance.\r\n\r\nNaturally gluten-free\r\nUnpasteurized ",
+        "name": "Italiano Organic Apple Cider Vinegar with the mother 1 Liter",
+        "nameWithoutSubText": "Italiano Organic Apple Cider Vinegar with the mother",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/italiano-organic-apple-cider-vinegar-with-the-mother-1-liter?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68144&q=low&v=1"
+        ],
+        "price": 1200.0,
+        "corpPrice": 1200.0,
+        "objectID": 22618
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09a8\u09be \u098f\u0995\u09cd\u099f\u09cd\u09b0\u09be \u09ad\u09be\u09b0\u09cd\u099c\u09bf\u09a8 \u0985\u09b2\u09bf\u09ad \u09a4\u09c7\u09b2 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Oillina Extra Virgin Olive Oil 500 ml ",
+        "nameWithoutSubText": "Oillina Extra Virgin Olive Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/oillina-extra-virgin-olive-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68303&q=low&v=1"
+        ],
+        "price": 639.0,
+        "corpPrice": 639.0,
+        "objectID": 22372
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09a1\u09bf\u09b8\u0995\u09ad\u09be\u09b0\u09bf \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u09aa\u09cb\u09ae\u09bf\u0997\u09cd\u09b0\u09be\u09a8\u09c7\u099f \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Discovery Organic Pomegranate Vinegar 500 ml",
+        "nameWithoutSubText": "Discovery Organic Pomegranate Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/discovery-organic-pomegranate-vinegar-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D66088&q=low&v=1"
+        ],
+        "price": 1325.0,
+        "corpPrice": 1325.0,
+        "objectID": 22358
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u098f\u0997\u09cd\u09b0\u09bf\u09b2\u09bf\u09ab \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u09a8\u09be\u09b0\u0995\u09c7\u09b2 \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u09ea\u09ee\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Agrilife Organic Coconut Vinegar 480 ml",
+        "nameWithoutSubText": "Agrilife Organic Coconut Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/agrilife-organic-coconut-vinegar-480-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61056&q=low&v=1"
+        ],
+        "price": 729.0,
+        "corpPrice": 729.0,
+        "objectID": 21668
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09cd\u099f\u09cb\u09b2\u09bf \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ad\u09be\u09b0\u09cd\u099c\u09bf\u09a8 \u099c\u09b2\u09aa\u09be\u0987 \u09a4\u09c7\u09b2 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Bertolli Extra Virgin Olive Oil 500 ml",
+        "nameWithoutSubText": "Bertolli Extra Virgin Olive Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bertolli-extra-virgin-olive-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60837&q=low&v=1"
+        ],
+        "price": 675.0,
+        "corpPrice": 675.0,
+        "objectID": 21604
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09a8\u09c7\u099a\u09be\u09b0 \u09ab\u09be\u09b0\u09cd\u09b8\u09cd\u099f \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u098f\u09aa\u09c7\u09b2 \u09b8\u09bf\u09a1\u09be\u09b0 \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Origin: Australia",
+        "name": "Nature First Organic Apple Cider Vinegar 1 ltr",
+        "nameWithoutSubText": "Nature First Organic Apple Cider Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nature-first-organic-apple-cider-vinegar-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59256&q=low&v=1"
+        ],
+        "price": 1419.0,
+        "corpPrice": 1419.0,
+        "objectID": 21339
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u0993\u09af\u09bc\u09c7\u09b2\u09b8 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ad\u09be\u09b0\u09cd\u099c\u09bf\u09a8 \u099c\u09b2\u09aa\u09be\u0987 \u09a4\u09c7\u09b2 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Well's Extra Virgin Olive Oil 500 ml",
+        "nameWithoutSubText": "Well's Extra Virgin Olive Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/wells-extra-virgin-olive-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D57712&q=low&v=1"
+        ],
+        "price": 675.0,
+        "corpPrice": 675.0,
+        "objectID": 21017
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u0993\u09af\u09bc\u09c7\u09b2\u09b8 \u0985\u09b2\u09bf\u09ad \u09aa\u09cb\u09ae\u09be\u09b8 \u0985\u09af\u09bc\u09c7\u09b2 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf\u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Well's Olive Pomace Oil 500 ml",
+        "nameWithoutSubText": "Well's Olive Pomace Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/wells-olive-pomace-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D57713&q=low&v=1"
+        ],
+        "price": 579.0,
+        "corpPrice": 579.0,
+        "objectID": 21016
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u0995\u09cd\u09af\u09be\u09b2\u09bf\u09aa\u09b8\u09cb \u0985\u09cd\u09af\u09be\u09aa\u09b2 \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u09ea\u09ed\u09e9 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Calypso Apple Vinegar 473 ml ",
+        "nameWithoutSubText": "Calypso Apple Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/calypso-apple-vinegar-473-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50336&q=low&v=1"
+        ],
+        "price": 240.0,
+        "corpPrice": 240.0,
+        "objectID": 18554
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u0995\u09cd\u09af\u09be\u09b2\u09bf\u09aa\u09b8\u09cb \u09b8\u09be\u09b2\u09be\u09a6 \u0995\u09cd\u09b0\u09bf\u09ae \u09e8\u09ee\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Calypso Salad Cream 285 ml",
+        "nameWithoutSubText": "Calypso Salad Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/calypso-salad-cream-285-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50335&q=low&v=1"
+        ],
+        "price": 220.0,
+        "corpPrice": 220.0,
+        "objectID": 18553
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09b9\u09be\u09b0\u09ae\u09cd\u09af\u09be\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09c7\u09b2 \u09b8\u09bf\u09a1\u09be\u09b0 \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u09ea\u09ed\u09e9 \u09ae\u09bf\u09b2\u09bf ",
+        "longDesc": null,
+        "name": "Herman Apple Cider Vinegar 473 ml ",
+        "nameWithoutSubText": "Herman Apple Cider Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/herman-apple-cider-vinegar-473-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68478&q=best&v=1"
+        ],
+        "price": 210.0,
+        "corpPrice": 210.0,
+        "objectID": 15267
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09a5\u09be\u0987 \u099a\u09df\u09c7\u09b8 \u09b8\u09ae \u099f\u09be\u09ae \u09b8\u09be\u09b2\u09be\u09a6 \u09a1\u09cd\u09b0\u09c7\u09b8\u09bf\u0982 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Thai Choice Som Tum Salad Dressing 200 ml ",
+        "nameWithoutSubText": "Thai Choice Som Tum Salad Dressing",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/thai-choice-som-tum-salad-dressing-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46868&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 12322
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09b0\u09c7\u09ae\u09bf\u098f \u0987\u099f\u09be\u09b2\u09bf\u09df\u09be\u09a8 \u09b8\u09be\u09b2\u09be\u09a6 \u09a1\u09cd\u09b0\u09c7\u09b8\u09bf\u0982 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Remia Italian Salad Dressing 250 ml",
+        "nameWithoutSubText": "Remia Italian Salad Dressing",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/remia-italian-salad-dressing-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46864&q=low&v=1"
+        ],
+        "price": 179.0,
+        "corpPrice": 179.0,
+        "objectID": 11505
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09b8\u09be\u09aa\u09b0\u09bf\u099f\u09cb \u09b0\u09c7\u09a1 \u0997\u09cd\u09b0\u09c7\u09aa \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Saporito Red Grape Vinegar 500 ml",
+        "nameWithoutSubText": "Saporito Red Grape Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saporito-red-grape-vinegar-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46867&q=low&v=1"
+        ],
+        "price": 339.0,
+        "corpPrice": 339.0,
+        "objectID": 9858
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09b8\u09be\u09aa\u09cd\u09b0\u09a4\u09bf \u09ac\u09cd\u09b2\u09cd\u09af\u09b8\u09cd\u09ae\u09bf\u0995 \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Saporito Balsamic Vinegar 500 ml",
+        "nameWithoutSubText": "Saporito Balsamic Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saporito-balsamic-vinegar-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64827&q=low&v=1"
+        ],
+        "price": 369.0,
+        "corpPrice": 369.0,
+        "objectID": 8610
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09b0\u09c7\u09ae\u09bf\u098f \u09b8\u09be\u09b2\u09be\u09a6 \u0995\u09cd\u09b0\u09bf\u09ae \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Remia Salad Cream 250 ml",
+        "nameWithoutSubText": "Remia Salad Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/remia-salad-cream-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D3219&q=low&v=1"
+        ],
+        "price": 179.0,
+        "corpPrice": 179.0,
+        "objectID": 4086
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09b0\u09c7\u09ae\u09bf\u098f \u09ab\u09cd\u09b0\u09c7\u099e\u09cd\u099a \u09b8\u09be\u09b2\u09be\u09a6 \u09a1\u09cd\u09b0\u09c7\u09b8\u09bf\u0982 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Remia French Salad Dressing 250 ml",
+        "nameWithoutSubText": "Remia French Salad Dressing",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/remia-french-salad-dressing-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46863&q=low&v=1"
+        ],
+        "price": 169.0,
+        "corpPrice": 169.0,
+        "objectID": 4083
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09b0\u09c7\u09ae\u09bf\u098f \u09ac\u09cd\u09b2\u09c1 \u099a\u09bf\u099c \u09b8\u09be\u09b2\u09be\u09a6 \u09a1\u09cd\u09b0\u09c7\u09b8\u09bf\u0982 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Remia Blue Cheese Salad Dressing 250 ml",
+        "nameWithoutSubText": "Remia Blue Cheese Salad Dressing",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/remia-blue-cheese-salad-dressing-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D3215&q=low&v=1"
+        ],
+        "price": 159.0,
+        "corpPrice": 159.0,
+        "objectID": 4082
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u0995\u09c3\u09a4\u09cd\u09b0\u09bf\u09ae \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Pran Synthetic Vinegar 300 ml",
+        "nameWithoutSubText": "Pran Synthetic Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-synthetic-vinegar-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70158&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 3968
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u0993\u09b2\u09bf\u099f\u09be\u09b2\u09bf\u09df\u09be \u09aa\u09cb\u09ae\u09c7\u09a8\u09cd\u09b8 \u0985\u09b2\u09bf\u09ad \u0993\u09df\u09c7\u09b2 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Olitalia Pomace Olive Oil 500 ml",
+        "nameWithoutSubText": "Olitalia Pomace Olive Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olitalia-pomace-olive-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68792&q=low&v=1"
+        ],
+        "price": 550.0,
+        "corpPrice": 550.0,
+        "objectID": 3869
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09b9\u09c7\u0987\u09a8\u09cd\u099c \u09b8\u09be\u09a6\u09be \u09b8\u09bf\u09b0\u0995\u09be \u09ea\u09ed\u09e9 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Australia",
+        "name": "Heinz White Vinegar 473 ml",
+        "nameWithoutSubText": "Heinz White Vinegar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/heinz-white-vinegar-473-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D1916&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 3572
+    },
+    {
+        "category": {
+            "name": "Salad Dressing",
+            "id": "79",
+            "slug": "salad-dressing"
+        },
+        "bengaliName": "\u09ac\u09be\u099b\u09c1\u09a8 \u09a4\u09bf\u09b2\u09c7\u09b0 \u09a4\u09c7\u09b2 \u09ec\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf.",
+        "longDesc": "Origin: Singapore\r\nManufacturer: Bachun food industries(PTE) LTD.\r\n\r\nSesame oil is an important ingredient used in many Chinese recipes. Carefully roasted Sesame Seeds is the only ingredient used. Just a few drops will impart a wonderful fragrance and aroma to marinades, salads, stir-fries or soups.",
+        "name": "Bachun Sesame Oil 600 ml",
+        "nameWithoutSubText": "Bachun Sesame Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bachun-sesame-oil-600-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46856&q=low&v=1"
+        ],
+        "price": 649.0,
+        "corpPrice": 649.0,
+        "objectID": 3226
+    }
+]

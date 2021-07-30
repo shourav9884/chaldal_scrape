@@ -1,0 +1,1046 @@
+[
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u0993\u09df\u09c7\u09b8\u09cd\u099f\u09be\u09b0 \u09aa\u09be\u09b8\u09cd\u09a4\u09be (\u09e8 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0) \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Oyster Pasta (Buy 2 Get 1 Offer) 200 gm",
+        "nameWithoutSubText": "Dekko Oyster Pasta (Buy 2 Get 1 Offer)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dekko-oyster-pasta-buy-2-get-1-offer-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53153&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 20291
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b9\u09be\u099f \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a3\u09bf (\u09b0\u09bf\u0997\u09be\u099f\u09c7) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pasta Hat Macaroni (Rigate) 500 gm",
+        "nameWithoutSubText": "Pasta Hat Macaroni (Rigate)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pasta-hat-macaroni-rigate-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50130&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 18421
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u0995\u09b2\u09b8\u09a8 \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a8\u09bf \u09ac\u09be\u09ae\u09cd\u09ac \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kolson Macaroni Bamboo 400 gm",
+        "nameWithoutSubText": "Kolson Macaroni Bamboo",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kolson-macaroni-bamboo-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65293&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 18672
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u0995\u09cb\u09b2\u09b8\u09a8 \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a8\u09bf \u09b6\u09c7\u09b2 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kolson Macaroni Shell 400 gm",
+        "nameWithoutSubText": "Kolson Macaroni Shell",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kolson-macaroni-shell-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50313&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 2278
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09a1\u09bf\u09b2\u09bf\u09b8\u09bf\u09df\u09be \u09aa\u09c7\u09a8\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0)  \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Delicia Penne Pasta (Buy 1 Get 1 Free) 400 gm",
+        "nameWithoutSubText": "Delicia Penne Pasta (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/delicia-penne-pasta-buy-1-get-1-free-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74429&q=low&v=1"
+        ],
+        "price": 170.0,
+        "corpPrice": 170.0,
+        "objectID": 23832
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u0995\u09cb\u09b2\u09b8\u09a8 \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a8\u09bf \u09b8\u09cd\u0995\u09cd\u09b0\u09c1 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kolson Macaroni Pasta Screw 400 gram",
+        "nameWithoutSubText": "Kolson Macaroni Pasta Screw",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kolson-macaroni-pasta-screw-400-gram?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46498&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 11140
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b9\u09be\u099f \u09b8\u09cd\u09aa\u09be\u0997\u09c7\u099f\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pasta Hat Spaghetti 500 Gm",
+        "nameWithoutSubText": "Pasta Hat Spaghetti",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pasta-hat-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50131&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 18422
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u099f\u09bf\u0989\u09ac \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bashundhara Tube Pasta 500 gm ",
+        "nameWithoutSubText": "Bashundhara Tube Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bashundhara-tube-pasta-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54466&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 20611
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09a1\u09bf\u09b2\u09bf\u09b8\u09bf\u09df\u09be \u09b8\u09cd\u09aa\u09cd\u09af\u09be\u0997\u09c7\u099f\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Delicia Spaghetti Pasta (Buy 1 Get 1 Free) 400 gm",
+        "nameWithoutSubText": "Delicia Spaghetti Pasta (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/delicia-spaghetti-pasta-buy-1-get-1-free-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74428&q=low&v=1"
+        ],
+        "price": 175.0,
+        "corpPrice": 175.0,
+        "objectID": 23831
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b9\u09be\u099f \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a3\u09bf (\u09b8\u09cd\u0995\u09cd\u09b0\u09c1) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pasta Hat Macaroni (Screw) 500 gm",
+        "nameWithoutSubText": "Pasta Hat Macaroni (Screw)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pasta-hat-macaroni-screw-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50129&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 18420
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09a1\u09bf\u09b2\u09bf\u09b8\u09bf\u09df\u09be \u098f\u09b2\u09ac\u09cb \u09aa\u09be\u09b8\u09cd\u09a4\u09be (\u09e7\u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Delicia Elbow Pasta (Buy 1 Get 1 Free) 400 gm",
+        "nameWithoutSubText": "Delicia Elbow Pasta (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/delicia-elbow-pasta-buy-1-get-1-free-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74432&q=low&v=1"
+        ],
+        "price": 170.0,
+        "corpPrice": 170.0,
+        "objectID": 23835
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u0987\u099f\u09be\u09b2\u09bf\u09df\u09be\u09a8\u09cb \u09aa\u09c7\u09a8\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Italiano Penne Pasta (Buy 1 Get 1 Free) 500 gm",
+        "nameWithoutSubText": "Italiano Penne Pasta (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/italiano-penne-pasta-buy-1-get-1-free-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75590&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 24164
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u0987\u099f\u09be\u09b2\u09bf\u09df\u09be\u09a8\u09cb \u09b8\u09cd\u09aa\u09be\u0997\u09c7\u099f\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Italiano Spaghetti Pasta (Buy 1 Get 1 Free) 500 gm",
+        "nameWithoutSubText": "Italiano Spaghetti Pasta (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/italiano-spaghetti-pasta-buy-1-get-1-free-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75589&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 24163
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u09b8\u09c0 \u09b6\u09c7\u09b2 \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Bashundhara Sea Shell Pasta 500 gm ",
+        "nameWithoutSubText": "Bashundhara Sea Shell Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bashundhara-sea-shell-pasta-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40384&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 15602
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b9\u09be\u099f \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a3\u09c0 (\u09ae\u09bf\u09a1\u09bf\u09df\u09be\u09ae \u09b6\u09c7\u09b2) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pasta Hat Macaroni (Medium Shell) 500 gm\t",
+        "nameWithoutSubText": "Pasta Hat Macaroni (Medium Shell)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pasta-hat-macaroni-medium-shell-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48557&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 17145
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09a1\u09bf\u09b2\u09bf\u09b8\u09bf\u09df\u09be \u09ab\u09c1\u09b8\u09bf\u09b2\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Delicia Fusilli Pasta (Buy 1 Get 1 Free) 400 gm",
+        "nameWithoutSubText": "Delicia Fusilli Pasta (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/delicia-fusilli-pasta-buy-1-get-1-free-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74431&q=low&v=1"
+        ],
+        "price": 170.0,
+        "corpPrice": 170.0,
+        "objectID": 23834
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a8\u09bf \u09b8\u09cd\u0995\u09cd\u09b0\u09c1 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bashundhara Macaroni Screw 200 gm",
+        "nameWithoutSubText": "Bashundhara Macaroni Screw",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bashundhara-macaroni-screw-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73500&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 23544
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u0995\u09cb\u09b2\u09b8\u09a8 \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a8\u09bf \u098f\u09b8\u09b0\u099f\u09c7\u09a1 \u09aa\u09cd\u09af\u09be\u0995 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kolson Macaroni Assorted Pack 500 gm",
+        "nameWithoutSubText": "Kolson Macaroni Assorted Pack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kolson-macaroni-assorted-pack-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46497&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 12625
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u0987\u099f\u09be\u09b2\u09bf\u09df\u09be\u09a8\u09cb \u09ab\u09c1\u09b8\u09bf\u09b2\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Italiano Fusilli  Pasta (Buy 1 Get 1 Free) 500 gm",
+        "nameWithoutSubText": "Italiano Fusilli  Pasta (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/italiano-fusilli-pasta-buy-1-get-1-free-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75593&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 24165
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a8\u09bf \u09ac\u09cd\u09af\u09be\u09ae\u09cd\u09ac\u09c1 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bashundhara Macaroni Bamboo 200 gm",
+        "nameWithoutSubText": "Bashundhara Macaroni Bamboo",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bashundhara-macaroni-bamboo-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73501&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 23545
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ae\u09bf\u0983 \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u099a\u09bf\u09b2\u09bf \u099a\u09bf\u0995\u09c7\u09a8 \u09e8\u09ea\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mr. Pasta Chilli Chicken 248 gm",
+        "nameWithoutSubText": "Mr. Pasta Chilli Chicken",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mr-pasta-chilli-chicken-248-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59522&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 20943
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u0987\u099f\u09be\u09b2\u09bf\u09df\u09be\u09a8\u09cb \u09b8\u09cd\u09aa\u09be\u0997\u09c7\u099f\u09bf \u09ac\u09c1\u0995\u09be\u099f\u09cd\u09af\u09be\u09a8\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Italiano Spaghetti Bucatani Pasta (Buy 1 Get 1 Free) 350 gm",
+        "nameWithoutSubText": "Italiano Spaghetti Bucatani Pasta (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/italiano-spaghetti-bucatani-pasta-buy-1-get-1-free-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75595&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 24167
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u0987\u099f\u09be\u09b2\u09bf\u09df\u09be\u09a8\u09cb \u098f\u09b2\u09ac\u09cb \u09ac\u09bf\u0997 \u09aa\u09be\u09b8\u09cd\u09a4\u09be (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Italiano Elbow Big Pasta (Buy 1 Get 1 Free) 500 gm",
+        "nameWithoutSubText": "Italiano Elbow Big Pasta (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/italiano-elbow-big-pasta-buy-1-get-1-free-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75594&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 24166
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u0987\u099f\u09be\u09b2\u09bf\u09df\u09be\u09a8\u09cb \u0995\u09bf\u09a1\u09b8 \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u098f\u09a8\u09bf\u09ae\u09c7\u09b2 (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Italiano Kids Pasta Animal (Buy 1 Get 1 Free) 400 gm",
+        "nameWithoutSubText": "Italiano Kids Pasta Animal (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/italiano-kids-pasta-animal-buy-1-get-1-free-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75587&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 24161
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u0985\u09af\u09bc\u09c7\u09b8\u09cd\u099f\u09be\u09b0 \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Oyster Pasta 200 gm",
+        "nameWithoutSubText": "Dekko Oyster Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dekko-pasta-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51901&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 19853
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09a6\u09c1\u09b0\u09c1\u09ae \u09b9\u09c1\u0987\u099f \u09aa\u09be\u09b8\u09cd\u09a4\u09be - \u09b8\u09cd\u09aa\u09be\u0997\u09c7\u099f\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Origin: Italy\r\nBarilla SPAGHETTI is the most popular shape in Italy. As everybody\u2019s favourite, Spaghetti pairs well with just about any kind of sauce. Try Spaghetti with easy tomato sauce, vegetables, with or without meat and enjoy an authentic Italian meal.\r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Durum Wheat Pasta Spaghetti  500 gm",
+        "nameWithoutSubText": "Barilla Durum Wheat Pasta Spaghetti",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71315&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73881&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73883&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74535&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 22724
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b9\u09be\u099f \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a3\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pasta Hat Macaroni (Big Elbow) 500 gm",
+        "nameWithoutSubText": "Pasta Hat Macaroni (Big Elbow)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pasta-hat-macaroni-big-elbow-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50128&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 18419
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u0987\u099f\u09be\u09b2\u09bf\u09df\u09be\u09a8\u09cb \u0995\u09bf\u09a1\u09b8 \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u098f\u09b2\u09ab\u09be\u09ac\u09c7\u099f (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Italiano Kids Pasta Alphabet (Buy 1 Get 1 Free) 400 gm",
+        "nameWithoutSubText": "Italiano Kids Pasta Alphabet (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/italiano-kids-pasta-alphabet-buy-1-get-1-free-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75588&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 24162
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09a6\u09c1\u09b0\u09c1\u09ae \u09b9\u09c1\u0987\u099f \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09aa\u09c7\u09a8\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Italy\r\nBarilla PENNE RIGATE is one of the most versatile pasta, known for its adaptability with recipes and occasions, from a traditional family lunch or official grown dinner. Try Penne Rigate with easy tomato sauce, vegetables, with or without meat and enjoy an authentic Italian meal.\r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Durum Wheat Pasta Penne 500 gm",
+        "nameWithoutSubText": "Barilla Durum Wheat Pasta Penne",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-penne-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71319&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-penne-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73878&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-penne-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73879&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-penne-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73880&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 22719
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ae\u09be\u099c\u09cd\u099c\u09be \u09b2\u09bf\u0999\u09cd\u0997\u09c1\u0987\u09a8 \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mazza Linguine Pasta 500 gm",
+        "nameWithoutSubText": "Mazza Linguine Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mazza-linguine-pasta-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80506&q=best&v=1"
+        ],
+        "price": 220.0,
+        "corpPrice": 220.0,
+        "objectID": 24785
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ae\u09be\u099c\u09cd\u099c\u09be \u09ab\u09be\u09b0\u09ab\u09be\u09b2\u09cd\u09b2\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mazza Farfalle Pasta 500 gm",
+        "nameWithoutSubText": "Mazza Farfalle Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mazza-farfalle-pasta-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80504&q=best&v=1"
+        ],
+        "price": 220.0,
+        "corpPrice": 220.0,
+        "objectID": 24784
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ae\u09be\u099c\u09cd\u099c\u09be \u09ab\u09c1\u09b8\u09bf\u09b2\u09cd\u09b2\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mazza Fusilli Pasta 500 gm",
+        "nameWithoutSubText": "Mazza Fusilli Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mazza-fusilli-pasta-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80502&q=best&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 24783
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ae\u09be\u099c\u09cd\u099c\u09be \u09aa\u09c7\u09a8\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Mazza Penne Pasta 500 gm",
+        "nameWithoutSubText": "Mazza Penne Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mazza-penne-pasta-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80501&q=best&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 24782
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ae\u09be\u099c\u09cd\u099c\u09be \u09b8\u09cd\u09aa\u09be\u0997\u09c7\u099f\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Mazza Spaghetti Pasta 500 gm",
+        "nameWithoutSubText": "Mazza Spaghetti Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mazza-spaghetti-pasta-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80500&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 24781
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09a1\u09bf\u09b2\u09bf\u09b8\u09bf\u09df\u09be \u09b8\u09cd\u09a8\u09c7\u0987\u09b2\u09b8 \u09aa\u09be\u09b8\u09cd\u09a4\u09be (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Delicia Snails Pasta (Buy 1 Get 1 Free) 400 gm",
+        "nameWithoutSubText": "Delicia Snails Pasta (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/delicia-snails-pasta-buy-1-get-1-free-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74430&q=low&v=1"
+        ],
+        "price": 170.0,
+        "corpPrice": 170.0,
+        "objectID": 23833
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09b0\u09c7\u099c\u09bf\u09df\u09be \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b2\u09be\u09b8\u09be\u09a8\u09bf\u09df\u09be \u09b8\u09bf\u099f \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Origin: Italy\r\n \r\n Those who are learning to cook pasta and lasagna, may find making the sheets very difficult. To ease this task, here comes the ready- made pasta lasagna sheet from Italy. Reggia Pasta Lasagne Sheet is easy to use. No pre-cooking is needed. It is vegan and gluten-free. You can serve up to 8 people with this 500 gm packet.",
+        "name": "Reggia Pasta Lasagne Sheet 500 gm",
+        "nameWithoutSubText": "Reggia Pasta Lasagne Sheet",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/reggia-pasta-lasagne-sheet-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68687&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 22813
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09a6\u09c1\u09b0\u09c1\u09ae \u09b9\u09c1\u0987\u099f \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u0985\u09cd\u09af\u09be\u099e\u09cd\u099c\u09c7\u09b2 \u09b9\u09c7\u09df\u09be\u09b0 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Italy\r\nBarilla ANGEL HAIR is the perfect choice when you want to pair a light, elegant sauce with a more delicate cut of pasta. Balance the delicacy of Angel Hair with light and structured sauces. Try Angel Hair in simple tomato sauces, broken in to broths, or in light dairy sauces like parsley cr\u00e8me and enjoy an authentic Italian meal.\r\n \r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Durum Wheat Pasta Angel Hair\u00a0500 gm\u00a0",
+        "nameWithoutSubText": "Barilla Durum Wheat Pasta Angel Hair",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-angel-hair500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71317&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-angel-hair-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73866&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-angel-hair-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73868&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-angel-hair-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74536&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 22723
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09a6\u09c1\u09b0\u09c1\u09ae \u09b9\u09c1\u0987\u099f \u09aa\u09be\u09b8\u09cd\u09a4\u09be - \u09b2\u09bf\u0999\u09cd\u0997\u09c1\u0987\u09a8\u09c7 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Origin: Italy\r\nBarilla LINGUINE is made from long, flat strands of pasta. Linguine is known to be best paired with traditional basil pesto. Other perfect matches include tomato, oil-based, and fish-based sauces.\r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Durum Wheat Pasta Linguine  500 gm",
+        "nameWithoutSubText": "Barilla Durum Wheat Pasta Linguine",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-linguine-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71314&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-linguine-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73875&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-linguine-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73877&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-linguine-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74537&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 22722
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09a6\u09c1\u09b0\u09c1\u09ae \u09b9\u09c1\u0987\u099f \u09aa\u09be\u09b8\u09cd\u09a4\u09be - \u09ab\u09c1\u09b8\u09bf\u09b2\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Origin: Italy\r\nBarilla FUSILLI is one of the most popular short cuts constituted by small wings elegantly twisted on themselves that captures every type of sauce. Try Fusilli with fresh vegetables or seafood or in a warm pasta salad and enjoy an authentic Italian meal.\r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Durum Wheat Pasta Fusilli  500 gm ",
+        "nameWithoutSubText": "Barilla Durum Wheat Pasta Fusilli",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-fusilli-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71318&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-fusilli-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73869&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-fusilli-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73870&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-durum-wheat-pasta-fusilli-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73872&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 22721
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b8\u09b8 \u099c\u09be\u09b0 - \u09a8\u09c7\u09aa\u09b2\u09c7\u099f\u09be\u09a8\u09be \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Origin: Italy\r\nBarilla NAPOLETANA sauce combines onion, garlic and Mediterranean herbs with ripe Italian tomatoes. These tasty ingredients are cooked slowly to create a delicious and thick sauce that hugs your favourite Barilla pasta perfectly. \r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Pasta Sauce Jar Napoletana 400 gm",
+        "nameWithoutSubText": "Barilla Pasta Sauce Jar Napoletana",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-napoletana-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71313&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-napoletana-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73890&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-napoletana-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73891&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-napoletana-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73892&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 22720
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b8\u09b8 \u099c\u09be\u09b0 \u0986\u09b0\u09ac\u09ac\u09bf\u099f\u09be \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Italy\r\nBarilla ARRABBIATA combines carefully selected fresh tomatoes, garlic, and parsley with a tantalizing touch of crushed green chili peppers to create authentic Italian meals with a memorable kick. Simply combine with your favourite pasta for a delicious meal. \r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Pasta Sauce Jar Arrabbiata 400 gm",
+        "nameWithoutSubText": "Barilla Pasta Sauce Jar Arrabbiata",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-arrabbiata-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71312&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-arrabbiata-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73884&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-arrabbiata-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73885&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-arrabbiata-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73886&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 22718
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b8\u09b8 \u099c\u09be\u09b0 \u09ac\u09cd\u09af\u09be\u09b8\u09bf\u09b2\u09bf\u0995\u09cb \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Italy\r\nBarilla BASILICO sauce blends fragrant basil with ripe Italian tomatoes and onions. These tasty ingredients are cooked slowly to create a delicious and thick sauce that hugs your favourite Barilla pasta perfectly.\r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Pasta Sauce Jar Basilico 400 gm",
+        "nameWithoutSubText": "Barilla Pasta Sauce Jar Basilico",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-basilico-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71311&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-basilico-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73887&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-basilico-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73888&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-basilico-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73889&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 22717
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09b8\u09cd\u09b2\u09bf\u09ae \u09b0\u09c7\u099e\u09cd\u099c \u09aa\u09c7\u09a8\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Slim Range Penne Pasta 200 gm",
+        "nameWithoutSubText": "Slim Range Penne Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/slim-range-penne-pasta-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60431&q=low&v=1"
+        ],
+        "price": 285.0,
+        "corpPrice": 285.0,
+        "objectID": 21508
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ae\u09bf\u0983 \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u099f\u09be\u0999\u09cd\u0997\u09bf \u099f\u09ae\u09c7\u099f\u09cb \u09e8\u09ea\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mr. Pasta Tangy Tomato 248 gm",
+        "nameWithoutSubText": "Mr. Pasta Tangy Tomato",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mr-pasta-tangy-tomato-248-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59523&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 20944
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u09ac\u09cd\u09af\u09be\u09ae\u09cd\u09ac\u09c1 \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a8\u09bf \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Pasta ",
+        "name": "Bashundhara Bamboo Macaroni 400 gm",
+        "nameWithoutSubText": "Bashundhara Bamboo Macaroni",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bashundhara-bamboo-macaroni-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59784&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 20614
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u09b8\u09cd\u0995\u09cd\u09b0\u09c1 \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a8\u09bf \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "pasta",
+        "name": "Bashundhara Screw Macaroni 400 gm",
+        "nameWithoutSubText": "Bashundhara Screw Macaroni",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bashundhara-screw-macaroni-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59783&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 20613
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u09ac\u09bf\u0997 \u0985\u09af\u09bc\u09c7\u09b8\u09cd\u099f\u09be\u09b0 \u09ae\u09cd\u09af\u09be\u0995\u09be\u09b0\u09a8\u09bf \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Pasta ",
+        "name": "Bashundhara Big Oyster Macaroni 400 gm",
+        "nameWithoutSubText": "Bashundhara Big Oyster Macaroni",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bashundhara-big-oyster-macaroni-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59782&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 20612
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b8\u09cd\u09a4\u09bf\u09af\u09bc\u09be\u09a8\u09cb \u09b8\u09cd\u09aa\u09bf\u09b0\u09be\u09b2\u09cd\u09b2\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin - India",
+        "name": "Pastiano Spiralli Pasta 500 gm",
+        "nameWithoutSubText": "Pastiano Spiralli Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pastiano-spiralli-pasta-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53613&q=best&v=1"
+        ],
+        "price": 179.0,
+        "corpPrice": 179.0,
+        "objectID": 20446
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b8\u09cd\u09a4\u09bf\u09af\u09bc\u09be\u09a8\u09cb \u09aa\u09c7\u0987\u09a8 \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin - India",
+        "name": "Pastiano Penne Pasta 500 gm",
+        "nameWithoutSubText": "Pastiano Penne Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pastiano-penne-pasta-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53611&q=low&v=1"
+        ],
+        "price": 179.0,
+        "corpPrice": 179.0,
+        "objectID": 20445
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09b8\u09cd\u09b2\u09bf\u09ae \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09ab\u09c7\u099f\u09c1\u099a\u09bf\u09a8 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Slim Pasta Fettuccine 200 gm",
+        "nameWithoutSubText": "Slim Pasta Fettuccine",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/slim-pasta-fettuccine-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53267&q=low&v=1"
+        ],
+        "price": 310.0,
+        "corpPrice": 310.0,
+        "objectID": 20342
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09b8\u09cd\u09b2\u09bf\u09ae \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b8\u09cd\u09aa\u09cd\u09af\u09be\u0997\u09c7\u099f\u09bf \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Slim Pasta Spaghetti 200 gm",
+        "nameWithoutSubText": "Slim Pasta Spaghetti",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/slim-pasta-spaghetti-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53266&q=low&v=1"
+        ],
+        "price": 310.0,
+        "corpPrice": 310.0,
+        "objectID": 20341
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09ac\u09c7\u09b8\u09cd\u09b2\u09be\u09b0 \u09aa\u09c7\u09a8\u09bf \u09b0\u09bf\u0997\u09be\u099f\u09c7 \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Besler Penne Rigate Pasta 500 gm",
+        "nameWithoutSubText": "Besler Penne Rigate Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/besler-penne-rigate-pasta-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46495&q=low&v=1"
+        ],
+        "price": 129.0,
+        "corpPrice": 129.0,
+        "objectID": 12394
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09b8\u09be\u09aa\u09b0\u09bf\u099f\u09cb \u09aa\u09c7\u09a8\u09bf \u09b0\u09bf\u0997\u09be\u099f\u09c7 (\u0987\u09a4\u09be\u09b2\u09bf) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Saporito Penne Rigate (Italy) 500 gm",
+        "nameWithoutSubText": "Saporito Penne Rigate (Italy)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saporito-penne-rigate-italy-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46513&q=low&v=1"
+        ],
+        "price": 219.0,
+        "corpPrice": 219.0,
+        "objectID": 12177
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09b8\u09c1\u09ab\u09bf\u09df\u09be \u09a6\u09c1\u09dc\u09c1\u09ae \u09b9\u09cb\u09df\u09c7\u099f \u09b8\u09cd\u09aa\u09be\u0997\u09b9\u09c7\u099f\u09bf (\u09b8\u099f\u09c0\u0995) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Santa Sophia Durum Wheat Spaghetti (Stick) 500 gm",
+        "nameWithoutSubText": "Santa Sophia Durum Wheat Spaghetti (Stick)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/santa-sophia-durum-wheat-spaghetti-stick-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46509&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 10930
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09b8\u09c1\u09ab\u09bf\u09df\u09be \u09a6\u09c1\u09dc\u09c1\u09ae \u09b9\u09cb\u09df\u09c7\u099f (\u09aa\u09c7\u09a8\u09cd\u09a8\u09c7 \u09b0\u09bf\u0997\u09be\u099f\u09c7) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Santa Sophia Durum Wheat (Penne Rigate) 500 gm",
+        "nameWithoutSubText": "Santa Sophia Durum Wheat (Penne Rigate)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/santa-sophia-durum-wheat-penne-rigate-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46508&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 7900
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u09b0\u09c7\u09ae\u09cb \u09b8\u09cd\u09ae\u09b2 \u09b8\u09c7\u09b2\u09b8 \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "San Remo Small Shells Pasta 500 gm",
+        "nameWithoutSubText": "San Remo Small Shells Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/san-remo-small-shells-pasta-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46506&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 7783
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09b8\u09c1\u09ab\u09bf\u09df\u09be \u09a6\u09c1\u09dc\u09c1\u09ae \u09b9\u09cb\u09df\u09c7\u099f (\u09ac\u09bf\u0997 \u09b6\u09c7\u09b2) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Santa Sophia Durum Wheat (Big Shells) 500 gm",
+        "nameWithoutSubText": "Santa Sophia Durum Wheat (Big Shells)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/santa-sophia-durum-wheat-big-shells-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61366&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 4126
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09b2\u09c1\u099b\u09bf\u09df\u09be \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b8\u09cd\u09aa\u09cd\u09af\u09be\u0998\u09c7\u099f\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Santa Lucia Pasta Spaghetti 500 gm",
+        "nameWithoutSubText": "Santa Lucia Pasta Spaghetti",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/santa-lucia-pasta-spaghetti-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46507&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 4124
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u09b0\u09c7\u09ae\u09cb \u09ae\u09c7\u0995\u09be\u09b0\u09a8\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "San Remo Macaroni Pasta 500 gm",
+        "nameWithoutSubText": "San Remo Macaroni Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/san-remo-macaroni-pasta-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46505&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 3520
+    },
+    {
+        "category": {
+            "name": "Pasta & Macaroni",
+            "id": "1381",
+            "slug": "pasta-macaroni"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u09b0\u09c7\u09ae\u09cb \u09ab\u09c1\u09b8\u09bf\u09b2\u09bf\u09a8\u09bf \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "San Remo Fusilini Pasta 500 gm",
+        "nameWithoutSubText": "San Remo Fusilini Pasta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/san-remo-fusilini-pasta-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46504&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 3130
+    }
+]

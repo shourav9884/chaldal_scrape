@@ -1,0 +1,1522 @@
+[
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u099c\u09b0\u09cd\u09a6\u09be \u09ae\u09bf\u0995\u09cd\u09b8 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Jorda Mix 400 gm",
+        "nameWithoutSubText": "Radhuni Jorda Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-jorda-mix-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48306&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 6240
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": " \u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09b9\u09be\u09b2\u09bf\u09ae \u09ae\u09bf\u0995\u09cd\u09b8 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Haleem Mix 200 gm",
+        "nameWithoutSubText": "Radhuni Haleem Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-haleem-mix-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48304&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 2405
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": " \u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ae\u09b6\u09b2\u09be  \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Specially made mixed spices for mutton, beef and chicken biryani. The mixing of different spices maintains the standard recipe to prepare delicious Biryani.",
+        "name": "Radhuni Biryani Masala 40 gm",
+        "nameWithoutSubText": "Radhuni Biryani Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-biryani-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48295&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 2396
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09ae\u09cd\u09af\u09be\u0997\u09bf \u09ab\u09bf\u0989\u09b8\u09bf\u09df\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u0987\u09a1 \u09b0\u09be\u0987\u09b8 \u09b8\u09bf\u099c\u09a8\u09bf\u0982 \u09ae\u09bf\u0995\u09cd\u09b8 \u09ec \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Transforms your plain rice into a delicious wok flavored fried rice. \r\n\r\nA unique blend of different spices & flavors like Garlic, black pepper, Soya sauce & unique Asian wok flavor  \r\n\r\nIt\u2019s very easy to cook, you just need to fry one onion in a fry pan with one table spoon oil & then add plain rice and Fried rice seasoning mix. Then mix & stir it for 2-3 minutes. Your Fried rice is ready!  \r\n\r\nFor more nutrition you can add Carrot, Broccoli, Capsicum and also scrambled egg.  \r\n\r\nNet Weight: 6g \r\n\r\nOrigin: Bangladesh ",
+        "name": "Nestle Maggi Fusian Fried Rice Seasoning Mix Sachet 6 gm",
+        "nameWithoutSubText": "Nestle Maggi Fusian Fried Rice Seasoning Mix Sachet",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-maggi-fusian-fried-rice-seasoning-mix-sachet-6-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70681&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 22756
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": " \u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u099a\u099f\u09aa\u099f\u09bf \u09ae\u09b8\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Radhuni Chatpoti Masala  Blend of different spices makes the preparation easy, flavored and tasty. Radhuni Chatpoti Masala is fresh and healthy.",
+        "name": "Radhuni Chatpoti Masala 50 gm",
+        "nameWithoutSubText": "Radhuni Chatpoti Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-chatpoti-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48298&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 2398
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ae\u09c1\u09b0\u0997\u09bf\u09b0 \u09ae\u09b6\u09b2\u09be \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Chicken Masala 20 gm",
+        "nameWithoutSubText": "Radhuni Chicken Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-chicken-masala-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48299&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 2399
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": " \u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u0997\u09b0\u09c1\u09b0 \u09ae\u09be\u0982\u09b8\u09c7\u09b0 \u09ae\u09b6\u09b2\u09be \u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Beef Masala 25 gm",
+        "nameWithoutSubText": "Radhuni Beef Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-beef-masala-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48294&q=low&v=1"
+        ],
+        "price": 18.0,
+        "corpPrice": 18.0,
+        "objectID": 6236
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": " \u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ab\u09bf\u09b0\u09a8\u09bf \u09ae\u09bf\u0995\u09cd\u09b8 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Radhuni Firni Mix made with Aromatic Rice, Almond Nut, Sodium chloride, Sugar, Cardamom, Kewra Flavor.  Radhuni Firni Mix is usually consumed as a dessert after meal. what you only have to do is add the firni mix to one liter of milk and cook for 15-20 minutes. Its 100% fresh and healthy.",
+        "name": "Radhuni Firni Mix 150 gm",
+        "nameWithoutSubText": "Radhuni Firni Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-firni-mix-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75550&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 2402
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09ae\u09cd\u09af\u09be\u0997\u09bf \u09ab\u09bf\u0989\u09b8\u09bf\u09df\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u0987\u09a1 \u09b0\u09be\u0987\u09b8 \u09b8\u09bf\u099c\u09a8\u09bf\u0982 \u09ae\u09bf\u0995\u09cd\u09b8 (\u09ec\u0997\u09cd\u09b0\u09be\u09aeX\u09e7\u09e6\u099f\u09bf)",
+        "longDesc": "Transforms your plain rice into a delicious wok flavored fried rice.\r\n\r\nA unique blend of different spices & flavors like Garlic, black pepper, Soya sauce & unique Asian wok flavor \r\n\r\nIt\u2019s very easy to cook, you just need to fry one onion in a fry pan with one table spoon oil & then add plain rice and Fried rice seasoning mix. Then mix & stir it for 2-3 minutes. Your Fried rice is ready! \r\n\r\nFor more nutrition you can add Carrot, Broccoli, Capsicum and also scrambled egg. \r\n\r\nQuantity: This multipack contains 12pcs of MAGGI Fusian Fried Rice Seasoning Mix 6g sachet\r\n\r\nOrigin: Bangladesh",
+        "name": "Nestle Maggi Fusian Fried Rice Seasoning Mix (6gm*10pcs)",
+        "nameWithoutSubText": "Nestle Maggi Fusian Fried Rice Seasoning Mix (6gm*10pcs)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-maggi-fusian-fried-rice-seasoning-mix-6gm10pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70684&q=low&v=1",
+            "https://chaldn.com/_mpimage/maggi-fusian-fried-rice-seasoning-mix-multipack-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69807&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 22755
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09bf \u09a4\u09c7\u09b9\u09be\u09b0\u09bf \u09ae\u09b8\u09b2\u09be \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Specially made mixed spices for mutton, beef and chicken Tehari. The mixing of different spices maintains the standard recipe to prepare delicious Tehari.",
+        "name": "Radhuni Tehari Masala 40 gm",
+        "nameWithoutSubText": "Radhuni Tehari Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-tehari-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48310&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 2415
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09a8\u09b0 \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u09aa\u09bf \u09ab\u09cd\u09b0\u09be\u0987\u09a1 \u099a\u09bf\u0995\u09c7\u09a8 \u09ae\u09bf\u0995\u09cd\u09b8 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Swap reconstituted meat for homemade chicken with Knorr Crispy Fried Chicken mix. You can also use it to prepare other delicious fried snacks e.g. onion rings, potato chop etc. Prepare restaurant like fried chicken at home with this mix and feed your children have a healthier snack!",
+        "name": "Knorr Krispy Fried Chicken Mix 75 gm",
+        "nameWithoutSubText": "Knorr Krispy Fried Chicken Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/knorr-krispy-fried-chicken-mix-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75778&q=low&v=1",
+            "https://chaldn.com/_mpimage/knorr-krispy-fried-chicken-mix-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38090&q=best&v=1",
+            "https://chaldn.com/_mpimage/knorr-krispy-fried-chicken-mix-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38091&q=best&v=1",
+            "https://chaldn.com/_mpimage/knorr-krispy-fried-chicken-mix-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38092&q=best&v=1",
+            "https://chaldn.com/_mpimage/knorr-krispy-fried-chicken-mix-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38093&q=best&v=1",
+            "https://chaldn.com/_mpimage/knorr-krispy-fried-chicken-mix-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38094&q=best&v=1",
+            "https://chaldn.com/_mpimage/knorr-krispy-fried-chicken-mix-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38095&q=best&v=1"
+        ],
+        "price": 63.0,
+        "corpPrice": 63.0,
+        "objectID": 13143
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": " \u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ab\u09be\u09b2\u09c1\u09a6\u09be \u09ae\u09bf\u0995\u09cd\u09b8 (\u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb) \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Radhuni Falooda Mix made with yummy ingredients of Fruits, Noodles, Basil Seed, Jelly Pieces, Almonds, Raisins, Shagu Pearls Along with Milk and Ice cream. Radhuni Falooda Mix is a very popular dessert to all aged people and enjoyable in every occasion. Radhuni Falooda Mix contains high level of energy, carbohydrate, protein, dietary fiber, fat & calcium to ensure healthy diet.\r\ninside the Radhuni Falooda Mix pack we provide sugar, instant jelly mix, noodles, tapioca pearls, corn starch, basil seed, raisins. salt and vanilla flavor to ensure the falooda taste exciting.",
+        "name": "Radhuni Falooda Mix (Mango) 250 gm",
+        "nameWithoutSubText": "Radhuni Falooda Mix (Mango)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-falooda-mix-mango-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48301&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 6239
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u0995\u09be\u099a\u09cd\u099a\u09bf \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ae\u09b6\u09b2\u09be \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Radhuni Kachchi Biryani Masala 40 gm",
+        "nameWithoutSubText": "Radhuni Kachchi Biryani Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-kachchi-biryani-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D41905&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 15867
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ac\u09cb\u09b0\u09b9\u09be\u09a8\u09bf \u09ae\u09b6\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Radhuni borhani masala eases preparation of the most popular beverage in our local culture. borhani is always present before the rich meals in every special occasion and festival. ",
+        "name": "Radhuni Borhani Masala 50 gm",
+        "nameWithoutSubText": "Radhuni Borhani Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-borhani-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48296&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 2397
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09a4\u09be\u09a8\u09cd\u09a6\u09c1\u09b0\u09bf \u09ae\u09c1\u09b0\u0997\u09bf\u09b0 \u09ae\u09b6\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Radhuni Chicken Tandoori Masala 50 gm ",
+        "nameWithoutSubText": "Radhuni Chicken Tandoori Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-chicken-tandoori-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48300&q=low&v=1"
+        ],
+        "price": 75.0,
+        "corpPrice": 75.0,
+        "objectID": 15563
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ae\u09be\u0982\u09b8\u09c7\u09b0 \u09a4\u09b0\u0995\u09be\u09b0\u09bf \u09ae\u09b6\u09b2\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Radhuni Meat Curry Masala is riched mixed spices using ingredients like chili, turmeric, coriander, cumin, fenugreek etc to get the authentic taste of meat curry. This products is used as a complete spice for all kinds of meat cooking",
+        "name": "Radhuni Meat Curry Masala 100 gm",
+        "nameWithoutSubText": "Radhuni Meat Curry Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-meat-curry-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39954&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 2408
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u0995\u09be\u09b2\u09be \u09ad\u09c1\u09a8\u09be \u09ae\u09b6\u09b2\u09be  \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Kala Bhuna Masala 80 gm ",
+        "nameWithoutSubText": "Radhuni Kala Bhuna Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-kala-bhuna-masala-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48308&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 14975
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b2\u09be\u099c\u09cd\u099c\u09be\u09a4 \u09a4\u09be\u09a8\u09cd\u09a6\u09c1\u09b0\u09bf \u099a\u09bf\u0995\u09c7\u09a8 \u09ac\u09be\u09b0\u09ac\u09bf\u0995\u09bf\u0989 \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Lazzat Tandoori Chicken BBQ Masala 50 gm",
+        "nameWithoutSubText": "Lazzat Tandoori Chicken BBQ Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lazzat-tandoori-chicken-bbq-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68298&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 22452
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09a4\u09be\u09a8\u09cd\u09a6\u09c1\u09b0\u09bf \u09ae\u09be\u09b8\u09be\u09b2\u09be  \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Tandoori Masala 50 gm",
+        "nameWithoutSubText": "Shan Tandoori Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-tandoori-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48329&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 2887
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u0995\u09be\u09ac\u09be\u09ac \u09ae\u09b6\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Kabab Masala 50 gm",
+        "nameWithoutSubText": "Radhuni Kabab Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-kabab-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48307&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 2406
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": " \u09b0\u09be\u09a8\u09c0 \u09b9\u09be\u09b2\u09bf\u09ae \u09ae\u09bf\u0995\u09cd\u09b8 (\u09e8 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09be \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Rani Halim Mix (Buy 2 Get 1 Free) 200 gm",
+        "nameWithoutSubText": "Rani Halim Mix (Buy 2 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rani-halim-mix-buy-2-get-1-free-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64786&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 20227
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09ae\u09be\u09ae\u09be \u0987\u09a8\u09cd\u09b8\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09ab\u09cd\u09b0\u09be\u0987\u09a1 \u09b0\u09be\u0987\u09b8 \u09a5\u09be\u0987 \u09b0\u09c7\u09a1 \u0995\u09be\u09b0\u09bf \u0989\u0987\u09a5 \u09b8\u09cd\u09b0\u09bf\u09ae\u09cd\u09aa \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\u2022 Mama Instant Fried Rice made with Thai Jasmine Rice. (Gluten Free) \r\n\u2022 Whenever and Wherever you have Mama with you, there is no need to wait for food delivery. \r\n\u2022You can enjoy a tasty meal within 7 minutes. Spoon included inside.",
+        "name": "Mama Instant Fried Rice Thai Red Curry With Shrimp 80 gm",
+        "nameWithoutSubText": "Mama Instant Fried Rice Thai Red Curry With Shrimp",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mama-instant-fried-rice-thai-red-curry-with-shrimp-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74619&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 23897
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": " \u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u0997\u09b0\u09c1\u09b0 \u09ae\u09be\u0982\u09b8\u09c7\u09b0 \u09ae\u09b8\u09b2\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Beef Curry Masala 100 gm",
+        "nameWithoutSubText": "Radhuni Beef Curry Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-beef-curry-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61565&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 21922
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09ab\u09bf\u09b0\u09a8\u09bf \u09ae\u09bf\u0995\u09cd\u09b8 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Firni Mix 150 gm",
+        "nameWithoutSubText": "Ahmed Firni Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-firni-mix-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74371&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 23814
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ac\u09be\u099f\u09be\u09b0 \u099a\u09bf\u0995\u09c7\u09a8 \u09ae\u09b6\u09b2\u09be \u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Butter Chicken Masala 45 gm",
+        "nameWithoutSubText": "Radhuni Butter Chicken Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-butter-chicken-masala-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48297&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 16497
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": " \u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ae\u09be\u099b\u09c7\u09b0 \u09ae\u09b6\u09b2\u09be \u09a4\u09b0\u0995\u09be\u09b0\u09bf  \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Radhuni Fish Curry Masala is a mixture of spices to get traditional taste of fish curry. Any kind of fish can be cooked with this spice. ",
+        "name": "Radhuni Fish Curry Masala 100 gm",
+        "nameWithoutSubText": "Radhuni Fish Curry Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-fish-curry-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48303&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 4051
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09ac\u09cb\u09b0\u09b9\u09be\u09a8\u09bf \u09ae\u09b8\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Borhani Masala 50 gm",
+        "nameWithoutSubText": "Ahmed Borhani Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-borhani-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74370&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 23813
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09ab\u09bf\u09b0\u09a8\u09bf \u09ae\u09bf\u09b6\u09cd\u09b0\u09a3 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Fresh Firni Mix 150 gm",
+        "nameWithoutSubText": "Fresh Firni Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-firni-mix-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52092&q=best&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 19857
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09ae\u09be\u09ae\u09be \u0987\u09a8\u09cd\u09b8\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09ab\u09cd\u09b0\u09be\u0987\u09a1 \u09b0\u09be\u0987\u09b8 \u0995\u09be\u09b0\u09bf\u09a1 \u09b8\u09cd\u09b0\u09bf\u09ae\u09cd\u09aa \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\u2022 Mama Instant Fried Rice made with Thai Jasmine Rice. (Gluten Free )\r\n\u2022 Whenever and Wherever you have Mama with you, there is no need to wait for food delivery. \r\n\u2022You can enjoy a tasty meal within 7 minutes. Spoon included inside. ",
+        "name": "Mama Instant Fried Rice Curried Shrimp 80 gm ",
+        "nameWithoutSubText": "Mama Instant Fried Rice Curried Shrimp",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mama-instant-fried-rice-curried-shrimp-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74617&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 23895
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u0995\u09cb\u09b0\u09ae\u09be \u09ae\u09b6\u09b2\u09be \u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Korma Masala 30 gm",
+        "nameWithoutSubText": "Radhuni Korma Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-korma-masala-30-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61567&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 21923
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": " \u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u0996\u09bf\u099a\u09c1\u09a1\u09bc\u09bf \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Khichuri Mix 500 gm",
+        "nameWithoutSubText": "Radhuni Khichuri Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-khichuri-mix-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48309&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 4053
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09b9\u09be\u09b2\u09bf\u09ae \u09ae\u09bf\u0995\u09cd\u09b8 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Fresh Halim Mix 200 gm",
+        "nameWithoutSubText": "Fresh Halim Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-halim-mix-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51905&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 19856
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09ac\u09cb\u09ae\u09cd\u09ac\u09c7 \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Bombay Biriyani 60 gm",
+        "nameWithoutSubText": "Shan Bombay Biriyani",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-bombay-biriyani-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48312&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 8057
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0982\u0995\u09b0 \u0995\u09be\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a1 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Custard Powder Vanilla 200 gm",
+        "nameWithoutSubText": "Anchor Custard Powder Vanilla",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-custard-powder-vanilla-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54852&q=best&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 2134
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b8 \u09b9\u09be\u09af\u09bc\u09a6\u09b0\u09be\u09ac\u09be\u09a6\u09c0 \u09b9\u09be\u09b2\u09bf\u09ae \u09ae\u09bf\u0995\u09cd\u09b8 \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Fresh Hyderabadi Halim Mix 180 gm",
+        "nameWithoutSubText": "Fresh Hyderabadi Halim Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-hyderabadi-halim-mix-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59395&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 21378
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09ab\u09be\u09b2\u09c1\u09a6\u09be \u09ae\u09bf\u0995\u09cd\u09b8 (\u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be) \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Falooda Mix (Vanilla) 250 gm",
+        "nameWithoutSubText": "Radhuni Falooda Mix (Vanilla)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-falooda-mix-vanilla-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53287&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 20360
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b8\u099c\u09c0\u09ac \u09b0\u09c7\u09a1\u09bf \u09ae\u09bf\u0995\u09cd\u09b8 \u09aa\u09cd\u09af\u09be\u09a8 \u0995\u09c7\u0995 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sajeeb Ready Mix Pancake 500 gm ",
+        "nameWithoutSubText": "Sajeeb Ready Mix Pancake",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sajeeb-ready-mix-pancake-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46765&q=low&v=1"
+        ],
+        "price": 125.0,
+        "corpPrice": 125.0,
+        "objectID": 9311
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u0995\u09b0\u09be\u099a\u09bf \u09ac\u09c0\u09ab \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Karachi Beef Biriyani 60 gm",
+        "nameWithoutSubText": "Shan Karachi Beef Biriyani",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-karachi-beef-biriyani-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48317&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 8039
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b9\u09be\u09b2\u09bf\u09ae \u09ae\u09bf\u0995\u09cd\u09b8 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Haleem Mix 200 gm",
+        "nameWithoutSubText": "Ahmed Haleem Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-haleem-mix-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74365&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 23809
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "  \u09b0\u09be\u0981\u09a7\u09c1\u09a8\u09c0 \u09b9\u09be\u09df\u09a6\u09cd\u09b0\u09be\u09ac\u09be\u09a6\u09bf \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ae\u09b6\u09b2\u09be \u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Radhuni Hyderabadi Biryani Masala 45 gm",
+        "nameWithoutSubText": "Radhuni Hyderabadi Biryani Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/radhuni-hyderabadi-biryani-masala-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48305&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 14974
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u099a\u09be\u099f\u09aa\u099f\u09bf \u09ae\u09be\u09b8\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Chatpoti Masala 50 gm",
+        "nameWithoutSubText": "Ahmed Chatpoti Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-chatpoti-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59374&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 21374
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09ae\u09be\u09ae\u09be \u0987\u09a8\u09cd\u09b8\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09ab\u09cd\u09b0\u09be\u0987\u09a1 \u09b0\u09be\u0987\u09b8 \u09a5\u09be\u0987 \u0997\u09cd\u09b0\u09c0\u09a8 \u0995\u09be\u09b0\u09bf \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\u2022 Mama Instant Fried Rice made with Thai Jasmine Rice. (Gluten Free) \r\n\u2022 Whenever and Wherever you have Mama with you, there is no need to wait for food delivery. \r\n\u2022You can enjoy a tasty meal within 7 minutes. Spoon included inside. ",
+        "name": "Mama Instant Fried Rice Thai Green Curry 80 gm",
+        "nameWithoutSubText": "Mama Instant Fried Rice Thai Green Curry",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mama-instant-fried-rice-thai-green-curry-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74618&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 23896
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09ae\u09be\u09ae\u09be \u0987\u09a8\u09cd\u09b8\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09ab\u09cd\u09b0\u09be\u0987\u09a1 \u09b0\u09be\u0987\u09b8 \u09ad\u09c7\u099c\u09bf\u099f\u09c7\u09b0\u09bf\u09df\u09be\u09a8 \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\u2022 Mama Instant Fried Rice made with Thai Jasmine Rice. (Gluten Free) \r\n\u2022 Whenever and Wherever you have Mama with you, there is no need to wait for food delivery. \r\n\u2022You can enjoy a tasty meal within 7 minutes. Spoon included inside.",
+        "name": "Mama Instant Fried Rice Vegetarian 80 gm ",
+        "nameWithoutSubText": "Mama Instant Fried Rice Vegetarian",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mama-instant-fried-rice-vegetarian-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74620&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 23898
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09ae\u09cd\u09af\u09be\u0997\u09bf \u099a\u09bf\u0995\u09c7\u09a8 \u09b8\u09bf\u099c\u09a8\u09bf\u0982 \u09aa\u09be\u0989\u09a1\u09be\u09b0 (\u09ab\u09cd\u09b0\u09c0 \u09ae\u09cd\u09af\u09be\u0997\u09bf \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Maggi Chicken Seasoning Powder (Free Maggi Noodles) 500 gm",
+        "nameWithoutSubText": "Maggi Chicken Seasoning Powder (Free Maggi Noodles)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/maggi-chicken-seasoning-powder-free-maggi-noodles-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76075&q=low&v=1"
+        ],
+        "price": 570.0,
+        "corpPrice": 570.0,
+        "objectID": 24223
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u099a\u09be\u099f \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Chaat Masala 100 gm",
+        "nameWithoutSubText": "Shan Chaat Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-chaat-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48313&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 8040
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b8\u09c7\u09ad\u09b0\u09bf \u09b0\u09cb\u09b8\u09cd\u099f \u098f\u09a8\u09cd\u09a1 \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ae\u09b6\u09b2\u09be \u0995\u09ae\u09cd\u09ac\u09cb \u09aa\u09cd\u09af\u09be\u0995 (\u09ab\u09cd\u09b0\u09bf \u099a\u099f\u09aa\u099f\u09bf \u09ae\u09b6\u09b2\u09be)",
+        "longDesc": "Buy 2 Get 1 Free'       Buy SAVORY Roast Masala & SAVORY Biryani Masala , Get free SAVORY Chatpati Masala\r\n",
+        "name": "Savory Roast & Biryani Masala Combo Pack (Free Chatpati Masala)",
+        "nameWithoutSubText": "Savory Roast & Biryani Masala Combo Pack (Free Chatpati Masala)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savory-roast-biryani-masala-combo-pack-free-chatpati-masala?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80811&q=low&v=1"
+        ],
+        "price": 105.0,
+        "corpPrice": 105.0,
+        "objectID": 24750
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b8\u09c7\u09ad\u09b0\u09bf \u09ae\u09bf\u09b2\u09cd\u0995\u09b6\u09c7\u0995 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u0995\u09cd\u09b8 \u0986\u09ae\u09c7\u09b0 \u09b8\u09cd\u09ac\u09be\u09a6 \u09ac\u0995\u09cd\u09b8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "SAVORY\u00a0Milkshake Premix\u00a0is a sweet drink made by blending milk, ice cream, and flavorings or sweeteners.\r\n",
+        "name": "Savory Milkshake Premix Mango Flavor Box 100 gm",
+        "nameWithoutSubText": "Savory Milkshake Premix Mango Flavor Box",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savory-milkshake-premix-mango-flavor-box-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80199&q=low&v=1"
+        ],
+        "price": 180.0,
+        "corpPrice": 180.0,
+        "objectID": 24741
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b8\u09c7\u09ad\u09b0\u09bf \u09ae\u09bf\u09b2\u09cd\u0995\u09b6\u09c7\u0995 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u0995\u09cd\u09b8 \u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ac\u0995\u09cd\u09b8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "SAVORY\u00a0Milkshake Premix\u00a0is a sweet drink made by blending milk, ice cream, and flavorings or sweeteners.",
+        "name": "Savory Milkshake Premix Vanilla Flavor Box 100 gm",
+        "nameWithoutSubText": "Savory Milkshake Premix Vanilla Flavor Box",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savory-milkshake-premix-vanilla-flavor-box-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80197&q=low&v=1"
+        ],
+        "price": 180.0,
+        "corpPrice": 180.0,
+        "objectID": 24740
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b8\u09c7\u09ad\u09b0\u09bf \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ae\u09b6\u09b2\u09be \u0995\u09be\u0997\u099c\u09c7\u09b0 \u09ac\u0995\u09cd\u09b8 \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "The best part is, it can be used in any dish you want and can be stored for at least a month. Just make sure, the container is airtight.\r\n",
+        "name": "Savory Biryani Masala Paper Box 40 gm",
+        "nameWithoutSubText": "Savory Biryani Masala Paper Box",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savory-biryani-masala-paper-box-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80196&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 24739
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b8\u09c7\u09ad\u09b0\u09bf \u09b0\u09cb\u09b8\u09cd\u099f \u09ae\u09b6\u09b2\u09be \u09aa\u09c7\u09aa\u09be\u09b0 \u09ac\u0995\u09cd\u09b8 \u09e9\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "SAVORY Roast Masala best part is, it can be used in any dish you want and can be stored for at least a month. Just make sure, the container is airtight.\r\n",
+        "name": "Savory Roast Masala Paper Box 35 gm",
+        "nameWithoutSubText": "Savory Roast Masala Paper Box",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savory-roast-masala-paper-box-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80194&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 24738
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b8\u09c7\u09ad\u09b0\u09bf \u099a\u099f\u09aa\u099f\u09bf \u0995\u09be\u0997\u099c\u09c7\u09b0 \u09ac\u0995\u09cd\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "SAVORY Chatpati Masala are enhancing operators for most fast food, finger sustenances or road nourishments. With enahnced taste we can get dependent on the sustenance.\r\n",
+        "name": "Savory Chatpati Masala Paper Box 50 gm",
+        "nameWithoutSubText": "Savory Chatpati Masala Paper Box",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savory-chatpati-masala-paper-box-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80192&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 24737
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b8\u09c7\u09ad\u09b0\u09bf \u09b9\u09be\u09b2\u09bf\u09ae \u09ae\u09bf\u0995\u09cd\u09b8 \u0995\u09be\u0997\u099c\u09c7\u09b0 \u09ac\u0995\u09cd\u09b8 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "SAVORY Haleem Mix, which has its origin from the word\u00a0meaning humble and modest, is a celebrated food in Hyderabad.\r\n",
+        "name": "Savory Haleem Mix Paper Box 200 gm",
+        "nameWithoutSubText": "Savory Haleem Mix Paper Box",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savory-haleem-mix-paper-box-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80190&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 24736
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09ae\u09cd\u09af\u09be\u0997\u09bf \u09b8\u09cd\u09ac\u09be\u09a6-\u098f \u09ae\u09cd\u09af\u09be\u099c\u09bf\u0995 \u09b8\u09bf\u099c\u09a8\u09bf\u0982 \u09ae\u09bf\u0995\u09cd\u09b8 \u09b8\u09cd\u09af\u09be\u09b8\u09c7\u099f \u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "MAGGI Shaad-e Magic is a unique blend of roasted spices which can enhance the taste of everyday dishes. \r\n\r\nThis seasoning is comprised of well-known Bangladeshi spices such as cumin, chilli, turmeric, garlic which enriches the taste of a wide variety of traditional Bangladeshi dishes.\r\n\r\nFortified with vital nutrients such as vitamin A, Iron and Iodine.\r\n\r\nNet Weight: 4g\r\n\r\nOrigin: Bangladesh",
+        "name": "Nestle Maggi Shaad-e Magic Seasoning Mix Sachet 4 gm",
+        "nameWithoutSubText": "Nestle Maggi Shaad-e Magic Seasoning Mix Sachet",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-maggi-shaad-e-magic-seasoning-mix-sachet-4-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77941&q=low&v=1"
+        ],
+        "price": 5.0,
+        "corpPrice": 5.0,
+        "objectID": 24371
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b8 \u09b9\u09be\u09b2\u09bf\u09ae \u09ae\u09bf\u0995\u09cd\u09b8 \u0995\u09ae\u09cd\u09ac\u09cb \u0985\u09ab\u09be\u09b0 (\u09ab\u09cd\u09b0\u09c0 \u09ab\u09cd\u09b0\u09c7\u09b8 \u09ab\u09bf\u09b0\u09a8\u09bf \u09ae\u09bf\u0995\u09cd\u09b8 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae)",
+        "longDesc": "Combo:\r\n\r\nFresh Haleem Mix 200 gm 1 pcs\r\nFresh Hyderabadi Haleem Mix 180 gm 1 pcs\r\nFresh Firni Mix 150 gm 1 pcs",
+        "name": "Fresh Haleem Mix Combo Offer (Free Fresh Firni Mix 150 gm)",
+        "nameWithoutSubText": "Fresh Haleem Mix Combo Offer (Free Fresh Firni Mix 150 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-haleem-mix-combo-offer-free-fresh-firni-mix-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76812&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 24263
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09ae\u09cd\u09af\u09be\u0997\u09bf \u099a\u09bf\u0995\u09c7\u09a8 \u09b8\u09bf\u099c\u09a8\u09bf\u0982 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u099c\u09be\u09b0 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Maggi Chicken Seasoning Powder Jar 500 gm",
+        "nameWithoutSubText": "Maggi Chicken Seasoning Powder Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/maggi-chicken-seasoning-powder-jar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74469&q=low&v=1"
+        ],
+        "price": 570.0,
+        "corpPrice": 570.0,
+        "objectID": 23842
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u0996\u09bf\u099a\u09c1\u09dc\u09bf \u09ae\u09bf\u0995\u09cd\u09b8\u09a1 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Khichuri Mixed 500 gm",
+        "nameWithoutSubText": "Ahmed Khichuri Mixed",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-khichuri-mixed-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74377&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 23820
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09a1\u09c7\u0987\u09b2\u09bf \u09ab\u09cd\u09b0\u09c7\u09b8 \u09b9\u09cb\u09ae\u09be\u09b8 \u09a4\u09be\u09b9\u09bf\u09a8\u09be \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Daily Fresh Hommus Tahina 400 gm",
+        "nameWithoutSubText": "Daily Fresh Hommus Tahina",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/daily-fresh-hommus-tahina-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73378&q=low&v=1"
+        ],
+        "price": 359.0,
+        "corpPrice": 359.0,
+        "objectID": 23521
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09ab\u09bf\u09b6 \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Fish Masala 100 gm",
+        "nameWithoutSubText": "Ahmed Fish Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-fish-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69552&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 22165
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09ae\u09be\u0982\u09b8\u09c7\u09b0 \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Meat Masala 100 gm",
+        "nameWithoutSubText": "Ahmed Meat Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-meat-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69551&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 22164
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u099a\u09bf\u0995\u09c7\u09a8 \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Chicken Masala 100 gm",
+        "nameWithoutSubText": "Ahmed Chicken Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-chicken-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69550&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 22163
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u0986\u0999\u09cd\u0995\u09c7\u09b2 \u09ac\u09be\u09b0\u09cd\u09a8\u09b8 \u09ae\u09bf\u0995\u09cd\u09b8 \u09ab\u09cd\u09b2\u09be\u0993\u09df\u09be\u09b0 \u09aa\u09cd\u09af\u09be\u09a8\u0995\u09c7\u0995 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Uncle Barns Mix Flour Pancake 500 gm",
+        "nameWithoutSubText": "Uncle Barns Mix Flour Pancake",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/uncle-barns-mix-flour-pancake-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61616&q=low&v=1"
+        ],
+        "price": 295.0,
+        "corpPrice": 295.0,
+        "objectID": 21951
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ae\u09be\u099b\u09c7\u09b0 \u09ae\u09b6\u09b2\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Pran Fish Masala 100 gm ",
+        "nameWithoutSubText": "Pran Fish Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-fish-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36577&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 14888
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09aa\u09bf\u0993\u09b0 \u0995\u09cd\u09b7\u09c0\u09b0 \u09ae\u09bf\u0995\u09cd\u09b8 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "ACI Pure Kheer Mix 150 gm",
+        "nameWithoutSubText": "ACI Pure Kheer Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-pure-kheer-mix-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48281&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 12853
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09aa\u09bf\u0993\u09b0 \u09b6\u09be\u09b9\u09c0 \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "ACI Pure Shahi Biryani Masala 40 gm",
+        "nameWithoutSubText": "ACI Pure Shahi Biryani Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-pure-shahi-biryani-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48282&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 12837
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u0995\u09be\u099a\u09cd\u099a\u09bf \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ae\u09bf\u0995\u09cd\u09b8 \u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Kacchi Biryani Masala Mix 45 gm",
+        "nameWithoutSubText": "Pran Kacchi Biryani Masala Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-kacchi-biryani-masala-mix-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48292&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 12362
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ac\u09cb\u09b0\u09b9\u09be\u09a8\u09bf \u09ae\u09b8\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Borhani Masala 50 gm",
+        "nameWithoutSubText": "Pran Borhani Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-borhani-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48289&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 12361
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09b9\u09be\u09b2\u09bf\u09ae \u09ae\u09bf\u0995\u09cd\u09b8 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Haleem Mix 200 gm",
+        "nameWithoutSubText": "Pran Haleem Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-haleem-mix-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48291&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 12360
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09a4\u09c7\u09b9\u09be\u09b0\u09bf \u09ae\u09be\u09b8\u09cd\u09b2\u09be \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Tehari Masala 40 gm",
+        "nameWithoutSubText": "Pran Tehari Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-tehari-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22062&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 11868
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09aa\u09bf\u09b2\u09be\u0989 \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Pilau Biryani 50 gm",
+        "nameWithoutSubText": "Shan Pilau Biryani",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-pilau-biryani-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D26808&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 10605
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u099a\u099f\u09aa\u099f\u09bf \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Chatpati Masala 45 gm",
+        "nameWithoutSubText": "Pran Chatpati Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-chatpati-masala-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48293&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 10604
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09b6\u09be\u09ae\u09bf \u0995\u09be\u09ac\u09be\u09ac \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Shami Kabab 50 gm",
+        "nameWithoutSubText": "Shan Shami Kabab",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-shami-kabab-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48325&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 10341
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09b6\u09bf\u0995 \u0995\u09be\u09ac\u09be\u09ac \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Seekh Kabab Masala Mix 50 Gm",
+        "nameWithoutSubText": "Shan Seekh Kabab Masala Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-seekh-kabab-masala-mix-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48323&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 9527
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u099a\u09bf\u0995\u09c7\u09a8 \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Chicken Masala 50 gm",
+        "nameWithoutSubText": "Shan Chicken Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-chicken-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48314&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 8502
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u099f\u09bf\u0995\u09cd\u0995\u09be \u09b6\u09bf\u0995 \u0995\u09be\u09ac\u09be\u09ac \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Tikka Seekh Kabab Masala 50 gm",
+        "nameWithoutSubText": "Shan Tikka Seekh Kabab Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-tikka-seekh-kabab-masala-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48331&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 8056
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09ae\u09bf\u099f \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Meat Masala 100 gm",
+        "nameWithoutSubText": "Shan Meat Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-meat-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48321&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 8051
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u099a\u09bf\u0995\u09c7\u09a8 \u099f\u09bf\u0995\u09cd\u0995\u09be \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Chicken Tikka Masala Mix 50 gm",
+        "nameWithoutSubText": "Shan Chicken Tikka Masala Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-chicken-tikka-masala-mix-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49841&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 7894
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09ae\u09be\u09b2\u09be\u0987 \u09b8\u09cd\u09aa\u09be\u0987\u09b8 \u09ae\u09bf\u0995\u09cd\u09b8 \u09ab\u09b0 \u09ae\u09c7\u09ae\u09c1\u09a8\u09bf \u09ae\u09be\u099f\u09a8 \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Malay Spice Mix for Memoni Mutton Biriyani 60 gm",
+        "nameWithoutSubText": "Shan Malay Spice Mix for Memoni Mutton Biriyani",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-malay-spice-mix-for-memoni-mutton-biriyani-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48320&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 6708
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09ae\u09be\u09b2\u09be\u0987 \u09b8\u09cd\u09aa\u09be\u0987\u09b8 \u09ae\u09bf\u0995\u09cd\u09b8 \u09ab\u09b0 \u099a\u09bf\u0995\u09c7\u09a8 \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Malay Spice Mix for Chicken Biriyani 60 gm",
+        "nameWithoutSubText": "Shan Malay Spice Mix for Chicken Biriyani",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-malay-spice-mix-for-chicken-biriyani-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48319&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 6707
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u099f\u09bf\u0995\u09cd\u0995\u09be \u09ac\u099f\u09bf \u09ac\u09be\u09b0\u09ac\u09bf\u0995\u09bf\u0989 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Shan Tikka BBQ 100% halal. May contain: traces of Sulphite, Sesame, Mustard, Gluten and Tree Nuts,  Suitable for Vegetarian, No artificial colours, No artificial preservatives.\r\nIngredients: Salt, Red Chilli, Papain, Turmeric, Fennel, Cinnamon, Cumin, Brown Cardamom, Black Pepper, Mace, Nutmeg, Star Aniseed, Ginger, Garlic, Citric Acid (E330), Artificial Food Clolours FD & C Yellow 5& 6/ E102 & E110.",
+        "name": "Shan Tikka Boti Bbq 50 gm",
+        "nameWithoutSubText": "Shan Tikka Boti Bbq",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-tikka-boti-bbq-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48330&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 4149
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09b8\u09bf\u09a8\u09cd\u09a7\u09bf \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ae\u09bf\u0995\u09cd\u09b8 \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Sindhi Biryani Mix 60 gm",
+        "nameWithoutSubText": "Shan Sindhi Biryani Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-sindhi-biryani-mix-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48326&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 4148
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09b6\u09be\u09ae\u09bf \u0995\u09be\u09ac\u09be\u09ac \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Shami Kabab Mix 50 gm",
+        "nameWithoutSubText": "Shan Shami Kabab Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-shami-kabab-mix-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48324&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 4147
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09aa\u09be\u09df\u09be \u0995\u09be\u09b0\u09bf \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Paya Curry Mix 50 gm",
+        "nameWithoutSubText": "Shan Paya Curry Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-paya-curry-mix-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64788&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 4146
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u0995\u09cb\u09b0\u09ae\u09be \u0995\u09be\u09b0\u09bf \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Korma Curry Mix 50 gm",
+        "nameWithoutSubText": "Shan Korma Curry Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-korma-curry-mix-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48318&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 4144
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09b9\u09be\u09b2\u09c0\u09ae \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Haleem Masala Mix 50  gm",
+        "nameWithoutSubText": "Shan Haleem Masala Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-haleem-masala-mix-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48316&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 4143
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u0987\u09a1 \u09ab\u09bf\u09b6 \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Fried Fish Masala Mix 50 gm",
+        "nameWithoutSubText": "Shan Fried Fish Masala Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-fried-fish-masala-mix-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64787&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 4142
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b8\u099c\u09c0\u09ac \u09b0\u09c7\u09a1\u09bf \u09ae\u09bf\u0995\u09cd\u09b8 \u09ad\u09c1\u09a8\u09be \u0996\u09bf\u099a\u09c1\u09b0\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sajeeb Ready Mix Bhuna Khichuri 500 gm",
+        "nameWithoutSubText": "Sajeeb Ready Mix Bhuna Khichuri",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sajeeb-ready-mix-bhuna-khichuri-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48311&q=low&v=1"
+        ],
+        "price": 105.0,
+        "corpPrice": 105.0,
+        "objectID": 4117
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09ac\u09bf\u09a1\u09bf \u09b9\u09be\u09b2\u09bf\u09ae \u09ae\u09bf\u0995\u09cd\u09b8 \u09e7\u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BD Haleem Mix 175 gm",
+        "nameWithoutSubText": "BD Haleem Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bd-haleem-mix-175-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48284&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 3242
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09b8\u09cd\u09aa\u09be\u0987\u09b8 \u09ae\u09bf\u0995\u09cd\u09b8 \u09ab\u09b0 \u0986\u099a\u09be\u09b0 \u0997\u09cb\u09b6\u09cd\u09a4 \u0995\u09be\u09b0\u09bf \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shan Spice Mix For Achar Gosht Curry 50 gm",
+        "nameWithoutSubText": "Shan Spice Mix For Achar Gosht Curry",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-spice-mix-for-achar-gosht-curry-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48327&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 2891
+    },
+    {
+        "category": {
+            "name": "Ready Mix",
+            "id": "110",
+            "slug": "ready-mix"
+        },
+        "bengaliName": "\u09b6\u09be\u09a8 \u09b8\u09cd\u09aa\u09be\u0987\u09b8 \u09ae\u09bf\u0995\u09cd\u09b8 \u09ab\u09b0 \u09ae\u09be\u09b2\u09be\u0987 \u099a\u09bf\u0995\u09c7\u09a8 \u09ac\u09bf\u09b0\u09bf\u09df\u09be\u09a8\u09bf \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Shan Spice Mix For Malay Chicken Biryani is product of Pakistan. Shan Spice Mix For Malay Chicken Biryani made from  Paprika, Himalayan Pink Salt, Red Chilli, Nigella Seed, Star Aniseed, Cumin, Cinnamon, Black Pepper, Brown Cardamom, Clove, Turmeric, Garlic, Maltodextrin, Hydrolyzed Soy Protein, Citric Acid, Cane Sugar, Canola Oil, Natural And Artificial Food Flavour, Silicon Dioxide (anti-caking agent). Shan Spice Mix For Malay Chicken Biryani has no artificial preservative, no artificial color and 100% halal.",
+        "name": "Shan Spice Mix For Malay Chicken Biryani 60 gm",
+        "nameWithoutSubText": "Shan Spice Mix For Malay Chicken Biryani",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shan-spice-mix-for-malay-chicken-biryani-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48328&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 2890
+    }
+]

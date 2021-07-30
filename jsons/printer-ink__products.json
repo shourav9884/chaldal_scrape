@@ -1,0 +1,104 @@
+[
+    {
+        "category": {
+            "name": "Toner & Ink",
+            "id": "208",
+            "slug": "printer-ink"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u09a8\u09cd\u099f\u09c7\u0995\u09cd\u09b8 \u09b2\u09c7\u099c\u09be\u09b0 \u099f\u09cb\u09a8\u09be\u09b0 \u0995\u09be\u09b0\u09cd\u099f\u09bf\u099c (\u09ea\u09ee\u098f) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Printex Laser Toner Cartridge (48A) 1 Pcs",
+        "nameWithoutSubText": "Printex Laser Toner Cartridge (48A)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/printex-laser-toner-cartridge-48a-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59254&q=low&v=1"
+        ],
+        "price": 1979.0,
+        "corpPrice": 1979.0,
+        "objectID": 21338
+    },
+    {
+        "category": {
+            "name": "Toner & Ink",
+            "id": "208",
+            "slug": "printer-ink"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u09a8\u09cd\u099f\u09c7\u0995\u09cd\u09b8 \u09b2\u09c7\u099c\u09be\u09b0 \u099f\u09cb\u09a8\u09be\u09b0 \u0995\u09be\u09b0\u09cd\u099f\u09bf\u099c (\u09ee\u09eb\u098f) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Printex Laser Toner Cartridge (85A) 1 Pcs",
+        "nameWithoutSubText": "Printex Laser Toner Cartridge (85A)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/printex-laser-toner-cartridge-85a-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59253&q=low&v=1"
+        ],
+        "price": 719.0,
+        "corpPrice": 719.0,
+        "objectID": 21337
+    },
+    {
+        "category": {
+            "name": "Toner & Ink",
+            "id": "208",
+            "slug": "printer-ink"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u09a8\u09cd\u099f\u09c7\u0995\u09cd\u09b8 \u09b2\u09c7\u099c\u09be\u09b0 \u099f\u09cb\u09a8\u09be\u09b0 \u0995\u09be\u09b0\u09cd\u099f\u09bf\u099c (\u09ed\u09ef\u098f) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Printex Laser Toner Cartridge (79A) 1 Pcs",
+        "nameWithoutSubText": "Printex Laser Toner Cartridge (79A)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/printex-laser-toner-cartridge-79a-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59251&q=best&v=1"
+        ],
+        "price": 849.0,
+        "corpPrice": 849.0,
+        "objectID": 21334
+    },
+    {
+        "category": {
+            "name": "Toner & Ink",
+            "id": "208",
+            "slug": "printer-ink"
+        },
+        "bengaliName": "\u09ad\u09bf\u09b8\u09be \u09b2\u09c7\u099c\u09be\u09b0 \u099f\u09cb\u09a8\u09be\u09b0 \u0995\u09be\u09b0\u09cd\u099f\u09bf\u099c (\u09ea\u09ee\u098f) \u09e7 \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Visa Laser Toner Cartridge (48A) 1 pcs",
+        "nameWithoutSubText": "Visa Laser Toner Cartridge (48A)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/visa-laser-toner-cartridge-48a-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52960&q=low&v=1"
+        ],
+        "price": 1999.0,
+        "corpPrice": 1999.0,
+        "objectID": 20226
+    },
+    {
+        "category": {
+            "name": "Toner & Ink",
+            "id": "208",
+            "slug": "printer-ink"
+        },
+        "bengaliName": "\u09ad\u09bf\u09b8\u09be \u09b2\u09c7\u099c\u09be\u09b0 \u099f\u09cb\u09a8\u09be\u09b0 \u0995\u09be\u09b0\u09cd\u099f\u09bf\u099c (\u09ed\u09ef\u098f) \u09e7 \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Visa Laser Toner Cartridge (79A) 1 pcs",
+        "nameWithoutSubText": "Visa Laser Toner Cartridge (79A)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/visa-laser-toner-cartridge-79a-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43819&q=low&v=1"
+        ],
+        "price": 839.0,
+        "corpPrice": 839.0,
+        "objectID": 16236
+    },
+    {
+        "category": {
+            "name": "Toner & Ink",
+            "id": "208",
+            "slug": "printer-ink"
+        },
+        "bengaliName": "\u09ad\u09bf\u09b8\u09be \u09b2\u09c7\u099c\u09be\u09b0 \u099f\u09cb\u09a8\u09be\u09b0 \u0995\u09be\u09b0\u09cd\u099f\u09bf\u099c (\u09e8\u09ee\u09eb\u098f-\u09aa\u09bf\u09e7\u09e7\u09e6\u09e8) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Visa Laser Toner Cartridge (285A - P1102) 1 pcs",
+        "nameWithoutSubText": "Visa Laser Toner Cartridge (285A - P1102)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/visa-laser-toner-cartridge-285a-p1102-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D33928&q=low&v=1"
+        ],
+        "price": 929.0,
+        "corpPrice": 929.0,
+        "objectID": 12003
+    }
+]

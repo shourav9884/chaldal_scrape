@@ -1,0 +1,597 @@
+[
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09b2\u09be\u0987\u09a8\u09cd\u09b8 \u0997\u09cd\u09b2\u09be\u0987\u09b8\u09be\u09b0 \u09ac\u09b2 \u0995\u09b2\u09ae \u09b2\u09be\u09b2 \u09ec \u099f\u09bf",
+        "longDesc": null,
+        "name": "Linc Glycer Ball Pen Red 6 pcs",
+        "nameWithoutSubText": "Linc Glycer Ball Pen Red",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/linc-glycer-ball-pen-red-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35060&q=low&v=1"
+        ],
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 8878
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09ae\u09cd\u09af\u09be\u099f\u09be\u09a1\u09cb\u09b0 \u09b9\u09be\u0987-\u09b8\u09cd\u0995\u09c1\u09b2 \u0995\u09b2\u09ae \u09e7\u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Matador Hi School Pen 12 pcs",
+        "nameWithoutSubText": "Matador Hi School Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/matador-hi-school-pen-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35053&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 8350
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u0987\u0995\u09cb\u09a8\u09cb \u09a1\u09bf\u098f\u0995\u09cd\u09b8 \u09ac\u09b2 \u0995\u09b2\u09ae \u09e7\u09e6 \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Econo DX Ball Pen 10 pcs ",
+        "nameWithoutSubText": "Econo DX Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/econo-dx-ball-pen-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50425&q=best&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 15428
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u0987\u0995\u09cb\u09a8\u09cb \u0993\u09b8\u09be\u09a8 \u09ac\u09b2 \u0995\u09b2\u09ae \u09eb \u099f\u09bf",
+        "longDesc": null,
+        "name": "Econo Ocean Ball Pen 5 pcs",
+        "nameWithoutSubText": "Econo Ocean Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/econo-ocean-ball-pen-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50427&q=best&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 18594
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u0987\u0995\u09cb\u09a8\u09cb \u09b8\u09ab\u09cd\u099f \u0997\u09cd\u09b0\u09bf\u09aa \u09ac\u09b2 \u0995\u09b2\u09ae \u09e7\u09e6 \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Econo Soft Grip Ball Pen 10 pcs  ",
+        "nameWithoutSubText": "Econo Soft Grip Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/econo-soft-grip-ball-pen-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50423&q=best&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 15431
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09a1\u09c7\u09b2\u09bf \u0995\u09be\u09b0\u09c7\u0995\u09b6\u09a8 \u0995\u09b2\u09ae \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Deli Correction Pen 1 pcs",
+        "nameWithoutSubText": "Deli Correction Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deli-correction-pen-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76057&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 24215
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09ae\u09a8\u09cd\u099f\u09c7\u0995\u09cd\u09b8 \u09b9\u09be\u0987-\u09b8\u09cd\u09aa\u09bf\u09a1 \u099c\u09c7\u09b2 \u0995\u09b2\u09ae \u0995\u09be\u09b2\u09cb \u09eb \u099f\u09bf",
+        "longDesc": null,
+        "name": "Montex Hy-Speed Gel Pen Black 5 pcs",
+        "nameWithoutSubText": "Montex Hy-Speed Gel Pen Black",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/montex-hy-speed-gel-pen-black-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76064&q=low&v=1"
+        ],
+        "price": 129.0,
+        "corpPrice": 129.0,
+        "objectID": 24220
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09ae\u09a8\u09cd\u099f\u09c7\u0995\u09cd\u09b8 \u09b9\u09be\u0987-\u09b8\u09cd\u09aa\u09bf\u09a1 \u099c\u09c7\u09b2 \u0995\u09b2\u09ae \u09eb \u099f\u09bf",
+        "longDesc": null,
+        "name": "Montex Hy-Speed Gel Pen 5 pcs",
+        "nameWithoutSubText": "Montex Hy-Speed Gel Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/montex-hy-speed-gel-pen-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78603&q=low&v=1"
+        ],
+        "price": 129.0,
+        "corpPrice": 129.0,
+        "objectID": 24219
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09b0\u09c7\u09a1 \u09b2\u09bf\u09ab \u09ac\u09b2 \u0995\u09b2\u09ae \u0995\u09be\u09b2\u09cb \u09e7\u09e8 \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Red Leaf Ball Pen Black 12 pcs",
+        "nameWithoutSubText": "Red Leaf Ball Pen Black",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/red-leaf-ball-pen-black-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65269&q=low&v=1"
+        ],
+        "price": 489.0,
+        "corpPrice": 489.0,
+        "objectID": 22199
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09b8\u09cd\u09aa\u09cd\u09b0\u09bf\u09a8\u09cd\u099f \u09ac\u09b2 \u0995\u09b2\u09ae \u09e7\u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Fresh Sprint Ball Pen 12 pcs",
+        "nameWithoutSubText": "Fresh Sprint Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-sprint-ball-pen-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53519&q=low&v=1"
+        ],
+        "price": 72.0,
+        "corpPrice": 72.0,
+        "objectID": 20423
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09b6\u09be\u0987\u09a8 \u09ac\u09b2 \u0995\u09b2\u09ae \u09e7\u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Fresh Shine Ball Pen 12 pcs",
+        "nameWithoutSubText": "Fresh Shine Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-shine-ball-pen-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71689&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 20422
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u0995\u09cd\u09b2\u09be\u09b8 \u09b0\u09c1\u09ae \u09ac\u09b2 \u0995\u09b2\u09ae \u09e7\u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Fresh Class Room Ball Pen 12 pcs",
+        "nameWithoutSubText": "Fresh Class Room Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-class-room-ball-pen-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53517&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 20421
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09b8\u09c7\u0987\u09b2\u09b0 \u09ac\u09b2 \u0995\u09b2\u09ae \u09e7\u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Fresh Sailor Ball Pen 12 pcs",
+        "nameWithoutSubText": "Fresh Sailor Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-sailor-ball-pen-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53516&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 20420
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": " \u09ab\u09cd\u09b0\u09c7\u09b6 \u0997\u09c1\u09a1 \u09a1\u09c7 \u09ac\u09b2 \u0995\u09b2\u09ae \u09e7\u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Fresh Good Day Ball Pen 12 pcs",
+        "nameWithoutSubText": "Fresh Good Day Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-good-day-ball-pen-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53515&q=low&v=1"
+        ],
+        "price": 72.0,
+        "corpPrice": 72.0,
+        "objectID": 20419
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u0995\u09cd\u09af\u09be\u09ae\u09cd\u09aa\u09be\u09b8 \u09ac\u09b2 \u0995\u09b2\u09ae \u09e7\u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Fresh Campus Ball Pen 12 pcs",
+        "nameWithoutSubText": "Fresh Campus Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-campus-ball-pen-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53514&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 20418
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09b2\u09be\u0987\u09a8\u09cd\u09b8 \u0993\u09b6\u09be\u09a8 \u0993\u09af\u09bc\u09c7\u09ad \u099c\u09c7\u09b2 \u0995\u09b2\u09ae \u09b2\u09be\u09b2 \u09ec \u099f\u09bf",
+        "longDesc": null,
+        "name": "Linc Ocean Wave Gel Pen Red 6 pcs",
+        "nameWithoutSubText": "Linc Ocean Wave Gel Pen Red",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/linc-ocean-wave-gel-pen-red-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52582&q=low&v=1"
+        ],
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 20122
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09b2\u09bf\u0982\u0995 \u0993\u09b6\u09be\u09a8 \u0993\u09af\u09bc\u09c7\u09ad \u099c\u09c7\u09b2 \u0995\u09b2\u09ae \u09b8\u09ac\u09c1\u099c \u09ec \u099f\u09bf",
+        "longDesc": null,
+        "name": "Linc Ocean Wave Gel Pen Green 6 Pcs",
+        "nameWithoutSubText": "Linc Ocean Wave Gel Pen Green",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/linc-ocean-wave-gel-pen-green-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52581&q=low&v=1"
+        ],
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 20121
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u0987\u0995\u09cb\u09a8\u09cb \u09a1\u09bf\u098f\u0995\u09cd\u09b8 \u099f\u09bf\u09a8 \u09ac\u09b2 \u0995\u09b2\u09ae \u09e7\u09e6 \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Econo DX Teen Ball Pen 10 pcs ",
+        "nameWithoutSubText": "Econo DX Teen Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/econo-dx-teen-ball-pen-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50426&q=best&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 18595
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u0987\u0995\u09cb\u09a8\u09cb \u09ac\u09b2 \u0995\u09b2\u09ae \u09e7\u09e6 \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Econo Ball Pen 10 pcs ",
+        "nameWithoutSubText": "Econo Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/econo-ball-pen-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50402&q=best&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 18593
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u0987\u0995\u09cb\u09a8\u09cb \u09ab\u09c1\u09b2\u09cd\u09b2 \u099f\u09be\u0987\u09ae \u0995\u09b2\u09ae \u09ec \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Econo Full Time Ball Pen 6 pcs ",
+        "nameWithoutSubText": "Econo Full Time Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/econo-full-time-ball-pen-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53255&q=best&v=1"
+        ],
+        "price": 36.0,
+        "corpPrice": 36.0,
+        "objectID": 18592
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u0987\u0995\u09cb\u09a8\u09cb \u09ed\u09ee\u09ec \u09ac\u09b2 \u0995\u09b2\u09ae \u09e7\u09e6 \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Econo 786 Ball Pen 10 pcs ",
+        "nameWithoutSubText": "Econo 786 Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/econo-786-ball-pen-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50424&q=best&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 18591
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": " \u0987\u0995\u09cb\u09a8\u09cb \u099f\u09c7\u0995 \u09aa\u09af\u09bc\u09c7\u09a8\u09cd\u099f \u09ac\u09b2 \u0995\u09b2\u09ae \u09e7\u09e6 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Econo Tech Point Ball Pen 10 Pcs",
+        "nameWithoutSubText": "Econo Tech Point Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/econo-tech-point-ball-pen-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47186&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 16921
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u0987\u0995\u09cb\u09a8\u09cb \u098f\u0995\u09cd\u09b8\u09be\u09ae \u09ac\u09b2 \u0995\u09b2\u09ae \u09ec \u099f\u09bf",
+        "longDesc": null,
+        "name": "Econo Exam Ball Pen 6 pcs",
+        "nameWithoutSubText": "Econo Exam Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/econo-exam-ball-pen-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50428&q=best&v=1"
+        ],
+        "price": 48.0,
+        "corpPrice": 48.0,
+        "objectID": 16920
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09b2\u09be\u0987\u09a8\u09cd\u09b8 \u0993\u09b6\u09be\u09a8 \u0993\u09af\u09bc\u09c7\u09ad \u099c\u09c7\u09b2 \u0995\u09b2\u09ae \u0995\u09be\u09b2\u09cb \u09ec \u099f\u09bf",
+        "longDesc": null,
+        "name": "Linc Ocean Wave Gel Pen Black 6 pcs",
+        "nameWithoutSubText": "Linc Ocean Wave Gel Pen Black",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/linc-ocean-wave-gel-pen-black-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64773&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 16898
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u0987\u0995\u09cb\u09a8\u09cb \u099f\u09cd\u09b0\u09c7\u09a8\u09cd\u09a1\u09bf \u09ac\u09b2 \u0995\u09b2\u09ae \u09e7\u09e6 \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Econo Trendy Ball Pen 10 pcs ",
+        "nameWithoutSubText": "Econo Trendy Ball Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/econo-trendy-ball-pen-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59213&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 15430
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09ae\u09cd\u09af\u09be\u099f\u09be\u09a1\u09cb\u09b0 \u09aa\u09c7\u09a8\u09cd\u09b8\u09bf\u09b2\u09bf\u0995 \u0995\u09b2\u09ae \u09e7\u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Matador Pencilic Pen 12 pcs",
+        "nameWithoutSubText": "Matador Pencilic Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/matador-pencilic-pen-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35110&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 14391
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09b8\u09c7\u09b2\u09cb \u09ab\u09be\u0987\u09a8\u0997\u09cd\u09b0\u09bf\u09aa \u0995\u09be\u09b2\u09cb \u0995\u09b2\u09ae \u09eb \u099f\u09bf",
+        "longDesc": null,
+        "name": "Cello Finegrip Black Pen 5 pcs",
+        "nameWithoutSubText": "Cello Finegrip Black Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cello-finegrip-black-pen-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35093&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 10442
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09b2\u09bf\u0999\u09cd\u0995 \u0997\u09cd\u09b2\u09be\u0987\u09b8\u09be\u09b0 \u09ac\u09b2 \u0995\u09b2\u09ae \u09a8\u09c0\u09b2 \u09ec \u099f\u09bf",
+        "longDesc": null,
+        "name": "Linc Glycer Ball Pen Blue 6 pcs",
+        "nameWithoutSubText": "Linc Glycer Ball Pen Blue",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/linc-glycer-ball-pen-blue-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35058&q=low&v=1"
+        ],
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 8880
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09b2\u09be\u0987\u09a8\u09cd\u09b8 \u0997\u09cd\u09b2\u09be\u0987\u09b8\u09be\u09b0 \u09ac\u09b2 \u0995\u09b2\u09ae \u0995\u09be\u09b2\u09cb \u09ec \u099f\u09bf",
+        "longDesc": null,
+        "name": "Linc Glycer Ball Pen Black 6 pcs",
+        "nameWithoutSubText": "Linc Glycer Ball Pen Black",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/linc-glycer-ball-pen-black-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35056&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 8879
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09b2\u09be\u0987\u09a8\u09cd\u09b8 \u0997\u09cd\u09b2\u09be\u0987\u09b8\u09be\u09b0 \u09ac\u09b2 \u0995\u09b2\u09ae \u09b8\u09ac\u09c1\u099c \u09ec \u099f\u09bf",
+        "longDesc": null,
+        "name": "Linc Glycer Ball Pen Green 6 pcs",
+        "nameWithoutSubText": "Linc Glycer Ball Pen Green",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/linc-glycer-ball-pen-green-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35059&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 8877
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09ae\u09a8\u09cd\u099f\u09c7\u0995\u09cd\u09b8 \u09b9\u09be\u0987 \u09b8\u09cd\u09aa\u09c0\u09a1 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09b8\u09cd\u09ae\u09be\u09b0\u09cd\u099f \u099c\u09c7\u09b2 \u0995\u09b2\u09ae \u09a8\u09c0\u09b2 \u09eb \u099f\u09bf",
+        "longDesc": null,
+        "name": "Montex HY Speed Extra Smart Gel Pen Blue 5 pcs",
+        "nameWithoutSubText": "Montex HY Speed Extra Smart Gel Pen Blue",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/montex-hy-speed-extra-smart-gel-pen-blue-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35066&q=low&v=1"
+        ],
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 8237
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09ae\u09cd\u09af\u09be\u099f\u09be\u09a1\u09cb\u09b0 \u0986\u0987-\u099f\u09bf\u09a8 \u0995\u09b2\u09ae \u09ec \u099f\u09bf",
+        "longDesc": null,
+        "name": "Matador I-Teen Pen 6 pcs",
+        "nameWithoutSubText": "Matador I-Teen Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/matador-i-teen-pen-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35052&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 7790
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09b8\u09c7\u09b2\u09cb \u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09c7\u0995 \u0995\u09b2\u09ae \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Cello Pointec Pen 1 pcs",
+        "nameWithoutSubText": "Cello Pointec Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cello-pointec-pen-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35092&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 2723
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09ae\u09a8\u09cd\u099f\u09c7\u0995\u09cd\u09b8 \u09b9\u09be\u0987 \u09b8\u09cd\u09aa\u09c0\u09a1 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09b8\u09cd\u09ae\u09be\u09b0\u09cd\u099f \u099c\u09c7\u09b2 \u0995\u09b2\u09ae \u0995\u09be\u09b2\u09cb \u09eb \u099f\u09bf",
+        "longDesc": null,
+        "name": "Montex Hy Speed Extra Smart Gel Pen Black 5 pcs",
+        "nameWithoutSubText": "Montex Hy Speed Extra Smart Gel Pen Black",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/montex-hy-speed-extra-smart-gel-pen-black-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35062&q=low&v=1"
+        ],
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 2721
+    },
+    {
+        "category": {
+            "name": "Pens",
+            "id": "114",
+            "slug": "pens"
+        },
+        "bengaliName": "\u09b8\u09c7\u09b2\u09cb \u09ae\u09be\u0995\u09cd\u09b8 \u09b0\u09be\u0987\u099f\u09be\u09b0 \u0995\u09b2\u09ae \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Cello Maxriter Pen 1 pcs",
+        "nameWithoutSubText": "Cello Maxriter Pen",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cello-maxriter-pen-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D12734&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 2688
+    }
+]

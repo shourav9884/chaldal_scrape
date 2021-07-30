@@ -1,0 +1,1073 @@
+[
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u09b0\u09b8\u09c1\u09a8 \u0986\u099a\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ruchi Garlic Pickle 200 gm",
+        "nameWithoutSubText": "Ruchi Garlic Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-garlic-pickle-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48268&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 4101
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u0986\u09ae \u0986\u099a\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Square food and beverages Ltd. \r\nThe finest mangoes from the best plantations find their place inside the ruchi mango pickle jar. processed with traditional seasoning and spices, ruchi mango pickle is the first choice for the mango pickle lovers. the aroma and the taste give ruchi mango pickle a different place among all the other branded mango pickles.",
+        "name": "Ruchi Mango Pickle 200 gm",
+        "nameWithoutSubText": "Ruchi Mango Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-mango-pickle-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48270&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 4103
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u0986\u09ae\u09c7\u09b0 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Mango Pickle 400 gm",
+        "nameWithoutSubText": "Pran Mango Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-mango-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48263&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 2387
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u09aa\u09bf\u0995\u09b2 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Mango Pickle 300 gm",
+        "nameWithoutSubText": "Ahmed Mango Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-mango-pickle-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47348&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 16948
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u0986\u09b2\u09c1\u09ac\u09c1\u0996\u09be\u09b0 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ruchi Alubukhara Pickle 400 gm",
+        "nameWithoutSubText": "Ruchi Alubukhara Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-alubukhara-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71131&q=low&v=1"
+        ],
+        "price": 220.0,
+        "corpPrice": 220.0,
+        "objectID": 23095
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0995\u09bf\u09b6\u0993\u09af\u09bc\u09be\u09a8 \u099c\u09b2\u09aa\u09be\u0987\u09df\u09c7\u09b0 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kishwan Olive Pickle 400 gm",
+        "nameWithoutSubText": "Kishwan Olive Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kishwan-olive-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75166&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 24012
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u0986\u09ae \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ruchi Mango Pickle 400 gm",
+        "nameWithoutSubText": "Ruchi Mango Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-mango-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70243&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 4104
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0995\u09bf\u09b6\u0993\u09af\u09bc\u09be\u09a8 \u0986\u09ae\u09c7\u09b0 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kishwan Mango Pickle 400 gm",
+        "nameWithoutSubText": "Kishwan Mango Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kishwan-mango-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75162&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 24011
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u099a\u09be\u09b2\u09a4\u09be \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ruchi Chalta Pickle 400 gm",
+        "nameWithoutSubText": "Ruchi Chalta Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-chalta-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D62959&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 22073
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09b9\u09be\u09b2\u09a6\u09bf\u09b0\u09be\u09ae \u09b2\u09be\u09b2 \u09ae\u09b0\u09bf\u099a \u0986\u099a\u09be\u09b0 \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Haldiram Red Chilli Pickle 350 gm",
+        "nameWithoutSubText": "Haldiram Red Chilli Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/haldiram-red-chilli-pickle-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60052&q=low&v=1"
+        ],
+        "price": 395.0,
+        "corpPrice": 395.0,
+        "objectID": 21485
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09b9\u09be\u09b2\u09a6\u09bf\u09b0\u09be\u09ae \u09b8\u09ac\u09c1\u099c \u09ae\u09b0\u09bf\u099a \u0986\u099a\u09be\u09b0 \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Haldiram Green Chilli Pickle 350 gm",
+        "nameWithoutSubText": "Haldiram Green Chilli Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/haldiram-green-chilli-pickle-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60045&q=low&v=1"
+        ],
+        "price": 325.0,
+        "corpPrice": 325.0,
+        "objectID": 21484
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09b9\u09be\u09b2\u09a6\u09bf\u09b0\u09be\u09ae \u09b2\u09c7\u09ac\u09c1 \u09aa\u09bf\u0995\u09c7\u09b2 \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Haldiram Lemon Pickel 350 gm",
+        "nameWithoutSubText": "Haldiram Lemon Pickel",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/haldiram-lemon-pickel-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64819&q=low&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 21483
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09b9\u09be\u09b2\u09a6\u09bf\u09b0\u09be\u09ae \u09ae\u09bf\u0995\u09cd\u09b8 \u0986\u099a\u09be\u09b0 \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Haldiram Mixed Pickle 350 gm",
+        "nameWithoutSubText": "Haldiram Mixed Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/haldiram-mixed-pickle-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60049&q=low&v=1"
+        ],
+        "price": 295.0,
+        "corpPrice": 295.0,
+        "objectID": 21482
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09b9\u09be\u09b2\u09a6\u09bf\u09b0\u09be\u09ae \u0986\u09ae\u09c7\u09b0 \u0986\u099a\u09be\u09b0 \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Haldiram Mango Pickle 350 gm",
+        "nameWithoutSubText": "Haldiram Mango Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/haldiram-mango-pickle-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60047&q=low&v=1"
+        ],
+        "price": 295.0,
+        "corpPrice": 295.0,
+        "objectID": 21481
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09ab\u09bf\u0989\u09b6\u09a8 \u099f\u09be\u09b0\u09cd\u09ae\u09bf\u09a8\u09be\u09b2 \u099a\u09be\u09b2\u09a4\u09be \u0986\u099a\u09be\u09b0 \u09e9\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Fusion Terminal Chalta Pickle 325 gm",
+        "nameWithoutSubText": "Fusion Terminal Chalta Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fusion-terminal-chalta-pickle-325-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53029&q=best&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 20067
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09ab\u09bf\u0989\u09b6\u09a8 \u099f\u09be\u09b0\u09cd\u09ae\u09bf\u09a8\u09be\u09b2 \u09b6\u09a4\u0995\u09cb\u09a1\u09bc\u09be \u09b8\u09c1\u09aa\u09cd\u09b0\u09bf\u09ae \u0986\u099a\u09be\u09b0 \u09e9\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Fusion Terminal Shatkora Supreme Pickle 325 gm",
+        "nameWithoutSubText": "Fusion Terminal Shatkora Supreme Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fusion-terminal-shatkora-supreme-pickle-325-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53028&q=best&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 20066
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09ab\u09bf\u0989\u09b6\u09a8 \u099f\u09be\u09b0\u09cd\u09ae\u09bf\u09a8\u09be\u09b2 \u0986\u09ae\u09a1\u09bc\u09be \u098f\u09ae\u09aa\u09cd\u09b2\u09bf\u09ab\u09be\u0987\u09a1 \u09aa\u09bf\u0995\u09b2 \u09e9\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Fusion Terminal Aamra Amplified Pickle 325 gm",
+        "nameWithoutSubText": "Fusion Terminal Aamra Amplified Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fusion-terminal-aamra-amplified-pickle-325-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53030&q=best&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 20065
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b2\u09c7\u09ac\u09c1  \u0986\u099a\u09be\u09b0  \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Lemon Pickle 400 gm",
+        "nameWithoutSubText": "Ahmed Lemon Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-lemon-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52403&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 20007
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u0986\u09ae\u09b2\u09be \u0986\u099a\u09be\u09b0  \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Amla Pickle 400 gm",
+        "nameWithoutSubText": "Ahmed Amla Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-amla-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52402&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 20006
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09a8\u09bf\u0995\u09cb\u09ac\u09bf\u09a8\u09be \u09ac\u09dc\u0987 \u0986\u099a\u09be\u09b0 \u09e9\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nicobena Boroi Pickle 325 gm",
+        "nameWithoutSubText": "Nicobena Boroi Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nicobena-boroi-pickle-325-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48705&q=low&v=1"
+        ],
+        "price": 129.0,
+        "corpPrice": 129.0,
+        "objectID": 17237
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09a8\u09bf\u0995\u09cb\u09ac\u09bf\u09a8\u09be \u09a4\u09c7\u09a4\u09c1\u09b2 \u0986\u099a\u09be\u09b0 \u09e9\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nicobena Tamarind Pickle 325 gm",
+        "nameWithoutSubText": "Nicobena Tamarind Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nicobena-tamarind-pickle-325-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72158&q=low&v=1"
+        ],
+        "price": 139.0,
+        "corpPrice": 139.0,
+        "objectID": 17236
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09a8\u09bf\u0995\u09cb\u09ac\u09c7\u09a8\u09be \u09b9\u099f \u0985\u09b2\u09bf\u09ad \u0986\u099a\u09be\u09b0 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nicobena Olive Hot Pickle 300 gm",
+        "nameWithoutSubText": "Nicobena Olive Hot Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nicobena-olive-hot-pickle-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64822&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 17235
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09a8\u09bf\u0995\u09cb\u09ac\u09c7\u09a8\u09be \u09ae\u09cd\u09af\u09be\u0999\u09cd\u0997\u09cb \u09b9\u099f \u0986\u099a\u09be\u09b0 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nicobena Mango Hot Pickle 300 gm",
+        "nameWithoutSubText": "Nicobena Mango Hot Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nicobena-mango-hot-pickle-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48700&q=low&v=1"
+        ],
+        "price": 170.0,
+        "corpPrice": 170.0,
+        "objectID": 17234
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09a8\u09bf\u0995\u09cb\u09ac\u09c7\u09a8\u09be \u0997\u09cd\u09b0\u09bf\u09a8 \u099a\u09bf\u09b2\u09bf \u0986\u099a\u09be\u09b0 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nicobena Green Chilli Pickle 300 gm",
+        "nameWithoutSubText": "Nicobena Green Chilli Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nicobena-green-chilli-pickle-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48699&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 17233
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09a8\u09bf\u0995\u09cb\u09ac\u09c7\u09a8\u09be \u09a8\u09be\u0997\u09be \u0995\u09bf\u0982 \u09b9\u099f \u09aa\u09bf\u0995\u09c7\u09b2 \u09e7\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nicobena Naga King Hot Pickle 120 gm",
+        "nameWithoutSubText": "Nicobena Naga King Hot Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nicobena-naga-king-hot-pickle-120-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48698&q=low&v=1"
+        ],
+        "price": 185.0,
+        "corpPrice": 185.0,
+        "objectID": 17232
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a3 \u09af\u09c1\u0997\u09b2 \u099a\u09be\u099f\u09a8\u09bf \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Jugol Chutney 300 gm",
+        "nameWithoutSubText": "Pran Jugol Chutney",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-jugol-chutney-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64820&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 17126
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09a8\u09be\u099a\u09be \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u09a4\u09c7\u09a4\u09c1\u09b2\u09c7\u09b0 \u0986\u099a\u09be\u09b0 \u09e8\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Natcha Sweet Tamarind 225 gram",
+        "nameWithoutSubText": "Natcha Sweet Tamarind",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/natcha-sweet-tamarind-225-gram?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48333&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 17110
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u09a8\u09be\u0997\u09be \u09aa\u09bf\u0995\u09b2 \u09e7\u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Naga Pickle 160 gm",
+        "nameWithoutSubText": "Ahmed Naga Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-naga-pickle-160-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47363&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 16954
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u09a4\u09c7\u0981\u09a4\u09c1\u09b2 \u09aa\u09bf\u0995\u09b2 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Tamarind Pickle 400 gm",
+        "nameWithoutSubText": "Ahmed Tamarind Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-tamarind-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47352&q=low&v=1"
+        ],
+        "price": 140.0,
+        "corpPrice": 140.0,
+        "objectID": 16951
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u099c\u09b2\u09aa\u09be\u0987 \u09aa\u09bf\u0995\u09b2 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Olive Pickle 400 gm",
+        "nameWithoutSubText": "Ahmed Olive Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-olive-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47351&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 16950
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u09b0\u09b8\u09c1\u09a8 \u09aa\u09bf\u0995\u09b2 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Garlic Pickle 400 gm",
+        "nameWithoutSubText": "Ahmed Garlic Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-garlic-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47349&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 16949
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09ab\u09bf\u0989\u09b6\u09a8 \u09b9\u09cb\u09ae\u09ae\u09c7\u09a1 \u099f\u09be\u09b0\u09cd\u09ae\u09bf\u09a8\u09be\u09b2 \u09ae\u09b0\u09bf\u099a \u09ae\u09cd\u09af\u09be\u09a1\u09a8\u09c7\u09b8 \u0986\u099a\u09be\u09b0 \u09e9\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Green chili pickle",
+        "name": "Fusion Homemade Terminal Morich Madness Pickle 325 gm",
+        "nameWithoutSubText": "Fusion Homemade Terminal Morich Madness Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fusion-homemade-terminal-morich-madness-pickle-325-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44049&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 16300
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09ab\u09bf\u0989\u09b6\u09a8 \u099f\u09be\u09b0\u09cd\u09ae\u09bf\u09a8\u09be\u09b2 \u099c\u09be\u09b0\u09be \u09b2\u09c7\u09ac\u09c1 \u099c\u09be\u09b0\u09cd\u09a8\u09bf\u09b0 \u0986\u099a\u09be\u09b0 (\u09b9\u09cb\u09ae \u09ae\u09c7\u09a1) \u09e9\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Jaflong / Bengal Citron Pickle",
+        "name": "Fusion Terminal Jara Lebu Journey Pickle (Home Made) 325 gm",
+        "nameWithoutSubText": "Fusion Terminal Jara Lebu Journey Pickle (Home Made)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fusion-terminal-jara-lebu-journey-pickle-home-made-325-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44050&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 16299
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09ab\u09bf\u0989\u09b6\u09a8 \u099f\u09be\u09b0\u09cd\u09ae\u09bf\u09a8\u09be\u09b2 \u09b0\u09b8\u09c1\u09a8 \u09b0\u09af\u09bc\u09cd\u09af\u09be\u09b2 \u09e9\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "This is our version of classic garlic pickle. We blend freshly roasted spices with just the right portion of tamarind to coat these succulent cloves of garlic. This is thus far our favorite creation\r\n",
+        "name": "Fusion Terminal Roshun Royale 325 gm",
+        "nameWithoutSubText": "Fusion Terminal Roshun Royale",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fusion-terminal-roshun-royale-325-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80007&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 16274
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09ab\u09bf\u0989\u09b6\u09a8 \u099f\u09be\u09b0\u09cd\u09ae\u09bf\u09a8\u09be\u09b2 \u0986\u09ae\u09c7\u09b0 \u0995\u09be\u09b6\u09cd\u09ae\u09c0\u09b0\u09bf \u0986\u099a\u09be\u09b0 \u09e9\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Amazing preserved green mango. Classic Mango Kashmiri with a twist with our not-so-secret ingredient. We tried to stay true to the taste.",
+        "name": "Fusion Terminal Mango Kashmiri Pickle 325 gm",
+        "nameWithoutSubText": "Fusion Terminal Mango Kashmiri Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fusion-terminal-mango-kashmiri-pickle-325-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80008&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 16272
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u09a4\u09c7\u0981\u09a4\u09c1\u09b2 \u099a\u09be\u099f\u09a8\u09bf \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Khaas Food Tamarind Chutney 200 gm",
+        "nameWithoutSubText": "Khaas Food Tamarind Chutney",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-tamarind-chutney-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48255&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 15884
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0986\u09b2\u09c1\u09ac\u0996\u09b0\u09be \u099a\u09be\u099f\u09a8\u09bf \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Khaas Food Prunes Chutney 200 gm",
+        "nameWithoutSubText": "Khaas Food Prunes Chutney",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-prunes-chutney-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48254&q=low&v=1"
+        ],
+        "price": 185.0,
+        "corpPrice": 185.0,
+        "objectID": 15883
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0996\u09c7\u099c\u09c1\u09b0\u09c7\u09b0 \u099a\u09be\u099f\u09a8\u09bf \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Khaas Food Dates Chutney 200 gm",
+        "nameWithoutSubText": "Khaas Food Dates Chutney",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-dates-chutney-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48252&q=low&v=1"
+        ],
+        "price": 109.0,
+        "corpPrice": 109.0,
+        "objectID": 15882
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09a8\u09bf\u0995\u09cb\u09ac\u09bf\u09a8\u09be \u09b0\u09b8\u09c1\u09a8\u09c7\u09b0 \u0986\u099a\u09be\u09b0 \u09a4\u09c7\u09b2\u09c7\u09b0 \u09ad\u09c7\u09a4\u09b0 \u09e8\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Nicobena Garlic Pickle in oil 220 gm",
+        "nameWithoutSubText": "Nicobena Garlic Pickle in oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nicobena-garlic-pickle-in-oil-220-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36298&q=low&v=1"
+        ],
+        "price": 170.0,
+        "corpPrice": 170.0,
+        "objectID": 14784
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09a8\u09bf\u0995\u09cb\u09ac\u09bf\u09a8\u09be \u09b8\u09be\u09a4\u0995\u09b0\u09be \u099d\u09be\u09b2 \u0986\u099a\u09be\u09b0 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nicobena Satkara Hot Pickle 300 gm",
+        "nameWithoutSubText": "Nicobena Satkara Hot Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nicobena-satkara-hot-pickle-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36297&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 14783
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09a2\u09be\u0995\u09be \u09a1\u09cb \u09a6\u09c7\u09b6\u09c0 \u09b0\u09b8\u09c1\u09a8\u09c7\u09b0 \u0986\u099a\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dhaka Dough Deshi Garlic Pickle 200 gm",
+        "nameWithoutSubText": "Dhaka Dough Deshi Garlic Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dhaka-dough-deshi-garlic-pickle-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48251&q=low&v=1"
+        ],
+        "price": 192.0,
+        "corpPrice": 192.0,
+        "objectID": 13254
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0996\u09c1\u09b6\u09ac\u09c1 \u09b0\u09b8\u09c1\u09a8\u09c7\u09b0 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khusboo Garlic Pickle 400 gm",
+        "nameWithoutSubText": "Khusboo Garlic Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khusboo-garlic-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48257&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 12408
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0996\u09c1\u09b6\u09ac\u09c1 \u0986\u09ae\u09c7\u09b0 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khusboo Mango Pickle 400 gm",
+        "nameWithoutSubText": "Khusboo Mango Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khusboo-mango-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48258&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 12209
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0996\u09c1\u09b6\u09ac\u09c1 \u099c\u09b2\u09aa\u09be\u0987 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khusboo Olive Pickle 400 gm",
+        "nameWithoutSubText": "Khusboo Olive Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khusboo-olive-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23491&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 12208
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0996\u09c1\u09b6\u09ac\u09c1 \u09a4\u09c7\u09a4\u09c1\u09b2 \u09ac\u09cd\u09b0\u0987 \u0986\u099a\u09be\u09b0 \u09ea\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khusboo Tamarind Plum Pickle 450 gm",
+        "nameWithoutSubText": "Khusboo Tamarind Plum Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khusboo-tamarind-plum-pickle-450-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48259&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 11966
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0996\u09c1\u09b6\u09ac\u09c1 \u0986\u09b2\u09c1\u09ac\u09cb\u0996\u09be\u09b0\u09be\u09b0 \u0986\u099a\u09be\u09b0 \u09ea\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khusboo Alubukhara Pickle 450 gm",
+        "nameWithoutSubText": "Khusboo Alubukhara Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khusboo-alubukhara-pickle-450-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48256&q=low&v=1"
+        ],
+        "price": 189.0,
+        "corpPrice": 189.0,
+        "objectID": 11965
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b8\u09be\u09a4\u0995\u09b0\u09be \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Satkora Pickle 400 gm",
+        "nameWithoutSubText": "Ahmed Satkora Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-satkora-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52464&q=best&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 11816
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09ae\u09b0\u09bf\u099a\u09c7\u09b0 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Chilli Pickle 400 gm",
+        "nameWithoutSubText": "Ahmed Chilli Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-chilli-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48242&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 11813
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09ae\u09bf\u0995\u09cd\u09b8\u09a1 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Mixed Pickle 400 gm",
+        "nameWithoutSubText": "Ahmed Mixed Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-mixed-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48243&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 11811
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09ac\u09bf\u09a1\u09bf \u099c\u09b2\u09cd\u09aa\u09be\u0987\u09b0 \u0986\u0981\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BD Olive Pickle 400 gm",
+        "nameWithoutSubText": "BD Olive Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bd-olive-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48249&q=low&v=1"
+        ],
+        "price": 125.0,
+        "corpPrice": 125.0,
+        "objectID": 11024
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u0997\u09be\u09b0\u09a1\u09c7\u09a8 \u099c\u09be\u09b2\u09be\u09aa\u09c7\u09a8\u09cb \u09aa\u09c7\u09aa\u09be\u09b0 \u09ea\u09eb\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "American Garden Jalapeno Pepper 454 gm",
+        "nameWithoutSubText": "American Garden Jalapeno Pepper",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/american-garden-jalapeno-pepper-454-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60034&q=low&v=1"
+        ],
+        "price": 329.0,
+        "corpPrice": 329.0,
+        "objectID": 9839
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09ac\u09bf\u09a1\u09bf \u09ac\u09dc\u0987 \u098f\u09b0 \u099a\u09be\u099f\u09a8\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BD Boroi Chutney 500 gm",
+        "nameWithoutSubText": "BD Boroi Chutney",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bd-boroi-chutney-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48245&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 8410
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09ac\u09bf\u09a1\u09bf \u09a4\u09c7\u0981\u09a4\u09c1\u09b2\u09c7\u09b0 \u099a\u09be\u099f\u09a8\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BD Tatul Chutney 500 gm",
+        "nameWithoutSubText": "BD Tatul Chutney",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bd-tatul-chutney-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48250&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 8408
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ae\u09bf\u0995\u09cd\u09b8\u09a1 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Mixed Pickle 400 gm",
+        "nameWithoutSubText": "Pran Mixed Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-mixed-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48264&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 7360
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09ac\u09bf\u09a1\u09bf \u09b0\u09b8\u09c1\u09a8\u09c7\u09b0 \u0986\u0981\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BD Garlic Pickle 400 gm",
+        "nameWithoutSubText": "BD Garlic Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bd-garlic-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61526&q=low&v=1"
+        ],
+        "price": 195.0,
+        "corpPrice": 195.0,
+        "objectID": 7249
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u09ae\u09bf\u0995\u09cd\u09b8\u09a1 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ruchi Mixed Pickle 400 gm",
+        "nameWithoutSubText": "Ruchi Mixed Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-mixed-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48272&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 6213
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u099c\u09b2\u09aa\u09be\u0987 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ruchi Olive Pickle 400 gm",
+        "nameWithoutSubText": "Ruchi Olive Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-olive-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64369&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 4106
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u09ae\u09bf\u0995\u09cd\u09b8\u09a1 \u099a\u09be\u099f\u09a8\u09bf \u09ea\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ruchi Mixed Chutney 450 gm",
+        "nameWithoutSubText": "Ruchi Mixed Chutney",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-mixed-chutney-450-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48271&q=low&v=1"
+        ],
+        "price": 115.0,
+        "corpPrice": 115.0,
+        "objectID": 4105
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u099c\u09b2\u09aa\u09be\u0987 \u0986\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Olive Pickle 400 gm",
+        "nameWithoutSubText": "Pran Olive Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-olive-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48266&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 3949
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09b0\u09b8\u09c1\u09a8 \u0986\u099a\u09be\u09b0 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Garlic Pickle 300 gm",
+        "nameWithoutSubText": "Pran Garlic Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-garlic-pickle-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64818&q=low&v=1"
+        ],
+        "price": 185.0,
+        "corpPrice": 185.0,
+        "objectID": 3925
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09ae \u09a8\u09be\u0997\u09be \u09ae\u09b0\u09bf\u099a \u0986\u099a\u09be\u09b0 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Naga Chilli Pickle 300 gm",
+        "nameWithoutSubText": "Pran Naga Chilli Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-naga-chilli-pickle-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48265&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 3913
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09ac\u09bf\u09a1\u09bf \u0986\u09ae\u09c7\u09b0 \u0986\u0981\u099a\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BD Mango Pickle 400 gm",
+        "nameWithoutSubText": "BD Mango Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bd-mango-pickle-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48248&q=low&v=1"
+        ],
+        "price": 125.0,
+        "corpPrice": 125.0,
+        "objectID": 3243
+    },
+    {
+        "category": {
+            "name": "Pickles",
+            "id": "78",
+            "slug": "pickles"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ac\u09b0\u0987 \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u0986\u099a\u09be\u09b0 \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Boroi Sweet Pickle 350 gm",
+        "nameWithoutSubText": "Pran Boroi Sweet Pickle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-boroi-sweet-pickle-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48260&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 2376
+    }
+]

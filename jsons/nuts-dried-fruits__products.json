@@ -1,0 +1,292 @@
+[
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u0995\u09bf\u09b6\u09ae\u09bf\u09b6 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Raisins (Kishmish) 100 gm",
+        "nameWithoutSubText": "Raisins (Kishmish)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/raisins-kishmish-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47965&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 4022
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u0995\u09be\u099c\u09c1 \u09ac\u09be\u09a6\u09be\u09ae \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Badam  ",
+        "name": "Kaju Badam (Cashew Nut) 100 gm",
+        "nameWithoutSubText": "Kaju Badam (Cashew Nut)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kaju-badam-cashew-nut-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47958&q=low&v=1",
+            "https://chaldn.com/_mpimage/kazu-cashew-nut-badam-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22247&q=low&v=1"
+        ],
+        "price": 109.0,
+        "corpPrice": 109.0,
+        "objectID": 3117
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u0995\u09be\u09a0 \u09ac\u09be\u09a6\u09be\u09ae \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Almonds are a fantastic source of antioxidants. Nuts are low in carbs but high in healthy fats, protein and fiber. The magnesium in almonds may additionally help lower blood pressure levels. Almonds Can Lower Cholesterol Levels.  Eating Almonds Reduces Hunger, Lowering Your Overall Calorie Intake\r\nAlmonds boast an impressive nutrient profile. A 1-ounce (28-gram) serving of almonds contains :\r\n\u2022        Fiber: 3.5 grams\r\n\u2022        Protein: 6 grams\r\n\u2022        Fat: 14 grams (9 of which are monounsaturated)\r\n\u2022        Vitamin E: 37% of the RDI\r\n\u2022        Manganese: 32% of the RDI\r\n\u2022        Magnesium: 20% of the RDI\r\n\u2022        They also contain a decent amount of copper, vitamin B2 (riboflavin) and phosphorus.",
+        "name": "Almonds (Kath Badam) 100 gm",
+        "nameWithoutSubText": "Almonds (Kath Badam)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/almonds-kath-badam-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47957&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 3109
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u0996\u09cb\u09b8\u09be \u099b\u09be\u09dc\u09be\u09a8\u09cb \u09ad\u09be\u099c\u09be  \u099a\u09bf\u09a8\u09be\u09ac\u09be\u09a6\u09be\u09ae \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Peanut    ",
+        "name": "Peanut Peeled (Vaja Cheena Badam) 100 gm",
+        "nameWithoutSubText": "Peanut Peeled (Vaja Cheena Badam)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/peanut-peeled-vaja-cheena-badam-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D26835&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 3897
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u0995\u09be\u0981\u099a\u09be \u099a\u09bf\u09a8\u09be\u09ac\u09be\u09a6\u09be\u09ae \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Peanut Raw (Kacha Cheena Badam) 100 gm",
+        "nameWithoutSubText": "Peanut Raw (Kacha Cheena Badam)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/peanut-raw-kacha-cheena-badam-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47028&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 9517
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u0986\u09b2 \u09a2\u09be\u09ab\u09b0\u09be \u0996\u09c7\u099c\u09c1\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Al Dhafra Dates (Khejur) 400 gm",
+        "nameWithoutSubText": "Al Dhafra Dates (Khejur)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/al-dhafra-dates-khejur-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47956&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 14802
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u0986\u0996\u09b0\u09cb\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Health benefits:\r\nImproves the metabolism, prevents cancer, improves skin, it helps manage weight, controls diabetes, reduces inflammation. It helps regulate sleep. \r\nNutritional facts: Calories, Fat, Sodium, Potassium, Carbohydrate, Protein, Calcium, Iron, Vitamin-C, Vitamin B-6, Magnesium.",
+        "name": "Walnuts (Akhrot) 100 gm",
+        "nameWithoutSubText": "Walnuts (Akhrot)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/walnuts-akhrot-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65836&q=low&v=1"
+        ],
+        "price": 159.0,
+        "corpPrice": 159.0,
+        "objectID": 8086
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u0996\u09c1\u09b0\u09ae\u09be \u09b6\u09c1\u0995\u09a8\u09cb \u0996\u09c7\u099c\u09c1\u09b0 (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khurma Dry Dates (Khejur) (Net Weight \u00b1 30 gm) 500 gm",
+        "nameWithoutSubText": "Khurma Dry Dates (Khejur) (Net Weight \u00b1 30 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khurma-dry-dates-khejur-net-weight-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76677&q=low&v=1"
+        ],
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 24255
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u09aa\u09c7\u09b8\u09cd\u09a4\u09be \u09ac\u09be\u09a6\u09be\u09ae \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pistachios (Pesta Badam) 100 gm",
+        "nameWithoutSubText": "Pistachios (Pesta Badam)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pistachios-pesta-badam-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47964&q=low&v=1"
+        ],
+        "price": 219.0,
+        "corpPrice": 219.0,
+        "objectID": 3112
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6\u09be \u09a4\u09bf\u09b2 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "White Sesame 100 gm",
+        "nameWithoutSubText": "White Sesame",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/white-sesame-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D15981&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 10009
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u09a8\u09cb\u09a8\u09be \u0995\u09be\u099c\u09c1 \u09ac\u09be\u09a6\u09be\u09ae \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Roasted Cashew Nuts (Nona Kaju Badam) 100 gm",
+        "nameWithoutSubText": "Khaas Food Roasted Cashew Nuts (Nona Kaju Badam)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-roasted-cashew-nuts-nona-kaju-badam-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47961&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 15880
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u09ae\u09c7\u09a1\u099c\u09c1\u09b2 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09df\u09be\u09ae \u0996\u09c7\u099c\u09c1\u09b0 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Medjool Premium Dates (Sealed) 250 gm",
+        "nameWithoutSubText": "Medjool Premium Dates (Sealed)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/medjool-premium-dates-sealed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77065&q=low&v=1"
+        ],
+        "price": 379.0,
+        "corpPrice": 379.0,
+        "objectID": 24253
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0995\u09be\u09a0 \u09ac\u09be\u09a6\u09be\u09ae \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Khaas Food Almond (Kath Badam) 100 gm ",
+        "nameWithoutSubText": "Khaas Food Almond (Kath Badam)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-almond-kath-badam-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47959&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 15878
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u09ad\u09be\u099c\u09be \u0995\u09be\u099c\u09c1 \u09ac\u09be\u09a6\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Roasted Cashew 500 gm",
+        "nameWithoutSubText": "Khaas Food Roasted Cashew",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-roasted-cashew-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67758&q=low&v=1"
+        ],
+        "price": 699.0,
+        "corpPrice": 699.0,
+        "objectID": 22550
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0995\u09be\u099c\u09c1\u09ac\u09be\u09a6\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Almond Nuts 500 gm",
+        "nameWithoutSubText": "Khaas Food Almond Nuts",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-almond-nuts-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67748&q=low&v=1"
+        ],
+        "price": 510.0,
+        "corpPrice": 510.0,
+        "objectID": 22546
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u09b0\u09af\u09bc\u09c7\u09b2 \u09ab\u09be\u09b0\u09cd\u09ae \u0995\u09c7\u09b6\u09c1 \u09a8\u09be\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Royal Farm Cashew Nut 100 gm",
+        "nameWithoutSubText": "Royal Farm Cashew Nut",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/royal-farm-cashew-nut-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60828&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 21600
+    },
+    {
+        "category": {
+            "name": "Nuts & Dried Fruits",
+            "id": "8",
+            "slug": "nuts-dried-fruits"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b9\u09cb\u09af\u09bc\u09be\u0987\u099f \u099f\u09bf\u09b2 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM White Till 200 gm",
+        "nameWithoutSubText": "BPM White Till",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-white-till-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52502&q=best&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 19922
+    }
+]

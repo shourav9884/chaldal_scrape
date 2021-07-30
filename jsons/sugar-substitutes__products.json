@@ -1,0 +1,869 @@
+[
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09a4\u09c0\u09b0 \u09b9\u09cb\u09b2 \u09b9\u09cb\u09df\u09c7\u099f \u0986\u099f\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Teer Whole Wheat Atta 2 kg",
+        "nameWithoutSubText": "Teer Whole Wheat Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/teer-whole-wheat-atta-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48044&q=low&v=1"
+        ],
+        "price": 88.0,
+        "corpPrice": 88.0,
+        "objectID": 11993
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u0987\u09ab\u09be\u09a6 \u09ac\u09be\u09a6\u09be\u09ae\u09bf \u0986\u099f\u09be \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Ifad Brown Atta 1 kg",
+        "nameWithoutSubText": "Ifad Brown Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ifad-brown-atta-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65203&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 3602
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u099c\u09bf\u09b0\u09cb \u0995\u09cd\u09af\u09be\u09b2 \u09ac\u0995\u09cd\u09b8 \u09ed\u09eb \u09b8\u09cd\u09af\u09be\u099a\u09c7\u09b8",
+        "longDesc": null,
+        "name": "Zero Cal Box 75 Sachets",
+        "nameWithoutSubText": "Zero Cal Box 75 Sachets",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/zero-cal-box-75-sachets?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53564&q=best&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 4349
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09ac\u09bf\u09b8\u09cd\u0995 \u0995\u09cd\u09b2\u09be\u09ac \u099a\u09bf\u09a8\u09bf \u09ae\u09c1\u0995\u09cd\u09a4 \u0995\u09cd\u09b0\u09c7\u0995\u09be\u09b0 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bisk Club Sugar Free Cracker Biscuit 180 gm",
+        "nameWithoutSubText": "Bisk Club Sugar Free Cracker Biscuit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bisk-club-sugar-free-cracker-biscuit-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65896&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 16151
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u099c\u09bf\u09b0\u09cb\u0995\u09cd\u09af\u09be\u09b2 \u09e7\u09e6\u09e6 \u099f\u09cd\u09af\u09be\u09ac\u09b2\u09c7\u099f\u09b8",
+        "longDesc": null,
+        "name": "Zero Cal Sugar 100 Tablets",
+        "nameWithoutSubText": "Zero Cal Sugar 100 Tablets",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/zero-cal-sugar-100-tablets?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53563&q=best&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 4348
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u0995\u09cb\u09df\u09c7\u0995\u09be\u09b0 \u0993\u099f\u09b8 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Quaker Oats 1 kg",
+        "nameWithoutSubText": "Quaker Oats",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/quaker-oats-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65135&q=low&v=1"
+        ],
+        "price": 575.0,
+        "corpPrice": 575.0,
+        "objectID": 11800
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09aa\u09c1\u09b0\u09a8\u09be\u09ad\u09be \u099a\u09bf\u09a8\u09bf\u0997\u09cb \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09df\u09be\u09ae \u09b8\u09c1\u0987\u099f\u09a8\u09be\u09b0 \u09e9\u09e6 \u099f\u09bf \u09b8\u09cd\u09af\u09be\u09b6\u09c7",
+        "longDesc": null,
+        "name": "Purnava Chinigo Premium Sweetener 30 Sachets",
+        "nameWithoutSubText": "Purnava Chinigo Premium Sweetener 30 Sachets",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/purnava-chinigo-premium-sweetener-30-sachets?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64732&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 16673
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u0995\u09cb\u09df\u09c7\u0995\u09be\u09b0 \u09b8\u09be\u09a6\u09be \u0993\u099f\u09b8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Order 100% natural whole grain Quaker White Oats from chaldal. Mix it with milk to boost protein. So, buy the good food with affordable price. Net weight 500 gm. \r\n",
+        "name": "Quaker White Oats 500 gm",
+        "nameWithoutSubText": "Quaker White Oats",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/quaker-white-oats-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45556&q=low&v=1"
+        ],
+        "price": 289.0,
+        "corpPrice": 289.0,
+        "objectID": 2394
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u0995\u09cb\u09df\u09c7\u0995\u09be\u09b0 \u09b9\u09cb\u09b2 \u0993\u099f\u09b8 \u09ed\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Quaker Whole Oats 700 gm",
+        "nameWithoutSubText": "Quaker Whole Oats",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/quaker-whole-oats-700-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74026&q=low&v=1"
+        ],
+        "price": 480.0,
+        "corpPrice": 480.0,
+        "objectID": 23697
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u099c\u09bf\u09b0\u09cb\u0995\u09cd\u09af\u09be\u09b2 \u09e8\u09eb \u09b8\u09cd\u09af\u09be\u099a\u09c7\u09b8",
+        "longDesc": null,
+        "name": "Zero Cal Sugar 25 Sachets ",
+        "nameWithoutSubText": "Zero Cal Sugar 25 Sachets ",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/zero-cal-sugar-25-sachets?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53561&q=best&v=1"
+        ],
+        "price": 85.0,
+        "corpPrice": 85.0,
+        "objectID": 2526
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u099a\u09bf\u09a8\u09bf \u09ae\u09c1\u0995\u09cd\u09a4 \u0995\u09ae\u09b2\u09be\u09b0 \u099c\u09c7\u09b2\u09bf \u09e9\u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Sugar Free Orange Jelly 375 gm ",
+        "nameWithoutSubText": "Ahmed Sugar Free Orange Jelly",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-sugar-free-orange-jelly-375-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77731&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 3979
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09aa\u09c1\u09b0\u09a8\u09be\u09ad\u09be \u09b2\u09cb \u099c\u09bf \u0986\u0987 \u099a\u09be\u09b2 \u09eb \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Purnava Low GI Rice was tested by BIRDEM, Bangladesh\u2019s foremost institute under the Diabetic Association of Bangladesh, and found to have a low GI. In addition, an Australian University\u2019s Glycemic Index Research Unit has found Purnava Low GI Rice to have a low GI value of 47, the lowest GI value of any white rice tested ever. Based on these results, Purnava Low GI Rice is internationally certified by the Glycemic Index Foundation and part of GI Symbol Program, the only independent worldwide Glycemic Index certification program.",
+        "name": "Purnava Low G.I. Rice 5 kg",
+        "nameWithoutSubText": "Purnava Low G.I. Rice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/purnava-low-gi-rice-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48090&q=low&v=1"
+        ],
+        "price": 552.0,
+        "corpPrice": 552.0,
+        "objectID": 4571
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b8\u09cd\u09aa\u09c7\u09b2\u09c7\u09a8\u09cd\u09a1\u09be \u09a8\u09cb \u0995\u09cd\u09af\u09be\u09b2 \u09b8\u09c1\u0987\u099f\u09a8\u09be\u09b0 \u09e7\u09e6\u09e6 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Splenda No Cal Sweetner 100 pcs",
+        "nameWithoutSubText": "Splenda No Cal Sweetner",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/splenda-no-cal-sweetner-100-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D3285&q=low&v=1"
+        ],
+        "price": 395.0,
+        "corpPrice": 395.0,
+        "objectID": 4185
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u098f\u09a8\u09b6\u09bf\u0989\u09b0 \u09a1\u09be\u09df\u09be\u09ac\u09c7\u099f\u09bf\u09b8 \u0995\u09c7\u09df\u09be\u09cd\u09b0 \u098f\u09a1\u09be\u09b2\u09cd\u099f \u09b9\u09c7\u09b2\u09a5 \u09a1\u09cd\u09b0\u09bf\u0999\u09cd\u0995 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ensure Diabetes Care Adult Health Drink 400 gm",
+        "nameWithoutSubText": "Ensure Diabetes Care Adult Health Drink",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ensure-diabetes-care-adult-health-drink-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59186&q=low&v=1"
+        ],
+        "price": 899.0,
+        "corpPrice": 899.0,
+        "objectID": 16083
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u099f\u09bf\u09ab\u09be\u09a8\u09bf \u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09bf \u099a\u0995\u09b2\u09c7\u099f \u09ac\u09bf\u09b8\u09cd\u0995\u09bf\u099f \u09e7\u09ec\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tiffany Sugar Free Chocolate Cream Biscuit 162 gm",
+        "nameWithoutSubText": "Tiffany Sugar Free Chocolate Cream Biscuit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tiffany-sugar-free-chocolate-cream-biscuit-162-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47455&q=low&v=1"
+        ],
+        "price": 259.0,
+        "corpPrice": 259.0,
+        "objectID": 16241
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b8\u09c1\u0987\u099f\u09cb \u0995\u09cd\u09af\u09be\u09b2\u09b0\u09bf \u098f\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09ab\u09cd\u09af\u09be\u099f \u09ab\u09cd\u09b0\u09bf \u09b8\u09c1\u0987\u099f\u09c7\u09a8\u09be\u09b0 \u09ac\u0995\u09cd\u09b8 \u09eb\u09e6 \u09b8\u09c7\u09b6\u09c7\u099f\u09b8",
+        "longDesc": null,
+        "name": "Suito Calorie & Fat Free Sweetener Box 50 Sachets",
+        "nameWithoutSubText": "Suito Calorie & Fat Free Sweetener Box 50 Sachets",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/suito-calorie-fat-free-sweetener-box-50-sachets?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43048&q=low&v=1"
+        ],
+        "price": 175.0,
+        "corpPrice": 175.0,
+        "objectID": 16030
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u099f\u09bf\u09ab\u09be\u09a8\u09bf \u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09bf \u0995\u09ae\u09b2\u09be \u0995\u09cd\u09b0\u09bf\u09ae \u09ac\u09bf\u09b8\u09cd\u0995\u09bf\u099f \u09e7\u09ec\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tiffany Sugar free Orange Cream Biscuits 162 gm",
+        "nameWithoutSubText": "Tiffany Sugar free Orange Cream Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tiffany-sugar-free-orange-cream-biscuits-162-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43641&q=low&v=1"
+        ],
+        "price": 259.0,
+        "corpPrice": 259.0,
+        "objectID": 16176
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b8\u09cd\u099f\u09c1\u099f \u09a1\u09be\u09af\u09bc\u09be\u09ac\u09c7\u099f\u09bf\u0995 \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u099c\u09cd\u09af\u09be\u09ae \u09ea\u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Stute Diabetic Strawberry Extra Jam 430 gm",
+        "nameWithoutSubText": "Stute Diabetic Strawberry Extra Jam",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/stute-diabetic-strawberry-extra-jam-430-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77776&q=low&v=1"
+        ],
+        "price": 379.0,
+        "corpPrice": 379.0,
+        "objectID": 8932
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b8\u09cd\u099f\u09c1\u099f \u09a1\u09be\u09af\u09bc\u09be\u09ac\u09c7\u099f\u09bf\u0995 \u09b0\u09be\u09b8\u09cd\u09aa\u09ac\u09c7\u09b0\u09c0 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u099c\u09cd\u09af\u09be\u09ae \u09ea\u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Stute Diabetic Raspberry Extra Jam 430 gm",
+        "nameWithoutSubText": "Stute Diabetic Raspberry Extra Jam",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/stute-diabetic-raspberry-extra-jam-430-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77784&q=low&v=1"
+        ],
+        "price": 379.0,
+        "corpPrice": 379.0,
+        "objectID": 4198
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09bf \u0985\u09cd\u09af\u09be\u09aa\u09b2 \u099c\u09c7\u09b2\u09bf \u09e9\u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Sugar Free Apple Jelly 375 gm",
+        "nameWithoutSubText": "Ahmed Sugar Free Apple Jelly",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-sugar-free-apple-jelly-375-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47343&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 16946
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09aa\u09c1\u09b0\u09a8\u09be\u09ad\u09be \u099a\u09bf\u09a8\u09bf\u0997\u09cb \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09df\u09be\u09ae \u09b8\u09c1\u0987\u099f\u09a8\u09be\u09b0 (\u09e9 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09e9\u09e6 \u099f\u09bf \u09b8\u09cd\u09af\u09be\u09b6\u09c7",
+        "longDesc": null,
+        "name": "Purnava Chinigo Premium Sweetener (Buy 3 Get 1) 30 Sachets",
+        "nameWithoutSubText": "Purnava Chinigo Premium Sweetener (Buy 3 Get 1) 30 Sachets",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/purnava-chinigo-premium-sweetener-buy-3-get-1-30-sachets?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80815&q=low&v=1"
+        ],
+        "price": 360.0,
+        "corpPrice": 360.0,
+        "objectID": 24846
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b8\u09c1\u0987\u099f\u09cb \u0995\u09cd\u09af\u09be\u09b2\u09cb\u09b0\u09bf \u098f\u09a8\u09cd\u09a1 \u09ab\u09cd\u09af\u09be\u099f \u09ab\u09cd\u09b0\u09c0 \u09b8\u09c1\u0987\u099f\u09a8\u09be\u09b0 \u09e8\u09eb \u09b8\u09cd\u09af\u09be\u09b8\u09c7",
+        "longDesc": null,
+        "name": "Suito Calorie & Fat Free Sweetener 25 Sachet",
+        "nameWithoutSubText": "Suito Calorie & Fat Free Sweetener 25 Sachet",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/suito-calorie-fat-free-sweetener-25-sachet?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80123&q=low&v=1"
+        ],
+        "price": 78.0,
+        "corpPrice": 78.0,
+        "objectID": 24727
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u099f\u09bf\u09ab\u09be\u09a8\u09bf \u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09bf \u09b2\u09c7\u09ae\u09a8 \u0995\u09cd\u09b0\u09bf\u09ae \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f  \u09e7\u09ec\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tiffany Sugar Free Lemon Cream Biscuits 162 gm",
+        "nameWithoutSubText": "Tiffany Sugar Free Lemon Cream Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tiffany-sugar-free-lemon-cream-biscuits-162-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80115&q=low&v=1"
+        ],
+        "price": 330.0,
+        "corpPrice": 330.0,
+        "objectID": 24723
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09a1\u09be\u09df\u09be\u09ac\u09c7\u099f\u09be\u09b8\u09b2 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09ab\u09b0 \u09a1\u09be\u09af\u09bc\u09be\u09ac\u09c7\u099f\u09bf\u0995 \u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Diabetasol is nutritional milk-based drink specially formulated for the people with diabetes. It is sugar free, low-sodium with zero cholesterol and fatty acids. It is a perfect drink to keep diabetes under control and reduce risk for heart disease.",
+        "name": "Diabetasol Nutrition Powder For Diabetic Vanilla 180 gm",
+        "nameWithoutSubText": "Diabetasol Nutrition Powder For Diabetic Vanilla",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/diabetasol-nutrition-powder-for-diabetic-vanilla-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80110&q=low&v=1"
+        ],
+        "price": 450.0,
+        "corpPrice": 450.0,
+        "objectID": 24721
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u099f\u09cd\u09b0\u09be\u0987\u09a1\u09c7\u09a8\u09cd\u099f \u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09bf (\u099a\u09bf\u09a8\u09bf \u099b\u09be\u09dc\u09be) \u0997\u09be\u09ae \u09b8\u09cd\u09aa\u09c7\u09df\u09be\u09b0\u09ae\u09bf\u09a8\u09cd\u099f \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09e8\u09ec.\u09ec \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Trident Sugar Free Gum Spearmint Flavor 26.6 gm",
+        "nameWithoutSubText": "Trident Sugar Free Gum Spearmint Flavor",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/trident-sugar-free-gum-spearmint-flavor-266-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80109&q=low&v=1"
+        ],
+        "price": 133.0,
+        "corpPrice": 133.0,
+        "objectID": 24719
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09a1\u09bf\u09b8\u0995\u09ad\u09be\u09b0\u09bf \u0985\u09b0\u09cd\u0997\u09be\u09a8\u09bf\u0995 \u0985\u09cd\u09af\u09be\u09aa\u09c7\u09b2 \u09b8\u09bf\u09a1\u09be\u09b0 \u09ad\u09bf\u09a8\u09c7\u0997\u09be\u09b0 \u099c\u09bf\u09b0\u09be \u098f\u09a8\u09cd\u09a1 \u09b9\u09b2\u09c1\u09a6 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf ",
+        "longDesc": null,
+        "name": "Discovery Organic A C Vinegar Ginger & Turmeric 500 ml",
+        "nameWithoutSubText": "Discovery Organic A C Vinegar Ginger & Turmeric",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/discovery-organic-a-c-vinegar-ginger-turmeric-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80108&q=low&v=1"
+        ],
+        "price": 1325.0,
+        "corpPrice": 1325.0,
+        "objectID": 24718
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u09a1\u09be\u09df\u09be\u09ac\u09c7\u099f\u09bf\u0995 \u099a\u09bf\u09a8\u09be\u09ac\u09be\u09a6\u09be\u09ae\u09c7\u09b0 \u09ae\u09be\u0996\u09a8 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Diabetic Peanut Butter 200 gm",
+        "nameWithoutSubText": "Khaas Food Diabetic Peanut Butter",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-diabetic-peanut-butter-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80107&q=low&v=1"
+        ],
+        "price": 230.0,
+        "corpPrice": 230.0,
+        "objectID": 24717
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u099c\u09c7\u09b8\u09a8 \u099a\u09cd\u09af\u09ac\u09a8\u09aa\u09cd\u09b0\u09be\u09b6 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "1. Naturally boost immunity\r\n2. Sugar free & suitable for diabetic patient\r\n3. Effective for all age groups\r\n4. Assure good health\r\n5. Ensure stamina & strength\r\n6. Keeps child physically & mentaly active\r\n7. Provide antioxidants",
+        "name": "Jayson Chabonprash 250 gm",
+        "nameWithoutSubText": "Jayson Chabonprash",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/jayson-chabonprash-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80095&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 24708
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u099c\u09be\u0987\u09b8\u09a8 \u09ae\u09bf\u09b8\u099f\u09bf\u09a8 \u09b9\u09be\u09b0\u09ac\u09be\u09b2 \u09b8\u09c1\u0987\u099f\u09c7\u09a8\u09bf\u0982 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "1. Low calorie Herbal Sweetening Agent, which tastes like sugar.\r\n2. Suitable for diabetic patients and health conscious people.\r\n3. Can be used in Tea, Coffee, Fruit Juice, Sharbat, Desert etc.\r\n4. 1 spoon of MISTIN is equal to 4 spoons of sugar",
+        "name": "Jayson Mistin Herbal Sweetening Powder 50 gm",
+        "nameWithoutSubText": "Jayson Mistin Herbal Sweetening Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/jayson-mistin-herbal-sweetening-powder-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80086&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 24707
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u099c\u09be\u0987\u09b8\u09a8 \u09ae\u09bf\u09b8\u099f\u09bf\u09a8 \u09b9\u09be\u09b0\u09ac\u09be\u09b2 \u09b8\u09c1\u0987\u099f\u09c7\u09a8\u09bf\u0982 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "1. Low calorie Herbal Sweetening Agent, which tastes like sugar.\r\n2. Suitable for diabetic patients and health conscious people.\r\n3. Can be used in Tea, Coffee, Fruit Juice, Sharbat, Desert etc.\r\n4. 1 spoon of MISTIN is equal to 4 spoons of sugar",
+        "name": "Jayson Mistin Herbal Sweetening Powder 200 gm",
+        "nameWithoutSubText": "Jayson Mistin Herbal Sweetening Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/jayson-mistin-herbal-sweetening-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80085&q=low&v=1"
+        ],
+        "price": 240.0,
+        "corpPrice": 240.0,
+        "objectID": 24706
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u0995\u09cd\u09af\u09be\u09b2\u09bf\u09aa\u09b8\u09cb \u09ae\u09c7\u09df\u09cb\u09b2\u09be\u0987\u099f \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Calypso Mayolite 250 ml",
+        "nameWithoutSubText": "Calypso Mayolite",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/calypso-mayolite-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79739&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 24654
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u098f\u09b8\u099f\u09bf. \u09a1\u09cd\u09af\u09be\u09b2\u09ab\u09cb\u09b0 \u09a1\u09be\u09af\u09bc\u09be\u09ac\u09c7\u099f\u09bf\u0995 \u099c\u09cd\u09af\u09be\u09ae \u09ac\u09cd\u09b2\u09cd\u09af\u09be\u0995\u0995\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09e8\u09ee\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "St. Dalfour Diabetic Jam Blackcurrant 284 gm",
+        "nameWithoutSubText": "St. Dalfour Diabetic Jam Blackcurrant",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/st-dalfour-diabetic-jam-blackcurrant-284-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79738&q=low&v=1"
+        ],
+        "price": 650.0,
+        "corpPrice": 650.0,
+        "objectID": 24653
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u098f\u09b8\u099f\u09bf. \u09a1\u09cd\u09af\u09be\u09b2\u09ab\u09cb\u09b0 \u09a1\u09be\u09af\u09bc\u09be\u09ac\u09c7\u099f\u09bf\u0995 \u099c\u09cd\u09af\u09be\u09ae \u098f\u09aa\u09cd\u09b0\u09bf\u0995\u09cb\u099f \u09e8\u09ee\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "St. Dalfour Diabetic Jam Apricot 284 gm",
+        "nameWithoutSubText": "St. Dalfour Diabetic Jam Apricot",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/st-dalfour-diabetic-jam-apricot-284-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79737&q=low&v=1"
+        ],
+        "price": 650.0,
+        "corpPrice": 650.0,
+        "objectID": 24652
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u099c\u09bf\u09b0\u09cb\u09ad\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09b8\u09cd\u09af\u09be\u09b8\u09c7\u099f \u09e9\u09e6 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Zerova Powder Sachets 30 pcs",
+        "nameWithoutSubText": "Zerova Powder Sachets",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/zerova-powder-sachets-30-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79735&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 24651
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u099c\u09bf\u09b0\u09cb\u09ad\u09be \u099f\u09cd\u09af\u09be\u09ac\u09b2\u09c7\u099f\u09b8 \u09e7\u09e6\u09e6 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Zerova Tablets 100 pcs",
+        "nameWithoutSubText": "Zerova Tablets",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/zerova-tablets-100-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79734&q=low&v=1"
+        ],
+        "price": 300.0,
+        "corpPrice": 300.0,
+        "objectID": 24650
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09ab\u09be\u0987\u09ac\u09be\u09b0\u09b2\u09be\u0995 \u098f\u09ab\u09be\u09b0\u09ad\u09c7\u09b8\u09c7\u09a8\u09cd\u099f \u0997\u09cd\u09b0\u09be\u09a8\u09c1\u09b2\u09b8",
+        "longDesc": null,
+        "name": "Fiberlax Effervescent Granules",
+        "nameWithoutSubText": "Fiberlax Effervescent Granules",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fiberlax-effervescent-granules?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79733&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 24649
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09c0 \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be \u09a1\u09be\u09df\u09c7\u099f \u09b8\u09c1\u0997\u09be\u09b0 \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sugar Free Natura Diet Sugar 80 gm",
+        "nameWithoutSubText": "Sugar Free Natura Diet Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sugar-free-natura-diet-sugar-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79729&q=low&v=1"
+        ],
+        "price": 390.0,
+        "corpPrice": 390.0,
+        "objectID": 24647
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09c0 \u0997\u09cb\u09b2\u09cd\u09a1 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sugar Free Gold Powder 100 gm",
+        "nameWithoutSubText": "Sugar Free Gold Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sugar-free-gold-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79728&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 24646
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09c0 \u0997\u09cb\u09b2\u09cd\u09a1 \u09eb\u09e6\u09e6 \u09aa\u09c7\u09b2\u09c7\u099f\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sugar Free Gold 500 Pellets 50 gm",
+        "nameWithoutSubText": "Sugar Free Gold 500 Pellets",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sugar-free-gold-500-pellets-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79727&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 24645
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09c0 \u0997\u09cb\u09b2\u09cd\u09a1 \u09e9\u09e6\u09e6 \u09aa\u09c7\u09b2\u09c7\u099f\u09b8 \u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sugar Free Gold 300 Pellets 30 gm",
+        "nameWithoutSubText": "Sugar Free Gold 300 Pellets",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sugar-free-gold-300-pellets-30-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79726&q=low&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 24644
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09c0 \u0997\u09cb\u09b2\u09cd\u09a1 \u09e7\u09e7\u09e6 \u09aa\u09c7\u09b2\u09c7\u099f\u09b8 \u09e7\u09e7 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sugar Free Gold 110 Pellets 11 gm",
+        "nameWithoutSubText": "Sugar Free Gold 110 Pellets",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sugar-free-gold-110-pellets-11-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79725&q=low&v=1"
+        ],
+        "price": 125.0,
+        "corpPrice": 125.0,
+        "objectID": 24643
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b9\u09be\u09b2\u09a1\u09be \u09ad\u09cd\u09af\u09be\u09b2\u09bf \u09a1\u09cd\u09b0\u09be\u0997\u09a8 \u0993\u09df\u09c7\u09b2 \u0997\u09cd\u09b0\u09c0\u09a8 \u099f\u09bf \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Halda Valley Dragon Well Green Tea 40 gm",
+        "nameWithoutSubText": "Halda Valley Dragon Well Green Tea",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/halda-valley-dragon-well-green-tea-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73855&q=low&v=1"
+        ],
+        "price": 345.0,
+        "corpPrice": 345.0,
+        "objectID": 23659
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b9\u09be\u09b0\u09ae\u09be\u09a8 \u09b9\u09cb\u09af\u09bc\u09be\u0987\u099f \u0993\u099f\u09b8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Herman White Oats 500 gm",
+        "nameWithoutSubText": "Herman White Oats",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/herman-white-oats-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60890&q=low&v=1"
+        ],
+        "price": 295.0,
+        "corpPrice": 295.0,
+        "objectID": 21606
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09ad\u09be\u09b0\u09cd\u099c\u09bf\u09a8\u09bf\u09af\u09bc\u09be \u09b9\u09cb\u09af\u09bc\u09be\u0987\u099f \u0993\u099f\u09b8 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Virginia White Oats 400 gm",
+        "nameWithoutSubText": "Virginia White Oats",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/virginia-white-oats-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52426&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 20027
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": " \u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995\u09c7\u09b0 \u099f\u09be\u09af\u09bc\u09be\u09b0\u09be \u09b9\u09cb\u09af\u09bc\u09be\u0987\u099f \u0993\u099f\u09b8 \u099f\u09bf\u09a8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Foster Clark's Tiara White Oats Tin 500 Gm",
+        "nameWithoutSubText": "Foster Clark's Tiara White Oats Tin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-tiara-white-oats-tin-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50319&q=low&v=1"
+        ],
+        "price": 325.0,
+        "corpPrice": 325.0,
+        "objectID": 18543
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09bf \u09aa\u09c7\u09df\u09be\u09b0\u09be \u099c\u09c7\u09b2\u09bf \u09e9\u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Sugar Free Guava Jelly 375 gm",
+        "nameWithoutSubText": "Ahmed Sugar Free Guava Jelly",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-sugar-free-guava-jelly-375-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67404&q=best&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 16947
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u0995\u09cd\u09af\u09be\u09a8\u09a1\u09c7\u09b0\u09be\u09b2 \u09b8\u09c1\u0995\u09cd\u09b0\u09b2\u099c \u099c\u09be\u09b0 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Canderel Sweetener, 0 Calorie, Diet Sugar Jar, 75g Powder Concentrate\r\n\r\nIngredients: Maltodextrin,\u00a0Sucralose\r\n\r\nCanderel is a no-sugar sweetener that sweetens just like sugar but without it's calories\r\nCanderel is ideal for keto, low carb and intermittent diet.\r\nUse it for cooking and baking",
+        "name": "Canderel Sucralose Jar 75 gm",
+        "nameWithoutSubText": "Canderel Sucralose Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/canderel-sucralose-jar-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43807&q=low&v=1"
+        ],
+        "price": 280.0,
+        "corpPrice": 280.0,
+        "objectID": 16214
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u0987\u0995\u09c1\u09df\u09be\u09b2 \u098f\u09b8\u09cd\u09aa\u09be\u09b0\u099f\u09c7\u09ae \u09e7\u09e6\u09e6 \u099f\u09cd\u09af\u09be\u09ac\u09cd\u09b2\u09c7\u099f\u09b8",
+        "longDesc": "Equal Sweetener, Low Calories, No Sugar, 0 Carbs, 100 Tablets\r\n\r\nINGREDIENTS: Lactose (from milk),\u00a0aspartame, acesulfame ,microcrystalline cellulose gum, flavoring. Contains Phenylalanine\r\n\r\nEqual Tablets have 0 sugar, 0 carbs, 0 fat and very less caloric value which makes it ideal for a healthy life and various diets like keto and intermittent fasting\r\nJust like sugar but even better",
+        "name": "Equal Aspartame Tablet 100s",
+        "nameWithoutSubText": "Equal Aspartame Tablet 100s",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/equal-aspartame-tablet-100s?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70283&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 7950
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09b8\u09cd\u099f\u09c1\u099f \u09ab\u09be\u0987\u09a8 \u0995\u09be\u099f \u09a1\u09be\u09af\u09bc\u09be\u09ac\u09c7\u099f\u09bf\u0995 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09ae\u09be\u09b0\u09ae\u09be\u09b2\u09be\u09a1\u09c7 \u09ea\u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Stute Fine Cut Diabetic Orange Extra Marmalade 430 gm",
+        "nameWithoutSubText": "Stute Fine Cut Diabetic Orange Extra Marmalade",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/stute-fine-cut-diabetic-orange-extra-marmalade-430-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D3296&q=low&v=1"
+        ],
+        "price": 399.0,
+        "corpPrice": 399.0,
+        "objectID": 4199
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u099a\u09bf\u09a8\u09bf \u09ae\u09c1\u0995\u09cd\u09a4 \u0995\u09ae\u09b2\u09be \u099c\u09c7\u09b2\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Sugar Free Orange Jelly 500 gm",
+        "nameWithoutSubText": "Pran Sugar Free Orange Jelly",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-sugar-free-orange-jelly-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D3142&q=low&v=1"
+        ],
+        "price": 190.0,
+        "corpPrice": 190.0,
+        "objectID": 3922
+    },
+    {
+        "category": {
+            "name": "Diabetic Food",
+            "id": "191",
+            "slug": "sugar-substitutes"
+        },
+        "bengaliName": "\u0995\u09cd\u09af\u09be\u09a8\u09a1\u09c7\u09b0\u09be\u09b2 \u09b8\u09c1\u0995\u09cd\u09b0\u09cb\u09b2\u09b8 \u099f\u09cd\u09af\u09be\u09ac\u09b2\u09c7\u099f \u09e9\u09e6\u09e6 \u099f\u09bf",
+        "longDesc": "Canderel Sweetener, 0 Calorie, Sugar Free, 300 Tablets\r\n\r\nIngredients : Lactose (Milk), Sweetener:\u00a0Sucralose, Stabilisers: Microcrystalline Cellulose, Cross-Linked Sodium Carboxy Methyl Cellulose, Flavourings\r\n\r\nCanderel Tablets are no sugar, no calories, no carbs sweetener which perfectly sweetens your tea, coffee, fruit juice\r\nCanderel Tablets are no sugar, no calories, no carbs sweetener which perfectly sweetens your tea, coffee, fruit juice\r\nPure veg, trusted by WHO and USFDA, safe for daily use \r\nSuper easy to use and carry",
+        "name": "Canderel Sucralose Tablet 300s",
+        "nameWithoutSubText": "Canderel Sucralose Tablet 300s",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/canderel-sucralose-tablet-300s?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70285&q=low&v=1"
+        ],
+        "price": 285.0,
+        "corpPrice": 285.0,
+        "objectID": 3302
+    }
+]

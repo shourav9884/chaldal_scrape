@@ -1,0 +1,751 @@
+[
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09ac\u09cb\u09af\u09bc\u09be\u09b2 \u099b\u09cb\u099f \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u0995\u09be\u099f \u00b1 \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Boal Fish After Cutting \u00b1 50 Gm 500 gm ",
+        "nameWithoutSubText": "Boal Fish After Cutting \u00b1 50 Gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/boal-fish-after-cutting-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73758&q=low&v=1"
+        ],
+        "price": 265.0,
+        "corpPrice": 265.0,
+        "objectID": 23058
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09b9\u09b0\u09bf\u09a8\u09be \u099a\u09bf\u0982\u09a1\u09bc\u09bf 500 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Horina Chingri (Shrimp Horina) 500 gm",
+        "nameWithoutSubText": "Horina Chingri (Shrimp Horina)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/horina-chingri-shrimp-horina-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73381&q=low&v=1"
+        ],
+        "price": 319.0,
+        "corpPrice": 319.0,
+        "objectID": 22320
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u099a\u09bf\u0982\u09a1\u09bc\u09bf \u09ac\u09be\u0997\u09a6\u09be  500 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shrimp Bagda  500 gm",
+        "nameWithoutSubText": "Shrimp Bagda",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shrimp-bagda-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72260&q=low&v=1"
+        ],
+        "price": 339.0,
+        "corpPrice": 339.0,
+        "objectID": 13670
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0997\u09c1\u09a1\u09bc\u09be \u099a\u09bf\u0982\u09a1\u09bc\u09bf \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Local Gura Chingri 250 gm",
+        "nameWithoutSubText": "Local Gura Chingri",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/local-gura-chingri-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72250&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 23061
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09b9\u09be\u0993\u09b0\u09c7\u09b0 \u09ae\u09be\u099b \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Haor Fish Mix 500 gm ",
+        "nameWithoutSubText": "Haor Fish Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/haor-fish-mix-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74177&q=low&v=1"
+        ],
+        "price": 189.0,
+        "corpPrice": 189.0,
+        "objectID": 23060
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u099a\u09bf\u0982\u09a1\u09bc\u09bf \u0997\u09cb\u09b2\u09cd\u09a1\u09be  500 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Golda Chingri (Shrimp Golda)  500 gm",
+        "nameWithoutSubText": "Golda Chingri (Shrimp Golda)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/golda-chingri-shrimp-golda-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72263&q=low&v=1"
+        ],
+        "price": 459.0,
+        "corpPrice": 459.0,
+        "objectID": 22318
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09ae\u09be\u0997\u09c1\u09b0 \u09ae\u09be\u099b (\u09aa\u09cd\u09b0\u09b8\u09c7\u09b8 \u0995\u09b0\u09be) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Magur Fish Processed  500 gm",
+        "nameWithoutSubText": "Magur Fish Processed",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/magur-fish-processed-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73762&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 23025
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09b0\u09c1\u0987 \u09a6\u09c7\u09b6\u09bf \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u0995\u09be\u099f (\u09ab\u09cd\u09b0\u09c7\u09b6 \u09e8.\u09ea \u0995\u09c7\u099c\u09bf +; \u09a8\u09c7\u099f \u0993\u09af\u09bc\u09c7\u099f +/-\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Rui Fish Deshi After Cutting (Net Weight \u00b1 50 Gm) 2 kg ",
+        "nameWithoutSubText": "Rui Fish Deshi After Cutting (Net Weight \u00b1 50 Gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rui-fish-deshi-after-cutting-net-weight-50-gm-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73766&q=low&v=1"
+        ],
+        "price": 745.0,
+        "corpPrice": 745.0,
+        "objectID": 23068
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09ac\u09cb\u09af\u09bc\u09be\u09b2 \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u0995\u09be\u099f (\u09ab\u09cd\u09b0\u09c7\u09b8 \u09e7.\u09e8 \u0995\u09c7\u099c\u09bf, \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09be\u0987\u09a8\u09be\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7.\u09eb \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Boal Fish Family Cut (Net Weight \u00b1 50 Gm) 1 kg",
+        "nameWithoutSubText": "Boal Fish Family Cut (Net Weight \u00b1 50 Gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/boal-fish-family-cut-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73353&q=low&v=1"
+        ],
+        "price": 609.0,
+        "corpPrice": 609.0,
+        "objectID": 23009
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0986\u0987\u09b0 \u09ae\u09be\u099d\u09be\u09b0\u09bf \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u0995\u09be\u099f \u09e7 \u0995\u09c7\u099c\u09bf (+/-\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae)",
+        "longDesc": null,
+        "name": "Ayre Fish After Cutting (Net Weight \u00b1 50 Gm) 1 kg",
+        "nameWithoutSubText": "Ayre Fish After Cutting (Net Weight \u00b1 50 Gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ayre-fish-after-cutting-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73754&q=low&v=1&m=400"
+        ],
+        "price": 735.0,
+        "corpPrice": 735.0,
+        "objectID": 23008
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0995\u09be\u099a\u0995\u09bf \u09ae\u09be\u099b \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kaski Fish 250 gm",
+        "nameWithoutSubText": "Kaski Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kaski-fish-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73759&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 22392
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09aa\u09be\u09ac\u09a6\u09be \u09ae\u09be\u099b \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pabda Fish 500 gm",
+        "nameWithoutSubText": "Pabda Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pabda-fish-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72251&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 13686
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09b0\u09c1\u0987 \u09ae\u09be\u099b \u0995\u09be\u099f\u09be\u09b0 \u09aa\u09b0\u09c7 (\u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae)) \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Rui Fish Family Cut (Net Weight \u00b1 50 gm)  1 kg",
+        "nameWithoutSubText": "Rui Fish Family Cut (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rui-fish-family-cut-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73773&q=low&v=1"
+        ],
+        "price": 309.0,
+        "corpPrice": 309.0,
+        "objectID": 8717
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09a6\u09c7\u09b6\u09c0 \u09ae\u09b2\u09be \u09ae\u09be\u099b \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mola Fish Deshi 250 gm",
+        "nameWithoutSubText": "Mola Fish Deshi",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mola-fish-deshi-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74210&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 9562
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09a6\u09c7\u09b6\u09c0 \u09aa\u09be\u0982\u0997\u09be\u09b8 \u0995\u09be\u0981\u099f\u09be\u09b0 \u09aa\u09b0 (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Pangas Fish Family Cut (Net Weight \u00b1 50 Gm) 1 kg",
+        "nameWithoutSubText": "Pangas Fish Family Cut (Net Weight \u00b1 50 Gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pangas-fish-family-cut-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73764&q=low&v=1"
+        ],
+        "price": 169.0,
+        "corpPrice": 169.0,
+        "objectID": 20596
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0995\u0987 \u09ae\u09be\u099b \u0995\u09be\u099f\u09be\u09b0 \u09aa\u09b0  \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Before process 1.2 kg   ",
+        "name": "Koi Fish Processed  1 kg",
+        "nameWithoutSubText": "Koi Fish Processed",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/koi-fish-processed-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72293&q=low&v=1"
+        ],
+        "price": 239.0,
+        "corpPrice": 239.0,
+        "objectID": 22222
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09a4\u09c7\u09b2\u09be\u09aa\u09bf\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09b8\u09c7\u09b8 \u09e8 \u09aa\u09bf\u09b8 ( \u09a8\u09c7\u099f \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09be\u0987\u09a8\u09be\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Telapiya Fish Processed (Net Weight \u00b1 50 Gm) 1 kg ",
+        "nameWithoutSubText": "Telapiya Fish Processed (Net Weight \u00b1 50 Gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/telapiya-fish-processed-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73643&q=low&v=1"
+        ],
+        "price": 189.0,
+        "corpPrice": 189.0,
+        "objectID": 23070
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09b6\u09bf\u0982 \u09ae\u09be\u099b \u0995\u09be\u099f\u09be\u09b0 \u09aa\u09b0\u09c7 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shing Fish Processed 500 gm",
+        "nameWithoutSubText": "Shing Fish Processed",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shing-fish-processed-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74207&q=low&v=1"
+        ],
+        "price": 279.0,
+        "corpPrice": 279.0,
+        "objectID": 13695
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09aa\u09c1\u099f\u09bf \u09ae\u09be\u099b \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Puti Fish 250 gm",
+        "nameWithoutSubText": "Puti Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/puti-fish-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74206&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 23065
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09b0\u09c2\u09aa\u099a\u09be\u0981\u09a6\u09be \u09ae\u09bf\u09a1\u09bf\u09af\u09bc\u09be\u09ae   \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Rupchanda Fish Medium  500 gm",
+        "nameWithoutSubText": "Rupchanda Fish Medium",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rupchanda-fish-medium-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74211&q=low&v=1"
+        ],
+        "price": 415.0,
+        "corpPrice": 415.0,
+        "objectID": 23069
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u099f\u09be\u099f\u0995\u09bf\u09a8\u09bf \u09ae\u09be\u099b \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tatkini Fish 500 gm",
+        "nameWithoutSubText": "Tatkini Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tatkini-fish-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74208&q=low&v=1"
+        ],
+        "price": 115.0,
+        "corpPrice": 115.0,
+        "objectID": 13688
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09b8\u09b0\u09aa\u09c1\u0981\u099f\u09bf  \u09ae\u09be\u099b   \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Deshi Sarputi Fish  500 gm",
+        "nameWithoutSubText": "Deshi Sarputi Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deshi-sarputi-fish-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74214&q=low&v=1"
+        ],
+        "price": 129.0,
+        "corpPrice": 129.0,
+        "objectID": 23071
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09ac\u09be\u0987\u09b2\u09be \u09ae\u09be\u099b \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Baila Fish Medium (Net Weight \u00b1 50 gm) 500 gm",
+        "nameWithoutSubText": "Baila Fish Medium (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/baila-fish-medium-net-weight-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75158&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 22391
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u099f\u09cd\u09af\u09be\u0982\u09b0\u09be \u09ae\u09be\u099b \u09a6\u09c7\u09b6\u09bf  400 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tengra Fish Deshi  (Net Weight \u00b1 20 Gm)  400 gm",
+        "nameWithoutSubText": "Tengra Fish Deshi  (Net Weight \u00b1 20 Gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tengra-fish-deshi-net-weight-20-gm-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74209&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 13436
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09aa\u09cb\u09df\u09be \u09ae\u09be\u099b \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Poa Fish 500 gm",
+        "nameWithoutSubText": "Poa Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/poa-fish-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74213&q=low&v=1"
+        ],
+        "price": 215.0,
+        "corpPrice": 215.0,
+        "objectID": 13442
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0986\u0987\u09b0 \u09ae\u09be\u099b \u099b\u09cb\u099f (\u0995\u09be\u099f\u09be\u09b0 \u09aa\u09b0 \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09be\u0987\u09a8\u09be\u09b8 \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ayre Fish After Cutting  (Net Weight \u00b1 50 Gm) 500  gm",
+        "nameWithoutSubText": "Ayre Fish After Cutting  (Net Weight \u00b1 50 Gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ayre-fish-after-cutting-net-weight-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73328&q=low&v=1"
+        ],
+        "price": 325.0,
+        "corpPrice": 325.0,
+        "objectID": 23056
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u099f\u09c1\u09a8\u09be \u09ae\u09be\u099b (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Whole Tuna Fish (Net Weight \u00b1 50 gm) 2 kg",
+        "nameWithoutSubText": "Whole Tuna Fish (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/whole-tuna-fish-net-weight-50-gm-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74303&q=low&v=1"
+        ],
+        "price": 489.0,
+        "corpPrice": 489.0,
+        "objectID": 23799
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0997\u09c1\u09b2\u09b6\u09be \u09ae\u09be\u099b \u09ae\u09be\u099d\u09be\u09b0\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Gulsha Medium  (Net Weight \u00b1 50 gm)  500 gm",
+        "nameWithoutSubText": "Gulsha Medium  (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gulsha-medium-net-weight-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74464&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 23574
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0995\u09be\u09a4\u09b2\u09be \u09ae\u09be\u099b \u0995\u09be\u0981\u099f\u09be\u09b0 \u09aa\u09b0 (\u09a8\u09c7\u099f \u0993\u09df\u09c7\u099f \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7.\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Catla Fish After Cutting (Net Weight \u00b1 50 Gm) 1.5 Kg ",
+        "nameWithoutSubText": "Catla Fish After Cutting (Net Weight \u00b1 50 Gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/catla-fish-after-cutting-net-weight-50-gm-15-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73760&q=low&v=1"
+        ],
+        "price": 555.0,
+        "corpPrice": 555.0,
+        "objectID": 22387
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09b6\u09cb\u09b2 \u09ae\u09be\u099b \u0995\u09be\u099f\u09be\u09b0 \u09aa\u09b0 (\u09e8 \u09aa\u09bf\u09b8) \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Shol Fish Processed   1 kg ",
+        "nameWithoutSubText": "Shol Fish Processed",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shol-fish-processed-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73768&q=low&v=1"
+        ],
+        "price": 559.0,
+        "corpPrice": 559.0,
+        "objectID": 23010
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0995\u09cb\u09b0\u09be\u09b2 \u0995\u09be\u099f 1 kg",
+        "longDesc": null,
+        "name": "Koral Fish After Cutting (Net Weight \u00b1 50 Gm) 1 kg ",
+        "nameWithoutSubText": "Koral Fish After Cutting (Net Weight \u00b1 50 Gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/koral-fish-after-cutting-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73761&q=low&v=1"
+        ],
+        "price": 719.0,
+        "corpPrice": 719.0,
+        "objectID": 23064
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0995\u09be\u09b0\u09cd\u09ab\u09c1 \u09ae\u09be\u099b \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u0995\u09be\u099f (\u09a8\u09c7\u099f \u0993\u09af\u09bc\u09c7\u099f \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09be\u0987\u09a8\u09be\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Carfu Fish After Cutting (Net Weight \u00b1 50 Gm) 1 kg",
+        "nameWithoutSubText": "Carfu Fish After Cutting (Net Weight \u00b1 50 Gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/carfu-fish-after-cutting-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73644&q=low&v=1"
+        ],
+        "price": 269.0,
+        "corpPrice": 269.0,
+        "objectID": 23059
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0986\u09b8\u09cd\u09a4 \u09ab\u09cd\u09b0\u09cb\u099c\u09c7\u09a8 \u0987\u09b2\u09bf\u09b6 (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae)  600\u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Bangladesh this fish is prepared in varity of way like it can be smoked, fried, steamed, baked, prepared with mustard seed paste, curd, brinjal (eggplant). Some common hilsa menus are Fried hilsa, Khichuri-Ilish, Sorshe Ilish, Panta Ilish,Vapa Ilish etc.\r\nIt has cultural value in Bangali\u2019s life. It is an obvious food in many cultural festival like Pahela Boishakh, Saraswati Puja. ",
+        "name": "Asto Ilish (Whole Hilsha) \u00b1 50 gm 600 gm",
+        "nameWithoutSubText": "Asto Ilish (Whole Hilsha) \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/asto-ilish-whole-hilsha-50-gm-600-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73540&q=low&v=1"
+        ],
+        "price": 629.0,
+        "corpPrice": 629.0,
+        "objectID": 23569
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09b0\u09c1\u0987 \u09ae\u09be\u099b\u09c7\u09b0 \u09a1\u09bf\u09ae \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "This is a frozen item, we have special packaging for frozen products.",
+        "name": "Rui Fish Egg  250 Gm",
+        "nameWithoutSubText": "Rui Fish Egg",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rui-fish-egg-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72111&q=low&v=1"
+        ],
+        "price": 169.0,
+        "corpPrice": 169.0,
+        "objectID": 23368
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09ac\u09be\u0987\u09ae \u09ae\u09be\u099b  \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tara Baim Fish 500 Gm",
+        "nameWithoutSubText": "Tara Baim Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tara-baim-fish-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72269&q=low&v=1"
+        ],
+        "price": 309.0,
+        "corpPrice": 309.0,
+        "objectID": 13691
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09ac\u09be\u099b\u09be \u09ae\u09be\u099b \u09ab\u09bf\u09b2\u09b2\u09c7\u099f \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Basa Fish Fillet 1 kg",
+        "nameWithoutSubText": "Basa Fish Fillet",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/basa-fish-fillet-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71451&q=low&v=1"
+        ],
+        "price": 439.0,
+        "corpPrice": 439.0,
+        "objectID": 7027
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0986\u09b8\u09cd\u09a4 \u0987\u09b2\u09bf\u09b6 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09ed\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Bangladesh this fish is prepared in varity of way like it can be smoked, fried, steamed, baked, prepared with mustard seed paste, curd, brinjal (eggplant). Some common hilsa menus are Fried hilsa, Khichuri-Ilish, Sorshe Ilish, Panta Ilish,Vapa Ilish etc.\r\nIt has cultural value in Bangali\u2019s life. It is an obvious food in many cultural festival like Pahela Boishakh, Saraswati Puja. ",
+        "name": "Asto Ilish (Whole Hilsha) \u00b1 50 gm 700 gm",
+        "nameWithoutSubText": "Asto Ilish (Whole Hilsha) \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/asto-ilish-whole-hilsha-50-gm-700-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70572&q=low&v=1",
+            "https://chaldn.com/_mpimage/whole-frozen-hilsha-net-weight-50-gm-700-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43091&q=low&v=1"
+        ],
+        "price": 799.0,
+        "corpPrice": 799.0,
+        "objectID": 15976
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0986\u09b8\u09cd\u09a4 \u0987\u09b2\u09bf\u09b6 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09ef\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Bangladesh this fish is prepared in varity of way like it can be smoked, fried, steamed, baked, prepared with mustard seed paste, curd, brinjal (eggplant). Some common hilsa menus are Fried hilsa, Khichuri-Ilish, Sorshe Ilish, Panta Ilish,Vapa Ilish etc.\r\nIt has cultural value in Bangali\u2019s life. It is an obvious food in many cultural festival like Pahela Boishakh, Saraswati Puja. ",
+        "name": "Asto Ilish (Whole Hilsha) \u00b1 50 gm 900 gm",
+        "nameWithoutSubText": "Asto Ilish (Whole Hilsha) \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/asto-ilish-whole-hilsha-50-gm-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70569&q=low&v=1"
+        ],
+        "price": 1099.0,
+        "corpPrice": 1099.0,
+        "objectID": 15977
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u09b0\u09c1\u0987 \u09b8\u09cd\u099f\u09c7\u0995 \u099a\u09be\u0987\u09a8\u09bf\u099c \u0995\u09be\u099f (\u09a8\u09c7\u099f \u0993\u09df\u09c7\u099f \u00b1 50 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7.\u09eb \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Year Ending Offer\r\n(Frozen fish) \r\n",
+        "name": "Rui Fish Steak Chinese Cut (Net Weight \u00b1 50 Gm) 1.5 kg",
+        "nameWithoutSubText": "Rui Fish Steak Chinese Cut (Net Weight \u00b1 50 Gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rui-fish-steak-chinese-cut-net-weight-50-gm-15-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72114&q=low&v=1"
+        ],
+        "price": 699.0,
+        "corpPrice": 699.0,
+        "objectID": 22220
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0986\u09b8\u09cd\u09a4 \u0987\u09b2\u09bf\u09b6 (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7.\u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Bangladesh this fish is prepared in varity of way like it can be smoked, fried, steamed, baked, prepared with mustard seed paste, curd, brinjal (eggplant). Some common hilsa menus are Fried hilsa, Khichuri-Ilish, Sorshe Ilish, Panta Ilish,Vapa Ilish etc.\r\nIt has cultural value in Bangali\u2019s life. It is an obvious food in many cultural festival like Pahela Boishakh, Saraswati Puja. ",
+        "name": "Asto Ilish (Whole Hilsha) \u00b1 50 gm 1.2 kg",
+        "nameWithoutSubText": "Asto Ilish (Whole Hilsha) \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/asto-ilish-whole-hilsha-50-gm-12-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73541&q=low&v=1"
+        ],
+        "price": 1649.0,
+        "corpPrice": 1649.0,
+        "objectID": 16642
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0995\u09be\u09a4\u09b2\u09be \u09ae\u09be\u099b \u09b8\u09cd\u099f\u09c7\u0995 \u099a\u09be\u0987\u09a8\u09bf\u099c \u0995\u09be\u099f (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7.\u09eb \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Catla Fish Steak Chinese Cut  (Net Weight \u00b1 50 gm) 1.5 kg",
+        "nameWithoutSubText": "Catla Fish Steak Chinese Cut  (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/catla-fish-steak-chinese-cut-net-weight-50-gm-15-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72116&q=low&v=1"
+        ],
+        "price": 499.0,
+        "corpPrice": 499.0,
+        "objectID": 9624
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0986\u09b8\u09cd\u09a4 \u09ab\u09cd\u09b0\u09cb\u099c\u09c7\u09a8 \u0987\u09b2\u09bf\u09b6 (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb0 \u0997\u09cd\u09b0\u09be\u09ae) \u09ee\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Ilish or Hilsha is a national fish of Bangladesh. Ilish body is strongly compressed and moderately deep with dorsal and ventral profile equally convex.We provide it in frozen condition. It is considered to be one of most favorite and delicious fish in the world. t is an oily fish and rich in essential omega 3 fatty acids. n Bangladesh this fish is prepared in varity of way like it can be smoked, fried, steamed, baked, prepared with mustard seed paste, curd, brinjal (eggplant). Some common hilsa menus are Fried hilsa, Khichuri-Ilish, Sorshe Ilish, Panta Ilish,Vapa Ilish etc.\r\nIt has cultural value in Bangali\u2019s life. It is an obvious food in many cultural festival like Pahela Boishakh, Saraswati Puja.",
+        "name": "Whole Frozen Hilsha (Net Weight \u00b1 50 gm) 800 gm",
+        "nameWithoutSubText": "Whole Frozen Hilsha (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/whole-frozen-hilsha-net-weight-50-gm-800-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67752&q=low&v=1"
+        ],
+        "price": 799.0,
+        "corpPrice": 799.0,
+        "objectID": 7260
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u0986\u09b8\u09cd\u09a4 \u09ab\u09cd\u09b0\u09cb\u099c\u09c7\u09a8 \u0987\u09b2\u09bf\u09b6 (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7\u09e6\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Ilish or Hilsha is a national fish of Bangladesh. Ilish body is strongly compressed and moderately deep with dorsal and ventral profile equally convex. It is considered to be one of most favorite and delicious fish in the world. t is an oily fish and rich in essential omega 3 fatty acids. n Bangladesh this fish is prepared in varity of way like it can be smoked, fried, steamed, baked, prepared with mustard seed paste, curd, brinjal (eggplant). Some common hilsa menus are Fried hilsa, Khichuri-Ilish, Sorshe Ilish, Panta Ilish,Vapa Ilish etc.\r\nIt has cultural value in Bangali\u2019s life. It is an obvious food in many cultural festival like Pahela Boishakh, Saraswati Puja. ",
+        "name": "Whole Frozen Hilsha (Net Weight \u00b1 50 gm) 1 kg ",
+        "nameWithoutSubText": "Whole Frozen Hilsha (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/whole-frozen-hilsha-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67755&q=low&v=1"
+        ],
+        "price": 1279.0,
+        "corpPrice": 1279.0,
+        "objectID": 7175
+    },
+    {
+        "category": {
+            "name": "Fresh Fish",
+            "id": "1262",
+            "slug": "fresh-fish-2"
+        },
+        "bengaliName": "\u099a\u09bf\u0982\u09dc\u09bf  \u09b9\u09b0\u09bf\u09a8\u09be \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Horina Chingi (Shrimp Horina) 250 gm ",
+        "nameWithoutSubText": "Horina Chingi (Shrimp Horina)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/horina-chingi-shrimp-horina-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78620&q=low&v=1"
+        ],
+        "price": 159.0,
+        "corpPrice": 159.0,
+        "objectID": 24478
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u0995\u09be\u099c\u09c0 \u09ab\u09be\u09b0\u09cd\u09ae\u09b8 \u0995\u09bf\u099a\u09c7\u09a8 \u09b2\u0987\u099f\u09cd\u099f\u09be \u09b6\u09c1\u099f\u0995\u09bf \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kazi Farms Kitchen Loitta Shutki 125 gm",
+        "nameWithoutSubText": "Kazi Farms Kitchen Loitta Shutki",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kazi-farms-kitchen-loitta-shutki-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29012&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 13469
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u09a2\u09be\u0995\u09be\u0987\u09df\u09be \u09b2\u0987\u099f\u09cd\u099f\u09be \u09b6\u09c1\u099f\u0995\u09bf \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dhakaiya Loitta Shutki 125 gm",
+        "nameWithoutSubText": "Dhakaiya Loitta Shutki",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dhakaiya-loitta-shutki-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64651&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 21839
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0985\u09b0\u0997\u09cd\u09af\u09be\u09a8\u09bf\u0995 \u09b2\u09cb\u0987\u099f\u09be \u09b6\u09c1\u0995\u09a8\u09cb \u09ae\u09be\u099b \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Organic Loitta Dry Fish 200 gm",
+        "nameWithoutSubText": "Khaas Food Organic Loitta Dry Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-organic-loitta-dry-fish-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D56274&q=low&v=1"
+        ],
+        "price": 310.0,
+        "corpPrice": 310.0,
+        "objectID": 20187
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u09a2\u09be\u0995\u09be\u0987\u09df\u09be \u09ae\u09b2\u09be \u09b6\u09c1\u099f\u0995\u09bf \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dhakaiya Mola Shutki 125 gm",
+        "nameWithoutSubText": "Dhakaiya Mola Shutki",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dhakaiya-mola-shutki-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65361&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 21986
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0985\u09b0\u09cd\u0997\u09be\u09a8\u09bf\u0995 \u09ae\u09cb\u09b2\u09be\u09b0 \u09b6\u09c1\u0995\u09a8\u09cb \u09ae\u09be\u099b \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Organic Mola Dry Fish 100 gm",
+        "nameWithoutSubText": "Khaas Food Organic Mola Dry Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-organic-mola-dry-fish-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D56277&q=low&v=1"
+        ],
+        "price": 125.0,
+        "corpPrice": 125.0,
+        "objectID": 20186
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u0995\u09be\u099c\u09c0 \u09ab\u09be\u09b0\u09cd\u09ae\u09b8 \u0995\u09bf\u099a\u09c7\u09a8 \u099a\u09bf\u0982\u09dc\u09bf \u099b\u09cb\u099f \u09b6\u09c1\u099f\u0995\u09bf \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kazi Farms Kitchen Shrimp Small Shutki 125 gm",
+        "nameWithoutSubText": "Kazi Farms Kitchen Shrimp Small Shutki",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kazi-farms-kitchen-shrimp-small-shutki-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29015&q=low&v=1"
+        ],
+        "price": 211.0,
+        "corpPrice": 211.0,
+        "objectID": 13472
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u0995\u09be\u099c\u09c0 \u09ab\u09be\u09b0\u09cd\u09ae\u09b8 \u0995\u09bf\u099a\u09c7\u09a8 \u0995\u09be\u099a\u0995\u09bf \u09b6\u09c1\u099f\u0995\u09bf \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kazifarms Kitchen Kechki Shutki 125 gm",
+        "nameWithoutSubText": "Kazifarms Kitchen Kechki Shutki",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kazifarms-kitchen-kechki-shutki-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29013&q=low&v=1"
+        ],
+        "price": 207.0,
+        "corpPrice": 207.0,
+        "objectID": 13470
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u09a2\u09be\u0995\u09be\u0987\u09df\u09be \u09b0\u09c1\u09aa\u099a\u09be\u09a8\u09cd\u09a6\u09be \u09b6\u09c1\u099f\u0995\u09bf \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\n\u2018Shutki\u2019 (dry fish) is a traditional food of Bangladesh. Rupchanda (Pomphret) shutki is Many people\u2019s favourite. Dhakaiya Rupchanda Shutki is rich in Amino acids (especially omega-3 fatty acids), protein, vitamin and mineral. It is 100% natural and organic. \r\n No chemicals and preservatives. \r\n 0% salt, DDT, sand.",
+        "name": "Dhakaiya Rupchanda Shutki 125 gm",
+        "nameWithoutSubText": "Dhakaiya Rupchanda Shutki",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dhakaiya-rupchanda-shutki-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65045&q=low&v=1"
+        ],
+        "price": 500.0,
+        "corpPrice": 500.0,
+        "objectID": 21985
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u09a2\u09be\u0995\u09be\u0987\u09df\u09be \u0995\u09be\u099a\u0995\u09bf \u09b6\u09c1\u099f\u0995\u09bf \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dhakaiya Kaski Shutki 125 gm",
+        "nameWithoutSubText": "Dhakaiya Kaski Shutki",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dhakaiya-kaski-shutki-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61698&q=best&v=1"
+        ],
+        "price": 220.0,
+        "corpPrice": 220.0,
+        "objectID": 21984
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0985\u09b0\u0997\u09cd\u09af\u09be\u09a8\u09bf\u0995 \u0995\u09cb\u09b0\u09be\u09b2 \u09b6\u09c1\u0995\u09a8\u09cb \u09ae\u09be\u099b \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Organic Koral Dry Fish 250 gm",
+        "nameWithoutSubText": "Khaas Food Organic Koral Dry Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-organic-koral-dry-fish-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D56302&q=low&v=1"
+        ],
+        "price": 1050.0,
+        "corpPrice": 1050.0,
+        "objectID": 20192
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0985\u09b0\u0997\u09cd\u09af\u09be\u09a8\u09bf\u0995 \u099f\u09c1\u09a8\u09be \u09b6\u09c1\u0995\u09a8\u09cb \u09ae\u09be\u099b \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Organic Tuna Dry Fish 250 gm",
+        "nameWithoutSubText": "Khaas Food Organic Tuna Dry Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-organic-tuna-dry-fish-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65215&q=low&v=1"
+        ],
+        "price": 725.0,
+        "corpPrice": 725.0,
+        "objectID": 20191
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0985\u09b0\u0997\u09cd\u09af\u09be\u09a8\u09bf\u0995 \u09b0\u09c1\u09aa\u099a\u09a6\u09be \u09b6\u09c1\u0995\u09a8\u09cb \u09ae\u09be\u099b \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Organic Rupchada Dry Fish 250 gm",
+        "nameWithoutSubText": "Khaas Food Organic Rupchada Dry Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-organic-rupchada-dry-fish-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D56298&q=low&v=1"
+        ],
+        "price": 1390.0,
+        "corpPrice": 1390.0,
+        "objectID": 20190
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0985\u09b0\u0997\u09cd\u09af\u09be\u09a8\u09bf\u0995 \u09b8\u09c1\u09b0\u09ae\u09be \u09b6\u09c1\u0995\u09a8\u09cb \u09ae\u09be\u099b \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Organic Surma Dry Fish 250 gm",
+        "nameWithoutSubText": "Khaas Food Organic Surma Dry Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-organic-surma-dry-fish-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D56297&q=low&v=1"
+        ],
+        "price": 1295.0,
+        "corpPrice": 1295.0,
+        "objectID": 20189
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0985\u09b0\u0997\u09cd\u09af\u09be\u09a8\u09bf\u0995 \u099a\u09c1\u09b0\u09bf \u09b6\u09c1\u0995\u09a8\u09cb \u09ae\u09be\u099b \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Organic Churi Dry Fish 250 gm",
+        "nameWithoutSubText": "Khaas Food Organic Churi Dry Fish",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-organic-churi-dry-fish-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D56283&q=low&v=1"
+        ],
+        "price": 725.0,
+        "corpPrice": 725.0,
+        "objectID": 20188
+    },
+    {
+        "category": {
+            "name": "Dried Fish",
+            "id": "1238",
+            "slug": "dried-fish"
+        },
+        "bengaliName": "\u0995\u09be\u099c\u09c0 \u09ab\u09be\u09b0\u09cd\u09ae\u09b8 \u0995\u09bf\u099a\u09c7\u09a8 \u099b\u09c1\u09b0\u09bf \u09b6\u09c1\u099f\u0995\u09bf \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kazi Farms Kitchen Churi Shutki 125 gm",
+        "nameWithoutSubText": "Kazi Farms Kitchen Churi Shutki",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kazi-farms-kitchen-churi-shutki-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29010&q=low&v=1"
+        ],
+        "price": 234.0,
+        "corpPrice": 234.0,
+        "objectID": 13467
+    }
+]

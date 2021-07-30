@@ -1,0 +1,907 @@
+[
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09bf\u09a1\u09ae \u09aa\u09cd\u09b0\u09c7\u0997\u09a8\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09bf \u099f\u09c7\u09b8\u09cd\u099f \u09e7 \u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u09aa",
+        "longDesc": "Competitive Features:\r\n\r\n 100% accuracy in just 5 minutes. USFDA  Approved Technology ensures the highest product quality.\r\n Recommended by doctors.",
+        "name": "Freedom Pregnancy Test 1 Strip",
+        "nameWithoutSubText": "Freedom Pregnancy Test 1 Strip",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/freedom-pregnancy-test-1-strip?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22541&q=low&v=1"
+        ],
+        "price": 18.0,
+        "corpPrice": 18.0,
+        "objectID": 9963
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u098f\u09ae \u09e8 \u09b8\u09c7\u09a8\u09cd\u09b8\u09c7\u09b6\u09a8 \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u09a1otted \u0995\u09a8\u09a1\u09ae 3 \u099f\u09bf",
+        "longDesc": "Barcode : 8941193102022\r\nMade in Bangladesh",
+        "name": "M2 Sensation Strawberry Dotted Condoms 3 Pcs",
+        "nameWithoutSubText": "M2 Sensation Strawberry Dotted Condoms",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/m2-sensation-strawberry-dotted-condoms-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61668&q=best&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 16484
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09bf\u09a1\u09ae \u09aa\u09cd\u09b0\u09c7\u0997\u09a8\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09bf \u099f\u09c7\u09b8\u09cd\u099f \u099f\u09c1\u09b2 \u09b8\u09c7\u099f \u09e7 \u09aa\u09cd\u09af\u09be\u0995",
+        "longDesc": null,
+        "name": "Freedom Pregnancy Test Tool Set 1 Pack",
+        "nameWithoutSubText": "Freedom Pregnancy Test Tool Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/freedom-pregnancy-test-tool-set-1-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22542&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 9964
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u098f\u09a8 \u09e7 \u0995\u09c7\u09af\u09bc\u09be\u09b0\u0995\u09cd\u09b8 \u0995\u09a8\u09a1\u09ae 3 \u09aa\u09bf\u09b8\u09bf",
+        "longDesc": "Barcode : 18N3844\r\nMade in Malaysia",
+        "name": "N1 Carex Condoms 3 Pcs",
+        "nameWithoutSubText": "N1 Carex Condoms",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/n1-carex-condoms-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45131&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 16490
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0995\u09cb\u09b0\u09be\u09b2 \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u09b2\u09c7\u099f\u09c7\u0995\u09cd\u09b8 \u09e9 \u09ab\u09cd\u09b0\u09c1\u099f \u0995\u09a8\u09a1\u09ae \u09e9 \u099f\u09bf",
+        "longDesc": "Made in Malaysia\r\n\r\nLength: 180 mm\r\nWidth : 52mm \u00b1 2 mm\r\nThickness :0.065mm \u00b1 0.015 mm",
+        "name": "L4 Coral Natural Latex 3 Fruits Condom 3 pcs",
+        "nameWithoutSubText": "L4 Coral Natural Latex 3 Fruits Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/l4-coral-natural-latex-3-fruits-condom-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45276&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 16470
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u098f\u09b2 \u09ec \u0995\u09cb\u09b0\u09be\u09b2 \u09e9 \u099f\u09bf \u09ab\u09cd\u09b2\u09be\u09ad\u09be\u09b0 \u0986\u0987\u09b8 \u0995\u09cd\u09b0\u09bf\u09ae \u0995\u09a8\u09a1\u09ae (\u09aa\u09cd\u09b0\u0983 \u09eb\u09e8  \u00b1 \u09e8 \u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
+        "longDesc": "3 Flavours\r\n\r\n* Vanilla\r\n* Chocolate\r\n* Mint\r\n\r\nBarcode : 9555171309229\r\n\r\nMade in Malaysia\r\nLength: 180 mm\r\nWidth : 52mm \u00b1 2 mm\r\nThickness :0.065mm \u00b1 0.015 mm",
+        "name": "L6 Coral 3 Flavors Ice Cream Condom (Width 52 \u00b1 2 mm) 3 Pcs",
+        "nameWithoutSubText": "L6 Coral 3 Flavors Ice Cream Condom (Width 52 \u00b1 2 mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/l6-coral-3-flavors-ice-cream-condom-width-52-2-mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45138&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 16469
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u09a1\u09bf\u0989\u09b0\u09c7\u0995\u09cd\u09b8 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09b8\u09c7\u09ab \u09b2\u09be\u09ad \u09b8\u09c7\u0995\u09cd\u09b8 (\u09eb\u09ec \u09ae\u09bf\u09ae\u09bf) \u0995\u09a8\u09a1\u09ae \u09e9 \u099f\u09bf",
+        "longDesc": "Slightly thicker condoms with extra lubrication for extra protection. Transparent & natural rubber latex condom. Smells better, so there are no unpleasant distractions. Extra large & teat ended for comfort & fit. It is 100% electronically tested as well as dermatologically tested. Nominal width 56mm. World's no. 1 condom brand. 3 condoms in each pack.\r\n",
+        "name": "G5 Durex Extra Safe Love Sex (56 mm) Condoms 3 pcs",
+        "nameWithoutSubText": "G5 Durex Extra Safe Love Sex (56 mm) Condoms",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/g5-durex-extra-safe-love-sex-56-mm-condoms-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71895&q=low&v=1",
+            "https://chaldn.com/_mpimage/durex-extra-safe-love-sex-56-mm-condoms-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34192&q=best&v=1",
+            "https://chaldn.com/_mpimage/durex-extra-safe-love-sex-56-mm-condoms-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34193&q=best&v=1",
+            "https://chaldn.com/_mpimage/durex-extra-safe-love-sex-56-mm-condoms-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34194&q=best&v=1",
+            "https://chaldn.com/_mpimage/durex-extra-safe-love-sex-56-mm-condoms-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34195&q=best&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 7691
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0995\u09c7 3 \u0987\u0989 \u098f\u09ac\u0982 \u098f\u09ae \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09cb\u09ae\u09bf\u0995 \u0995\u09a8\u09a1\u09ae \u09e9 \u099f\u09bf",
+        "longDesc": "Made in China",
+        "name": "K3 U & ME Anatomic Condoms 3 Pcs",
+        "nameWithoutSubText": "K3 U & ME Anatomic Condoms",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/k3-u-me-anatomic-condoms-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61669&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 16075
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u098f\u09b2 \u09e9 \u0995\u09cb\u09b0\u09be\u09b2 \u09b2\u0982 \u09b2\u09be\u09b8\u099f\u09bf\u0982 \u0995\u09a8\u09a1\u09ae (\u09aa\u09cd\u09b0\u09b8\u09cd\u09a5 \u09eb\u09e8 \u00b1 \u09e8 \u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
+        "longDesc": "Made in Malaysia\r\n\r\nLength: 180 mm\r\nWidth : 52mm \u00b1 2 mm\r\nThickness :0.065mm \u00b1 0.015 mm\r\n",
+        "name": "L3 Coral Long Lasting Condom (Width 52 \u00b1 2 mm) 3 Pcs",
+        "nameWithoutSubText": "L3 Coral Long Lasting Condom (Width 52 \u00b1 2 mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/l3-coral-long-lasting-condom-width-52-2-mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45275&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 16467
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0995\u09cb\u09b0\u09be\u09b2 \u09ab\u09cd\u09b0\u09c1\u099f\u09bf \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u09b2\u09c7\u099f\u09c7\u0995\u09cd\u09b8 \u09e9 \u09ab\u09cd\u09b0\u09c1\u099f \u0995\u09a8\u09a1\u09ae \u09e9 \u099f\u09bf",
+        "longDesc": "Made in Malaysia\r\n\r\nLength: 180 mm\r\nWidth : 52mm \u00b1 2 mm\r\nThickness :0.065mm \u00b1 0.015 mm",
+        "name": "L8 Coral Frutte Natural Latex 3 Fruits Condom 3 pcs",
+        "nameWithoutSubText": "L8 Coral Frutte Natural Latex 3 Fruits Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/l8-coral-frutte-natural-latex-3-fruits-condom-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45085&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 16471
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0995\u09c7\u09e7 \u0987\u0989 \u098f\u09a8\u09cd\u09a1 \u09ae\u09bf \u09b2\u0982 \u09b2\u09be\u09ad \u0995\u09a8\u09a1\u09ae\u09b8 \u09e9 \u099f\u09bf",
+        "longDesc": "Made in China",
+        "name": "K1 U & ME Long Love Condoms 3 pcs",
+        "nameWithoutSubText": "K1 U & ME Long Love Condoms",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/k1-u-me-long-love-condoms-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61672&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 16074
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u09b8\u09cd\u09ae\u09be\u09b0\u09cd\u099f\u0995\u09c7\u09df\u09be\u09b0 \u098f\u0987\u099a\u09b8\u09bf\u099c\u09bf \u09aa\u09cd\u09b0\u09c7\u0997\u09cd\u09a8\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09bf \u099f\u09c7\u09b8\u09cd\u099f (\u0995\u09cd\u09af\u09be\u09b8\u09c7\u099f)",
+        "longDesc": null,
+        "name": "Smartcare HCG Pregnency Test (Cassette) 1 pcs",
+        "nameWithoutSubText": "Smartcare HCG Pregnency Test (Cassette)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/smartcare-hcg-pregnency-test-cassette-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D41454&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 15796
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u098f\u09b2 \u09eb \u0995\u09cb\u09b0\u09be\u09b2 \u09b2\u0982 \u09b2\u09be\u09b8\u099f\u09bf\u0982 \u0995\u09a8\u09a1\u09ae (\u09aa\u09cd\u09b0\u09b8\u09cd\u09a5 \u09eb\u09e8 \u00b1 \u09e8 \u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
+        "longDesc": "Made in Malaysia\r\n\r\nLength: 180 mm\r\nWidth : 52mm \u00b1 2 mm\r\nThickness :0.065mm \u00b1 0.015 mm",
+        "name": "L5 Coral Long Lasting Condom (Width 52 \u00b1 2 mm) 3 Pcs",
+        "nameWithoutSubText": "L5 Coral Long Lasting Condom (Width 52 \u00b1 2 mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/l5-coral-long-lasting-condom-width-52-2-mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45075&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 16464
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u098f\u09ae \u09e7 \u09b8\u09c7\u09a8\u09cd\u09b8\u09c7\u09b6\u09a8 \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995 \u09a1\u099f \u0995\u09ae\u09a1\u09cb\u09ae (\u09aa\u09cd\u09b0\u09b8\u09cd\u09a5 52 \u00b1 2 \u098f\u09ae\u098f\u09ae) 3 \u099f\u09bf",
+        "longDesc": "Barcode : 8941193102015\r\nMade in Bangladesh\r\n\r\nLength: 180 mm\r\nWidth : 52mm \u00b1 2 mm\r\nThickness :0.055mm \u00b1 0.060 mm",
+        "name": "M1 Sensation Classic Dotted Condoms 3 Pcs",
+        "nameWithoutSubText": "M1 Sensation Classic Dotted Condoms",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/m1-sensation-classic-dotted-condoms-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61667&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 16483
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u098f\u09b2 \u09ed \u0995\u09b0\u09be\u09b2 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09a1\u0993\u099f\u09c7\u09a1 \u0995\u09ae\u09a1\u09cb\u09ae (\u09aa\u09cd\u09b0\u09b8\u09cd\u09a5 \u09eb\u09e8 \u00b1 \u09e8 \u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
+        "longDesc": "Made in Malaysia\r\n\r\nLength: 180 mm\r\nWidth : 52mm \u00b1 2 mm\r\nThickness :0.065mm \u00b1 0.015 mm",
+        "name": "L7 Coral Extra Dotted Condom (Width 52 \u00b1 2 mm) 3 Pcs",
+        "nameWithoutSubText": "L7 Coral Extra Dotted Condom (Width 52 \u00b1 2 mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/l7-coral-extra-dotted-condom-width-52-2-mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45091&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 16466
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09ae\u09bf\u0995\u09cd\u09b8 \u0987\u099f \u0986\u09aa \u0986\u09b8\u09b0\u099f\u09c7\u09a1 \u0995\u09a8\u09a1\u09ae \u0995\u09ae\u09cd\u09ac\u09cb \u09ea \u09aa\u09cd\u09af\u09be\u0995 ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D2 Grip Unlimited Mix It Up Assorted Condoms Combo 4 pack",
+        "nameWithoutSubText": "D2 Grip Unlimited Mix It Up Assorted Condoms Combo",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d2-grip-unlimited-mix-it-up-assorted-condoms-combo-4-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68575&q=low&v=1"
+        ],
+        "price": 245.0,
+        "corpPrice": 245.0,
+        "objectID": 22753
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09b0\u09bf\u09ac\u09a1 + \u09a1\u099f\u09c7\u09a1  \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8  \u0995\u09a8\u09a1\u09ae \u09e7\u09e8 \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D3 Grip Unlimited Ribbed + Dotted Deluxe Condom (Width 52 mm) 12 Pack",
+        "nameWithoutSubText": "D3 Grip Unlimited Ribbed + Dotted Deluxe Condom (Width 52 mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d3-grip-unlimited-ribbed-dotted-deluxe-condom-width-52-mm-12-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68619&q=low&v=1"
+        ],
+        "price": 780.0,
+        "corpPrice": 780.0,
+        "objectID": 22752
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u098f\u0986\u09b0 \u0986\u09b2\u099f\u09cd\u09b0\u09be \u09a5\u09bf\u09a8 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8 \u0995\u09a8\u09a1\u09ae \u09e7\u09e8 \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D4 Grip Unlimited Air Ultra Thin Deluxe Condom 12 Pack",
+        "nameWithoutSubText": "D4 Grip Unlimited Air Ultra Thin Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d4-grip-unlimited-air-ultra-thin-deluxe-condom-12-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68616&q=low&v=1"
+        ],
+        "price": 720.0,
+        "corpPrice": 720.0,
+        "objectID": 22751
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09b0\u09bf\u09ac\u09a1 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8  \u0995\u09a8\u09a1\u09ae \u09e7\u09e8 \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D5 Grip Unlimited Ribbed Deluxe Condom 12 Pack",
+        "nameWithoutSubText": "D5 Grip Unlimited Ribbed Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d5-grip-unlimited-ribbed-deluxe-condom-12-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68618&q=low&v=1"
+        ],
+        "price": 720.0,
+        "corpPrice": 720.0,
+        "objectID": 22750
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09a1\u099f\u09c7\u09a1 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8  \u0995\u09a8\u09a1\u09ae \u09e7\u09e8 \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D6 Grip Unlimited Dotted Deluxe Condom 12 Pack",
+        "nameWithoutSubText": "D6 Grip Unlimited Dotted Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d6-grip-unlimited-dotted-deluxe-condom-12-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68617&q=low&v=1"
+        ],
+        "price": 720.0,
+        "corpPrice": 720.0,
+        "objectID": 22749
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09b0\u09bf\u09ac\u09a1 + \u09a1\u099f\u09c7\u09a1 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8 \u0995\u09a8\u09a1\u09ae \u09ec \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D7 Grip Unlimited Ribbed + Dotted Deluxe Condom 6 Pack",
+        "nameWithoutSubText": "D7 Grip Unlimited Ribbed + Dotted Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d7-grip-unlimited-ribbed-dotted-deluxe-condom-6-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68600&q=low&v=1"
+        ],
+        "price": 390.0,
+        "corpPrice": 390.0,
+        "objectID": 22748
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u098f\u0986\u09b0 \u0986\u09b2\u099f\u09cd\u09b0\u09be \u09a5\u09bf\u09a8 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8 \u0995\u09a8\u09a1\u09ae \u09ec \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D8 Grip Unlimited Air Ultra Thin Deluxe Condom 6 Pack ",
+        "nameWithoutSubText": "D8 Grip Unlimited Air Ultra Thin Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d8-grip-unlimited-air-ultra-thin-deluxe-condom-6-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68597&q=low&v=1"
+        ],
+        "price": 360.0,
+        "corpPrice": 360.0,
+        "objectID": 22747
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09b0\u09bf\u09ac\u09a1 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8  \u0995\u09a8\u09a1\u09ae \u09ec \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D9 Grip Unlimited Ribbed Deluxe Condom 6 Pack ",
+        "nameWithoutSubText": "D9 Grip Unlimited Ribbed Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d9-grip-unlimited-ribbed-deluxe-condom-6-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68599&q=low&v=1"
+        ],
+        "price": 360.0,
+        "corpPrice": 360.0,
+        "objectID": 22746
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09a1\u099f\u09c7\u09a1 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8  \u0995\u09a8\u09a1\u09ae  \u09ec \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D10 Grip Unlimited Dotted Deluxe Condom 6 Pack ",
+        "nameWithoutSubText": "D10 Grip Unlimited Dotted Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d10-grip-unlimited-dotted-deluxe-condom-6-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68598&q=low&v=1"
+        ],
+        "price": 360.0,
+        "corpPrice": 360.0,
+        "objectID": 22745
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09b0\u09bf\u09ac\u09a1 + \u09a1\u099f\u09c7\u09a1 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8 \u0995\u09a8\u09a1\u09ae \u09e9 \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D19 Grip Unlimited Ribbed + Dotted Deluxe Condom 3 Pack ",
+        "nameWithoutSubText": "D19 Grip Unlimited Ribbed + Dotted Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d19-grip-unlimited-ribbed-dotted-deluxe-condom-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68595&q=low&v=1"
+        ],
+        "price": 195.0,
+        "corpPrice": 195.0,
+        "objectID": 22744
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u098f\u0986\u09b0 \u0986\u09b2\u099f\u09cd\u09b0\u09be \u09a5\u09bf\u09a8 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8 \u0995\u09a8\u09a1\u09ae \u09e9 \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D11 Grip Unlimited Air Ultra Thin Deluxe Condom 3 pack ",
+        "nameWithoutSubText": "D11 Grip Unlimited Air Ultra Thin Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d11-grip-unlimited-air-ultra-thin-deluxe-condom-3-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68584&q=low&v=1"
+        ],
+        "price": 180.0,
+        "corpPrice": 180.0,
+        "objectID": 22743
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09b0\u09bf\u09ac\u09a1 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8  \u0995\u09a8\u09a1\u09ae \u09e9 \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D12 Grip Unlimited Ribbed Deluxe Condom 3 Pack",
+        "nameWithoutSubText": "D12 Grip Unlimited Ribbed Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d12-grip-unlimited-ribbed-deluxe-condom-3-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68586&q=low&v=1"
+        ],
+        "price": 180.0,
+        "corpPrice": 180.0,
+        "objectID": 22742
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09a1\u099f\u09c7\u09a1 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8  \u0995\u09a8\u09a1\u09ae  \u09e9 \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D13 Grip Unlimited Dotted Deluxe Condom 3 Pack ",
+        "nameWithoutSubText": "D13 Grip Unlimited Dotted Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d13-grip-unlimited-dotted-deluxe-condom-3-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68585&q=low&v=1"
+        ],
+        "price": 180.0,
+        "corpPrice": 180.0,
+        "objectID": 22741
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u098f\u0986\u09b0 \u0986\u09b2\u099f\u09cd\u09b0\u09be \u09a5\u09bf\u09a8 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8 \u0995\u09a8\u09a1\u09ae  \u09e8 \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f  ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D14 Grip Unlimited Air Ultra Thin Deluxe Condom 2 Pack ",
+        "nameWithoutSubText": "D14 Grip Unlimited Air Ultra Thin Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d14-grip-unlimited-air-ultra-thin-deluxe-condom-2-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68576&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 22739
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09b0\u09bf\u09ac\u09a1 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8  \u0995\u09a8\u09a1\u09ae \u09e8 \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D15 Grip Unlimited Ribbed Deluxe Condom 2 Pack",
+        "nameWithoutSubText": "D15 Grip Unlimited Ribbed Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d15-grip-unlimited-ribbed-deluxe-condom-width-52-mm-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68582&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 22738
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09a1\u099f\u09c7\u09a1 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8  \u0995\u09a8\u09a1\u09ae \u09e8 \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D16 Grip Unlimited Dotted Deluxe Condom 2 Pack",
+        "nameWithoutSubText": "D16 Grip Unlimited Dotted Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d16-grip-unlimited-dotted-deluxe-condom-width-52-mm-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68578&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 22737
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09b0\u09bf\u09ac\u09a1 + \u09a1\u099f\u09c7\u09a1 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8 \u0995\u09a8\u09a1\u09ae \u09e8 \u09aa\u09bf\u09b8",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D17 Grip Unlimited Ribbed + Dotted Deluxe Condom 2 pcs",
+        "nameWithoutSubText": "D17 Grip Unlimited Ribbed + Dotted Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d17-grip-unlimited-ribbed-dotted-deluxe-condom-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68602&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 22736
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u098f\u0986\u09b0 \u0986\u09b2\u099f\u09cd\u09b0\u09be \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8 \u0995\u09a8\u09a1\u09ae \u09e8 \u09aa\u09bf\u09b8 ",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D21 Grip Unlimited Air Ultra Thin Deluxe Condom 2 pcs",
+        "nameWithoutSubText": "D21 Grip Unlimited Air Ultra Thin Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d21-grip-unlimited-air-ultra-thin-deluxe-condom-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68571&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 22735
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09bf\u09aa \u0986\u09a8\u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1 \u09a1\u099f\u09c7\u09a1 \u09a1\u09bf\u09b2\u09be\u0995\u09cd\u09b8 \u0995\u09a8\u09a1\u09ae \u09e8 \u09aa\u09bf\u09b8",
+        "longDesc": "Grip Unlimited is the most popular men\u2019s condom brand in Bangladesh. It is pre-lubricated (Non-Medicated) with aromatic flavored condoms. Pink colored natural rubber latex textured condom with anatomic shape. It is 100% electronically tested as well as dermatologically tested and hermetically sealed. Each product is a nominal width of 52.5mm, a length of 180 mm, and a thickness of 0.03 mm. \r\nCountry of Origin Malaysia.\r\n",
+        "name": "D18 Grip Unlimited Dotted Deluxe Condom 2 Pcs",
+        "nameWithoutSubText": "D18 Grip Unlimited Dotted Deluxe Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/d18-grip-unlimited-dotted-deluxe-condom-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68570&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 22730
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": " \u09b9\u09bf\u09b0\u09cb \u09e9 \u098f\u09b8 \u0995\u09a8\u09a1\u09ae \u09e9 \u099f\u09bf",
+        "longDesc": "Made in Bangladesh",
+        "name": "T1 Hero 3S Condom 3 pcs",
+        "nameWithoutSubText": "T1 Hero 3S Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/t1-hero-3s-condom-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61662&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 19999
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u09b0\u09be\u099c\u09be \u09b8\u09c1\u09aa\u09be\u09b0 \u0995\u09a8\u09a1\u09ae 3 \u099f\u09bf",
+        "longDesc": "Made in Bangladesh\r\n",
+        "name": "AG1 Raja Super Condom 3 pcs",
+        "nameWithoutSubText": "AG1 Raja Super Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ag1-raja-super-condom-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61666&q=low&v=1"
+        ],
+        "price": 9.0,
+        "corpPrice": 9.0,
+        "objectID": 19998
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u09b2\u09be\u09ad \u09b8\u09c1\u09aa\u09be\u09b0 \u09b2\u09be\u09ad \u0995\u09a8\u09a1\u09ae (\u09aa\u09cd\u09b0\u0983 \u09eb\u09e8 \u00b1 \u09e8 \u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
+        "longDesc": "\r\nMade in China\r\n\r\n",
+        "name": "V1 Love Super Sex Condom (Width 52 \u00b1 2 mm) 3 Pcs",
+        "nameWithoutSubText": "V1 Love Super Sex Condom (Width 52 \u00b1 2 mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/v1-love-super-sex-condom-width-52-2-mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64751&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 16521
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0987 \u09b8 \u09aa\u09bf \u09a1\u0993\u099f\u09c7\u09a1 \u09aa\u09cd\u09b2\u09cd\u09af\u09be\u099c\u09be\u09b0 \u0995\u09a8\u09a1\u09ae\u09b8 (\u09aa\u09cd\u09b0\u09b8\u09cd\u09a5 \u09eb\u09e8 \u00b1 \u09e8 \u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
+        "longDesc": "Made in Italy",
+        "name": "O5 ESP Dotted Pleasure Condoms (Width 52 \u00b1 2 mm) 3 Pcs",
+        "nameWithoutSubText": "O5 ESP Dotted Pleasure Condoms (Width 52 \u00b1 2 mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/o5-esp-dotted-pleasure-condoms-width-52-2-mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45192&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 16518
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0987 \u09b8 \u09aa\u09bf \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be  \u09aa\u09cd\u09b2\u09cd\u09af\u09be\u099c\u09be\u09b0 \u0995\u09a8\u09a1\u09ae\u09b8 (\u09aa\u09cd\u09b0\u09b8\u09cd\u09a5 \u09eb\u09e8 \u00b1 \u09e8 \u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
+        "longDesc": "Made in Italy",
+        "name": "O4 ESP Xtra Pleasure Condoms (Width 52 \u00b1 2 mm) 3 Pcs",
+        "nameWithoutSubText": "O4 ESP Xtra Pleasure Condoms (Width 52 \u00b1 2 mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/o4-esp-xtra-pleasure-condoms-width-52-2-mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45182&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 16517
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": " \u0987 \u09b8 \u09aa\u09bf \u09aa\u09bf\u09a8\u0995 \u09b2\u09ad\u09c7\u09b0 \u09ae\u09be\u09b0\u09b6\u09cd\u09ae\u09be\u09b2\u09cd\u09b2 \u0995\u09a8\u09a1\u09ae\u09b8 (\u09aa\u09cd\u09b0\u09b8\u09cd\u09a5 \u09eb\u09e8 \u00b1 \u09e8 \u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
+        "longDesc": "Made in Italy",
+        "name": "O3 ESP Pink Love Marshmallow Condoms (Width 52 \u00b1 2 mm) 3 Pcs",
+        "nameWithoutSubText": "O3 ESP Pink Love Marshmallow Condoms (Width 52 \u00b1 2 mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/o3-esp-pink-love-marshmallow-condoms-width-52-2-mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45196&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 16516
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0987 \u09b8 \u09aa\u09bf \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u0995\u09a8\u09a1\u09ae\u09b8 (\u09aa\u09cd\u09b0\u09b8\u09cd\u09a5 \u09eb\u09e8 \u00b1 \u09e8 \u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
+        "longDesc": "Made in Italy",
+        "name": "O2 ESP Strawberry Condoms (Width 52 \u00b1 2 mm) 3 Pcs",
+        "nameWithoutSubText": "O2 ESP Strawberry Condoms (Width 52 \u00b1 2 mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/o2-esp-strawberry-condoms-width-52-2-mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45180&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 16515
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0993 \u09e7  \u0987 \u09b8 \u09aa\u09bf \u098f\u09a8\u09cd\u09a1\u09c1\u09b0\u09cb \u09aa\u09cd\u09b2\u09cd\u09af\u09be\u099c\u09be\u09b0 \u0995\u09a8\u09a1\u09ae\u09b8 (\u09aa\u09cd\u09b0\u09b8\u09cd\u09a5 \u09eb\u09e8 \u00b1 \u09e8 \u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
+        "longDesc": "Barcode : 9555451805038\r\nMade in Italy",
+        "name": "O1 ESP Enduro Pleasure Condoms (Width 52 \u00b1 2 mm) 3 Pcs",
+        "nameWithoutSubText": "O1 ESP Enduro Pleasure Condoms (Width 52 \u00b1 2 mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/o1-esp-enduro-pleasure-condoms-width-52-2-mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45129&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 16488
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u098f\u0995\u09cd\u09b8 \u09b0\u09c7\u0997\u09c1\u09b2\u09be\u09b0 \u0995\u09ae\u09ab\u09bf \u09ab\u09bf\u099f \u0995\u09a8\u09a1\u09ae \u09e9 \u099f\u09bf",
+        "longDesc": "Barcode : 8009\r\nMade in UK",
+        "name": "R1 Exs Regular Comfy Fit Condoms 3 Pcs",
+        "nameWithoutSubText": "R1 Exs Regular Comfy Fit Condoms",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/r1-exs-regular-comfy-fit-condoms-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45128&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 16487
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0995\u09cb\u09b0\u09be\u09b2 \u09b8\u09c7\u099f\u09be \u09b8\u09c1\u09aa\u09be\u09b0 \u0986\u09b2\u09cd\u099f\u09cd\u09b0\u09be \u09a5\u09bf\u09a8 \u0995\u09a8\u09a1\u09ae \u09e9 \u099f\u09bf",
+        "longDesc": "Barcode : 9555171309526\r\nMade in Malaysia\r\n\r\nLength: 180 mm\r\nWidth : 52mm \u00b1 2 mm\r\nThickness :0.055mm \u00b1 0.060 mm",
+        "name": "L2 Coral Seta Super Ultra Thin Condom 3 pcs",
+        "nameWithoutSubText": "L2 Coral Seta Super Ultra Thin Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/l2-coral-seta-super-ultra-thin-condom-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45109&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 16472
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u098f\u09b2 \u09e7 \u0995\u09cb\u09b0\u09be\u09b2 \u0986\u09b2\u099f\u09cd\u09b0\u09be \u09a5\u09bf\u09a8 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u099f\u09be\u0987\u09ae \u0995\u09a8\u09a1\u09ae \u09e9 \u099f\u09bf",
+        "longDesc": "Barcode : 9555171309304\r\n\r\nMade in Malaysia\r\nLength: 180 mm\r\nWidth : 52mm \u00b1 2 mm\r\nThickness :0.065mm \u00b1 0.015 mm\r\n\r\nMaterial Latex (Low Protein)\r\nShape : Parallel-sided, Teat-ended",
+        "name": "L1 Coral Ultra Thin Extra Time Condom 3 pcs",
+        "nameWithoutSubText": "L1 Coral Ultra Thin Extra Time Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/l1-coral-ultra-thin-extra-time-condom-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45090&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 16465
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u099c\u09c7\u09e7 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09bf\u09ae \u09e7 \u098f\u09b0 \u09ad\u09c7\u09a4\u09b0 \u09e9 \u0995\u09a8\u09a1\u09ae \u09e9 \u099f\u09bf",
+        "longDesc": "Made in China. ",
+        "name": "J1 Xtreme 3 in 1 condom 3 pcs",
+        "nameWithoutSubText": "J1 Xtreme 3 in 1 condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/j1-xtreme-3-in-1-condom-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61673&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 16076
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1 \u09ae\u09c1\u09a1\u09b8 \u0995\u09c1\u09b2 \u0995\u09a8\u09a1\u09ae\u09b8 (\u09aa\u09cd\u09b0:\u09eb\u09e9 \u00b1\u09e8\u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
+        "longDesc": "coloured lubricated condoms with reservoir tip. MOODS MALE CONDOMS,\r\nalso available in other exciting variants.\r\nLength: 180mm (min)Width: 53mm\r\n\r\nMade in India",
+        "name": "H3 Gold Moods Cool Condoms (W53 \u00b1 2mm) 3 pcs",
+        "nameWithoutSubText": "H3 Gold Moods Cool Condoms (W53 \u00b1 2mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/h3-gold-moods-cool-condoms-w53-2mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D33921&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 14244
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1 \u09ae\u09c1\u09a1\u09b8 \u0987\u09b2\u09c7\u0995\u09cd\u099f\u09bf\u09ab\u09be\u0987 \u0995\u09a8\u09a1\u09ae\u09b8 (\u09aa\u09cd\u09b0:\u09eb\u09e9 \u00b1\u09e8\u09ae\u09bf\u09ae\u09bf) \u09e9 \u099f\u09bf",
+        "longDesc": "coloured lubricated condoms with reservoir tip. MOODS MALE CONDOMS,\r\nalso available in other exciting variants.\r\nLength: 180mm (min)Width: 53mm\r\n\r\nMade in India",
+        "name": "H4 Gold Moods Electrify Condoms (W53 \u00b1 2mm) 3 pcs",
+        "nameWithoutSubText": "H4 Gold Moods Electrify Condoms (W53 \u00b1 2mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/h4-gold-moods-electrify-condoms-w53-2mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D33919&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 14242
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u09ae\u09c1\u09a1\u09b8 \u0985\u09b2 \u09a8\u09be\u0987\u099f \u0995\u09a8\u09a1\u09ae \u09e9 \u099f\u09bf ",
+        "longDesc": "Green coloured lubricated condoms with reservoir tip.\r\nMoods Condomes are also available in other exciting variants.\r\nThis Condom Superbrands Consumer Validated Certified\r\n\r\nMade in India",
+        "name": "H6 Moods All Night Condom 3 pcs",
+        "nameWithoutSubText": "H6 Moods All Night Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/h6-moods-all-night-condom-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D21539&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 9253
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u09ae\u09c1\u09a1\u09b8 \u0986\u09b2\u099f\u09cd\u09b0\u09be \u09a5\u09bf\u09a8 \u0995\u09a8\u09a1\u09ae\u09b8\u09cd (\u09aa\u09cd\u09b0:\u09eb\u09e9 \u00b1\u09e8 / \u09a6\u09c8:\u09e7\u09ee\u09e6 \u09ae\u09bf\u09ae\u09bf)\u00a0\u09e9 \u099f\u09bf",
+        "longDesc": "Condoms made of natural rubber latex. Natural latex\r\ncoloured lubricated condoms with reservoir tip. MOODS MALE CONDOMS,\r\nLength: 180mm (min)Width: 53mm\r\n\r\nMade in India",
+        "name": "H9 Moods Ultra Thin Condoms (W53 \u00b1 2/L180 mm) 3 pcs ",
+        "nameWithoutSubText": "H9 Moods Ultra Thin Condoms (W53 \u00b1 2/L180 mm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/h9-moods-ultra-thin-condoms-w53-2l180-mm-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44282&q=low&v=1"
+        ],
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 9252
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u09ae\u09c1\u09a1\u09b8 \u09a1\u099f\u09c7\u09a1 \u0995\u09a8\u09a1\u09ae 3 \u099f\u09bf",
+        "longDesc": "Length: 180mm\r\nWidth: 53mm +/- 2mm\r\nCountry of Origin: India\r\n",
+        "name": "H7 Moods Dotted Condom 3 pcs",
+        "nameWithoutSubText": "H7 Moods Dotted Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/h7-moods-dotted-condom-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39933&q=low&v=1"
+        ],
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 9251
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09a8\u09cd\u09a5\u09be\u09b0 \u0995\u09a8\u09a1\u09ae \u09e9 \u099f\u09bf ",
+        "longDesc": "Made in Bangladesh",
+        "name": "I1 Panther Condom 3 pcs",
+        "nameWithoutSubText": "I1 Panther Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/i1-panther-condom-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61664&q=best&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 7706
+    },
+    {
+        "category": {
+            "name": "Family Planning",
+            "id": "47",
+            "slug": "family-planning"
+        },
+        "bengaliName": "\u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09bf\u09ae \u0986\u09b2\u099f\u09cd\u09b0\u09be \u09a5\u09bf\u09a8 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09df\u09be\u09ae (\u09eb\u09e8\u00b1 \u09e8 \u098f\u09ae\u098f\u09ae) \u0995\u09a8\u09a1\u09ae \u09e9 \u099f\u09bf",
+        "longDesc": "Made in China",
+        "name": "J2 Xtreme Ultra Thin Premium (52 \u00b1 2 mm) Condom 3 pcs",
+        "nameWithoutSubText": "J2 Xtreme Ultra Thin Premium (52 \u00b1 2 mm) Condom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/j2-xtreme-ultra-thin-premium-52-2-mm-condom-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61674&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 7705
+    }
+]

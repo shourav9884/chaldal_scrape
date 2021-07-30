@@ -1,0 +1,962 @@
+[
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09b0\u09bf\u09ad\u09be\u0987\u09ad \u09ae\u09df\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09bf\u0982 \u09b2\u09cb\u09b6\u09a8 (\u09ab\u09cd\u09b0\u09c0 \u09aa\u09c7\u099f\u09cd\u09b0\u09b2\u09bf\u09df\u09be\u09ae \u099c\u09c7\u09b2\u09bf) \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Revive Moisturizing Lotion (Free Petrolium Jelly) 200 ml",
+        "nameWithoutSubText": "Revive Moisturizing Lotion (Free Petrolium Jelly)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/revive-moisturizing-lotion-free-petrolium-jelly-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74133&q=low&v=1"
+        ],
+        "price": 170.0,
+        "corpPrice": 170.0,
+        "objectID": 23735
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09ad\u09cd\u09af\u09be\u09b8\u09b2\u09bf\u09a8 \u09b2\u09cb\u09b6\u09a8 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Unilever ltd.\r\nVaseline lotion is specially formulated with Triple sunscreens and vitamin B3 that work together to help protect from the sun and make your skin look brighter in 2 weeks. It contains micro-droplets of vaseline jelly which that helps heal damage from deep within. \r\nTriple sunscreens protect your skin from UVA and UVB.\r\nVitamin B3 inhibits melanin transfer-making skin look brighter.",
+        "name": "Vaseline Lotion 300 ml",
+        "nameWithoutSubText": "Vaseline Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vaseline-lotion-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70372&q=low&v=1"
+        ],
+        "price": 280.0,
+        "corpPrice": 280.0,
+        "objectID": 6121
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b8\u09c1\u099f \u09b8\u09cd\u0995\u09bf\u09a8\u09aa\u09bf\u0993\u09b0 \u09b8\u09cd\u0995\u09bf\u09a8 \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u09b9\u09cb\u09df\u09be\u0987\u099f \u09b2\u09cb\u09b6\u09a8 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Parachute SkinPure Skin Lotion Natural White\r\nEnriched with the goodness of COCONUT MILK & SANDALWOOD. SANDALWOOD makes the skin fairer and COCONUT MILK gives naturally glowing beautiful skin. It\u2019s made from 100% natural moisturisers which goes 10 layer deep into the skin to nourish from within. Suitable for all skin types. Recommended for Oily Skin and Dull Skin.",
+        "name": "Parachute SkinPure Skin Natural White Lotion 100 ml ",
+        "nameWithoutSubText": "Parachute SkinPure Skin Natural White Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/parachute-skinpure-skin-natural-white-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67425&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 22310
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b6\u09c1\u099f \u09b8\u09cd\u0995\u09bf\u09a8\u09aa\u09bf\u0993\u09b0 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09a8 (\u09ab\u09cd\u09b0\u09bf \u09aa\u09c7\u099f\u09cd\u09b0\u09cb\u09b2\u09bf\u09af\u09bc\u09be\u09ae \u099c\u09c7\u09b2\u09bf) \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Parachute SkinPure Body Lotion (Free Petroleum Jelly) 200 ml",
+        "nameWithoutSubText": "Parachute SkinPure Body Lotion (Free Petroleum Jelly)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/parachute-skinpure-body-lotion-free-petroleum-jelly-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73314&q=low&v=1"
+        ],
+        "price": 180.0,
+        "corpPrice": 180.0,
+        "objectID": 23508
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09ac\u09cb\u09b0\u09cb\u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09df\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09bf\u0982 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09a8 \u0985\u09cd\u09af\u09be\u09b2\u09cb\u09ad\u09c7\u09b0\u09be \u0993 \u09ae\u09bf\u09b2\u09cd\u0995 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Boroplus Moisturising Body Lotion Aloe Vera & Milk 200 ml",
+        "nameWithoutSubText": "Boroplus Moisturising Body Lotion Aloe Vera & Milk",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/boroplus-moisturising-body-lotion-aloe-vera-milk-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73785&q=low&v=1"
+        ],
+        "price": 195.0,
+        "corpPrice": 195.0,
+        "objectID": 23634
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u099f\u09c7\u09b8\u0995\u09cb \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be\u0995\u09cd\u099f\u09b8 \u0995\u09cb\u0995\u09cb\u09df\u09be \u09ac\u09be\u099f\u09be\u09b0 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09a8 \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Tesco Extracts Cocoa Butter Body Lotion 400 ml",
+        "nameWithoutSubText": "Tesco Extracts Cocoa Butter Body Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tesco-extracts-cocoa-butter-body-lotion-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75576&q=low&v=1"
+        ],
+        "price": 781.0,
+        "corpPrice": 781.0,
+        "objectID": 24155
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09ac\u09bf\u0989\u099f\u09bf \u09ab\u09b0\u09cd\u09ae\u09c1\u09b2\u09be\u09b8 \u09b8\u09cb\u09ab\u099f\u09c7\u09a8\u09bf\u0982 \u09ab\u09c1\u099f \u09b2\u09cb\u09b6\u09a8 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Beauty Formulas Softening Foot Lotion 100 ml",
+        "nameWithoutSubText": "Beauty Formulas Softening Foot Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/beauty-formulas-softening-foot-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75570&q=low&v=1"
+        ],
+        "price": 398.0,
+        "corpPrice": 398.0,
+        "objectID": 24151
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u0993\u09ae\u09cd\u09af\u09be\u09a8\u09b8 \u0993\u09df\u09be\u09b0\u09cd\u09b2\u09cd\u09a1 \u09b9\u09cb\u09df\u09be\u0987\u099f\u09bf\u09a8\u09bf\u0982 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09a8 (\u09ab\u09cd\u09b0\u09c0 \u0989\u09aa\u099f\u09be\u09a8 \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Woman's World Whitening Body Lotion (Free Uptan 80 gm) 300 ml",
+        "nameWithoutSubText": "Woman's World Whitening Body Lotion (Free Uptan 80 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/womans-world-whitening-body-lotion-free-uptan-80-gm-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74078&q=low&v=1"
+        ],
+        "price": 660.0,
+        "corpPrice": 660.0,
+        "objectID": 23720
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09ac\u09cb\u09b0\u09cb \u09aa\u09cd\u09b2\u09be\u09b8 \u09b9\u09cb\u09af\u09bc\u09be\u0987\u099f\u09bf\u0982 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09a8 (\u09ab\u09cd\u09b0\u09c0 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b8\u09cd\u09af\u09be\u09a8\u09bf\u099f\u09be\u0987\u099c\u09be\u09b0) \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Boroplus Whitening Body Lotion (Free Hand Sanitizer) 300 ml",
+        "nameWithoutSubText": "Boroplus Whitening Body Lotion (Free Hand Sanitizer)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/boroplus-whitening-body-lotion-free-hand-sanitizer-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73513&q=low&v=1"
+        ],
+        "price": 330.0,
+        "corpPrice": 330.0,
+        "objectID": 23549
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09ac\u09a1\u09bf \u09ae\u09bf\u09b2\u09cd\u0995 \u09b6\u09bf\u09df\u09c7 \u09b8\u09cd\u09ae\u09c1\u09a5 \u09ae\u09df\u09c7\u09b6\u09cd\u099a\u09be\u09b0 \u0995\u09c7\u09df\u09be\u09b0 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Long Lasting Hydration - The deep moisture serum formula gives you moisturized skin that lasts up to 48 hours. Gives You Smoother Skin - Get smooth skin that is deeply moisturized. Enriched with shea butter and deep moisture serum, it deeply moisturizes dry skin and gives it a silky smooth feeling that lasts for up to 48 hours.\r\n\r\nHow to use:\r\n\r\n\u2022Step 1 - Dispense the body lotion into the palm of your hand.\r\n\r\n\u2022Step 2 - Gently massage the lotion onto your skin.\r\n\r\n\u2022Step 3 - Apply evenly all over the body.\r\n\r\n\u2022Step 4 - Use daily to give your skin the perfect results.\r\n",
+        "name": "Nivea Body Milk Shea Smooth Moisture Care 200ml",
+        "nameWithoutSubText": "Nivea Body Milk Shea Smooth Moisture Care",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-body-milk-shea-smooth-moisture-care-200ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68756&q=low&v=1",
+            "https://chaldn.com/_mpimage/nivea-body-milk-shea-smooth-moisture-care-200ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68761&q=low&v=1",
+            "https://chaldn.com/_mpimage/nivea-body-milk-shea-smooth-moisture-care-200ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68762&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 22827
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u098f\u09a8\u099a\u09be\u09a8\u09cd\u099f\u09bf\u09af\u09bc\u09b0 \u09aa\u09be\u09b0\u09ab\u09bf\u0989\u09ae \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09a8 \u0985\u09cd\u09af\u09be\u09b2\u09be\u09b0\u09bf\u0982 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Malaysia\r\nFormulated with non-greasy Satin Smooth and specially enriched with Aloe Vera and Olive Butter, Enchanteur Alluring Body Lotion gives you perfect moisturization and its seductive fragrance of Rose and Iris enhanced with creamy Vanilla gives your skin tender loving care.",
+        "name": "Enchanteur Perfumed Body Lotion Alluring 250 ml",
+        "nameWithoutSubText": "Enchanteur Perfumed Body Lotion Alluring",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/enchanteur-perfumed-body-lotion-alluring-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67697&q=best&v=1"
+        ],
+        "price": 550.0,
+        "corpPrice": 550.0,
+        "objectID": 22519
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u098f\u09a8\u099a\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u0989\u09b0 \u09aa\u09be\u09b0\u09ab\u09bf\u0989\u09ae\u09a1 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09a8 \u09b0\u09cb\u09ae\u09be\u09a8\u09cd\u099f\u09bf\u0995 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Malaysia\r\nFormulated with non-greasy Satin Smooth and specially enriched with Aloe Vera and Olive Butter, Enchanteur Romantic Body Lotion has an uplifting fragrance of sweet Bulgarian Roses and White Jasmine to pamper you to perfection",
+        "name": "Enchanteur Perfumed Body Lotion Romantic 250 ml",
+        "nameWithoutSubText": "Enchanteur Perfumed Body Lotion Romantic",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/enchanteur-perfumed-body-lotion-romantic-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67694&q=best&v=1"
+        ],
+        "price": 550.0,
+        "corpPrice": 550.0,
+        "objectID": 22517
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u098f\u09a8\u099a\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u0989\u09b0 \u09aa\u09be\u09b0\u09ab\u09bf\u0989\u09ae\u09c7\u09a1 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09a8 \u098f\u09a8\u09cd\u099f\u09bf\u099a\u09bf\u0982 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin - Malaysia\r\n\r\nFormulated with non-greasy Satin Smooth and specially enriched with Aloe Vera and Olive Butter to give your skin optimum moisturization and nourishment, Enchanteur Enticing Body Lotion also encapsulates vivacious fragrance of Rose combined with Magnolia.",
+        "name": "Enchanteur Perfumed Body Lotion Enticing 250 ml",
+        "nameWithoutSubText": "Enchanteur Perfumed Body Lotion Enticing",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/enchanteur-perfumed-body-lotion-enticing-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67691&q=best&v=1"
+        ],
+        "price": 550.0,
+        "corpPrice": 550.0,
+        "objectID": 22515
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u098f\u09a8\u099a\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u0989\u09b0 \u09aa\u09be\u09b0\u09ab\u09bf\u0989\u09ae\u09c7\u09a1 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09a8 \u099a\u09be\u09b0\u09ae\u09bf\u0982 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Malaysia\r\nENCHANTEUR Radiant White Perfumed Body Lotion keeps your skin moisturised and radiantly fairer while leaving it gorgeously fragrant.\r\n\u2022 Contains Micro Glow Reflectors for instantly visible fairness\r\n\u2022 Pomegranate extract evens skin tone and strengthens skin barrier\r\n\u2022 UV Protection prevents skin from further darkening\r\n\u2022 Air-light skin feel\r\n\u2022 Infused with ENCHANTEUR Charming fragrance\r\nDermatologically tested\r\n0% *Alcohol * Paraben * Mineral Oil * Artificial colour * Animal testing",
+        "name": "Enchanteur Perfumed Body Lotion Charming 250ml",
+        "nameWithoutSubText": "Enchanteur Perfumed Body Lotion Charming",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/enchanteur-perfumed-body-lotion-charming-250ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67687&q=best&v=1"
+        ],
+        "price": 550.0,
+        "corpPrice": 550.0,
+        "objectID": 22513
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b8\u09c1\u099f \u09b8\u09cd\u0995\u09bf\u09a8\u09aa\u09bf\u0993\u09b0 \u09b8\u09cd\u0995\u09bf\u09a8 \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u09b9\u09cb\u09df\u09be\u0987\u099f \u09b2\u09cb\u09b6\u09a8 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Marico Bangladesh\r\n100% natural moisturizer. It smoothens your skin from inside.\r\nIngredients: Aqua, Niacinamide, sandalwood extract, coconut milk, coconut oil, glycerin, stearic acid, methyl paraben, propyl paraben, phenoxyethanol, CI 19140, CI 15995",
+        "name": "Parachute SkinPure Skin Natural White Lotion 300 ml",
+        "nameWithoutSubText": "Parachute SkinPure Skin Natural White Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/parachute-skinpure-skin-natural-white-lotion-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67423&q=low&v=1"
+        ],
+        "price": 219.0,
+        "corpPrice": 219.0,
+        "objectID": 22438
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b8\u09c1\u099f \u09b8\u09cd\u0995\u09bf\u09a8\u09aa\u09bf\u0993\u09b0 \u09b8\u09cd\u0995\u09bf\u09a8 \u09b2\u09cb\u09b6\u09a8 \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u09ae\u09df\u09c7\u09b6\u09cd\u099a\u09be\u09b0 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Parachute SkinPure Skin Lotion Natural Moisture 300 ml",
+        "nameWithoutSubText": "Parachute SkinPure Skin Lotion Natural Moisture",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/parachute-skinpure-skin-lotion-natural-moisture-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67424&q=low&v=1"
+        ],
+        "price": 210.0,
+        "corpPrice": 210.0,
+        "objectID": 22437
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b8\u09c1\u099f \u09b8\u09cd\u0995\u09bf\u09a8\u09aa\u09bf\u0993\u09b0 \u09b2\u09cb\u09b6\u09a8 \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u09b9\u09cb\u09df\u09be\u0987\u099f (\u09ab\u09cd\u09b0\u09c0 \u099c\u09c7\u09b2\u09bf ) \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Parachute SkinPure Skin Lotion Natural White\r\nEnriched with the goodness of COCONUT MILK & SANDALWOOD. SANDALWOOD makes the skin fairer and COCONUT MILK gives naturally glowing beautiful skin. It\u2019s made from 100% natural moisturisers which goes 10 layer deep into the skin to nourish from within. Suitable for all skin types. Recommended for Oily Skin and Dull Skin.",
+        "name": "Parachute SkinPure Lotion Natural White (FreeJelly) 200 ml",
+        "nameWithoutSubText": "Parachute SkinPure Lotion Natural White (FreeJelly)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/parachute-skinpure-lotion-natural-white-freejelly-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67433&q=low&v=1"
+        ],
+        "price": 190.0,
+        "corpPrice": 190.0,
+        "objectID": 22322
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b8\u09c1\u099f \u09b8\u09cd\u0995\u09bf\u09a8\u09aa\u09bf\u0993\u09b0 \u09b2\u09cb\u09b6\u09a8 \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u09ae\u09df\u09c7\u09b6\u09cd\u099a\u09be\u09b0 (\u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf \u09ab\u09cd\u09b0\u09c0) \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Parachute SkinPure Skin Lotion Natural Moisture\r\nEnriched with the goodness of COCONUT MILK & OLIVE. OLIVE makes the skin softer and COCONUT MILK gives naturally glowing beautiful skin. It\u2019s made from 100% natural moisturisers which goes 10 layer deep into the skin to nourish from within. Suitable for all skin types. Recommended for Normal skin.",
+        "name": "Parachute SkinPure Lotion Natural Moisture (100 ml Free) 300 ml",
+        "nameWithoutSubText": "Parachute SkinPure Lotion Natural Moisture (100 ml Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/parachute-skinpure-lotion-natural-moisture-100-ml-free-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67430&q=low&v=1"
+        ],
+        "price": 370.0,
+        "corpPrice": 370.0,
+        "objectID": 22314
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b8\u09c1\u099f \u09b8\u09cd\u0995\u09bf\u09a8\u09aa\u09bf\u0993\u09b0 \u09b2\u09cb\u09b6\u09a8 \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u09b9\u09cb\u09df\u09be\u0987\u099f (\u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf \u09ab\u09cd\u09b0\u09c0) \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Parachute SkinPure Skin Lotion Natural White\r\nEnriched with the goodness of COCONUT MILK & SANDALWOOD. SANDALWOOD makes the skin fairer and COCONUT MILK gives naturally glowing beautiful skin. It\u2019s made from 100% natural moisturisers which goes 10 layer deep into the skin to nourish from within. Suitable for all skin types. Recommended for Oily Skin and Dull Skin.",
+        "name": "Parachute SkinPure Lotion Natural White (100 ml Free) 300 ml",
+        "nameWithoutSubText": "Parachute SkinPure Lotion Natural White (100 ml Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/parachute-skinpure-lotion-natural-white-100-ml-free-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67435&q=low&v=1"
+        ],
+        "price": 380.0,
+        "corpPrice": 380.0,
+        "objectID": 22313
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b8\u09c1\u099f \u09b8\u09cd\u0995\u09bf\u09a8\u09aa\u09bf\u0993\u09b0 \u09b8\u09cd\u0995\u09bf\u09a8 \u09b2\u09cb\u09b6\u09a8 \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u09ae\u09df\u09c7\u09b6\u09cd\u099a\u09be\u09b0 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Parachute SkinPure Skin Lotion Natural Moisture\r\nEnriched with the goodness of COCONUT MILK & OLIVE. OLIVE makes the skin softer and COCONUT MILK gives naturally glowing beautiful skin. It\u2019s made from 100% natural moisturisers which goes 10 layer deep into the skin to nourish from within. Suitable for all skin types. Recommended for Normal skin.",
+        "name": "Parachute SkinPure Skin Lotion Natural Moisture 100 ml ",
+        "nameWithoutSubText": "Parachute SkinPure Skin Lotion Natural Moisture",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/parachute-skinpure-skin-lotion-natural-moisture-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67426&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 22309
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09b9\u09bf\u09ae\u09be\u09b2\u09af\u09bc \u09b0\u09bf\u09aa\u09c7\u09df\u09be\u09b0 \u098f\u09a8\u09cd\u09a1 \u09b0\u09bf\u099c\u09c7\u09a8\u09be\u09b0\u09c7\u099f \u09b6\u09cd\u09af\u09be\u09ae\u09cd\u09aa\u09c1 \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: India\r\nManufacturer: The Himalaya drugs Ltd.\r\n\r\nRevives damaged hair.Makes hair healthy\r\nHimalaya's Damage Repair Protein Shampoo is specially formulated for dry, frizzy and damaged hair caused by blow-drying and chemicals. Contains beach almond and chickpea\r\nBeach Almond\r\nBeach Almond is rich with tannins which are reported to possess antimicrobial antioxidant properties.\r\n \r\nChickpea\r\nChickpea is a rich source of protein. It is an effective hair conditioner which provides daily nourishmen to hair, keeping it soft, smooth and healthy.",
+        "name": "Himalaya Repair & Regenerate Shampoo 400 ml",
+        "nameWithoutSubText": "Himalaya Repair & Regenerate Shampoo",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/himalaya-repair-regenerate-shampoo-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65037&q=low&v=1"
+        ],
+        "price": 500.0,
+        "corpPrice": 500.0,
+        "objectID": 22010
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09aa\u09be\u09b0\u09cd\u09b2 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09ac\u09bf\u0989\u099f\u09bf \u09ac\u09a1\u09bf \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09e7\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Nivea Pearl & Beauty Body Spray 150 ml",
+        "nameWithoutSubText": "Nivea Pearl & Beauty Body Spray",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-pearl-beauty-body-spray-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61484&q=low&v=1"
+        ],
+        "price": 280.0,
+        "corpPrice": 280.0,
+        "objectID": 21869
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u0997\u09be\u09b0\u09cd\u09a8\u09bf\u09af\u09bc\u09be\u09b0 \u09ae\u09df\u09c7\u09b8\u099a\u09be\u09b0 \u09ac\u09ae\u09cd\u09ac \u09a1\u09c7 \u0995\u09cd\u09b0\u09bf\u09ae \u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Garnier Moisture Bomb Day Cream 50 ml",
+        "nameWithoutSubText": "Garnier Moisture Bomb Day Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/garnier-moisture-bomb-day-cream-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61271&q=low&v=1"
+        ],
+        "price": 799.0,
+        "corpPrice": 799.0,
+        "objectID": 21785
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u0987\u099f\u09be\u09b0\u09a8\u09be\u09b2 \u09b2\u09be\u09ad \u09b2\u09be\u0995\u09cd\u09b8\u09be\u09b0\u09bf \u09ae\u09be\u09b8\u09cd\u0995 \u09ac\u09a1\u09bf \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Eternal Love Luxury Musk Body Spray 200 ml",
+        "nameWithoutSubText": "Eternal Love Luxury Musk Body Spray",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/eternal-love-luxury-musk-body-spray-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60452&q=low&v=1"
+        ],
+        "price": 310.0,
+        "corpPrice": 310.0,
+        "objectID": 21527
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09b8\u09bf\u0995\u09cd\u09b0\u09c7\u099f \u099f\u09c7\u09ae\u09cd\u09aa\u099f\u09c7\u09b6\u09a8 \u09ac\u09bf.\u098f\u09b8. \u09aa\u09cd\u09af\u09be\u09b6\u09a8 \u09aa\u09be\u09b0\u09ab\u09bf\u0989\u09ae \u09e7\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Secret Temptation B.S Passion Perfume 150 ml",
+        "nameWithoutSubText": "Secret Temptation B.S Passion Perfume",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/secret-temptation-bs-passion-perfume-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59157&q=low&v=1"
+        ],
+        "price": 290.0,
+        "corpPrice": 290.0,
+        "objectID": 21090
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09ac\u09cb\u09b0\u09cb \u09aa\u09cd\u09b2\u09be\u09b8 \u09aa\u09be\u09b0\u09ab\u09c7\u0995\u09cd\u099f \u09a1\u09be\u09b0\u09cd\u09ae\u09be \u09ae\u09af\u09bc\u09c7\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09bf\u0982 \u0995\u09cd\u09b0\u09bf\u09ae \u09ee\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin - India ",
+        "name": "Boroplus Perfect Derma Moisturizing Cream 80 ml",
+        "nameWithoutSubText": "Boroplus Perfect Derma Moisturizing Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/boroplus-perfect-derma-moisturizing-cream-80-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53597&q=low&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 20439
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u0995\u09cd\u09b0\u09bf\u09ae \u09e8\u09e7 \u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8 \u0987 \u09ae\u09af\u09bc\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09bf\u0982 \u09b8\u09ab\u099f \u0995\u09cd\u09b0\u09bf\u09ae \u09e7\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin - Germany",
+        "name": "Creme 21 Vitamin E Moisturizing Soft Cream 150 ml",
+        "nameWithoutSubText": "Creme 21 Vitamin E Moisturizing Soft Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/creme-21-vitamin-e-moisturizing-soft-cream-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53615&q=best&v=1"
+        ],
+        "price": 425.0,
+        "corpPrice": 425.0,
+        "objectID": 20429
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": " \u0995\u09bf\u0989\u099f \u09ac\u09bf\u0989\u099f\u09bf \u09ae\u09bf\u09b2\u09cd\u0995 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09a8 \u09e8\u09eb\u09ed \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nCute beauty  milk is a non-greasy moisturizing body lotion. It is enriched with vitamin E. \r\nINGREDIENT\r\n\u2022          Glycerol Monostearate\r\n\u2022          Beeswax\r\n\u2022          Isopropyl Myristate\r\n\u2022          Vitamin E and C\r\n\u2022          Allantoin (Anti-sun tan agent)\r\n\u2022          Cremophor A6\r\n\u2022          Cremophor A25\r\n\u2022          Perfume\r\n\u2022          Odoriferous Substances",
+        "name": "Cute Beauty Milk Body Lotion 275 ml",
+        "nameWithoutSubText": "Cute Beauty Milk Body Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cute-beauty-milk-body-lotion-275-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53294&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 20366
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u0993\u09ae\u09c7\u09a8'\u09b8 \u0993\u09af\u09bc\u09be\u09b0\u09cd\u09b2\u09cd\u09a1 \u09ae\u09af\u09bc\u09c7\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09be\u09b0 \u0995\u09cd\u09b0\u09bf\u09ae \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Woman\u2019s world\r\n \r\nThis is a water based moisturizer that keeps your skin hydrated and gives you a fairer complexion. Its particles are easily absorbed by the skin leaving a soothing and refreshing scent on your face. It has collagen and elastin to prevent signs of aging and protect skin. \r\n \r\nIngredients: Aqua, EDTA, castor oil, glycerin, hydrolyzed elastin, mineral oil, essential oil, glutamate, lauryl glucoside, Idopropynyl, , propylene glycol.",
+        "name": "Woman's World Moisturizer Cream 60 gm",
+        "nameWithoutSubText": "Woman's World Moisturizer Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/womans-world-moisturizer-cream-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53276&q=low&v=1"
+        ],
+        "price": 570.0,
+        "corpPrice": 570.0,
+        "objectID": 20351
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u0993\u09ae\u09c7\u09a8'\u09b8 \u0993\u09af\u09bc\u09be\u09b0\u09cd\u09b2\u09cd\u09a1 \u09b9\u09cb\u09af\u09bc\u09be\u0987\u099f\u09bf\u0982 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09a8 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Woman\u2019s world\r\n \r\nWoman\u2019s world body lotion whitens the skin. It gives your skin nourishment and restoration. It hydrates and moisturizes your skin from deep inside.\r\n \r\nIngredients: Aqua, EDTA, castor oil, butylene glycol glycerin, gum, sodium acrylates, methacrylate, crosspolymer, lauryl glucoside, polysorbate-85, mineral oil, neopentyl glycol, essential oil, propylene glycol, niacinamide VC-IP, glyceyl stearate, diazolidinyl urea.",
+        "name": "Woman's World Whitening Body Lotion 300 ml",
+        "nameWithoutSubText": "Woman's World Whitening Body Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/womans-world-whitening-body-lotion-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53275&q=low&v=1"
+        ],
+        "price": 660.0,
+        "corpPrice": 660.0,
+        "objectID": 20350
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u0987\u09ae\u09be\u09ae\u09bf \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2\u09bf \u09ab\u09c7\u09df\u09be\u09b0 \u09b2\u09cb\u09b6\u09a8 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Emami Bangladesh Ltd.\r\nEmami Naturally Fair Lotion is a herbal fairness body lotion that gives you visible fairness in 4 weeks. It protects your skin from the sun and gives you even tone skin lightening. \r\nNo hydroquinone\r\nNo mercury\r\nNo bleaching substance",
+        "name": "Emami Naturally Fair Lotion 200 ml",
+        "nameWithoutSubText": "Emami Naturally Fair Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/emami-naturally-fair-lotion-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64892&q=low&v=1"
+        ],
+        "price": 180.0,
+        "corpPrice": 180.0,
+        "objectID": 20293
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09ad\u09cd\u09af\u09be\u09b8\u09b2\u09bf\u09a8 \u0987\u09a8\u09cd\u099f\u09c7\u09a8\u09cd\u09b8\u09bf\u09ad \u0995\u09c7\u09df\u09be\u09b0 \u0995\u09cb\u0995\u09cb \u09b0\u09c7\u09a1\u09bf\u09af\u09bc\u09c7\u09a8\u09cd\u099f \u099c\u09c7\u09b2 \u0985\u0987\u09b2 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: UK\r\nManufacturer: Unilever Limited\r\nWith 100% pure cocoa and shea butters, heals dry skin for a natural glow. \r\n\u2022        With pure cocoa butter and replenishing oils for healthy-looking, glowing skin\r\n\u2022        Locks in moisture to help revitalize dry and dull-looking skin\r\n\u2022        Heals dry skin for glowing radiance with non-greasy, rich moisturization\r\n\u2022        Contains pure cocoa butter to moisturize dry skin and promote a natural glow\r\n\u2022        Contains microdroplets of Vaseline\u00ae Jelly to lock in moisture\r\n\u2022        Daily body lotion best for: dry skin, dull skin",
+        "name": "Vaseline Intensive Care Cocoa Radiant Gel Oil 200 ml ",
+        "nameWithoutSubText": "Vaseline Intensive Care Cocoa Radiant Gel Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vaseline-intensive-care-cocoa-radiant-gel-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52953&q=low&v=1"
+        ],
+        "price": 889.0,
+        "corpPrice": 889.0,
+        "objectID": 20225
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09b2\u09be\u0987\u099f \u09ae\u09df\u09c7\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09bf\u0982 \u0993 \u0995\u09cd\u09b2\u09bf\u09a8\u09b8\u09bf\u0982 \u09b2\u09cb\u09b6\u09a8 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Nivea Light Moisturising & Cleansing Lotion 250 ml",
+        "nameWithoutSubText": "Nivea Light Moisturising & Cleansing Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-light-moisturising-cleansing-lotion-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52951&q=low&v=1"
+        ],
+        "price": 520.0,
+        "corpPrice": 520.0,
+        "objectID": 20223
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09ad\u09cd\u09af\u09be\u09b8\u09b2\u09bf\u09a8 \u0987\u09a8\u09cd\u099f\u09c7\u09a8\u09cd\u09b8\u09bf\u09ad \u0995\u09c7\u09df\u09be\u09b0 \u0995\u09cb\u0995\u09cb \u0997\u09cd\u09b2\u09cb \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09a8 \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: South Africa\r\nManufacturer: Unilever Limited\r\nBody lotion with cocoa butter and droplets of Vaseline jelly. It heals dry skin and revives natural glow. ",
+        "name": "Vaseline Intensive Care Cocoa Glow Body Lotion 400 ml",
+        "nameWithoutSubText": "Vaseline Intensive Care Cocoa Glow Body Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vaseline-intensive-care-cocoa-glow-body-lotion-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51991&q=low&v=1"
+        ],
+        "price": 720.0,
+        "corpPrice": 720.0,
+        "objectID": 19898
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u098f\u09a8\u09b8\u09be\u09a8\u099a\u09c2\u09b0 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09be\u09a8 \u0997\u09b0\u09cd\u099c\u09bf\u09af\u09bc\u09be\u09b8 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin:Malaysia\r\n                                   \r\nManufacturer: Enchanteur Malaysia\r\nSensual Plum & Peach infuses a glamorous bouquet of Tuberose, Gardenia & Jasmine. Laced with subtle undertones of Musk & Vanilla, Gorgeous Satin Smooth Lotion is lovingly enriched with Aloe Vera & Olive Butter for optimum skin nourishment.",
+        "name": "Enchanteur Body Lotion Gorgeous 500 ml",
+        "nameWithoutSubText": "Enchanteur Body Lotion Gorgeous",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/enchanteur-body-lotion-gorgeous-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51958&q=best&v=1"
+        ],
+        "price": 950.0,
+        "corpPrice": 950.0,
+        "objectID": 19873
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u098f\u09a8\u09b8\u09be\u09a8\u099a\u09c2\u09b0 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09be\u09a8 \u099a\u09be\u09b0\u09cd\u09ae\u09bf\u0982 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "ENCHANTEUR Radiant White Perfumed Body Lotion keeps your skin moisturised and radiantly fairer while leaving it gorgeously fragrant.\r\n\r\n\u2022 Contains Micro Glow Reflectors for instantly visible fairness\r\n\u2022 Pomegranate extract evens skin tone and strengthens skin barrier\r\n\u2022 UV Protection prevents skin from further darkening\r\n\u2022 Air-light skin feel\r\n\u2022 Infused with ENCHANTEUR Charming fragrance\r\n\r\nDermatologically tested\r\n0% *Alcohol * Paraben * Mineral Oil * Artificial colour * Animal testing",
+        "name": "Enchanteur Body Lotion Charming 500 ml",
+        "nameWithoutSubText": "Enchanteur Body Lotion Charming",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/enchanteur-body-lotion-charming-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60762&q=best&v=1"
+        ],
+        "price": 950.0,
+        "corpPrice": 950.0,
+        "objectID": 19872
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09aa\u09cd\u09af\u09be\u09b0\u09be\u09b6\u09c1\u099f \u09b8\u09cd\u0995\u09bf\u09a8\u09aa\u09bf\u0989\u09b0 \u09b2\u09cb\u09b6\u09a8 \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u09ae\u09df\u09c7\u09b6\u09cd\u099a\u09be\u09b0 (\u09ab\u09cd\u09b0\u09bf \u099c\u09c7\u09b2\u09bf) \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Parachute SkinPure Skin Lotion Natural Moisture\r\nEnriched with the goodness of COCONUT MILK & OLIVE. OLIVE makes the skin softer and COCONUT MILK gives naturally glowing beautiful skin. It\u2019s made from 100% natural moisturisers which goes 10 layer deep into the skin to nourish from within. Suitable for all skin types. Recommended for Normal skin.",
+        "name": "Parachute SP Lotion Natural Moisture (Free Jelly) 200 ml",
+        "nameWithoutSubText": "Parachute SP Lotion Natural Moisture (Free Jelly)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/parachute-sp-lotion-natural-moisture-free-jelly-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67434&q=low&v=1"
+        ],
+        "price": 180.0,
+        "corpPrice": 180.0,
+        "objectID": 19800
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u0987\u09ae\u09be\u09ae\u09bf \u09ac\u09cb\u09b0\u09cb \u09aa\u09cd\u09b2\u09be\u09b8 \u09b9\u09cb\u09af\u09bc\u09be\u0987\u099f\u09bf\u0982 \u09b2\u09cb\u09b6\u09a8 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer:\r\nBoroplus whitening lotion contains saffron, turmeric, aloe and lemon pills. These ingredients revive the brightness of your skin and keeps skin healthy.",
+        "name": "Boroplus Whitening Body Lotion 300 ml",
+        "nameWithoutSubText": "Boroplus Whitening Body Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/boroplus-whitening-body-lotion-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73498&q=low&v=1"
+        ],
+        "price": 330.0,
+        "corpPrice": 330.0,
+        "objectID": 18686
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u0987\u09ae\u09be\u09ae\u09bf \u09ac\u09cb\u09b0\u09cb \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09bf\u0982 \u09b2\u09cb\u09b6\u09a8 \u0985\u09cd\u09af\u09be\u09b2\u09ae\u09a8\u09cd\u09a1 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Boroplus Moisturising Body Lotion Almond 300 gm",
+        "nameWithoutSubText": "Boroplus Moisturising Body Lotion Almond",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/boroplus-moisturising-body-lotion-almond-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60775&q=low&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 18604
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u099c\u09a8\u09b8\u09a8'\u09b8 \u09e8\u09ea \u0998\u09a8\u09cd\u099f\u09be \u09ae\u09df\u09c7\u09b6\u09cd\u099a\u09be\u09b0 \u0995\u09c7\u09df\u09be\u09b0 \u0995\u09cd\u09b0\u09bf\u09ae \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Jhonson's 24 Hour Moisture Cream 200 ml",
+        "nameWithoutSubText": "Jhonson's 24 Hour Moisture Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/jhonsons-24-hour-moisture-cream-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50073&q=low&v=1"
+        ],
+        "price": 399.0,
+        "corpPrice": 399.0,
+        "objectID": 18365
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u0987\u09ae\u09be\u09ae\u09bf \u09ac\u09cb\u09b0\u09cb \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09bf\u0982 \u09b2\u09cb\u09b6\u09a8 \u098f\u09b2\u09cb\u09ad\u09c7\u09b0\u09be \u0993 \u09ae\u09bf\u09b2\u09cd\u0995 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Boroplus Moiturising Lotion Alovera & Millk 300 ml",
+        "nameWithoutSubText": "Boroplus Moiturising Lotion Alovera & Millk",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/boroplus-moiturising-lotion-alovera-millk-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60404&q=best&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 17106
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09ac\u09cb\u09b0\u09cb\u09aa\u09cd\u09b2\u09be\u09b8 \u09aa\u09be\u09b0\u09ab\u09c7\u0995\u09cd\u099f \u099f\u09be\u099a \u09ae\u09af\u09bc\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09bf\u0982 \u0995\u09cd\u09b0\u09bf\u09ae \u09e8\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Boroplus Perfect Touch Moisturising Cream 20 ml",
+        "nameWithoutSubText": "Boroplus Perfect Touch Moisturising Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/boroplus-perfect-touch-moisturising-cream-20-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48231&q=best&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 17102
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u098f\u09a8\u09b8\u09be\u09a8\u099a\u09c2\u09b0 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09be\u09a8 \u09b0\u09cb\u09ae\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u0995 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Malaysia\r\nLet the luscious touch of Enchanteur Romantic Satin Smooth Body Lotion with its uplifting fragrance of sweet Bulgarian Roses and White Jasmine pamper you to perfection.\r\nFormulated with non-greasy Satin Smooth and specially enriched with Aloe Vera and Olive Butter to give your skin optimum moisturisation and nourishment. Apply daily for silky smooth, beautiful soft skin.",
+        "name": "Enchanteur Body Lotion Romantic 500 ml",
+        "nameWithoutSubText": "Enchanteur Body Lotion Romantic",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/enchanteur-body-lotion-romantic-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60763&q=best&v=1"
+        ],
+        "price": 950.0,
+        "corpPrice": 950.0,
+        "objectID": 10984
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u098f\u0995\u09cd\u09b8\u09aa\u09cd\u09b0\u09c7\u09b8 \u09b9\u09be\u0987\u09a1\u09cd\u09b0\u09c7\u09b6\u09a8 \u09ac\u09a1\u09bf \u09b2\u09cb\u09b6\u09a8 \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Does your skin feel greasy after applying a lotion? You need a non-greasy, ultra-light and fast absorbing body lotion. NIVEA Express Hydration Body Lotion is enriched with sea minerals and Hydra IQ, which work deep within the skin, repairing your dry skin layer by layer to make it soft and supple. External factors like cold weather, exposure to the sun, can be harsh for the skin and cause water loss, but this body lotion keeps your skin hydrated, moisturized and completely nourished. \r\n\r\nThe ultra-light formula is perfect for normal skin. Layer it on, just after a bath or just before you step out of the house, the fragrance and effect of the body lotion will be with you all day long. Tip: Use immediately after towel drying your skin to enhance absorption. This Body lotion is free of animal derived ingredients and colorants. Skin compatibility dermatologically approved.\r\n\u2022Absorbs in seconds.\r\n\u2022Leaves your skin soft and supple immediately.\r\n\u2022Formula with Sea Minerals supplies you with moisture all day.\r\n\u2022Extra fast absorption\r\n\u2022Hydra IQ\r\n\u202224hrs moisture\r\n\u2022Contains sea minerals",
+        "name": "Nivea Express Hydration Body Lotion 400 ml",
+        "nameWithoutSubText": "Nivea Express Hydration Body Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-express-hydration-body-lotion-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18589&q=low&v=1"
+        ],
+        "price": 750.0,
+        "corpPrice": 750.0,
+        "objectID": 10902
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09b8\u09ab\u09cd\u099f \u0995\u09cd\u09b0\u09bf\u09ae \u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "The best moisture cream for you has to not only work in sync with your skin but also with your lifestyle. There are different types of skin, each with its unique set of needs, but overall there are some skincare ingredients we should all be looking out for.\r\n\r\nIf your skin tends to get dehydrated, NIVEA Soft is the perfect refreshing moisturising cream. Enriched with Jojoba oil and Vitamin E, NIVEA Soft is an invigorating and fast absorbing moisture cream that refreshes your skin, leaving a unique fragrance and making it smooth, soft, supple and healthy. Use it on your dry hands and chapped feet during the chilled winter days to obtain great results. You can also apply it regularly after your cleansing ritual for smooth, soft skin. With just one application, the cream dissipates into your skin, even in the sweltering heat. \r\n\r\nKeep your skin healthy and happy with the fresh smelling NIVEA Soft moisture cream. Try it, you\u2019ll love it.\r\n\u2022Highly effective, intensive moisturizing cream\r\n\u2022Quickly absorbs and refreshes the skin\r\n\u2022Leaves your skin soft and supple\r\n\u2022For everyday use\r\n\u2022Skin compatibility dermatologically approved",
+        "name": "Nivea Soft Creme 50 ml",
+        "nameWithoutSubText": "Nivea Soft Creme",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-soft-creme-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D16216&q=low&v=1"
+        ],
+        "price": 175.0,
+        "corpPrice": 175.0,
+        "objectID": 10104
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09b0\u09bf\u09ad\u09be\u0987\u09ad \u09ae\u09df\u09c7\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09bf\u0982 \u09b2\u09cb\u09b6\u09a8 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Revive Moisturizing Lotion 200 ml",
+        "nameWithoutSubText": "Revive Moisturizing Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/revive-moisturizing-lotion-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D33191&q=low&v=1",
+            "https://chaldn.com/_mpimage/revive-moisturizing-lotion-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22223&q=low&v=1"
+        ],
+        "price": 170.0,
+        "corpPrice": 170.0,
+        "objectID": 8601
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09aa\u09a8\u09cd\u09a1'\u09b8 \u0995\u09cb\u09b2\u09cd\u09a1 \u0995\u09cd\u09b0\u09bf\u09ae \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Get soft, glowing skin!",
+        "name": "Pond's Cold Cream 50 gm",
+        "nameWithoutSubText": "Pond's Cold Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ponds-cold-cream-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71337&q=low&v=1",
+            "https://chaldn.com/_mpimage/ponds-cold-cream-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71338&q=low&v=1"
+        ],
+        "price": 219.0,
+        "corpPrice": 219.0,
+        "objectID": 6188
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09ad\u09cd\u09af\u09be\u09b8\u09b2\u09bf\u09a8 \u09b2\u09cb\u09b6\u09a8 \u09a1\u09bf\u09aa \u09b0\u09c7\u09b7\u09cd\u099f\u09b0  \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Singapore\r\nManufacturer: Unilever Ltd.   \r\nVaseline intensive care deep restore body lotion is designed to penetrate the outermost layer of the skin to help heal dry skin for long periods of time. Vaseline intensive care deep restore body lotion is formulated glycerine, to restore moisture to the skin, and micro-droplets of Vaseline jelly, which is effective in locking moisturise in skin. Its deeply moisturizing formula provides effective, long-lasting moisturization. Clinically proven to restore dry skin. \r\nWater, Mineral Oil, Glycerin, Cetostearyl Alcohol, Petrolatum, Avena Sativa (Oat) Straw Extract, Sodium Cetostearyl Sulphate, Glyceryl Stearate, Paraffin, Dimethicone, Microcrystalline Wax, Sodium Carboxy Methyl Cellulose, Methyl Paraben, Phenoxyethanol, Propyl Paraben, Simethicone, Disodium Edta, Soyabean Oil, Bht, Perfume, Alpha-isomethyl Ionone, Amyl Cinnamal, Butylphenyl Methylpropional, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool.",
+        "name": "Vaseline Lotion Deep Restore 400 ml",
+        "nameWithoutSubText": "Vaseline Lotion Deep Restore",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vaseline-lotion-deep-restore-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76259&q=low&v=1"
+        ],
+        "price": 585.0,
+        "corpPrice": 585.0,
+        "objectID": 6124
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09ad\u09cd\u09af\u09be\u09b8\u09b2\u09bf\u09a8 \u09b2\u09cb\u09b6\u09a8 \u09b9\u09c7\u09b2\u09a6\u09bf \u09b9\u09c7\u09be\u09df\u09be\u0987\u099f \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Vaseline Lotion Healthy White 100 ml",
+        "nameWithoutSubText": "Vaseline Lotion Healthy White",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vaseline-lotion-healthy-white-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76260&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 6123
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09ad\u09cd\u09af\u09be\u09b8\u09b2\u09bf\u09a8 \u09b2\u09cb\u09b6\u09a8 \u09b9\u09c7\u09b2\u09a6\u09bf \u09ac\u09cd\u09b0\u09be\u0987\u099f \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Vaseline Lotion Healthy Bright 200 ml",
+        "nameWithoutSubText": "Vaseline Lotion Healthy Bright",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vaseline-lotion-healthy-bright-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76263&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 6122
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09ad\u09cd\u09af\u09be\u09b8\u09b2\u09bf\u09a8 \u09b2\u09cb\u09b6\u09a8 \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Vaseline Lotion 400 ml",
+        "nameWithoutSubText": "Vaseline Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vaseline-lotion-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70373&q=low&v=1",
+            "https://chaldn.com/_mpimage/vaseline-lotion-healthy-white-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38530&q=best&v=1",
+            "https://chaldn.com/_mpimage/vaseline-lotion-healthy-white-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38531&q=best&v=1",
+            "https://chaldn.com/_mpimage/vaseline-lotion-healthy-white-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38532&q=best&v=1",
+            "https://chaldn.com/_mpimage/vaseline-lotion-healthy-white-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49883&q=low&v=1"
+        ],
+        "price": 650.0,
+        "corpPrice": 650.0,
+        "objectID": 6120
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u0997\u09cd\u09b2\u09cb \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b2\u09be\u09ad\u09b2\u09bf \u09ae\u09bf\u09b2\u09cd\u0995 \u0985\u09cd\u09af\u09be\u09a1\u09ad\u09be\u09a8\u09cd\u09b8\u09a1 \u09ae\u09be\u09b2\u09cd\u099f\u09bf\u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Glow & Lovely Milk Advanced Multivitamin 100 gm",
+        "nameWithoutSubText": "Glow & Lovely Milk Advanced Multivitamin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/glow-lovely-milk-advanced-multivitamin-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64864&q=best&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 6082
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09ad\u09cd\u09af\u09be\u09b8\u09b2\u09bf\u09a8 \u09b2\u09cb\u09b6\u09a8 \u09a1\u09bf\u09aa \u09b0\u09bf\u09b8\u09cd\u099f\u09cb\u09b0 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Unilever Bangladesh Ltd. \r\nHealing micro-droplets of Vaseline\u00ae Jelly combined with a fast-absorbing non-greasy moisturizing formula, the result is a lotion that moisturizes to heal very dry skin, leaving it looking and feeling healthier. Vaseline Restore Lotion is infused with multi-layer moisture and nutrients which penetrate the skin deep down, absorbing quickly to leave your skin feeling healthy, soft, and smooth.",
+        "name": "Vaseline Lotion Deep Restore 200 ml",
+        "nameWithoutSubText": "Vaseline Lotion Deep Restore",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vaseline-lotion-deep-restore-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76257&q=low&v=1"
+        ],
+        "price": 190.0,
+        "corpPrice": 190.0,
+        "objectID": 6079
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u098f\u09b8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u09ab\u09c7\u09b8 \u0993 \u09ac\u09a1\u09bf \u09ae\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09be\u09b0 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Astral Original Face & Body Moisturiser 200 ml",
+        "nameWithoutSubText": "Astral Original Face & Body Moisturiser",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/astral-original-face-body-moisturiser-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38885&q=low&v=1"
+        ],
+        "price": 939.0,
+        "corpPrice": 939.0,
+        "objectID": 4390
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u0997\u09cd\u09b2\u09cb \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b2\u09be\u09ad\u09b2\u09bf \u0985\u09cd\u09af\u09be\u09a1\u09ad\u09be\u09a8\u09cd\u09b8\u09a1 \u09ae\u09be\u09b2\u09cd\u099f\u09bf\u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8 \u09ae\u09bf\u09b2\u09cd\u0995 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Glow & Lovely Advanced Multivitamin Milk 200 ml",
+        "nameWithoutSubText": "Glow & Lovely Advanced Multivitamin Milk",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/glow-lovely-advanced-multivitamin-milk-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64857&q=best&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 2843
+    },
+    {
+        "category": {
+            "name": "Female Moisturizer",
+            "id": "1497",
+            "slug": "female-moisturizer"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09b8\u09ab\u09cd\u099f \u0995\u09cd\u09b0\u09bf\u09ae \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "The best moisture cream for you has to not only work in sync with your skin but also with your lifestyle. There are different types of skin, each with its unique set of needs, but overall there are some skincare ingredients we should all be looking out for.\r\n\r\nIf your skin tends to get dehydrated, NIVEA Soft is the perfect refreshing moisturising cream. Enriched with Jojoba oil and Vitamin E, NIVEA Soft is an invigorating and fast absorbing moisture cream that refreshes your skin, leaving a unique fragrance and making it smooth, soft, supple and healthy. Use it on your dry hands and chapped feet during the chilled winter days to obtain great results. You can also apply it regularly after your cleansing ritual for smooth, soft skin. With just one application, the cream dissipates into your skin, even in the sweltering heat. \r\n\r\nKeep your skin healthy and happy with the fresh smelling NIVEA Soft moisture cream. Try it, you\u2019ll love it.\r\n\u2022Highly effective, intensive moisturizing cream\r\n\u2022Quickly absorbs and refreshes the skin\r\n\u2022Leaves your skin soft and supple\r\n\u2022For everyday use\r\n\u2022Skin compatibility dermatologically approved",
+        "name": "Nivea Soft Creme 100 ml",
+        "nameWithoutSubText": "Nivea Soft Creme",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-soft-creme-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D6981&q=low&v=1"
+        ],
+        "price": 290.0,
+        "corpPrice": 290.0,
+        "objectID": 2831
+    }
+]

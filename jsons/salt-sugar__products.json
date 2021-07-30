@@ -1,0 +1,750 @@
+[
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09b8\u09c1\u09aa\u09be\u09b0 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09af\u09bc\u09be\u09ae (\u09ad\u09cd\u09af\u09be\u0995\u09c1\u09af\u09bc\u09be\u09ae) \u09b2\u09ac\u09a3 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Fresh Super Premium (Vacuum) Salt 1 kg",
+        "nameWithoutSubText": "Fresh Super Premium (Vacuum) Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-super-premium-vacuum-salt-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65807&q=best&v=1"
+        ],
+        "price": 32.0,
+        "corpPrice": 32.0,
+        "objectID": 7609
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u0986\u0996\u09c7\u09b0 \u099a\u09bf\u09a8\u09bf (\u09a6\u09c7\u09b6\u09bf \u099a\u09bf\u09a8\u09bf) \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Akher Chini (Deshi Sugar) 1 kg",
+        "nameWithoutSubText": "Akher Chini (Deshi Sugar)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/akher-chini-deshi-sugar-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77402&q=low&v=1"
+        ],
+        "price": 75.0,
+        "corpPrice": 75.0,
+        "objectID": 9917
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u099a\u09bf\u09a8\u09bf \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Fresh Refined sugar is a modern processes of without touching hand to protect the health of assurance. Fresh refined sugar is completely acid, fecal residues free and neat and clean, healthy, granulated sugar. \r\n\r\n",
+        "name": "Fresh Refined Sugar 1 kg",
+        "nameWithoutSubText": "Fresh Refined Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-refined-sugar-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D56383&q=low&v=1"
+        ],
+        "price": 78.0,
+        "corpPrice": 78.0,
+        "objectID": 2476
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09aa\u09bf\u0993\u09b0 \u09b2\u09ac\u09a8 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Salt is the most essential item in human diet. ACI Pure Salt is 100% pure, free flow, vacuum evaporated . It also contain, sodium 97%, potassium, Iodine. ACI salt is 100% fresh, healthy and dust free",
+        "name": "ACI Pure Salt 1 kg",
+        "nameWithoutSubText": "ACI Pure Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-pure-salt-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47100&q=low&v=1"
+        ],
+        "price": 32.0,
+        "corpPrice": 32.0,
+        "objectID": 2121
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09a4\u09c0\u09b0 \u099a\u09bf\u09a8\u09bf \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Teer Sugar 1 kg",
+        "nameWithoutSubText": "Teer Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/teer-sugar-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47127&q=low&v=1"
+        ],
+        "price": 78.0,
+        "corpPrice": 78.0,
+        "objectID": 4272
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b8 \u09b0\u09bf\u09ab\u09be\u0987\u09a8\u09cd\u09a1 \u099a\u09bf\u09a8\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Fresh Refined Sugar 500 gm",
+        "nameWithoutSubText": "Fresh Refined Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-refined-sugar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59305&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 21359
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09a4\u09be\u09b2 \u09ae\u09bf\u09b8\u09b0\u09bf \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sugarcandy (Tal Misri) 200 gm ",
+        "nameWithoutSubText": "Sugarcandy (Tal Misri)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sugarcandy-tal-misri-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48011&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 4201
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6 \u09ac\u09bf\u099f \u09b2\u09ac\u09a3 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: India",
+        "name": "Saad Bit Salt 100 gm",
+        "nameWithoutSubText": "Saad Bit Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saad-bit-salt-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72072&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 23449
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u098f\u09b8\u09bf\u0986\u0987 \u09aa\u09bf\u0993\u09b0 \u09b2\u09ac\u09a3 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "ACI Pure Salt 500 gm",
+        "nameWithoutSubText": "ACI Pure Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-pure-salt-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D57736&q=low&v=1"
+        ],
+        "price": 18.0,
+        "corpPrice": 18.0,
+        "objectID": 21031
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09ac\u09bf\u099f \u09b2\u09ac\u09a3 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Rock Salt (Bit Lobon) 100 gm",
+        "nameWithoutSubText": "Rock Salt (Bit Lobon)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rock-salt-bit-lobon-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47115&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 3991
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b0\u0982\u09a7\u09a8\u09c1 \u09b2\u09ac\u09a8 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Rongdhanu Salt 1 kg",
+        "nameWithoutSubText": "Rongdhanu Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rongdhanu-salt-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68072&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 22599
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b8\u09cd\u09af\u09be\u09ad\u09cb\u09b0\u09bf \u09ac\u09cd\u09b0\u09be\u0989\u09a8 \u09b8\u09c1\u0997\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Savory Brown Sugar 200 gm",
+        "nameWithoutSubText": "Savory Brown Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savory-brown-sugar-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74743&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 23920
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u099f\u09aa \u099f\u09c7\u09b8\u09cd\u099f\u09bf\u0982 \u09b2\u09ac\u09a3 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Top Testing salt 100 gm",
+        "nameWithoutSubText": "Top Testing salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/top-testing-salt-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50533&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 18678
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a3 \u09b2\u09ac\u09a8 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Pran group\r\nPran iodized vacuum evaporated salt is manufactured by applying world\u2019s latest technology and strict quality control. This salt is clean  spotlessly white, pure and granular. Comes in air-tight pack.So, the iodin in this salt stays intact always. \r\n100% halal, iodized salt.\r\nNutrition: sodium chloride, iodin.",
+        "name": "Pran Salt 1 kg",
+        "nameWithoutSubText": "Pran Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-salt-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53118&q=low&v=1"
+        ],
+        "price": 38.0,
+        "corpPrice": 38.0,
+        "objectID": 20283
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u099f\u09c7\u09b8\u09cd\u099f\u09bf\u0982 \u09b8\u09b2\u09cd\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Testing Salt 100 gm",
+        "nameWithoutSubText": "Ahmed Testing Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-testing-salt-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74367&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 23810
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b0\u0995 \u09b8\u09b2\u09cd\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Rock Salt 100 gm",
+        "nameWithoutSubText": "Ahmed Rock Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-rock-salt-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74368&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 23811
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6 \u09aa\u09bf\u0982\u0995 \u09b8\u09b2\u09cd\u099f \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: India",
+        "name": "Saad Pink Salt 100 gm",
+        "nameWithoutSubText": "Saad Pink Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saad-pink-salt-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72073&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 23450
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09ae\u09c1\u09b8\u0995\u09be\u09a8 \u09b2\u09ac\u09a8 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Muskan Salt 1 kg",
+        "nameWithoutSubText": "Muskan Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/muskan-salt-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70778&q=low&v=1"
+        ],
+        "price": 31.0,
+        "corpPrice": 31.0,
+        "objectID": 18710
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b8 \u09ac\u09be\u09a6\u09be\u09ae\u09bf \u099a\u09bf\u09a8\u09bf \u09ee\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sis Brown Sugar 800 gm",
+        "nameWithoutSubText": "Sis Brown Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sis-brown-sugar-800-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47116&q=low&v=1"
+        ],
+        "price": 419.0,
+        "corpPrice": 419.0,
+        "objectID": 6938
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b8\u09cd\u09af\u09be\u09ad\u09cb\u09b0\u09bf \u09ae\u09cb\u09b2\u09be\u09b8\u09c7\u09b8 \u09ac\u09cd\u09b0\u09be\u0989\u09a8 \u09b8\u09c1\u0997\u09be\u09b0 \u09ea\u09eb\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Savory Molasses Brown Sugar 454 gm ",
+        "nameWithoutSubText": "Savory Molasses Brown Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savory-molasses-brown-sugar-454-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74740&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 23919
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09ae\u09be\u0987 \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u09b0\u09c1\u099f \u0996\u09c7\u099c\u09c1\u09b0 \u0997\u09c1\u09a1\u09bc \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: My organic bd\r\n\r\nKHEJUR PATALI GOOR POWDER derived from the sap of the date palm tree. The sap is collected & cooked longer to change its transparent to burgundy color then it is allowed to cool and solidity. The product of Natore, Bangladesh. Khejur Goor powder can be used in cooking many traditional sweetmeats like gurer payesh, pitha etc. It can be used instead of sugar in tea and coffee too. ",
+        "name": "My Organic Root Khejur Gur Powder 150 gm",
+        "nameWithoutSubText": "My Organic Root Khejur Gur Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/my-organic-root-khejur-gur-powder-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52562&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 20097
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09ab\u09bf\u099f\u09ab\u09c1\u09a1 \u09b9\u09bf\u09ae\u09be\u09b2\u09be\u09df\u09be \u09aa\u09bf\u0982\u0995 \u09b2\u09ac\u09a3 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Fitfood Himalaya Pink Salt 150 gm",
+        "nameWithoutSubText": "Fitfood Himalaya Pink Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fitfood-himalaya-pink-salt-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54838&q=best&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 18685
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u0995\u09c7\u0987\u09a8 \u09ac\u09cd\u09b0\u09be\u0989\u09a8 \u099a\u09bf\u09a8\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Origin: Thailand\r\nManufacturer : United Farmer & Industry Co.,Ltd. (Mitr Phu Viang) Thailand\r\n \r\nWith modern production technology,Mitr Phol Brown Sugar is hygienic, tasty, aromatic and rich in natural minerals - calcium, iron, potassium, sodium and ,magnesium. Mitr Phol Brown Sugar is good for baking foods, dessert and beverage.",
+        "name": "Mitr Phol Natural Cane Brown Sugar 500 gm ",
+        "nameWithoutSubText": "Mitr Phol Natural Cane Brown Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mitr-phol-natural-cane-brown-sugar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69051&q=low&v=1"
+        ],
+        "price": 190.0,
+        "corpPrice": 190.0,
+        "objectID": 22885
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b9\u09bf\u09ae\u09be\u09b2\u09df\u09be\u09a8 \u09aa\u09bf\u0982\u0995 \u09b8\u09b2\u09cd\u099f \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Himalayan Pink Salt 500 gm",
+        "nameWithoutSubText": "Himalayan Pink Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/himalayan-pink-salt-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73551&q=low&v=1"
+        ],
+        "price": 300.0,
+        "corpPrice": 300.0,
+        "objectID": 23573
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09b8\u09c1\u09aa\u09be\u09b0 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09af\u09bc\u09be\u09ae (\u09ad\u09cd\u09af\u09be\u0995\u09c1\u09af\u09bc\u09be\u09ae) \u09b2\u09ac\u09a3 -\u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Fresh Super Premium (Vacuum) Salt 500 gm",
+        "nameWithoutSubText": "Fresh Super Premium (Vacuum) Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-super-premium-vacuum-salt-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78290&q=best&v=1"
+        ],
+        "price": 17.0,
+        "corpPrice": 17.0,
+        "objectID": 24434
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09a6\u09bf \u0995\u09cb\u0995\u09cb\u09a8\u09be\u099f \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u0995\u09cb\u0995\u09cb\u09a8\u09be\u099f \u09b8\u09c1\u0997\u09be\u09b0 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "The Coconut Company Organic Coconut Sugar 300 gm",
+        "nameWithoutSubText": "The Coconut Company Organic Coconut Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/the-coconut-company-organic-coconut-sugar-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75579&q=low&v=1"
+        ],
+        "price": 829.0,
+        "corpPrice": 829.0,
+        "objectID": 24157
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6 \u0986\u0987\u09b8\u09bf\u0982 \u09b8\u09c1\u0997\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Saad Icing Sugar 200 gm",
+        "nameWithoutSubText": "Saad Icing Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saad-icing-sugar-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74744&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 23921
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u0995\u09c7\u0987\u09a8 \u09ac\u09cd\u09b0\u09be\u0989\u09a8 \u099a\u09bf\u09a8\u09bf  \u09e7 \u0995\u09c7\u099c\u09bf ",
+        "longDesc": "Origin - Thailand ",
+        "name": "Mitr Phol Natural Cane Brown  Sugar 1 kg ",
+        "nameWithoutSubText": "Mitr Phol Natural Cane Brown  Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mitr-phol-natural-cane-brown-sugar-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69053&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 22886
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b8 \u09b8\u09c1\u09aa\u09be\u09b0 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09df\u09be\u09ae \u09b2\u09ac\u09a3 \u099c\u09be\u09b0 \u09ed\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Fresh Super Premium Salt Jar 750 gm",
+        "nameWithoutSubText": "Fresh Super Premium Salt Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-super-premium-salt-jar-750-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68094&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 22604
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09a1\u09c7\u099f \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM Date Powder 200 gm",
+        "nameWithoutSubText": "BPM Date Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-date-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65427&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 22239
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u0986\u0999\u09cd\u0995\u09c7\u09b2 \u09ac\u09be\u09b0\u09a8\u09cd\u09b8 \u0986\u0987\u09b8\u09bf\u0982 \u09b8\u09c1\u0997\u09be\u09b0 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Uncle Barns Icing Sugar 1 kg",
+        "nameWithoutSubText": "Uncle Barns Icing Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/uncle-barns-icing-sugar-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61617&q=low&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 21952
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u099f\u09cd\u09b0\u09be\u09b8\u09cd\u099f \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09be\u09b2 \u09b0\u0995 \u09aa\u09bf\u0999\u09cd\u0995 \u09b8\u09b2\u09cd\u099f \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Trust Organic Crystal Rock Pink Salt 500 gm",
+        "nameWithoutSubText": "Trust Organic Crystal Rock Pink Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/trust-organic-crystal-rock-pink-salt-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61172&q=low&v=1"
+        ],
+        "price": 409.0,
+        "corpPrice": 409.0,
+        "objectID": 21739
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u099f\u09cd\u09b0\u09be\u09b8\u09cd\u099f \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u09aa\u09bf\u0999\u09cd\u0995 \u09b0\u0995 \u09b8\u09b2\u09cd\u099f \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Trust Organic Pink Rock Salt 500 gm",
+        "nameWithoutSubText": "Trust Organic Pink Rock Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/trust-organic-pink-rock-salt-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61171&q=low&v=1"
+        ],
+        "price": 409.0,
+        "corpPrice": 409.0,
+        "objectID": 21738
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u099d\u09cb\u09b2\u09be \u0997\u09c1\u09dc \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Jhola Gur 500 gm",
+        "nameWithoutSubText": "Khaas Food Jhola Gur",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-jhola-gur-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70950&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 20198
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09df\u09be\u09ae \u0997\u09cd\u09b0\u09c7\u09a1 \u09ab\u09cd\u09b0\u09c7\u099e\u09cd\u099a \u099a\u09c7\u09b2\u09cd\u099f\u09bf\u0995 \u09b8\u09c0 \u09b8\u09b2\u09cd\u099f \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Premium Grade French Celtic Sea Salt 200 gm",
+        "nameWithoutSubText": "Premium Grade French Celtic Sea Salt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/premium-grade-french-celtic-sea-salt-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47114&q=low&v=1"
+        ],
+        "price": 489.0,
+        "corpPrice": 489.0,
+        "objectID": 16814
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u099a\u09bf\u09a8\u09bf \u09b8\u09cd\u09af\u09be\u09b6\u09c7 \u09ac\u0995\u09cd\u09b8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "50 Pcs Sugar Sachets.",
+        "name": "Fresh Sugar Sachet  Box  250 gm",
+        "nameWithoutSubText": "Fresh Sugar Sachet  Box",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-sugar-sachet-box-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69765&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 14414
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b8 \u0995\u09be\u09b8\u09cd\u099f\u09be\u09b0 \u099a\u09bf\u09a8\u09bf \u09ee\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sis Caster Sugar 800 gm",
+        "nameWithoutSubText": "Sis Caster Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sis-caster-sugar-800-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48007&q=low&v=1"
+        ],
+        "price": 300.0,
+        "corpPrice": 300.0,
+        "objectID": 12175
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b8 \u09b0 \u099a\u09bf\u09a8\u09bf \u0995\u09bf\u0989\u09ac \u09ea\u09eb\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sis Raw Sugar Cubes 454 gm",
+        "nameWithoutSubText": "Sis Raw Sugar Cubes",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sis-raw-sugar-cubes-454-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64784&q=low&v=1"
+        ],
+        "price": 279.0,
+        "corpPrice": 279.0,
+        "objectID": 12172
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b8 \u09b8\u09be\u09a6\u09be \u0986\u0987\u09b8\u09bf\u0982 \u099a\u09bf\u09a8\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "SIS White Icing Sugar 500 gm",
+        "nameWithoutSubText": "SIS White Icing Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sis-white-icing-sugar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47119&q=low&v=1"
+        ],
+        "price": 279.0,
+        "corpPrice": 279.0,
+        "objectID": 10223
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b8 \u09b8\u09be\u09a6\u09be \u099a\u09bf\u09a8\u09bf \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Sis White Sugar 1 kg",
+        "nameWithoutSubText": "Sis White Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sis-white-sugar-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70282&q=low&v=1"
+        ],
+        "price": 239.0,
+        "corpPrice": 239.0,
+        "objectID": 7951
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u0987\u0995\u09c1\u09df\u09be\u09b2 \u098f\u09b8\u09cd\u09aa\u09be\u09b0\u099f\u09c7\u09ae \u09e7\u09e6\u09e6 \u099f\u09cd\u09af\u09be\u09ac\u09cd\u09b2\u09c7\u099f\u09b8",
+        "longDesc": "Equal Sweetener, Low Calories, No Sugar, 0 Carbs, 100 Tablets\r\n\r\nINGREDIENTS: Lactose (from milk),\u00a0aspartame, acesulfame ,microcrystalline cellulose gum, flavoring. Contains Phenylalanine\r\n\r\nEqual Tablets have 0 sugar, 0 carbs, 0 fat and very less caloric value which makes it ideal for a healthy life and various diets like keto and intermittent fasting\r\nJust like sugar but even better",
+        "name": "Equal Aspartame Tablet 100s",
+        "nameWithoutSubText": "Equal Aspartame Tablet 100s",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/equal-aspartame-tablet-100s?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70283&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 7950
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b8 \u09b8\u09be\u09a6\u09be \u099a\u09bf\u09a8\u09bf \u0995\u09bf\u0989\u09ac \u09ea\u09eb\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sis White Sugar Cube 454 gm",
+        "nameWithoutSubText": "Sis White Sugar Cube",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sis-white-sugar-cube-454-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48009&q=low&v=1"
+        ],
+        "price": 229.0,
+        "corpPrice": 229.0,
+        "objectID": 4164
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b8 \u09b8\u09be\u09a6\u09be \u099a\u09bf\u09a8\u09bf \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Sis White Sugar 2 kg",
+        "nameWithoutSubText": "Sis White Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sis-white-sugar-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48010&q=low&v=1"
+        ],
+        "price": 409.0,
+        "corpPrice": 409.0,
+        "objectID": 4163
+    },
+    {
+        "category": {
+            "name": "Salt & Sugar",
+            "id": "111",
+            "slug": "salt-sugar"
+        },
+        "bengaliName": "\u0995\u09cd\u09af\u09be\u09a8\u09a1\u09c7\u09b0\u09be\u09b2 \u09b8\u09c1\u0995\u09cd\u09b0\u09cb\u09b2\u09b8 \u099f\u09cd\u09af\u09be\u09ac\u09b2\u09c7\u099f \u09e9\u09e6\u09e6 \u099f\u09bf",
+        "longDesc": "Canderel Sweetener, 0 Calorie, Sugar Free, 300 Tablets\r\n\r\nIngredients : Lactose (Milk), Sweetener:\u00a0Sucralose, Stabilisers: Microcrystalline Cellulose, Cross-Linked Sodium Carboxy Methyl Cellulose, Flavourings\r\n\r\nCanderel Tablets are no sugar, no calories, no carbs sweetener which perfectly sweetens your tea, coffee, fruit juice\r\nCanderel Tablets are no sugar, no calories, no carbs sweetener which perfectly sweetens your tea, coffee, fruit juice\r\nPure veg, trusted by WHO and USFDA, safe for daily use \r\nSuper easy to use and carry",
+        "name": "Canderel Sucralose Tablet 300s",
+        "nameWithoutSubText": "Canderel Sucralose Tablet 300s",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/canderel-sucralose-tablet-300s?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70285&q=low&v=1"
+        ],
+        "price": 285.0,
+        "corpPrice": 285.0,
+        "objectID": 3302
+    }
+]

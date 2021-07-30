@@ -1,0 +1,532 @@
+[
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b8\u09cd\u09ae\u09be\u09b0\u09cd\u099f\u09b9\u09be\u09b0\u09cd\u099f \u09b0\u200d\u09cd\u09af\u09be\u09ac\u09bf\u099f \u09ab\u09c1\u09a1 \u09ad\u09c7\u099c\u09bf\u09b8 \u0993 \u09b8\u09bf\u09b0\u09bf\u09df\u09be\u09b2\u09b8 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "SmartHeart Rabbit Food Veggies & Cereals 200 gm",
+        "nameWithoutSubText": "SmartHeart Rabbit Food Veggies & Cereals",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/smartheart-rabbit-food-veggies-cereals-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73970&q=low&v=1",
+            "https://chaldn.com/_mpimage/smartheart-rabbit-food-veggies-cereals-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73971&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 23675
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u099d\u09bf\u09b2\u09ae\u09bf\u09b2 \u0995\u0995\u099f\u09be\u0987\u09b2 \u09ae\u09bf\u0995\u09cd\u09b8\u09a1 \u09ab\u09c1\u09a1 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Jhilmili Cocktaiel Mixed Food 1 kg",
+        "nameWithoutSubText": "Jhilmili Cocktaiel Mixed Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/jhilmili-cocktaiel-mixed-food-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73959&q=low&v=1",
+            "https://chaldn.com/_mpimage/jhilmili-cocktaiel-mixed-food-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73960&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 23670
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u099d\u09bf\u09b2\u09ae\u09bf\u09b2 \u0995\u0995\u099f\u09be\u0987\u09b2 \u09ae\u09bf\u0995\u09cd\u09b8\u09a1 \u09ab\u09c1\u09a1 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Jhilmili Cocktaiel Mixed Food 500 gm",
+        "nameWithoutSubText": "Jhilmili Cocktaiel Mixed Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/jhilmili-cocktaiel-mixed-food-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73955&q=low&v=1",
+            "https://chaldn.com/_mpimage/jhilmili-cocktaiel-mixed-food-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73956&q=low&v=1"
+        ],
+        "price": 125.0,
+        "corpPrice": 125.0,
+        "objectID": 23668
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b8\u09be\u0995\u09bf-\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u09ab\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09bf \u0997\u09cb\u09b2\u09cd\u09a1\u09ab\u09bf\u09b8 \u09ac\u09cd\u09af\u09be\u09b2\u09be\u09a8\u09cd\u09b8 \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Saki-Hikari Fancy Goldfish Balance Fish Food 200 gm",
+        "nameWithoutSubText": "Saki-Hikari Fancy Goldfish Balance Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saki-hikari-fancy-goldfish-balance-fish-food-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69775&q=low&v=1"
+        ],
+        "price": 650.0,
+        "corpPrice": 650.0,
+        "objectID": 22947
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u0995\u09cb\u09b0\u09be\u09b2\u09bf\u09ab\u09bf\u0995 \u09a1\u09bf\u09b2\u09be\u0987\u099f \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e9\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "HikariI Coralific Delite Fish Food 35 gm ",
+        "nameWithoutSubText": "HikariI Coralific Delite Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikarii-coralific-delite-fish-food-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69267&q=low&v=1"
+        ],
+        "price": 500.0,
+        "corpPrice": 500.0,
+        "objectID": 22946
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u09b8\u09bf\u0989\u0987\u09a1 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09bf\u09ae \u09b8\u09cd\u09ae\u09b2 \u09aa\u09cd\u09af\u09be\u09b2\u09c7\u099f \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari Seaweed Extreme Small Pellet Fish Food 45 gm",
+        "nameWithoutSubText": "Hikari Seaweed Extreme Small Pellet Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-seaweed-extreme-small-pellet-fish-food-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69777&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 22945
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u09ae\u09be\u09b0\u09bf\u09a8-\u098f\u09b8 \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari Marine-S Fish Food 50 gm",
+        "nameWithoutSubText": "Hikari Marine-S Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-marine-s-fish-food-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69262&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 22943
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u09ae\u09be\u09b0\u09bf\u09a8-\u098f \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e7\u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari Marine-A Fish Food 110 gm",
+        "nameWithoutSubText": "Hikari Marine-A Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-marine-a-fish-food-110-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69261&q=low&v=1"
+        ],
+        "price": 650.0,
+        "corpPrice": 650.0,
+        "objectID": 22942
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u09ad\u09bf\u09ac\u09b0\u09be \u09ac\u09be\u0987\u099f\u09b8 \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e9\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari VIibra Bites Fish Food 35 gm",
+        "nameWithoutSubText": "Hikari VIibra Bites Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-viibra-bites-fish-food-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69259&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 22940
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u09ab\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09bf \u0997\u09be\u09aa\u09cd\u09aa\u09bf \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari Fancy Guppy Fish Food 22 gm",
+        "nameWithoutSubText": "Hikari Fancy Guppy Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-fancy-guppy-fish-food-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69258&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 22939
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u09b8\u09bf\u0982\u0995\u09bf\u0982 \u0993\u09df\u09c7\u09ab\u09be\u09b0\u09b8 \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae   ",
+        "longDesc": null,
+        "name": "Hikari Sinking Wafers Fish Food 50 gm",
+        "nameWithoutSubText": "Hikari Sinking Wafers Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-sinking-wafers-fish-food-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69255&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 22937
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u09b8\u09bf\u0982\u0995\u09bf\u0982 \u0993\u09df\u09c7\u09ab\u09be\u09b0\u09b8 \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae   ",
+        "longDesc": null,
+        "name": "Hikari Sinking Wafers Fish Food 25 gm",
+        "nameWithoutSubText": "Hikari Sinking Wafers Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-sinking-wafers-fish-food-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69253&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 22935
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u0985\u09cd\u09af\u09be\u09b2\u099c\u09bf \u0993\u09df\u09c7\u09ab\u09be\u09b0\u09b8 \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae  ",
+        "longDesc": null,
+        "name": "Hikari Algae Wafers Fish Food 40 gm",
+        "nameWithoutSubText": "Hikari Algae Wafers Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-algae-wafers-fish-food-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69252&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 22934
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u09ae\u09be\u0987\u0995\u09cd\u09b0\u09cb \u09aa\u09cd\u09af\u09be\u09b2\u09c7\u099f\u09b8 \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari Micro Pellets Fish Food 45 gm",
+        "nameWithoutSubText": "Hikari Micro Pellets Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-micro-pellets-fish-food-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69244&q=low&v=1"
+        ],
+        "price": 420.0,
+        "corpPrice": 420.0,
+        "objectID": 22929
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u09ae\u09be\u0987\u0995\u09cd\u09b0\u09cb \u09aa\u09cd\u09af\u09be\u09b2\u09c7\u099f\u09b8 \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari Micro Pellets Fish Food 22 gm",
+        "nameWithoutSubText": "Hikari Micro Pellets Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-micro-pellets-fish-food-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69243&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 22928
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u09ab\u09be\u09b0\u09cd\u09b8\u09cd\u099f \u09ac\u09be\u0987\u099f\u09b8 \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari First Bites Fish Food 10 gm",
+        "nameWithoutSubText": "Hikari First Bites Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-first-bites-fish-food-10-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69240&q=low&v=1"
+        ],
+        "price": 260.0,
+        "corpPrice": 260.0,
+        "objectID": 22926
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u0997\u09cb\u09b2\u09cd\u09a1 \u09ab\u09bf\u09b8 \u0989\u0987\u099f-\u099c\u09be\u09b0\u09ae \u09ae\u09bf\u09a8\u09bf \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari Goldfish Wheat-Germ Mini Fish Food 200 gm",
+        "nameWithoutSubText": "Hikari Goldfish Wheat-Germ Mini Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-goldfish-wheat-germ-mini-fish-food-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69238&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 22923
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u0997\u09cb\u09b2\u09cd\u09a1 \u09ab\u09bf\u09b8 \u0989\u0987\u099f-\u099c\u09be\u09b0\u09ae \u09ae\u09bf\u09a8\u09bf \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari Goldfish Wheat-Germ Mini Fish Food 100 gm",
+        "nameWithoutSubText": "Hikari Goldfish Wheat-Germ Mini Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-goldfish-wheat-germ-mini-fish-food-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69236&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 22921
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u0985\u09b0\u09c7\u09a8\u09cd\u09a1\u09be \u0997\u09cb\u09b2\u09cd\u09a1 \u09ae\u09bf\u09a8\u09bf \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari Oranda Gold Mini Fish Food 100 gm",
+        "nameWithoutSubText": "Hikari Oranda Gold Mini Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-oranda-gold-mini-fish-food-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69234&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 22919
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u09b2\u09be\u09df\u09a8\u09b9\u09c7\u09a1 \u09ae\u09bf\u09a8\u09bf \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari Lionhead Mini Fish Food 100 gm",
+        "nameWithoutSubText": "Hikari Lionhead Mini Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-lionhead-mini-fish-food-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76899&q=low&v=1"
+        ],
+        "price": 390.0,
+        "corpPrice": 390.0,
+        "objectID": 22916
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u09b8\u09bf\u0982\u0995\u09bf\u0982 \u0997\u09cb\u09b2\u09cd\u09a1 \u09ab\u09bf\u09b8 \u098f\u0995\u09cd\u09b8\u09c7\u09b2 \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e7\u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari Sinking Goldfish Excel Fish Food 110 gm",
+        "nameWithoutSubText": "Hikari Sinking Goldfish Excel Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-sinking-goldfish-excel-fish-food-110-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69230&q=low&v=1"
+        ],
+        "price": 475.0,
+        "corpPrice": 475.0,
+        "objectID": 22914
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b9\u09bf\u0995\u09be\u09b0\u09bf \u0997\u09cb\u09b2\u09cd\u09a1 \u09ab\u09bf\u09b8 \u0997\u09cb\u09b2\u09cd\u09a1 \u09ac\u09c7\u09ac\u09bf \u09ab\u09bf\u09b8 \u09ab\u09c1\u09a1 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hikari Goldfish Gold Baby Fish Food 300 gm",
+        "nameWithoutSubText": "Hikari Goldfish Gold Baby Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hikari-goldfish-gold-baby-fish-food-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69227&q=low&v=1"
+        ],
+        "price": 475.0,
+        "corpPrice": 475.0,
+        "objectID": 22912
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09a1\u09cd\u09b0\u09b2\u09b8 \u0985\u09cd\u09af\u09be\u09ac\u09b8\u09cb\u09b2\u09c1\u099f \u09b8\u09be\u09b2\u09ae\u09a8 \u0985\u09af\u09bc\u09c7\u09b2 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Drools Absolute Salmon Oil 300ml",
+        "nameWithoutSubText": "Drools Absolute Salmon Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/drools-absolute-salmon-oil-300ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67739&q=low&v=1"
+        ],
+        "price": 1100.0,
+        "corpPrice": 1100.0,
+        "objectID": 22537
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b8\u09bf\u09a1\u09bf\u0987 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09af\u09bc\u09be\u09ae \u098f\u0997 \u09ab\u09c1\u09a1 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Origin: Belgium\r\nThe egg is an ideal source of animal protein for birds. C\u00e9D\u00e9\u00ae Premium Allround Egg Food is a ready-to-use egg food for budgerigars. This food contains whole eggs.  C\u00e9D\u00e9\u00ae Premium Allround Egg Food also contains premium quality animal and plant proteins, along with all the vitamins, amino acids, and minerals necessary for successful breeding. The addition of amino acids promotes moulting. \r\nManufacturer: Laroy Group\r\nQuantity: 1 kg\r\nWith fresh eggs\r\nContains high-quality proteins\r\nPacked with vitamins\r\n\r\n\u0989\u09ce\u09aa\u09be\u09a6\u09a8\u0995\u09be\u09b0\u09c0 \u09a6\u09c7\u09b6\u0983 \u09ac\u09c7\u09b2\u099c\u09bf\u09df\u09be\u09ae\r\n\u09aa\u09be\u0996\u09bf\u09a6\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09aa\u09cd\u09b0\u09be\u09a3\u09c0\u099c \u09aa\u09cd\u09b0\u09cb\u099f\u09bf\u09a8\u09c7\u09b0 \u098f\u0995\u099f\u09bf \u0989 \u09ce\u0995\u09c3\u09b7\u09cd\u099f \u0989 \u09ce\u09b8 \u09b9\u09b2-\u09a1\u09bf\u09ae\u0964 CEDE Premium Egg Food \u09ac\u09be\u099c\u09b0\u09bf\u0997\u09be\u09b0 \u09aa\u09be\u0996\u09bf\u09a6\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09aa\u09cd\u09b0\u09b8\u09cd\u09a4\u09c1\u09a4\u0995\u09c3\u09a4 \u0996\u09be\u09a6\u09cd\u09af\u0964\u098f\u09a4\u09c7 \u0986\u099b\u09c7 \u09a1\u09bf\u09ae, \u0989\u099a\u09cd\u099a\u09ae\u09be\u09a8\u09b8\u09ae\u09cd\u09aa\u09a8\u09cd\u09a8 \u0989\u09a6\u09cd\u09ad\u09bf\u099c\u09cd\u099c \u0993 \u09aa\u09cd\u09b0\u09be\u09a3\u09c0\u099c \u09aa\u09cd\u09b0\u09cb\u099f\u09cd\u09b0\u09bf\u09a8, \u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8, \u0985\u09cd\u09af\u09be\u09ae\u09be\u0987\u09a8\u09cb \u098f\u09b8\u09bf\u09a1 \u0993 \u09ae\u09bf\u09a8\u09be\u09b0\u09c7\u09b2\u09b8\u09b9 \u09aa\u09be\u0996\u09bf\u09b0 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u0993 \u09aa\u09cd\u09b0\u099c\u09a8\u09a8\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09a6\u09b0\u0995\u09be\u09b0\u09c0 \u09b8\u0995\u09b2 \u0989\u09aa\u09be\u09a6\u09be\u09a8\u0964 \u0985\u09cd\u09af\u09be\u09ae\u09be\u0987\u09a8\u09cb \u098f\u09b8\u09bf\u09a1 \u09aa\u09be\u0996\u09bf\u09b0 \u09a8\u09a4\u09c1\u09a8 \u09aa\u09be\u09b2\u0995 \u0997\u099c\u09be\u09a4\u09c7\u0993 \u09b8\u09b9\u09be\u09df\u09a4\u09be \u0995\u09b0\u09c7\u0964\r\n\u09aa\u09b0\u09bf\u09ae\u09be\u09a3\u0983 \u09e7 \u0995\u09c7\u099c\u09bf     \r\n",
+        "name": "CEDE Premium Egg Food 1 kg",
+        "nameWithoutSubText": "CEDE Premium Egg Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cede-premium-egg-food-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61355&q=low&v=1"
+        ],
+        "price": 575.0,
+        "corpPrice": 575.0,
+        "objectID": 21807
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b8\u09cd\u09ae\u09be\u09b0\u09cd\u099f \u09b9\u09be\u09b0\u09cd\u099f \u0996\u09b0\u0997\u09cb\u09b6\u09c7\u09b0 \u0996\u09be\u09ac\u09be\u09b0 \u0993\u09af\u09bc\u09be\u0987\u09b2\u09cd\u09a1\u09ac\u09c7\u09b0\u09bf \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Origin: Thailand\r\n\r\nSmart Heart Rabbit Food Wildberry is specifically developed to provide complete and balanced nutrition to Rabbits for optimum growth, strong bones and teeth, and healthy skin and coat.\r\n \r\n\r\n\"\u0989\u09ce\u09aa\u09be\u09a6\u09a8\u0995\u09be\u09b0\u09c0 \u09a6\u09c7\u09b6\u0983\u09a5\u09be\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\r\n\u09b6\u09bf\u09b6\u09c1 \u0996\u09b0\u0997\u09cb\u09b6\u09c7\u09b0 \u0989\u09aa\u09af\u09cb\u0997\u09c0 \u09b8\u09c1\u09b7\u09ae \u0996\u09be\u09a6\u09cd\u09af\u0964 \u09a6\u09c1\u0997\u09cd\u09a7\u09a6\u09be\u09a8\u0995\u09be\u09b0\u09c0 \u0993 \u0997\u09b0\u09cd\u09ad\u09ac\u09a4\u09c0 \u0996\u09b0\u0997\u09cb\u09b6\u09c7\u09b0 \u099c\u09a8\u09cd\u09af\u0993 \u09ac\u09bf\u09b6\u09c7\u09b7 \u0989\u09aa\u0995\u09be\u09b0\u09c0\u0964 \u098f\u099f\u09bf \u0996\u09b0\u0997\u09cb\u09b6\u09c7\u09b0 \u09b8\u09ac\u099a\u09c7\u09df\u09c7 \u0985\u09a8\u09c1\u0995\u09c2\u09b2 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09a4 \u0995\u09b0\u09c7, \u09b9\u09be\u09dc \u0993 \u09a6\u09be\u0981\u09a4 \u09ae\u099c\u09ac\u09c1\u09a4 \u0995\u09b0\u09c7, \u09a4\u09cd\u09ac\u0995 \u0993 \u09aa\u09b6\u09ae\u09c7\u09b0 \u09af\u09a4\u09cd\u09a8 \u09a8\u09c7\u09df\u0964    \r\n\u098f\u09b0 \u099f\u09bf\u09ae\u09cb\u09a5\u09bf \u0997\u09cd\u09b0\u09be\u09b8 \u0993  \u0986\u09b2\u09ab\u09be\u09b2\u09ab\u09be \u09b9\u09be\u0987- \u0995\u09cb\u09df\u09be\u09b2\u09bf\u099f\u09bf \u09ab\u09be\u0987\u09ac\u09be\u09b0 \u09b8\u09b9\u099c\u09c7\u0987 \u09b9\u099c\u09ae \u09b9\u09df \u0964\u09aa\u09cd\u09b0\u09be\u0995\u09c3\u09a4\u09bf\u0995 \u09b2\u09bf\u0997\u09a8\u09cb\u09b8\u09c7\u09b2\u09c1\u09b2\u09cb\u099c \u0989\u09aa\u0995\u09be\u09b0\u09c0 \u09ac\u09cd\u09af\u09be\u0995\u099f\u09c7\u09b0\u09bf\u09df\u09be\u09b0 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf\u09a4\u09c7 \u09b8\u09b9\u09be\u09df\u09a4\u09be \u0995\u09b0\u09c7 \u09aa\u09b0\u09bf\u09aa\u09be\u0995\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0\u0995\u09c7 \u09b8\u09c1\u09b8\u09cd\u09a5 \u09b0\u09be\u0996\u09c7  \u0964         \r\n\u09aa\u09cd\u09b0\u09bf\u09ac\u09be\u09df\u09cb\u099f\u09bf\u0995 \u09b9\u099c\u09ae\u09b6\u0995\u09cd\u09a4\u09bf\u0995\u09c7 \u0986\u09b0\u0993 \u0989\u09a8\u09cd\u09a8\u09a4 \u0995\u09b0\u09c7\u0964  \u0987\u09df\u09c1\u0995\u09be \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be\u0995\u09cd\u099f  \u09ae\u09b2\u09c7\u09b0 \u09a6\u09c2\u09b0\u09cd\u0997\u09a8\u09cd\u09a7 \u0995\u09ae\u09be\u09df, \u0995\u09cc\u09b7\u09cd\u09a0\u09cd\u09af\u0995\u09be\u09a0\u09bf\u09a8\u09cd\u09af \u09a6\u09c2\u09b0 \u0995\u09b0\u09c7\u0964 \r\n\u09b8\u09c1\u09b8\u09cd\u09ac\u09be\u09a6\u09c1, \u0993\u09df\u09be\u0987\u09b2\u09cd\u09a1\u09ac\u09c7\u09b0\u09bf \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u0964\r\n\u09aa\u09b0\u09bf\u09ae\u09be\u09a3:\u09e7 \u0995\u09c7\u099c\u09bf\u0964 \r\n\r\n \r\n\"\r\nTimothy Grass and Alfalfa Complete and high quality fiber for a healthy digestive system \r\nNatural Lignocellulose  Source of Natural Dietary Fiber for improved gut health and function by promoting the growth of beneficial digestive bacteria\r\nYucca Extract  Enhances stool quality and reduces odor \r\nWildberry Flavour  For enhanced palatability and enjoyment\r\n\r\nQuantity: 1kg",
+        "name": "Smart Heart Rabbit Food Wildberry 1 kg",
+        "nameWithoutSubText": "Smart Heart Rabbit Food Wildberry",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/smart-heart-rabbit-food-wildberry-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59465&q=low&v=1"
+        ],
+        "price": 305.0,
+        "corpPrice": 305.0,
+        "objectID": 21395
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b8\u09cd\u09ae\u09be\u09b0\u09cd\u099f\u09b9\u09be\u09b0\u09cd\u099f \u0996\u09b0\u0997\u09cb\u09b8\u09c7\u09b0 \u0996\u09be\u09ac\u09be\u09b0 \u0986\u09aa\u09c7\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "SmartHeart brings a complete and balanced diet to look after the overall welfare of your pet rabbit. It supports the growth and strengthens the bones and teeth. Omega 3 fatty acid, sourced from flax seeds, nurtures the health and beauty of skin and fur. The complete food for rabbit is highly palatable with its exciting apple flavour. There is high-quality fibre in the form of alfalfa and beet pulp which enhances the effectiveness of digestive system. Yucca extract works to improve the quality of stool and also reduces the odour.\r\n\r\n\"Ingredients\t\r\nAlfalfa, Antioxidants ( BHA and BHT), Apple Flavour, artificial colourings, Ascorbic Acid, Beet pulp, Chloride, Choline, Corn, Flax Seed, Full Fat Soybean, lucerne meal, Menadione Sodium Bisulfate, Rice, Soybean Meal, Tocopheryl Acetate, Vitamin A Acetate, Vitamin D3 Supplement, Wheat Bran, Yucca extract\"",
+        "name": "SmartHeart Rabbit Food Apple 1 kg",
+        "nameWithoutSubText": "SmartHeart Rabbit Food Apple",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/smartheart-rabbit-food-apple-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D24224&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 12584
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u0993\u09b8\u09be\u0995\u09be \u09b8\u09ac\u09c1\u099c \u09e7 \u09ae\u09be\u099b\u09c7\u09b0 \u0996\u09be\u09ac\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Thailand\r\nOsaka Green 1 Fish Food is a special nutritional formulation for all ornamental fishes. It is complete and balanced fortified with spirulina to naturally color-enhance your fishes to be vibrant and healthy. \r\n\r\nIngredients: Fish meal, shrimp meal, astaxanthin,  soybean meal, corn gluten meal, Yellow corn, vitamins, minerals.\r\n\r\nNutritional values:\r\nCrude protein: 28%\r\nCrude fat: 3%\r\nCrude fibre: 4%\r\nMoisture: 10%\r\nQuantity: 200 gm\r\n\r\n\r\n\u0989\u09ce\u09aa\u09be\u09a6\u09a8\u0995\u09be\u09b0\u09c0 \u09a6\u09c7\u09b6\u0983  \u09a5\u09be\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\r\n \u0985\u09cd\u09af\u09be\u0995\u09c1\u09b0\u09bf\u09df\u09be\u09ae\u09c7\u09b0 \u09ae\u09be\u099b\u09c7\u09a6\u09c7\u09b0 \u09b8\u09c1\u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u0993 \u09b0\u0999 \u09a7\u09b0\u09c7 \u09b0\u09be\u0996\u09be\u09b0  \u099c\u09a8\u09cd\u09af \u09b8\u09cd\u09aa\u09bf\u09b0\u09c1\u09b2\u09bf\u09a8\u09be \u09b8\u09ae\u09c3\u09a6\u09cd\u09a7 \u0996\u09be\u09a6\u09cd\u09af\u0964 \r\n\r\n\u0989\u09aa\u0995\u09b0\u09a3: \u09ab\u09bf\u09b6 \u09ae\u09bf\u09b2, \u09b6\u09cd\u09b0\u09bf\u09ae\u09cd\u09aa \u09ae\u09bf\u09b2, \u0985\u09cd\u09af\u09be\u09b8\u09cd\u099f\u09be\u0995\u09cd\u09b8\u09be\u09a8\u09a5\u09bf\u09a8, \u09b8\u09af\u09bc\u09be\u09ac\u09bf\u09a8 \u09cd\u09ae\u09bf\u09b2, \u0995\u09b0\u09cd\u09a8 \u0997\u09cd\u09b2\u09c1\u099f\u09c7\u09a8 \u09cd\u09ae\u09bf\u09b2 , \u09b9\u09b2\u09c1\u09a6 \u0995\u09b0\u09cd\u09a8, \u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8, \u0996\u09a8\u09bf\u099c\u0964\r\n\r\n\u09aa\u09c1\u09b7\u09cd\u099f\u09bf\u09b0 \u09ae\u09be\u09a8:\r\n\u0985\u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u09aa\u09cd\u09b0\u09cb\u099f\u09bf\u09a8: \u09e8\u09ee%\r\n\u0985\u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u099a\u09b0\u09cd\u09ac\u09bf: \u09e9%\r\n\u0985\u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u09ab\u09be\u0987\u09ac\u09be\u09b0: \u09ea%\r\n\u0986\u09b0\u09cd\u09a6\u09cd\u09b0\u09a4\u09be: \u09e7\u09e6%\r\n\u09aa\u09b0\u09bf\u09ae\u09be\u09a3: \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "name": "Osaka Green 1 Fish Food 200 gm",
+        "nameWithoutSubText": "Osaka Green 1 Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/osaka-green-1-fish-food-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D24008&q=low&v=1"
+        ],
+        "price": 140.0,
+        "corpPrice": 140.0,
+        "objectID": 12495
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u0993\u09b8\u09be\u0995\u09be \u09e8\u09e6\u09e6\u09e6 \u09ae\u09be\u099b\u09c7\u09b0 \u0996\u09be\u09ac\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Thailand\r\nOsaka 2000 Fish Food is specially formulated with sufficient nutritional value to ensure the everlasting color and the health of your fishes. \r\n\r\nIngredients: Fish meal, shrimp meal, astaxanthin,  soybean meal, corn gluten meal, Yellow corn, vitamins, minerals.\r\nNutritional values:\r\nCrude protein: 23%\r\nCrude fat: 2.5%\r\nCrude fibre: 4.5%\r\nMoisture: 10%\r\nQuantity: 200 gm\r\n\r\n\r\n\u0989\u09ce\u09aa\u09be\u09a6\u09a8\u0995\u09be\u09b0\u09c0 \u09a6\u09c7\u09b6\u0983  \u09a5\u09be\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\r\n \u0985\u09cd\u09af\u09be\u0995\u09c1\u09b0\u09bf\u09df\u09be\u09ae\u09c7\u09b0 \u09ae\u09be\u099b\u09c7\u09a6\u09c7\u09b0 \u09b8\u09c1\u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u0993 \u09b0\u0999 \u09a7\u09b0\u09c7 \u09b0\u09be\u0996\u09be\u09b0  \u099c\u09a8\u09cd\u09af \u0989 \u09ce\u0995\u09c3\u09b7\u09cd\u099f \u0996\u09be\u09a6\u09cd\u09af\u0964 \r\n\r\n\u0989\u09aa\u0995\u09b0\u09a3: \u09ab\u09bf\u09b6 \u09ae\u09bf\u09b2, \u09b6\u09cd\u09b0\u09bf\u09ae\u09cd\u09aa \u09ae\u09bf\u09b2, \u0985\u09cd\u09af\u09be\u09b8\u09cd\u099f\u09be\u0995\u09cd\u09b8\u09be\u09a8\u09a5\u09bf\u09a8, \u09b8\u09af\u09bc\u09be\u09ac\u09bf\u09a8 \u0996\u09be\u09ac\u09be\u09b0, \u0995\u09b0\u09cd\u09a8 \u0997\u09cd\u09b2\u09c1\u099f\u09c7\u09a8 \u09ae\u09bf\u09b2, \u09b9\u09b2\u09c1\u09a6 \u0995\u09b0\u09cd\u09a8, \u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8, \u0996\u09a8\u09bf\u099c\u0964\r\n\u09aa\u09c1\u09b7\u09cd\u099f\u09bf\u09b0 \u09ae\u09be\u09a8:\r\n\u0985\u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u09aa\u09cd\u09b0\u09cb\u099f\u09bf\u09a8: \u09e8\u09e9%\r\n\u0985\u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u099a\u09b0\u09cd\u09ac\u09bf: \u09e8.\u09eb%\r\n\u0985\u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u09ab\u09be\u0987\u09ac\u09be\u09b0: \u09ea.\u09eb%\r\n\u0986\u09b0\u09cd\u09a6\u09cd\u09b0\u09a4\u09be: \u09e7\u09e6%\r\n\u09aa\u09b0\u09bf\u09ae\u09be\u09a3: \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "name": "Osaka 2000 Fish Food 200 gm",
+        "nameWithoutSubText": "Osaka 2000 Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/osaka-2000-fish-food-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53586&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 12494
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u0993\u09aa\u099f\u09bf\u09ae\u09be\u09ae \u09ae\u09be\u099b\u09c7\u09b0 \u0996\u09be\u09ac\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Thailand\r\nOptimum Fish Food 100 gm is a  nutritious food for all aquarium fishes. It promotes growth, enhances color.\r\n\r\nVitamin C and E enriched\r\nComplete nutrition\r\n\r\n\r\nIngredients: Fish meal, protein meal, soybean meal, cassava pellet , fish oil, Lecithin, synbiotics, vitamins, minerals, astaxanthin, food coloring, antioxidants. \r\n\r\nNutritional values: Crude protein (min) 28%, crude fat (min) 3% ,crude fibre (max) 4%, moisture(max) 10%\r\nQuantity: 200 gm\r\n\r\n\r\n\u0989\u09ce\u09aa\u09be\u09a6\u09a8\u0995\u09be\u09b0\u09c0 \u09a6\u09c7\u09b6\u0983  \u09a5\u09be\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\r\n \u0985\u09cd\u09af\u09be\u0995\u09c1\u09b0\u09bf\u09df\u09be\u09ae\u09c7\u09b0 \u09ae\u09be\u099b\u09c7\u09a6\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u0989 \u09ce\u0995\u09c3\u09b7\u09cd\u099f \u0996\u09be\u09a6\u09cd\u09af\u0964 \u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8 \u09b8\u09bf \u0993 \u0987 \u09b8\u09ae\u09c3\u09a6\u09cd\u09a7\u0964 \u09ae\u09be\u099b\u09c7\u09b0 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09a4 \u0995\u09b0\u09c7, \u09b0\u0999 \u0989\u099c\u09cd\u099c\u09cd\u09ac\u09b2 \u0995\u09b0\u09c7\u0964   \r\n\r\n\u0989\u09aa\u0995\u09b0\u09a3: \u09ab\u09bf\u09b6 \u09ae\u09bf\u09b2, \u09aa\u09cd\u09b0\u09cb\u099f\u09bf\u09a8 \u09ae\u09bf\u09b2, \u09b8\u09af\u09bc\u09be\u09ac\u09bf\u09a8 \u09ae\u09bf\u09b2, \u0995\u09be\u09b8\u09be\u09ad\u09be \u09b6\u09be\u0981\u09b8, \u09ae\u09be\u099b\u09c7\u09b0 \u09a4\u09c7\u09b2, \u09b2\u09c7\u09b8\u09bf\u09a5\u09bf\u09a8, \u09b8\u09bf\u09a8\u09ac\u09be\u09af\u09bc\u09cb\u099f\u09bf\u0995\u09b8, \u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8, \u0996\u09a8\u09bf\u099c, \u0985\u09cd\u09af\u09be\u09b8\u09cd\u099f\u09be\u0995\u09cd\u09b8\u09be\u09a5\u09bf\u09a8, \u0996\u09be\u09ac\u09be\u09b0 \u09b0\u0999, \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u0985\u0995\u09cd\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f\u09b8\u0964\r\n\r\n\u09aa\u09c1\u09b7\u09cd\u099f\u09bf\u09b0 \u09ae\u09be\u09a8: \u0985\u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u09aa\u09cd\u09b0\u09cb\u099f\u09bf\u09a8 (\u09a8\u09cd\u09af\u09c2\u09a8\u09a4\u09ae) \u09e8\u09ee%, \u0985\u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u09ab\u09cd\u09af\u09be\u099f (\u09a8\u09cd\u09af\u09c2\u09a8\u09a4\u09ae) \u09e9%, \u0985\u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u09ab\u09be\u0987\u09ac\u09be\u09b0 (\u09b8\u09b0\u09cd\u09ac\u09be\u09a7\u09bf\u0995) \u09ea%, \u0986\u09b0\u09cd\u09a6\u09cd\u09b0\u09a4\u09be (\u09b8\u09b0\u09cd\u09ac\u09cb\u099a\u09cd\u099a) \u09e7\u09e6%\r\n\u09aa\u09b0\u09bf\u09ae\u09be\u09a3: \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "name": "Optimum Fish Food 200 gm",
+        "nameWithoutSubText": "Optimum Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/optimum-fish-food-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53583&q=low&v=1"
+        ],
+        "price": 126.0,
+        "corpPrice": 126.0,
+        "objectID": 12493
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u0993\u09aa\u099f\u09bf\u09ae\u09be\u09ae \u09ae\u09be\u099b\u09c7\u09b0 \u0996\u09be\u09ac\u09be\u09b0 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Thailand\r\nOptimum Fish Food 100 gm is a  nutritious food for all aquarium fishes. It promotes growth, enhances color.\r\n\r\nVitamin C and E enriched\r\nComplete nutrition\r\n\r\nIngredients: Fish meal,protein meal, soybean meal, cassava pellet , oil, Lecithin, synbiotics, vitamins, minerals, astaxanthin, food coloring, antioxidants. \r\n\r\nNutritional values: Crude protein (min) 28%, crude fat (min) 3% ,crude fibre (max) 4%, moisture(max) 10%\r\nQuantity: 100 gm\r\n\r\n\r\n\u0989\u09ce\u09aa\u09be\u09a6\u09a8\u0995\u09be\u09b0\u09c0 \u09a6\u09c7\u09b6\u0983  \u09a5\u09be\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\r\n \u0985\u09cd\u09af\u09be\u0995\u09c1\u09b0\u09bf\u09df\u09be\u09ae\u09c7\u09b0 \u09ae\u09be\u099b\u09c7\u09a6\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u0989 \u09ce\u0995\u09c3\u09b7\u09cd\u099f \u0996\u09be\u09a6\u09cd\u09af\u0964 \u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8 \u09b8\u09bf \u0993 \u0987 \u09b8\u09ae\u09c3\u09a6\u09cd\u09a7\u0964 \u09ae\u09be\u099b\u09c7\u09b0 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf \u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09a4 \u0995\u09b0\u09c7, \u09b0\u0999 \u0989\u099c\u09cd\u099c\u09cd\u09ac\u09b2 \u0995\u09b0\u09c7\u0964   \r\n\r\n\u0989\u09aa\u0995\u09b0\u09a3: \u09ab\u09bf\u09b6 \u09ae\u09bf\u09b2, \u09aa\u09cd\u09b0\u09cb\u099f\u09bf\u09a8 \u09ae\u09bf\u09b2, \u09b8\u09af\u09bc\u09be\u09ac\u09bf\u09a8 \u09ae\u09bf\u09b2, \u0995\u09be\u09b8\u09be\u09ad\u09be \u09b6\u09be\u0981\u09b8, \u09ae\u09be\u099b\u09c7\u09b0 \u09a4\u09c7\u09b2, \u09b2\u09c7\u09b8\u09bf\u09a5\u09bf\u09a8, \u09b8\u09bf\u09a8\u09ac\u09be\u09af\u09bc\u09cb\u099f\u09bf\u0995\u09b8, \u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8, \u0996\u09a8\u09bf\u099c, \u0985\u09cd\u09af\u09be\u09b8\u09cd\u099f\u09be\u0995\u09cd\u09b8\u09be\u09a5\u09bf\u09a8, \u0996\u09be\u09ac\u09be\u09b0 \u09b0\u0999, \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u0985\u0995\u09cd\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f\u09b8\u0964\r\n\r\n\u09aa\u09c1\u09b7\u09cd\u099f\u09bf\u09b0 \u09ae\u09be\u09a8: \u0985\u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u09aa\u09cd\u09b0\u09cb\u099f\u09bf\u09a8 (\u09a8\u09cd\u09af\u09c2\u09a8\u09a4\u09ae) \u09e8\u09ee%, \u0985\u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u09ab\u09cd\u09af\u09be\u099f (\u09a8\u09cd\u09af\u09c2\u09a8\u09a4\u09ae) \u09e9%, \u0985\u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u09ab\u09be\u0987\u09ac\u09be\u09b0 (\u09b8\u09b0\u09cd\u09ac\u09be\u09a7\u09bf\u0995) \u09ea%, \u0986\u09b0\u09cd\u09a6\u09cd\u09b0\u09a4\u09be (\u09b8\u09b0\u09cd\u09ac\u09cb\u099a\u09cd\u099a) \u09e7\u09e6%\r\n\u09aa\u09b0\u09bf\u09ae\u09be\u09a3: \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "name": "Optimum Fish Food 100 gm",
+        "nameWithoutSubText": "Optimum Fish Food",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/optimum-fish-food-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D14344&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 9478
+    },
+    {
+        "category": {
+            "name": "Other Pet Foods",
+            "id": "1256",
+            "slug": "other-pet-foods"
+        },
+        "bengaliName": "\u09b8\u09cd\u09ae\u09be\u09b0\u09cd\u099f\u09b9\u09be\u09b0\u09cd\u099f \u0996\u09b0\u0997\u09cb\u09b8\u09c7\u09b0 \u0996\u09be\u09ac\u09be\u09b0 \u09b0\u09be\u09b8\u09cd\u09aa\u09ac\u09c7\u09b0\u09c0 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "SmartHeart brings complete and balanced nutrition wrapped in the delicious flavour of raspberry for your lovely pet rabbit. It will assist the body in achieving its potential growth and build strong bones and teeth with its special dietary formula. Alfalfa (fibre) and Fructo-Oligosaccharides (prebiotics) promote digestive health and encourage optimum assimilation of nutrients. Yucca extract improves stool quality and lessens odour. Enriching the food further is vitamin C supplements which boosts the immunity and slows down the process of aging by reducing cellular stress from free radicals. Maintaining the health of your small pet, the dry rabbit food would also help in preserving the health and beauty of skin and coat.\r\n\r\n\"Ingredients: Wheat bran, soybean meal, corn, rice, soybean hull, lucerne meal, full fat soybean, alfalfa, raspberry flavour, fructo-oligosaccharide, yucca extract, antioxidants (BHA and BHT), artificial colourings, vitamin A acetate, choline chloride, vitamin D3 supplement, tocopheryl acetate, menadione sodium bisulfate, ascorbic acid, nicotinic acid, calcium D-pantothenate, riboflavin 5\u2019-phosphate sodium, pyridoxine hydrochloride, thiamine hydrochloride, folic acid, biotin, vitamin B12 supplement, calcium carbonate, potassium iodide, monocalcium phosphate, sodium chloride, ferrous sulfate, zinc oxide, manganous oxide, copper sulfate\r\nImportant: Always have clean drinking water available for your rabbit at all times.\"",
+        "name": "SmartHeart Rabbit Food Raspberry 1 kg",
+        "nameWithoutSubText": "SmartHeart Rabbit Food Raspberry",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/smartheart-rabbit-food-raspberry-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64727&q=low&v=1"
+        ],
+        "price": 305.0,
+        "corpPrice": 305.0,
+        "objectID": 8772
+    }
+]

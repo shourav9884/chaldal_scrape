@@ -1,0 +1,563 @@
+[
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ac\u09cd\u09b0\u09af\u09bc\u09b2\u09be\u09b0 \u09ae\u09c1\u09b0\u0997\u09c0 \u099a\u09be\u09ae\u09dc\u09be \u099b\u09be\u09dc\u09be \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Chicken.     ",
+        "name": "Broiler Chicken Skin Off \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Broiler Chicken Skin Off \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/broiler-chicken-skin-off-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74661&q=low&v=1"
+        ],
+        "price": 179.0,
+        "corpPrice": 179.0,
+        "objectID": 7196
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u09ae\u09bf\u099f \u09b9\u09be\u09dc\u09b8\u09b9 \u0997\u09b0\u09c1\u09b0 \u09ae\u09be\u0982\u09b8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Premium quality locally sourced. Meat, such as beef, is mainly composed of protein. Usually eaten as roasts, ribs, or steaks, beef is also commonly ground or minced. Patties of ground beef are often used in hamburgers. Processed beef products include corned beef, beef jerky, and sausages. Fresh lean beef is rich in various vitamins and minerals, especially iron and zinc, and is therefore recommended as part of a healthy diet.",
+        "name": "Bengal Meat Beef Bone In \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Bengal Meat Beef Bone In \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bengal-meat-beef-bone-in-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77384&q=low&v=1"
+        ],
+        "price": 599.0,
+        "corpPrice": 599.0,
+        "objectID": 4421
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ac\u09cd\u09b0\u09af\u09bc\u09b2\u09be\u09b0 \u09ae\u09c1\u09b0\u0997\u09c0 \u099a\u09be\u09ae\u09dc\u09be \u09b8\u09b9 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Chicken.   ",
+        "name": "Broiler Chicken Skin On \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Broiler Chicken Skin On \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/broiler-chicken-skin-on-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73931&q=low&v=1"
+        ],
+        "price": 169.0,
+        "corpPrice": 169.0,
+        "objectID": 7404
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ac\u09af\u09bc\u09b2\u09be\u09b0 \u099a\u09bf\u0995\u09c7\u09a8 \u098f\u09b0 \u09aa\u09be\u0996\u09a8\u09be \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae 1 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Broiler Chicken Wings \u00b1 50 gm 1 Kg",
+        "nameWithoutSubText": "Broiler Chicken Wings \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/broiler-chicken-wings-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73933&q=low&v=1"
+        ],
+        "price": 219.0,
+        "corpPrice": 219.0,
+        "objectID": 23165
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u09ae\u09bf\u099f \u0986\u09b8\u09cd\u09a4 \u09ae\u09c1\u09b0\u0997\u09c0\u09b0 \u0995\u09be\u09b0\u09bf \u0995\u09be\u099f \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Bengal Meat Whole Chicken Curry Cut \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Bengal Meat Whole Chicken Curry Cut \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bengal-meat-whole-chicken-curry-cut-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74653&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 21555
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u0986\u09b8\u09cd\u09a4 \u09a6\u09c7\u09b6\u09bf \u09ae\u09c1\u09b0\u0997\u09c0 \u099a\u09be\u09ae\u09dc\u09be \u099b\u09be\u09dc\u09be \u00b1 5\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Locally sourced, Whole Deshi Chicken Skin Off. Deshi Chicken has lots of benefits include \r\n\r\n\u2022 its good supply of protein content, \r\n\u2022 the supply of essential vitamins and minerals, \r\n\u2022 benefits in losing weight, \r\n\u2022 cholesterol control, \r\n\u2022 blood pressure control, and \r\n\u2022 a reduced risk of cancer. \r\n\r\nNet weight: 800 gm\r\n100% fresh and healthy",
+        "name": "Whole Deshi Chicken Skin Off \u00b1 50 gm 500 gm",
+        "nameWithoutSubText": "Whole Deshi Chicken Skin Off \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/whole-deshi-chicken-skin-off-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74673&q=low&v=1"
+        ],
+        "price": 449.0,
+        "corpPrice": 449.0,
+        "objectID": 4419
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ae\u09c1\u09b0\u0997\u09bf\u09b0 \u09b0\u09be\u09a8\u09c7\u09b0 \u09ae\u09be\u0982\u09b8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf ",
+        "longDesc": null,
+        "name": "Broiler Chicken Thigh  Boneless \u00b1 50 gm 1 Kg",
+        "nameWithoutSubText": "Broiler Chicken Thigh  Boneless \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/broiler-chicken-thigh-boneless-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74665&q=low&v=1"
+        ],
+        "price": 329.0,
+        "corpPrice": 329.0,
+        "objectID": 23134
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u0997\u09b0\u09c1\u09b0 \u09ae\u09be\u0982\u09b8 \u09b9\u09be\u09dc \u09b8\u09b9 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bengal Meat Beef Bone In \u00b1 50 gm 500 gm",
+        "nameWithoutSubText": "Bengal Meat Beef Bone In \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bengal-meat-beef-bone-in-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80772&q=low&v=1"
+        ],
+        "price": 309.0,
+        "corpPrice": 309.0,
+        "objectID": 24762
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09a6\u09c7\u09b6\u09c0 \u09ae\u09c1\u09b0\u0997\u09c0 \u099a\u09be\u09ae\u09dc\u09be \u099b\u09be\u09dc\u09be (\u09ac\u09bf\u098f\u0987\u0989)  \u00b1 \u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "1. Hygienically produced and Halal.\r\n2. Antibiotics residue and harmful chemical free.\r\n3. Production process is managed by experienced poultry & veterinary expert.\r\n4. BAU Chicken strain is developed by Bangladesh Agricultural University from local chicken germplasm.",
+        "name": "Deshi BAU Chicken Skin Off  \u00b130 gm) 550 gm ",
+        "nameWithoutSubText": "Deshi BAU Chicken Skin Off  \u00b130 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deshi-bau-chicken-skin-off-30-gm-550-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77674&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 24349
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ae\u09c1\u09b0\u0997\u09c0\u09b0 \u09b8\u09bf\u09a8\u09be\u09b0 \u09ae\u09be\u0982\u09b8 \u09b9\u09be\u09a1\u09bc \u09b8\u09b9 \u099a\u09be\u09ae\u09a1\u09bc\u09be\u09ac\u09bf\u09b9\u09c0\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Broiler Chicken Breast with Bone \u00b1 50 gm 1 Kg",
+        "nameWithoutSubText": "Broiler Chicken Breast with Bone \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/broiler-chicken-breast-with-bone-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74650&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 23136
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09b0\u09cb\u09b8\u09cd\u099f \u09ae\u09c1\u09b0\u0997\u09bf \u00b1 \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e8\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Roast Chicken From Mymensingh\r\nThese are the Farm Chicken named Shonalika collected from Mymensingh Region. Available round the year. Available fully dressed without skin.",
+        "name": "Roast Chicken \u00b1 20 gm 280 gm",
+        "nameWithoutSubText": "Roast Chicken \u00b1 20 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/roast-chicken-20-gm-280-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74658&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 22899
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u099a\u09bf\u0995\u09c7\u09a8 \u09a1\u09cd\u09b0\u09be\u09ae\u09b8\u09cd\u099f\u09bf\u0995\u09cd\u09b8  (\u09ef-\u09e7\u09e8 \u09aa\u09bf\u09b8\u09bf) \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Broiler Chicken Drumsticks (9-12 Pcs) 1 Kg ",
+        "nameWithoutSubText": "Broiler Chicken Drumsticks (9-12 Pcs)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/broiler-chicken-drumsticks-9-12-pcs-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74667&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 22526
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ac\u09af\u09bc\u09b2\u09be\u09b0 \u099a\u09bf\u0995\u09c7\u09a8 \u098f\u09b0 \u09aa\u09c1\u09b0\u09cb \u09aa\u09be \u098f\u09b0 \u09ae\u09be\u0982\u09b8 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Broiler Whole Chicken Leg Skin On (Net Weight \u00b1 50 gm) 1 Kg",
+        "nameWithoutSubText": "Broiler Whole Chicken Leg Skin On (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/broiler-whole-chicken-leg-skin-on-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74666&q=low&v=1"
+        ],
+        "price": 269.0,
+        "corpPrice": 269.0,
+        "objectID": 23164
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u09ae\u09bf\u099f \u09b9\u09be\u09dc\u09b8\u09b9 \u0996\u09be\u09b8\u09bf\u09b0 \u09ae\u09be\u0982\u09b8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Bengal Meat Mutton Bone in \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Bengal Meat Mutton Bone in \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bengal-meat-mutton-bone-in-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73987&q=low&v=1"
+        ],
+        "price": 899.0,
+        "corpPrice": 899.0,
+        "objectID": 9009
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u09ae\u09bf\u099f \u0997\u09b0\u09c1\u09b0 \u09ae\u09be\u0982\u09b8\u09c7\u09b0 \u0995\u09bf\u09ae\u09be \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Bengal Meat Beef Keema \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Bengal Meat Beef Keema \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bengal-meat-beef-keema-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74668&q=low&v=1"
+        ],
+        "price": 925.0,
+        "corpPrice": 925.0,
+        "objectID": 6422
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u09ae\u09bf\u099f \u099a\u09be\u09ae\u09dc\u09be \u09ae\u09c1\u0995\u09cd\u09a4 \u0986\u09b8\u09cd\u09a4 \u09ae\u09c1\u09b0\u0997\u09bf (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae)  \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Bengal Meat Whole Chicken Skin Off (Net Weight \u00b1 50 Gm) 1 kg",
+        "nameWithoutSubText": "Bengal Meat Whole Chicken Skin Off (Net Weight \u00b1 50 Gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bengal-meat-whole-chicken-skin-off-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73910&q=low&v=1"
+        ],
+        "price": 359.0,
+        "corpPrice": 359.0,
+        "objectID": 3184
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u09ae\u09bf\u099f \u0997\u09b0\u09c1\u09b0 \u09aa\u09be\u09df\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Bengal Meat Beef Paya 2 kg",
+        "nameWithoutSubText": "Bengal Meat Beef Paya",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bengal-meat-beef-paya-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73904&q=low&v=1"
+        ],
+        "price": 799.0,
+        "corpPrice": 799.0,
+        "objectID": 21265
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u0995\u0995 \u09ae\u09c1\u09b0\u0997\u09c0 \u099a\u09be\u09ae\u09dc\u09be \u09ae\u09c1\u0995\u09cd\u09a4 \u00b1 \u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Cock chicken   ",
+        "name": "Cock Chicken Skin Off \u00b1 30 gm 500 gm",
+        "nameWithoutSubText": "Cock Chicken Skin Off \u00b1 30 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cock-chicken-skin-off-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74651&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 10765
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u0997\u09b0\u09c1\u09b0 \u0995\u09b2\u09bf\u099c\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Cow Liver 500 gm",
+        "nameWithoutSubText": "Cow Liver",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cow-liver-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74674&q=low&v=1"
+        ],
+        "price": 319.0,
+        "corpPrice": 319.0,
+        "objectID": 11220
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u0997\u09b0\u09c1\u09b0 \u09ae\u09be\u0982\u09b8 \u09b9\u09be\u09b0 \u099b\u09be\u09dc\u09be  \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Beef Boneless \u00b1 50 gm 500 gm",
+        "nameWithoutSubText": "Beef Boneless \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/beef-boneless-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73564&q=low&v=1"
+        ],
+        "price": 399.0,
+        "corpPrice": 399.0,
+        "objectID": 23575
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u0995\u09ac\u09c1\u09a4\u09b0\u09c7\u09b0 \u09ae\u09be\u0982\u09b8 ",
+        "longDesc": null,
+        "name": "Pigeon Meat  1 Pcs",
+        "nameWithoutSubText": "Pigeon Meat",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pigeon-meat-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71612&q=low&v=1"
+        ],
+        "price": 139.0,
+        "corpPrice": 139.0,
+        "objectID": 22960
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u0995\u09cb\u09df\u09c7\u09b2\u09c7\u09b0 \u09ae\u09be\u0982\u09b8 \u09ea \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Quail Meat 4 pcs",
+        "nameWithoutSubText": "Quail Meat",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/quail-meat-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74672&q=low&v=1"
+        ],
+        "price": 169.0,
+        "corpPrice": 169.0,
+        "objectID": 22959
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u0996\u09be\u09b8\u09bf\u09b0 \u09aa\u09be\u09af\u09bc\u09be \u09a6\u09b6 \u09aa\u09bf\u099b",
+        "longDesc": null,
+        "name": "Mutton Paya 10 Pcs",
+        "nameWithoutSubText": "Mutton Paya",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mutton-paya-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74659&q=low&v=1"
+        ],
+        "price": 289.0,
+        "corpPrice": 289.0,
+        "objectID": 23109
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ae\u09c1\u09b0\u0997\u09bf\u09b0 \u0995\u09bf\u09ae\u09be \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Chicken Keema (Net Weight \u00b1 50 gm)  1 kg",
+        "nameWithoutSubText": "Chicken Keema (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chicken-keema-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74669&q=low&v=1"
+        ],
+        "price": 449.0,
+        "corpPrice": 449.0,
+        "objectID": 23397
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u0996\u09be\u09b8\u09bf\u09b0 \u09ae\u0997\u099c \u09a6\u09c1\u0987 \u09aa\u09bf\u099b ",
+        "longDesc": null,
+        "name": "Mutton Brain  2 Pcs",
+        "nameWithoutSubText": "Mutton Brain",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mutton-brain-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74664&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 23115
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u0996\u09be\u09b8\u09bf\u09b0 \u09ae\u09be\u0982\u09b8 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Mutton Bone in (khashi) (Net Weight \u00b1 50 Gm) 1 kg",
+        "nameWithoutSubText": "Mutton Bone in (khashi) (Net Weight \u00b1 50 Gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mutton-bone-in-khashi-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74656&q=low&v=1"
+        ],
+        "price": 899.0,
+        "corpPrice": 899.0,
+        "objectID": 23080
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u0997\u09b0\u09c1\u09b0 \u09aa\u09be\u09af\u09bc\u09be \u09e8 kg",
+        "longDesc": null,
+        "name": "Beef Paya Premium (Net Weight \u00b1 50 gm) 2 kg",
+        "nameWithoutSubText": "Beef Paya Premium (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/beef-paya-premium-net-weight-50-gm-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74655&q=low&v=1"
+        ],
+        "price": 769.0,
+        "corpPrice": 769.0,
+        "objectID": 23114
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u09ae\u09bf\u099f \u09ae\u09c1\u09b0\u0997\u09bf\u09b0 \u09b9\u09be\u09dc \u09ae\u09c1\u0995\u09cd\u09a4 \u09ac\u09c1\u0995\u09c7\u09b0 \u09ae\u09be\u0982\u09b8 (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Bengal Meat Boneless Chicken Breast (Net Weight \u00b1 50 gm) 1 kg",
+        "nameWithoutSubText": "Bengal Meat Boneless Chicken Breast (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bengal-meat-boneless-chicken-breast-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74663&q=low&v=1"
+        ],
+        "price": 629.0,
+        "corpPrice": 629.0,
+        "objectID": 5922
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u0997\u09b0\u09c1\u09b0 \u09ae\u09be\u0982\u09b8 \u09b9\u09be\u09dc \u09b8\u09b9 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Beef Bone In (Net Weight \u00b1 50 gm) 500 gm",
+        "nameWithoutSubText": "Beef Bone In (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/beef-bone-in-net-weight-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79105&q=low&v=1"
+        ],
+        "price": 289.0,
+        "corpPrice": 289.0,
+        "objectID": 24477
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2 \u09ae\u09bf\u099f \u09b9\u09be\u09dc \u09ae\u09c1\u0995\u09cd\u09a4 \u0997\u09b0\u09c1\u09b0 \u09ae\u09be\u0982\u09b8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Bengal Meat Beef Boneless \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Bengal Meat Beef Boneless \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bengal-meat-beef-boneless-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73901&q=low&v=1"
+        ],
+        "price": 899.0,
+        "corpPrice": 899.0,
+        "objectID": 3162
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u0997\u09b0\u09c1\u09b0 \u09ae\u09be\u0982\u09b8 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Beef Bone In  (Net Weight \u00b1 50 gm) 1 kg",
+        "nameWithoutSubText": "Beef Bone In  (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/beef-bone-in-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73985&q=low&v=1"
+        ],
+        "price": 599.0,
+        "corpPrice": 599.0,
+        "objectID": 3161
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ae\u09c1\u09b0\u0997\u09bf\u09b0 \u09b9\u09be\u09dc \u09ae\u09c1\u0995\u09cd\u09a4 \u09ac\u09c1\u0995\u09c7\u09b0 \u09ae\u09be\u0982\u09b8 (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u09e7 \u0995\u09c7\u099c\u09bf)",
+        "longDesc": "Chicken Breast ",
+        "name": "Broiler Chicken Breast Boneless (Net Weight \u00b1 50 gm) 1 kg",
+        "nameWithoutSubText": "Broiler Chicken Breast Boneless (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/broiler-chicken-breast-boneless-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74660&q=low&v=1"
+        ],
+        "price": 279.0,
+        "corpPrice": 279.0,
+        "objectID": 9267
+    },
+    {
+        "category": {
+            "name": "Meat",
+            "id": "25",
+            "slug": "meat"
+        },
+        "bengaliName": "\u09ac\u09cd\u09b0\u09af\u09bc\u09b2\u09be\u09b0 \u09ae\u09c1\u09b0\u0997\u09c0 \u099a\u09be\u09ae\u09dc\u09be \u099b\u09be\u09dc\u09be (\u09a8\u09c7\u099f \u0993\u099c\u09a8 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09ee\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Locally sourced, whole broiler chicken skin off. The health benefits of broiler chicken include its good supply of protein content, the supply of essential vitamins and minerals, benefits in losing weight, cholesterol control, blood pressure control, and a reduced risk of cancer. Net weight 800 gm. 100% fresh and healthy.",
+        "name": "Broiler Chicken Skin Off (Net Weight \u00b1 50 gm) 900 gm",
+        "nameWithoutSubText": "Broiler Chicken Skin Off (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/broiler-chicken-skin-off-net-weight-50-gm-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46328&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 4420
+    }
+]

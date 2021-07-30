@@ -1,0 +1,1422 @@
+[
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09b9\u099f \u099f\u09ae\u09c7\u099f\u09cb \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Pran hot tomato sauce made from fresh tomato, chili, sugar,citric acid (E-330), sodium benzoate (211). Its tasty and healthy. Pran Hot Tomato Sauce can be use in various way. ",
+        "name": "Pran Hot Tomato Sauce 340 gm",
+        "nameWithoutSubText": "Pran Hot Tomato Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-hot-tomato-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47538&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 2384
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b8\u09df\u09be \u09b8\u09b8 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Ahmed food products Ltd.\r\nSoya sauce for all purpose seasoning. \r\nVegan\r\nHalal certified\r\nIngredients: Concentrated soya, salt, sugar, water, mono sodium glutamate(E-621), sodium benzoate(E-211)\r\nNutritional facts: Sodium 0.05% , Carbohydrate 25%",
+        "name": "Ahmed Soya Sauce 500 ml",
+        "nameWithoutSubText": "Ahmed Soya Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-soya-sauce-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69554&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 7867
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u099d\u09be\u09b2 \u099f\u09ae\u09c7\u099f\u09cb \u09b8\u09b8 \u09e9\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Ruchi Hot Tomato Sauce 350 ml",
+        "nameWithoutSubText": "Ruchi Hot Tomato Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-hot-tomato-sauce-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75110&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 10951
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b9\u09c7\u0987\u09a8\u09cd\u099c \u099f\u09ae\u09c7\u099f\u09cb \u0995\u09c7\u099a\u09be\u09aa \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Australia",
+        "name": "Heinz Tomato Ketchup 300 gm",
+        "nameWithoutSubText": "Heinz Tomato Ketchup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/heinz-tomato-ketchup-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47526&q=low&v=1"
+        ],
+        "price": 124.0,
+        "corpPrice": 124.0,
+        "objectID": 3569
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u099a\u09c1\u0982 \u09b8\u09af\u09bc\u09be \u09b8\u09b8 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Chung  Soya Sauce 500 ml",
+        "nameWithoutSubText": "Chung  Soya Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chung-soya-sauce-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64552&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 22166
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Ahmed food products\r\nChilli sauce made from real tomato and red chilli. It\u2019s a vegetarian product. \r\nIngredients: Tomato Paste, Red chilli, Garlic, Sugar, Onion, Modified Starch (E-1422), Sodium Benzoate (E-211), Acetic Acid (E-260), Xanthan Gum (E-415) & Permitted Natural Food Color (Canthaxanthin E-161g).  ",
+        "name": "Ahmed Chilli Sauce 340 gm",
+        "nameWithoutSubText": "Ahmed Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-chilli-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47356&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 16953
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b8\u09c7\u099c\u09be\u09a8 \u099f\u09ae\u09c7\u099f\u09cb \u0995\u09c7\u099a\u09be\u09aa \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": ".",
+        "name": "Shezan Tomato Ketchup 1 kg",
+        "nameWithoutSubText": "Shezan Tomato Ketchup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shezan-tomato-ketchup-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73583&q=low&v=1"
+        ],
+        "price": 180.0,
+        "corpPrice": 180.0,
+        "objectID": 4156
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u099f\u09ae\u09c7\u099f\u09cb \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Tomato Sauce 340 gm",
+        "nameWithoutSubText": "Ahmed Tomato Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-tomato-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D21891&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 11806
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a3 \u09b8\u09af\u09bc\u09be \u09b8\u09b8 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Pran Soya Sauce 300 ml",
+        "nameWithoutSubText": "Pran Soya Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-soya-sauce-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53171&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 20312
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b9\u09c7\u0987\u09a8\u09cd\u099c \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Heinz Chilli Sauce 300 gm",
+        "nameWithoutSubText": "Heinz Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/heinz-chilli-sauce-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64604&q=low&v=1"
+        ],
+        "price": 124.0,
+        "corpPrice": 124.0,
+        "objectID": 2246
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u09b9\u09be\u09b0\u09ad\u09c7\u09b8\u09cd\u099f \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Golden Harvest Chilli Sauce 340 gm",
+        "nameWithoutSubText": "Golden Harvest Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/golden-harvest-chilli-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48562&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 17149
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u09b9\u09be\u09b0\u09ad\u09c7\u09b8\u09cd\u099f \u0997\u09be\u09b0\u09cd\u09b2\u09bf\u0995 \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Golden Harvest Garlic Chilli Sauce 340 gm",
+        "nameWithoutSubText": "Golden Harvest Garlic Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/golden-harvest-garlic-chilli-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48567&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 17152
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u0997\u09cd\u09b0\u09c0\u09a8 \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Green Chilli Sauce 340 gm",
+        "nameWithoutSubText": "Ahmed Green Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-green-chilli-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47365&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 16956
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ac\u09c7\u09b8\u09cd\u099f \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Best Chilli Sauce 340 gm",
+        "nameWithoutSubText": "Best Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/best-chilli-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D9069&q=low&v=1"
+        ],
+        "price": 127.0,
+        "corpPrice": 127.0,
+        "objectID": 3252
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u09b0\u09c7\u09a1 \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ruchi Red Chilli Sauce 360 gm",
+        "nameWithoutSubText": "Ruchi Red Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-red-chilli-sauce-360-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75112&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 12992
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u099f\u09ae\u09c7\u099f\u09cb \u0995\u09c7\u099a\u09be\u09aa \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ruchi Tomato Ketchup 350 gm",
+        "nameWithoutSubText": "Ruchi Tomato Ketchup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-tomato-ketchup-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75113&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 12948
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09b9\u099f \u099f\u09ae\u09c7\u099f\u09cb \u09b8\u09b8 \u09ae\u09bf\u09a8\u09bf \u09e7\u09e6 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Pran Hot Tomato Sauce Mini 10 pcs",
+        "nameWithoutSubText": "Pran Hot Tomato Sauce Mini",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-hot-tomato-sauce-mini-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47537&q=low&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 10749
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u099f\u09ae\u09c7\u099f\u09cb \u0995\u09c7\u099a\u09be\u09aa \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Tomato Ketchup 340 gm",
+        "nameWithoutSubText": "Pran Tomato Ketchup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-tomato-ketchup-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47539&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 3963
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u09a4\u09c7\u0981\u09a4\u09c1\u09b2 \u09b8\u09b8 \u09e9\u09ed\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ruchi Tamarind Sauce 370 gm ",
+        "nameWithoutSubText": "Ruchi Tamarind Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-tamarind-sauce-370-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75111&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 6220
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u09b8\u09c1\u0987\u099f \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Sweet Chilli Sauce 340 gm",
+        "nameWithoutSubText": "Ahmed Sweet Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-sweet-chilli-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47364&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 16955
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u0997\u09be\u09b0\u09cd\u09b2\u09bf\u0995 \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Garlic Sauce 340 gm",
+        "nameWithoutSubText": "Ahmed Garlic Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-garlic-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47366&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 16957
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ac\u09c7\u09b8\u09cd\u099f \u09ae\u09b0\u09bf\u099a \u098f\u09ac\u0982 \u09b0\u09b8\u09c1\u09a8\u09c7\u09b0 \u09b8\u09b8 \u09e9\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Best Chilli & Garlic Sauce 320 gm",
+        "nameWithoutSubText": "Best Chilli & Garlic Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/best-chilli-garlic-sauce-320-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D26440&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 2151
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b2\u09be\u0987\u09ab \u0993\u09df\u09c7\u09b8\u09cd\u099f\u09be\u09b0 \u09ab\u09cd\u09b2\u09cd\u09af\u09be\u09ad\u09cb\u09b0\u09a1 \u09b8\u09b8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Life Oyster Flavoured Sauce 250 gm",
+        "nameWithoutSubText": "Life Oyster Flavoured Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/life-oyster-flavoured-sauce-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D12884&q=low&v=1"
+        ],
+        "price": 180.0,
+        "corpPrice": 180.0,
+        "objectID": 7872
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ac\u09c7\u09b8\u09cd\u099f \u099f\u09ae\u09c7\u099f\u09cb \u0995\u09c7\u099a\u09be\u09aa \u09e9\u09e9\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Best Tomato Ketchup 330 ml",
+        "nameWithoutSubText": "Best Tomato Ketchup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/best-tomato-ketchup-330-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D12712&q=low&v=1"
+        ],
+        "price": 121.0,
+        "corpPrice": 121.0,
+        "objectID": 7355
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ae\u09cd\u09af\u09be\u0997\u09c0 \u09a5\u09be\u0987 \u09b8\u09b8 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Maggi Thai Sauce 200 ml",
+        "nameWithoutSubText": "Maggi Thai Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/maggi-thai-sauce-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47536&q=low&v=1"
+        ],
+        "price": 169.0,
+        "corpPrice": 169.0,
+        "objectID": 10095
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09ae\u09cd\u09af\u09be\u0997\u09c0 \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f\u09be\u09b0 \u09b8\u09b8 \u09e9\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf ",
+        "longDesc": null,
+        "name": "Nestle Maggi Oyster Sauce 350 ml",
+        "nameWithoutSubText": "Nestle Maggi Oyster Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-maggi-oyster-sauce-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70685&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 15658
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09b9\u099f \u099f\u09ae\u09c7\u099f\u09cb \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Hot Tomato Sauce 340 gm",
+        "nameWithoutSubText": "Ahmed Hot Tomato Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-hot-tomato-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47516&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 11804
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0989\u09ae\u09be\u09ae\u09bf \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Umami Chilli Sauce 300 ml",
+        "nameWithoutSubText": "Umami Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/umami-chilli-sauce-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50343&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 18561
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u0997\u09be\u09b0\u09a1\u09c7\u09a8 \u09ac\u09bf\u09ac\u09bf\u0995\u09bf\u0989 \u09b8\u09b8 \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u09eb\u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "American Garden BBQ Sauce Original 510 gm",
+        "nameWithoutSubText": "American Garden BBQ Sauce Original",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/american-garden-bbq-sauce-original-510-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60028&q=low&v=1"
+        ],
+        "price": 429.0,
+        "corpPrice": 429.0,
+        "objectID": 6504
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0995\u09bf\u0982 \u09ac\u09c7\u09b2 \u0985\u09af\u09bc\u09c7\u09b8\u09cd\u099f\u09be\u09b0 \u09b8\u09b8 \u09e9\u09e9\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin:Thailand ",
+        "name": "King Bell Oyster Sauce 330 ml",
+        "nameWithoutSubText": "King Bell Oyster Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/king-bell-oyster-sauce-330-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D62933&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 22056
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b8\u099c\u09bf\u09ac \u09b8\u09df\u09be \u09b8\u09b8 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Sajeeb Saya Sauce 300 ml",
+        "nameWithoutSubText": "Sajeeb Saya Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sajeeb-saya-sauce-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50513&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 18657
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0986\u09b8\u09b2 \u09ac\u09bf\u09ac\u09bf\u0995\u09bf\u0989 \u09b8\u09b8 290 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Discovery Original BBQ Sauce 290 gm",
+        "nameWithoutSubText": "Discovery Original BBQ Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/discovery-original-bbq-sauce-290-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64650&q=low&v=1"
+        ],
+        "price": 190.0,
+        "corpPrice": 190.0,
+        "objectID": 22042
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u09b9\u09be\u09b0\u09ad\u09c7\u09b8\u09cd\u099f \u09a4\u09c7\u09a4\u09c1\u09b2  \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Golden Harvest Tamarind Sauce 340 gm",
+        "nameWithoutSubText": "Golden Harvest Tamarind Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/golden-harvest-tamarind-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48560&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 17148
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u09b9\u099f \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Hot Chilli Sauce 340 gm",
+        "nameWithoutSubText": "Ahmed Hot Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-hot-chilli-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59369&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 21371
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ae\u09c7\u0997\u09bf \u09b8\u09af\u09bc\u09be \u09b8\u09b8 \u09ed\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Maggi Soya Sauce 700 ml",
+        "nameWithoutSubText": "Maggi Soya Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/maggi-soya-sauce-700-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64971&q=low&v=1"
+        ],
+        "price": 220.0,
+        "corpPrice": 220.0,
+        "objectID": 21408
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u098f\u099c\u09bf \u09aa\u09bf\u099c\u09cd\u099c\u09be \u09b8\u09b8 \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995 \u09e9\u09ef\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "AG Pizza Sauce Classic 397 gm",
+        "nameWithoutSubText": "AG Pizza Sauce Classic",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ag-pizza-sauce-classic-397-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73382&q=low&v=1"
+        ],
+        "price": 329.0,
+        "corpPrice": 329.0,
+        "objectID": 23523
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b0\u09bf\u0997\u09bf\u09df\u09be \u09a8\u09c7\u09aa\u09cb\u09b2\u09bf\u099f\u09be\u09a8\u09be \u09b8\u09b8 \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Reggia Napoletana Sauce 350 gm",
+        "nameWithoutSubText": "Reggia Napoletana Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/reggia-napoletana-sauce-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68304&q=low&v=1"
+        ],
+        "price": 235.0,
+        "corpPrice": 235.0,
+        "objectID": 22363
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09a8\u09be\u09a8\u09a6'\u09b8 \u09aa\u09c7\u09b0\u09bf \u09aa\u09c7\u09b0\u09bf \u09b9\u099f \u09b8\u09b8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nando's Peri Peri Hot Sauce 250 gm",
+        "nameWithoutSubText": "Nando's Peri Peri Hot Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nandos-peri-peri-hot-sauce-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39303&q=low&v=1"
+        ],
+        "price": 529.0,
+        "corpPrice": 529.0,
+        "objectID": 11500
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0995\u09bf\u0995\u09cd\u0995\u09cb\u09ae\u09cd\u09af\u09be\u09a8 \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u09b8\u09df\u09be \u09b8\u09b8 \u09ec\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Kikkoman Original Soya Sauce 600 ml",
+        "nameWithoutSubText": "Kikkoman Original Soya Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kikkoman-original-soya-sauce-600-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D26910&q=low&v=1"
+        ],
+        "price": 530.0,
+        "corpPrice": 530.0,
+        "objectID": 2274
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": " \u0986\u09b9\u09ae\u09c7\u09a6 \u09a4\u09c7\u0981\u09a4\u09c1\u09b2 \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Tamarind Sauce 340 gm",
+        "nameWithoutSubText": "Ahmed Tamarind Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-tamarind-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47367&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 16958
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0986\u09b8\u09b2 \u09ac\u09bf\u09ac\u09bf\u0995\u09bf\u0989 \u09b8\u09b8 490 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Discovery Original BBQ Sauce 490 gm",
+        "nameWithoutSubText": "Discovery Original BBQ Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/discovery-original-bbq-sauce-490-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D62873&q=low&v=1"
+        ],
+        "price": 285.0,
+        "corpPrice": 285.0,
+        "objectID": 22043
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u099f\u09ae\u09c7\u099f\u09cb \u0995\u09c7\u099a\u09be\u09aa \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Tomato Ketchup 340 gm",
+        "nameWithoutSubText": "Ahmed Tomato Ketchup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-tomato-ketchup-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47518&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 11805
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ae\u09be\u099c\u09cd\u099c\u09be \u099f\u09ae\u09c7\u099f\u09cb \u09aa\u09bf\u0989\u09b0\u09bf  \u09ed\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mazza Tomato Puree 720 gm",
+        "nameWithoutSubText": "Mazza Tomato Puree",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mazza-tomato-puree-720-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80485&q=best&v=1"
+        ],
+        "price": 240.0,
+        "corpPrice": 240.0,
+        "objectID": 24776
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0989\u0987\u0995\u09ab\u09bf\u09b2\u09cd\u09a1 \u09ae\u09c7\u0999\u09cd\u0997\u09cb \u09ae\u09bf\u09a8\u099f \u09b8\u09b8 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae  ",
+        "longDesc": "Ingredients : Sugar, Water, Raw mangoes(28%), Green Chilli ,Lemon Juice, Sunflower oil, Gingar, Mint (1.7%),Fresh Coriander, Vinegar, Salt,  Cumin powder, Garlic, Fenugreek, Mustard, Preservative: Sodium Benzoate, Stabilizer: Xanthan gum, Colour: Tartrazine & Brilliant Blue.\r\n",
+        "name": "Weikfield Mango Mint Sauce 300 GM",
+        "nameWithoutSubText": "Weikfield Mango Mint Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/weikfield-mango-mint-sauce-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68818&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 22836
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0989\u0987\u0995\u09ab\u09bf\u09b2\u09cd\u09a1 \u0997\u09cd\u09b0\u09c0\u09a8 \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e8\u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Ingredients : Water, Green chillies (42.6%), Gingar, Sugar,  salt, Modified starch,Citric Acid, vinegar, Corn flour, Cumin powder,  Preservative: Sodium benzoate, Colour: Tartrazine & Brilliant Blue.\r\n",
+        "name": "Weikfield Green Chilli Sauce 265 GM",
+        "nameWithoutSubText": "Weikfield Green Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/weikfield-green-chilli-sauce-265-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68817&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 22835
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0989\u0987\u0995\u09ab\u09bf\u09b2\u09cd\u09a1 \u09b0\u09c7\u09a1 \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e8\u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Ingredients : Water, Red Chilli (8.2 %), Sugar, Salt, Garlic, Ginger, Vinegar, Stabilizer: Xanthan Gum, Preservative: Sodium Benzoate\r\n",
+        "name": "Weikfield Red Chilli Sauce 265 GM",
+        "nameWithoutSubText": "Weikfield Red Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/weikfield-red-chilli-sauce-265-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68816&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 22834
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0989\u0987\u0995\u09ab\u09bf\u09b2\u09cd\u09a1 \u0997\u09be\u09b0\u09b2\u09bf\u0995 \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e8\u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Ingredients : Water, Sugar, Garlic (9.4), tomato, onion, salt, red chillies (3.7 %), vinegar, Stabilizer: Xanthan gum, Preservative: Sodium benzoate \r\n",
+        "name": "Weikfield Garlic Chilli Sauce 265 GM",
+        "nameWithoutSubText": "Weikfield Garlic Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/weikfield-garlic-chilli-sauce-265-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68815&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 22833
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b8\u09b8 \u099c\u09be\u09b0 - \u09a8\u09c7\u09aa\u09b2\u09c7\u099f\u09be\u09a8\u09be \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Origin: Italy\r\nBarilla NAPOLETANA sauce combines onion, garlic and Mediterranean herbs with ripe Italian tomatoes. These tasty ingredients are cooked slowly to create a delicious and thick sauce that hugs your favourite Barilla pasta perfectly. \r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Pasta Sauce Jar Napoletana 400 gm",
+        "nameWithoutSubText": "Barilla Pasta Sauce Jar Napoletana",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-napoletana-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71313&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-napoletana-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73890&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-napoletana-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73891&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-napoletana-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73892&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 22720
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b8\u09b8 \u099c\u09be\u09b0 \u0986\u09b0\u09ac\u09ac\u09bf\u099f\u09be \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Italy\r\nBarilla ARRABBIATA combines carefully selected fresh tomatoes, garlic, and parsley with a tantalizing touch of crushed green chili peppers to create authentic Italian meals with a memorable kick. Simply combine with your favourite pasta for a delicious meal. \r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Pasta Sauce Jar Arrabbiata 400 gm",
+        "nameWithoutSubText": "Barilla Pasta Sauce Jar Arrabbiata",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-arrabbiata-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71312&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-arrabbiata-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73884&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-arrabbiata-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73885&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-arrabbiata-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73886&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 22718
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b8\u09b8 \u099c\u09be\u09b0 \u09ac\u09cd\u09af\u09be\u09b8\u09bf\u09b2\u09bf\u0995\u09cb \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Italy\r\nBarilla BASILICO sauce blends fragrant basil with ripe Italian tomatoes and onions. These tasty ingredients are cooked slowly to create a delicious and thick sauce that hugs your favourite Barilla pasta perfectly.\r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Pasta Sauce Jar Basilico 400 gm",
+        "nameWithoutSubText": "Barilla Pasta Sauce Jar Basilico",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-basilico-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71311&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-basilico-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73887&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-basilico-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73888&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-basilico-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73889&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 22717
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b0\u09bf\u0997\u09bf\u09df\u09be \u0985\u09cd\u09af\u09be\u09b0\u09be\u09ac\u09bf\u09df\u09be\u099f\u09be \u09b8\u09b8 \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Reggia Arrabbiata Sauce 350 gm",
+        "nameWithoutSubText": "Reggia Arrabbiata Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/reggia-arrabbiata-sauce-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68305&q=low&v=1"
+        ],
+        "price": 235.0,
+        "corpPrice": 235.0,
+        "objectID": 22362
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0995\u09bf\u0982 \u09ac\u09c7\u09b2 \u09b8\u09c1\u0987\u099f \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Thailand \r\n",
+        "name": "King Bell Sweet Chilli Sauce 350 gm ",
+        "nameWithoutSubText": "King Bell Sweet Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/king-bell-sweet-chilli-sauce-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D62932&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 22055
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0995\u09bf\u0982 \u09ac\u09c7\u09b2 \u099f\u09ae\u09c7\u099f\u09cb \u0995\u09c7\u099a\u09be\u09aa \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Thailand ",
+        "name": "King Bell Tomato Ketchup 300 ml",
+        "nameWithoutSubText": "King Bell Tomato Ketchup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/king-bell-tomato-ketchup-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D62931&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 22054
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b0\u09be\u0997\u09c1 \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995 \u0986\u09b2\u09ab\u09cd\u09b0\u09c7\u09a1\u09cb \u09b8\u09b8 \u09ea\u09eb\u09e9 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ragu Classic Alfredo Sauce 453 gm",
+        "nameWithoutSubText": "Ragu Classic Alfredo Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ragu-classic-alfredo-sauce-453-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52617&q=best&v=1"
+        ],
+        "price": 599.0,
+        "corpPrice": 599.0,
+        "objectID": 20132
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b8\u099c\u09bf\u09ac \u099f\u09ae\u09c7\u099f\u09cb \u0995\u09c7\u099a\u09be\u09aa \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sajeeb Tomato Ketchup 340 gm",
+        "nameWithoutSubText": "Sajeeb Tomato Ketchup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sajeeb-tomato-ketchup-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50515&q=low&v=1"
+        ],
+        "price": 85.0,
+        "corpPrice": 85.0,
+        "objectID": 18659
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b8\u099c\u09bf\u09ac \u09b9\u099f \u099f\u09ae\u09c7\u099f\u09cb \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sajeeb Hot Tomato Sauce 340 gm",
+        "nameWithoutSubText": "Sajeeb Hot Tomato Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sajeeb-hot-tomato-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50514&q=low&v=1"
+        ],
+        "price": 85.0,
+        "corpPrice": 85.0,
+        "objectID": 18658
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b8\u09c7\u099c\u09be\u09a8 \u09b9\u099f \u099f\u09ae\u09c7\u099f\u09cb \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shezan Hot Tomato Sauce 340 gm",
+        "nameWithoutSubText": "Shezan Hot Tomato Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shezan-hot-tomato-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50511&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 18655
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0989\u09ae\u09be\u09ae\u09bf \u099f\u09ae\u09c7\u099f\u09cb \u0995\u09c7\u099a\u09be\u09aa \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Umami Tomato Ketchup 300 ml",
+        "nameWithoutSubText": "Umami Tomato Ketchup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/umami-tomato-ketchup-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50344&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 18562
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Chilli Sauce 340 gm",
+        "nameWithoutSubText": "Pran Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-chilli-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45703&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 16654
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09a8\u09be\u09a8\u09a6'\u09b8 \u09aa\u09c7\u09b0\u09bf \u09aa\u09c7\u09b0\u09bf \u0993\u09df\u09be\u0987\u09b2\u09cd\u09a1 \u09b8\u09b8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nando's Peri Peri Mild Sauce 250 gm",
+        "nameWithoutSubText": "Nando's Peri Peri Mild Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nandos-peri-peri-mild-sauce-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40191&q=low&v=1"
+        ],
+        "price": 479.0,
+        "corpPrice": 479.0,
+        "objectID": 15550
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09a8\u09be\u09a8\u09a6'\u09b8 \u09aa\u09c7\u09b0\u09bf \u09aa\u09c7\u09b0\u09bf \u09b2\u09c7\u09ae\u09a8 \u098f\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b9\u09be\u09b0\u09cd\u09ac \u09b8\u09b8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nando's Peri Peri Lemon & Herb Sauce 250 gm",
+        "nameWithoutSubText": "Nando's Peri Peri Lemon & Herb Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nandos-peri-peri-lemon-herb-sauce-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40126&q=low&v=1"
+        ],
+        "price": 479.0,
+        "corpPrice": 479.0,
+        "objectID": 15536
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09a8\u09be\u09a8\u09a6'\u09b8 \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09be \u09b9\u099f \u09aa\u09c7\u09b0\u09bf \u09aa\u09c7\u09b0\u09bf \u09b8\u09b8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nando's Extra Extra Hot Peri Peri Sauce 250 gm",
+        "nameWithoutSubText": "Nando's Extra Extra Hot Peri Peri Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nandos-extra-extra-hot-peri-peri-sauce-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39558&q=low&v=1"
+        ],
+        "price": 479.0,
+        "corpPrice": 479.0,
+        "objectID": 11499
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09a8\u09be\u09a8\u09a6'\u09b8 \u09aa\u09c7\u09b0\u09bf \u09aa\u09c7\u09b0\u09bf \u0993\u09df\u09be\u0987\u09b2\u09cd\u09a1 \u09b9\u09be\u09b0\u09cd\u09ac \u09b8\u09b8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Nando's Peri Peri Wild Herb Sauce 250 gm",
+        "nameWithoutSubText": "Nando's Peri Peri Wild Herb Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nandos-peri-peri-wild-herb-sauce-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39304&q=low&v=1"
+        ],
+        "price": 449.0,
+        "corpPrice": 449.0,
+        "objectID": 11498
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u0995\u09bf\u0982 \u09ac\u09c7\u09b2 \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "King Bell Chilli Sauce 300 ml",
+        "nameWithoutSubText": "King Bell Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/king-bell-chilli-sauce-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47530&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 10771
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b2\u09be\u0987\u09ab \u09b8\u09df\u09be \u09b8\u09b8 \u09b2\u09be\u0987\u099f \u09ea\u09e7\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Life Soya Sauce Light 410 ml",
+        "nameWithoutSubText": "Life Soya Sauce Light",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/life-soya-sauce-light-410-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D15834&q=low&v=1"
+        ],
+        "price": 265.0,
+        "corpPrice": 265.0,
+        "objectID": 9968
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u099f\u09c7\u0993 \u099f\u09be\u0995 \u09b8\u09c7\u0982 \u09b0\u09c2\u09aa\u099a\u09be\u0981\u09a6\u09be \u09ae\u09be\u099b\u09c7\u09b0 \u09b8\u09b8 \u09ed\u09eb\u09e6 \u09b8\u09bf\u09b8\u09bf",
+        "longDesc": null,
+        "name": "Teo Tak Seng Silver Pomfret Fish Sauce 750 cc",
+        "nameWithoutSubText": "Teo Tak Seng Silver Pomfret Fish Sauce 750 cc",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/teo-tak-seng-silver-pomfret-fish-sauce-750-cc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47552&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 9845
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ab\u09b0\u09cd\u09ae\u09c1\u09b2\u09be \u09e7 \u09b8\u09df\u09be\u09ac\u09bf\u09a8 \u09b8\u09b8 \u09a5\u09be\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09ed\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Formula 1 Soybean Sauce Thailand 700 ml",
+        "nameWithoutSubText": "Formula 1 Soybean Sauce Thailand",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/formula-1-soybean-sauce-thailand-700-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47523&q=low&v=1"
+        ],
+        "price": 330.0,
+        "corpPrice": 330.0,
+        "objectID": 9843
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ae\u09be\u0987\u0995\u09cd\u09b0\u09c1\u09df\u09be \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f\u09be\u09b0 \u09b8\u09b8 \u09ec\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Maekrua Oyster Sauce 600 ml",
+        "nameWithoutSubText": "Maekrua Oyster Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/maekrua-oyster-sauce-600-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47535&q=low&v=1"
+        ],
+        "price": 449.0,
+        "corpPrice": 449.0,
+        "objectID": 9841
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b8\u09c7\u099c\u09be\u09a8 \u099f\u09ae\u09c7\u099f\u09cb \u0995\u09c7\u099a\u09be\u09aa \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Shezan Tomato Ketchup 340 gm",
+        "nameWithoutSubText": "Shezan Tomato Ketchup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shezan-tomato-ketchup-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70162&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 8813
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ac\u09bf\u09a1\u09bf \u0995\u09be\u0981\u099a\u09be \u09ae\u09b0\u09bf\u099a\u09c7\u09b0 \u09b8\u09b8 \u09e9\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BD Green Chilli Sauce 380 gm",
+        "nameWithoutSubText": "BD Green Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bd-green-chilli-sauce-380-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D12702&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 7918
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b2\u09be\u0987\u09ab \u0993\u09b0\u09bf\u09df\u09c7\u09a8\u09cd\u099f\u09be\u09b2 \u09ac\u09be\u09b0\u09ac\u09bf\u0995\u09bf\u0989 \u09b8\u09b8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Life Oriental Barbecue Sauce 250 gm",
+        "nameWithoutSubText": "Life Oriental Barbecue Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/life-oriental-barbecue-sauce-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47532&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 7871
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b2\u09be\u0987\u09ab \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Life Chilli Sauce 340 gm",
+        "nameWithoutSubText": "Life Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/life-chilli-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D5612&q=low&v=1"
+        ],
+        "price": 127.0,
+        "corpPrice": 127.0,
+        "objectID": 5800
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b8\u09be\u0989\u09b0\u09bf \u09b8\u09c1\u0987\u099f \u099a\u09bf\u09b2\u09bf \u09b8\u09b8 \u09e8\u09ef\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Suree Sweet Chilli Sauce 295 ml",
+        "nameWithoutSubText": "Suree Sweet Chilli Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/suree-sweet-chilli-sauce-295-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47551&q=low&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 4210
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b8\u09be\u0989\u09b0\u09bf \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09af\u09bc\u09be\u09ae \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f\u09be\u09b0 \u09b8\u09b8 \u09e8\u09ef\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Suree Premium Oyster Sauce 295 ml",
+        "nameWithoutSubText": "Suree Premium Oyster Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/suree-premium-oyster-sauce-295-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47550&q=low&v=1"
+        ],
+        "price": 415.0,
+        "corpPrice": 415.0,
+        "objectID": 4207
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b0\u09c7\u09ae\u09bf\u098f \u0997\u09be\u09b0\u09cd\u09b2\u09bf\u0995 \u09b8\u09b8 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Remia Garlic Sauce 250 ml",
+        "nameWithoutSubText": "Remia Garlic Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/remia-garlic-sauce-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D3217&q=low&v=1"
+        ],
+        "price": 179.0,
+        "corpPrice": 179.0,
+        "objectID": 4084
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09a4\u09c7\u09a4\u09c1\u09b2 \u09b8\u09b8 \u09e9\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Tamarind Sauce 340 gm",
+        "nameWithoutSubText": "Pran Tamarind Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-tamarind-sauce-340-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D3164&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 3958
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b2\u09be\u0987\u09ab \u099f\u09ae\u09c7\u099f\u09cb \u0995\u09c7\u099a\u09be\u09aa \u09e9\u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Life Tomato Ketchup 330 gm",
+        "nameWithoutSubText": "Life Tomato Ketchup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/life-tomato-ketchup-330-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D26452&q=low&v=1"
+        ],
+        "price": 121.0,
+        "corpPrice": 121.0,
+        "objectID": 3698
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b2\u09be\u0987\u09ab \u09b8\u09df\u09be \u09b8\u09b8 \u09a1\u09be\u09b0\u09cd\u0995 \u09ea\u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Life Soya Sauce Dark 410 ml",
+        "nameWithoutSubText": "Life Soya Sauce Dark",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/life-soya-sauce-dark-410-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D12886&q=low&v=1"
+        ],
+        "price": 313.0,
+        "corpPrice": 313.0,
+        "objectID": 3697
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b2\u09bf\u09df\u09be & \u09aa\u09c7\u09b0\u09cd\u09b0\u09bf\u09a8\u09b8 \u0993\u09b0\u099a\u09c7\u09b8\u09cd\u099f\u098f\u09b0\u09b8\u09bf\u09b0\u09c7 \u09b8\u09b8 \u09e8\u09ef\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Lea & Perrins Worcestershire Sauce 290 ml",
+        "nameWithoutSubText": "Lea & Perrins Worcestershire Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lea-perrins-worcestershire-sauce-290-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47531&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 3692
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u098f\u0987\u099a\u09aa\u09bf \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u09b8\u09cd\u099f\u09c7\u0995 \u09b8\u09b8 \u09e8\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "HP Original Steak Sauce 220 gm",
+        "nameWithoutSubText": "HP Original Steak Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hp-original-steak-sauce-220-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47527&q=low&v=1"
+        ],
+        "price": 210.0,
+        "corpPrice": 210.0,
+        "objectID": 3526
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ac\u09be\u099b\u09c1\u09a8 \u0985\u09df\u09c7\u09b8\u09cd\u099f\u09be\u09b0 \u09b8\u09b8 \u09e9\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf.",
+        "longDesc": null,
+        "name": "Bachun Oyster Sauce 350 ml",
+        "nameWithoutSubText": "Bachun Oyster Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bachun-oyster-sauce-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48199&q=low&v=1"
+        ],
+        "price": 329.0,
+        "corpPrice": 329.0,
+        "objectID": 3225
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09b2\u09be\u0987\u09ab \u0993\u09df\u09c7\u09b8\u09cd\u099f\u09be\u09b0 \u09ab\u09cd\u09b2\u09be\u09ad\u09be\u09b0\u09a1 \u09b8\u09b8 \u09eb\u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Life Oyster Flavoured Sauce 510 gm",
+        "nameWithoutSubText": "Life Oyster Flavoured Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/life-oyster-flavoured-sauce-510-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47533&q=low&v=1"
+        ],
+        "price": 295.0,
+        "corpPrice": 295.0,
+        "objectID": 2286
+    },
+    {
+        "category": {
+            "name": "Sauces",
+            "id": "193",
+            "slug": "sauces"
+        },
+        "bengaliName": "\u09ac\u09bf\u09a1\u09bf \u09a4\u09c7\u09a4\u09c1\u09b2\u09c7\u09b0 \u09b8\u09b8 \u09e9\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BD Tamarind Sauce 380 gm",
+        "nameWithoutSubText": "BD Tamarind Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bd-tamarind-sauce-380-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D635&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 2147
+    }
+]

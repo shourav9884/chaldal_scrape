@@ -1,0 +1,726 @@
+[
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ac\u09c1\u099f\u09c7\u09b0 \u09ac\u09c7\u09b8\u09a8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Booter Beshon (Chick Peas Powder) 500 gm",
+        "nameWithoutSubText": "Booter Beshon (Chick Peas Powder)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/booter-beshon-chick-peas-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48030&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 4389
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ae\u09cd\u09af\u09be\u099a\u09ac\u0995\u09cd\u09b8 \u09e7\u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Match Box 12 pcs",
+        "nameWithoutSubText": "Match Box",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/match-box-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54076&q=best&v=1"
+        ],
+        "price": 24.0,
+        "corpPrice": 24.0,
+        "objectID": 4362
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09b8\u09be\u0997\u09c1\u09a6\u09be\u09a8\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sagudana 200 gm",
+        "nameWithoutSubText": "Sagudana",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sagudana-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47075&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 9323
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09a4\u09c7\u09a4\u09c1\u09b2 \u0996\u09cb\u09b8\u09be \u099b\u09be\u09dc\u09be\u09a8\u09cb \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Sweet and tangy, tamarind is one of the widely used spice found in every South-Asian kitchen. Tamarind fruit contains certain health benefiting essential volatile chemical compounds, minerals, vitamins and dietary fiber. This spice is a good source of minerals like copper, potassium, calcium, iron, selenium, zinc and magnesium. Potassium is an important component of cell and body fluids that helps control heart rate and blood pressure. Iron is essential for red blood cell production and as a co-factor for cytochrome oxidases enzymes. In addition, it is also rich in many vital vitamins, including thiamin (36% of daily required levels), vitamin-A, folic acid, riboflavin, niacin, and vitamin-C. Much of these vitamins plays antioxidant as well as co-factor functions for enzyme metabolism inside the body. Usually it is the juice or paste that is used as a souring agent, particularly Bangladeshi lentil dishes, curries and chutneys, where its flavor is more authentic than vinegar or lemon juice.",
+        "name": "Tamarind peeled (Tetul) 200 gm",
+        "nameWithoutSubText": "Tamarind peeled (Tetul)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tamarind-peeled-tetul-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64745&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 9333
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": " \u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u0995\u09b0\u09cd\u09a8 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Bangla products marketing\r\nWhole corn seeds. Can be cooked with corn soups and other food items.",
+        "name": "BPM Corn 300 gm",
+        "nameWithoutSubText": "BPM Corn",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-corn-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52504&q=best&v=1"
+        ],
+        "price": 48.0,
+        "corpPrice": 48.0,
+        "objectID": 19921
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b8\u09be\u09ac\u09c1\u09a6\u09be\u09a8\u09be \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM Sabudana 250 gm",
+        "nameWithoutSubText": "BPM Sabudana",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-sabudana-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75985&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 24200
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ac\u09cd\u09b0\u09c7\u09a1 \u0995\u09cd\u09b0\u09be\u09ae\u09cd\u09ac\u09b8 \u09b2\u09be\u09b2 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bread Crumbs Red 200 gm",
+        "nameWithoutSubText": "Bread Crumbs Red",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bread-crumbs-red-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47067&q=low&v=1"
+        ],
+        "price": 109.0,
+        "corpPrice": 109.0,
+        "objectID": 9929
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u0986\u0997\u09b0-\u0986\u0997\u09be\u09b0 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Agar Agar Powder 20 gm",
+        "nameWithoutSubText": "Anchor Agar Agar Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-agar-agar-powder-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49873&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 18280
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u0995\u09b0\u09cd\u09a8 \u09ab\u09cd\u09b2\u09be\u0993\u09af\u09bc\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nIt is made from wheat flour, maize starch and vegetable oil (Palm oil). It contains fat, sodium, carbohydrate and protein. Many delicious and healthy foods can be made from this. ",
+        "name": "Anchor Corn Flour 200 gm ",
+        "nameWithoutSubText": "Anchor Corn Flour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-corn-flour-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67388&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 22445
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09b0\u09c7\u09a1 \u0995\u09be\u0989 \u09ac\u09be\u099f\u09be\u09b0 \u0993\u09df\u09c7\u09b2 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Red Cow Butter Oil made from pure cow's milk. It contains energy, protein, carbohydrate  and fat.\r\n \r\nNew Zealand Dairy Product BD Ltd.",
+        "name": "Red Cow Butter Oil 200 gm",
+        "nameWithoutSubText": "Red Cow Butter Oil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/red-cow-butter-oil-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64746&q=low&v=1"
+        ],
+        "price": 260.0,
+        "corpPrice": 260.0,
+        "objectID": 2421
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09b0\u09be\u099c\u09ae\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Kidney   ",
+        "name": "Kidney Bean (Rasma) 500 gm",
+        "nameWithoutSubText": "Kidney Bean (Rasma)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kidney-bean-rasma-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50286&q=low&v=1"
+        ],
+        "price": 109.0,
+        "corpPrice": 109.0,
+        "objectID": 18530
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0982\u0995\u09b0 \u0995\u09b0\u09cd\u09a8 \u09ab\u09cd\u09b2\u09be\u0993\u09df\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Corn Flour 400 gm",
+        "nameWithoutSubText": "Anchor Corn Flour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-corn-flour-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43963&q=low&v=1",
+            "https://chaldn.com/_mpimage/anchor-corn-flour-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43965&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 2135
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995'\u09b8 \u0995\u09b0\u09cd\u09a3  \u09ab\u09cd\u09b2\u09be\u0993\u09df\u09be\u09b0 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u099f\u09bf\u09a8 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Foster Clark's cornflour specially prepared to help you make delicious sweet dishes and various sauces to garnish your savory dishes. To obtain the fine light texture which you desire in your cakes and pastries, replace one-eighth of the flour with Foster Clark's Cornflour. ",
+        "name": "Foster Clark's Corn Flour Powder Tin 400 gm",
+        "nameWithoutSubText": "Foster Clark's Corn Flour Powder Tin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-corn-flour-powder-tin-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47990&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 3448
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ac\u09cd\u09b0\u09c7\u09a1 \u0995\u09cd\u09b0\u09be\u09ae\u09cd\u09ac\u09b8 \u0996\u09cb\u09b2\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bread Crumbs Loose 200 gm",
+        "nameWithoutSubText": "Bread Crumbs Loose",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bread-crumbs-loose-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47985&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 10576
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0986\u0999\u09cd\u0995\u09c7\u09b2 \u09ac\u09be\u09b0\u09cd\u09a8'\u09b8 \u099f\u09c7\u09ae\u09cd\u09aa\u09c1\u09b0\u09be \u09ae\u09df\u09a6\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Uncle Barn's Tempura Flour 500 gm",
+        "nameWithoutSubText": "Uncle Barn's Tempura Flour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/uncle-barns-tempura-flour-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64761&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 4327
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0993\u09df\u09c7\u09b2\u0995\u09be\u09ae \u09a8\u09be\u09b0\u09bf\u0995\u09c7\u09b2 \u09a6\u09c1\u09a7 \u0995\u09cd\u09af\u09be\u09a8 \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Welcome Coconut Milk Can 400 ml",
+        "nameWithoutSubText": "Welcome Coconut Milk Can",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/welcome-coconut-milk-can-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D17377&q=low&v=1"
+        ],
+        "price": 139.0,
+        "corpPrice": 139.0,
+        "objectID": 4422
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0987\u09ae\u09a8 \u0986\u0997\u09be\u09b0 \u0986\u0997\u09be\u09b0 \u09e7\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Emon Agar Agar 15 gm",
+        "nameWithoutSubText": "Emon Agar Agar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/emon-agar-agar-15-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74083&q=low&v=1"
+        ],
+        "price": 115.0,
+        "corpPrice": 115.0,
+        "objectID": 23680
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0987\u09b8\u09cd\u099f \u09ac\u09cb\u09a4\u09b2 \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Yeast Bottle 40 gm",
+        "nameWithoutSubText": "Yeast Bottle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/yeast-bottle-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48013&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 3399
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ac\u09bf\u09ac\u09bf\u0995\u09bf\u0989 \u0995\u09df\u09b2\u09be \u09ac\u09cd\u09af\u09be\u0997 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "BBQ Coal Bag 1 kg",
+        "nameWithoutSubText": "BBQ Coal Bag",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bbq-coal-bag-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47065&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 13450
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0997\u09ae \u09ad\u09be\u0999\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Wheat Broken 500 gm",
+        "nameWithoutSubText": "Wheat Broken",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/wheat-broken-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80141&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 24732
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ae\u09be\u0987 \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u09af\u09b7\u09cd\u099f\u09c0\u09ae\u09a7\u09c1 \u0997\u09c1\u0981\u09dc\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "My Organic Licorice Powder 200 gm",
+        "nameWithoutSubText": "My Organic Licorice Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/my-organic-licorice-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74819&q=low&v=1"
+        ],
+        "price": 230.0,
+        "corpPrice": 230.0,
+        "objectID": 23929
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ae\u09be\u0987 \u0985\u09b0\u0997\u09be\u09a8\u09bf\u0995 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09df\u09be\u09ae \u09a8\u09bf\u09ae \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "My Organic Premium Neem Powder 200 gm",
+        "nameWithoutSubText": "My Organic Premium Neem Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/my-organic-premium-neem-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76959&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 23928
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b8\u09b8 \u099c\u09be\u09b0 - \u09a8\u09c7\u09aa\u09b2\u09c7\u099f\u09be\u09a8\u09be \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Origin: Italy\r\nBarilla NAPOLETANA sauce combines onion, garlic and Mediterranean herbs with ripe Italian tomatoes. These tasty ingredients are cooked slowly to create a delicious and thick sauce that hugs your favourite Barilla pasta perfectly. \r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Pasta Sauce Jar Napoletana 400 gm",
+        "nameWithoutSubText": "Barilla Pasta Sauce Jar Napoletana",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-napoletana-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71313&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-napoletana-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73890&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-napoletana-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73891&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-napoletana-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73892&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 22720
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b8\u09b8 \u099c\u09be\u09b0 \u0986\u09b0\u09ac\u09ac\u09bf\u099f\u09be \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Italy\r\nBarilla ARRABBIATA combines carefully selected fresh tomatoes, garlic, and parsley with a tantalizing touch of crushed green chili peppers to create authentic Italian meals with a memorable kick. Simply combine with your favourite pasta for a delicious meal. \r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Pasta Sauce Jar Arrabbiata 400 gm",
+        "nameWithoutSubText": "Barilla Pasta Sauce Jar Arrabbiata",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-arrabbiata-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71312&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-arrabbiata-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73884&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-arrabbiata-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73885&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-arrabbiata-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73886&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 22718
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ac\u09be\u09b0\u09bf\u09b2\u09cd\u09b2\u09be \u09aa\u09be\u09b8\u09cd\u09a4\u09be \u09b8\u09b8 \u099c\u09be\u09b0 \u09ac\u09cd\u09af\u09be\u09b8\u09bf\u09b2\u09bf\u0995\u09cb \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Italy\r\nBarilla BASILICO sauce blends fragrant basil with ripe Italian tomatoes and onions. These tasty ingredients are cooked slowly to create a delicious and thick sauce that hugs your favourite Barilla pasta perfectly.\r\n\r\n\u2022 TRUSTED: N\u00b01 IN ITALY with over 140 years of craftsmanship, making high quality pasta that COOKS PERFECTLY EVERY TIME.",
+        "name": "Barilla Pasta Sauce Jar Basilico 400 gm",
+        "nameWithoutSubText": "Barilla Pasta Sauce Jar Basilico",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-basilico-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71311&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-basilico-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73887&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-basilico-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73888&q=low&v=1",
+            "https://chaldn.com/_mpimage/barilla-pasta-sauce-jar-basilico-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73889&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 22717
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u099c\u09be\u09af\u09bc\u09ab\u09b2 \u0997\u09c1\u0981\u09a1\u09bc\u09cb \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas food Nutmeg powder 100 gm",
+        "nameWithoutSubText": "Khaas food Nutmeg powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-nutmeg-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67789&q=low&v=1"
+        ],
+        "price": 133.0,
+        "corpPrice": 133.0,
+        "objectID": 22558
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0996\u09be\u09b8\u09bf\u09b0 \u0995\u09be\u09b2\u09be \u09ad\u09c1\u09a8\u09be \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Mutton Kala Bhuna Masala 100 gm",
+        "nameWithoutSubText": "Khaas Food Mutton Kala Bhuna Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-mutton-kala-bhuna-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67770&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 22554
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0995\u09be\u09ac\u09be\u09ac \u099a\u09bf\u09a8\u09bf \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Kabab Chini 100 gm",
+        "nameWithoutSubText": "Khaas Food Kabab Chini",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-kabab-chini-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67760&q=low&v=1"
+        ],
+        "price": 445.0,
+        "corpPrice": 445.0,
+        "objectID": 22551
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0996\u09be\u09b8 \u09ab\u09c1\u09a1 \u0995\u09be\u09b2\u09cb \u09b8\u09b0\u09bf\u09b7\u09be\u09b0 \u0997\u09c1\u0981\u09a1\u09bc\u09cb \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khaas Food Black Mustard Powder 100 gm",
+        "nameWithoutSubText": "Khaas Food Black Mustard Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khaas-food-black-mustard-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68892&q=low&v=1"
+        ],
+        "price": 76.0,
+        "corpPrice": 76.0,
+        "objectID": 22545
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09b8\u09be\u09ab \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u0987\u09b8\u09cd\u099f \u09ea\u09eb\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Saf Instant Yeast 454 gm",
+        "nameWithoutSubText": "Saf Instant Yeast",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saf-instant-yeast-454-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58816&q=low&v=1"
+        ],
+        "price": 279.0,
+        "corpPrice": 279.0,
+        "objectID": 21269
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0996\u09c1\u09b8\u09ac\u09c1 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09af\u09bc\u09be\u09ae \u099c\u09be\u09ab\u09b0\u09be\u09a8 \u09e6.\u09e6\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khusboo Premium Saffron 0.05 gm",
+        "nameWithoutSubText": "Khusboo Premium Saffron",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khusboo-premium-saffron-005-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54516&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 20624
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09ae\u09b8\u09c1\u09b0 \u09a1\u09be\u09b2 \u09ac\u09c7\u09b8\u09a8 500 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM Lentil Flour 500 gm",
+        "nameWithoutSubText": "BPM Lentil Flour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-lentil-flour-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53076&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 19916
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09ae\u09be\u09b6\u0995\u09be\u09b2\u09be\u0987 \u09ac\u09c7\u09b8\u09a8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM Mashkalai Bason 500 gm",
+        "nameWithoutSubText": "BPM Mashkalai Bason",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-mashkalai-bason-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52503&q=best&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 19915
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b6\u09c1\u0995\u09a8\u09be \u09b8\u09bf\u09ae \u09ac\u09bf\u099a\u09bf \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM Dry Seem Bichi 400 gm",
+        "nameWithoutSubText": "BPM Dry Seem Bichi",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-dry-seem-bichi-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53078&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 19914
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b9\u09cb\u09af\u09bc\u09be\u0987\u099f \u09b0\u09be\u099c\u09ae\u09be \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM White Rajma 400 gm",
+        "nameWithoutSubText": "BPM White Rajma",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-white-rajma-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52499&q=best&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 19913
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09b0\u09c7\u09ae\u09bf\u09df\u09be \u09a1\u09bf\u099c\u09a8 \u09ae\u09be\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a1 \u09e9\u09ed\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Remia Dijon Mustard 370 gm",
+        "nameWithoutSubText": "Remia Dijon Mustard",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/remia-dijon-mustard-370-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50277&q=low&v=1"
+        ],
+        "price": 310.0,
+        "corpPrice": 310.0,
+        "objectID": 18526
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09a5\u09be\u0987 \u099a\u09af\u09bc\u09c7\u09b8 \u09b8\u09cd\u09aa\u09cd\u09b0\u09bf\u0982 \u09b0\u09cb\u09b2 \u09a1\u09bf\u09aa\u09bf\u0982 \u09b8\u09b8 \u09e7\u09ef\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Thai Choice Spring Roll Dipping Sauce 190 ml",
+        "nameWithoutSubText": "Thai Choice Spring Roll Dipping Sauce",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/thai-choice-spring-roll-dipping-sauce-190-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47082&q=low&v=1"
+        ],
+        "price": 229.0,
+        "corpPrice": 229.0,
+        "objectID": 12321
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u099c\u09be\u09ab\u09cd\u09b0\u09be\u09a8 \u09e7 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Imported ",
+        "name": "Saffron (Jafran) 1 gm",
+        "nameWithoutSubText": "Saffron (Jafran)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saffron-jafran-1-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18137&q=low&v=1"
+        ],
+        "price": 499.0,
+        "corpPrice": 499.0,
+        "objectID": 10735
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u099f\u09be\u09b8\u09cd\u099f\u09bf \u09ac\u09cd\u09b0\u09c7\u09a1\u0995\u09cd\u09b0\u09be\u09ae\u09cd\u09ac\u09b8 \u09b2\u09be\u09b2 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tastie Breadcrumbs Red 200 gm",
+        "nameWithoutSubText": "Tastie Breadcrumbs Red",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tastie-breadcrumbs-red-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71327&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 10178
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09a8\u09b0 \u0985\u09b2-\u0987\u09a8-\u0993\u09df\u09be\u09a8 \u099a\u09bf\u0995\u09c7\u09a8 \u09b8\u09bf\u099c\u09a8\u09bf\u0982 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09ee\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Knorr All-In-One Chicken Seasoning Powder 800 gm",
+        "nameWithoutSubText": "Knorr All-In-One Chicken Seasoning Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/knorr-all-in-one-chicken-seasoning-powder-800-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48376&q=low&v=1"
+        ],
+        "price": 489.0,
+        "corpPrice": 489.0,
+        "objectID": 9854
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u09ae\u09bf\u0983 \u09b9\u09be\u0982 \u099f\u09c7\u09ae\u09cd\u09aa\u09c1\u09b0\u09be \u09ac\u09be\u099f\u09be\u09b0 \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mr Hung Tempura Batter Mix 500 gm",
+        "nameWithoutSubText": "Mr Hung Tempura Batter Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mr-hung-tempura-batter-mix-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65787&q=low&v=1"
+        ],
+        "price": 189.0,
+        "corpPrice": 189.0,
+        "objectID": 8454
+    },
+    {
+        "category": {
+            "name": "Special Ingredients",
+            "id": "200",
+            "slug": "miscellaneous"
+        },
+        "bengaliName": "\u0986\u0999\u09cd\u0995\u09c7\u09b2 \u09ac\u09be\u09b0\u09cd\u09a8'\u09b8 \u09ac\u09cd\u09b0\u09c7\u09a1\u0995\u09cd\u09b0\u09cd\u09af\u09be\u09ae\u09cd\u09ac\u09b8 \u09b8\u09be\u09a6\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Uncle Barn's Bread Crumbs (White) 200 gm",
+        "nameWithoutSubText": "Uncle Barn's Bread Crumbs (White)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/uncle-barns-bread-crumbs-white-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47940&q=low&v=1"
+        ],
+        "price": 175.0,
+        "corpPrice": 175.0,
+        "objectID": 4325
+    }
+]

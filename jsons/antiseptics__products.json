@@ -1,0 +1,501 @@
+[
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09b9\u09c7\u0995\u09cd\u09b8\u09bf\u09b8\u09b2 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b0\u09ac \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Usage :\r\nHexasol hand rub protect your hand from germ without using water.\r\nSource : ACI Pharmaceuticals Limited\r\nManufacturer : ACI Limited\r\nOrigin Country : Bangladesh",
+        "name": "Hexisol Hand Rub 250 ml",
+        "nameWithoutSubText": "Hexisol Hand Rub",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hexisol-hand-rub-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68364&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 20891
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09b8\u09c7\u09aa\u09a8\u09bf\u09b2 \u099c\u09c0\u09ac\u09be\u09a3\u09c1\u09a8\u09be\u09b6\u0995 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Usage :\r\nSepnil Disinfectant Spray is used to kill the harmful bacteria and viruses from surfaces. \r\nSource : Square Toiletries LTD\r\nManufacturer : Square\r\nOrigin Country : Bangladesh ",
+        "name": "Sepnil Disinfectant Spray 300 ml",
+        "nameWithoutSubText": "Sepnil Disinfectant Spray",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sepnil-disinfectant-spray-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74394&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 21397
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u098f\u09b8\u09bf\u0986\u0987 \u09b8\u09cd\u09af\u09be\u09ad\u09b2\u09a8 \u09a4\u09b0\u09b2 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u09b8\u09c7\u09aa\u09cd\u099f\u09bf\u0995 \u09e7\u09e6\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Savlon Liquid Antiseptic is used in first-aid to clean wounds and prevent infection. It contains two medicine is available called chlorhexidine and cetrimide which are both antiseptics that kill germs. Savlon can be used on minor cuts, abrasion, stings and insect bites. It disinfect, prevents infection and promotes the natural healing process if the skin. It can also be used in the bathing.",
+        "name": "ACI Savlon Liquid Antiseptic 1000 ml",
+        "nameWithoutSubText": "ACI Savlon Liquid Antiseptic",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-savlon-liquid-antiseptic-1000-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73539&q=low&v=1"
+        ],
+        "price": 220.0,
+        "corpPrice": 220.0,
+        "objectID": 2449
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u09b2\u0995\u09cb\u09b9\u09b2 \u09aa\u09cd\u09af\u09be\u09a1 \u09e7\u09e6\u09e6 \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Alcohol Pad 100 pcs",
+        "nameWithoutSubText": "Alcohol Pad",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/alcohol-pad-100-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79812&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 24061
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09a1\u09c7\u099f\u09b2 \u09a1\u09bf\u09b8\u0987\u09a8\u09ab\u09c7\u0995\u099f\u09c7\u09a8\u09cd\u099f \u09b8\u09be\u09b0\u09ab\u09c7\u09b8 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u0986\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u09aa\u09be\u0987\u09a8 \u09e8\u09e8\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Dettol Disinfectant Surface Spray Original Pine 225 ml",
+        "nameWithoutSubText": "Dettol Disinfectant Surface Spray Original Pine",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dettol-disinfectant-surface-spray-original-pine-225-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80322&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-disinfectant-surface-spray-original-pine-225-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74220&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-disinfectant-surface-spray-original-pine-225-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74221&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-disinfectant-surface-spray-original-pine-225-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74222&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-disinfectant-surface-spray-original-pine-225-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74223&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-disinfectant-surface-spray-original-pine-225-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74224&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-disinfectant-surface-spray-original-pine-225-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74225&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 23771
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09b9\u09c7\u0995\u09cd\u09b8\u09bf\u09b8\u09b2 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b0\u09ac \u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Usage :\r\n\r\nHexasol hand rub protect your hand from germ without using water.\r\n\r\nSource : ACI Pharmaceuticals Limited\r\n\r\nManufacturer : ACI Limited\r\n\r\nOrigin Country : Bangladesh",
+        "name": "Hexisol Hand Rub 50 ml",
+        "nameWithoutSubText": "Hexisol Hand Rub",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hexisol-hand-rub-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68528&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 20954
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09b8\u09c7\u09ad\u09b2\u09a8 \u099c\u09c0\u09ac\u09be\u09a3\u09c1\u09a8\u09be\u09b6\u0995 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Uses Savlon Disinfectant Spay:\r\n\r\nSpray on Door knob, on Lift button, on Car handle, on Transport seat, on Helmet, in Toilet areas, in Sick rooms, on Telephone handset, on Non-porous toys.\r\n\r\nBenefits:\r\n\r\n. Kills Flu Virus like- E.Coli, Salmonella, Listeria,  Rotavirus and Rhinovirus.\r\n\r\n\u00b7 Helps protect your family from illness by preventing the spread of harmful bacteria and viruses.\r\n\r\n\u00b7 Deodorizes by killing germs that causes odors.\r\n\r\n\u00b7 Control mold and mildew on mattresses, pillows and shower curtains.\r\n\r\nNote: Do not use on body or air. Only for surface use.",
+        "name": "Savlon Disinfectant Spray 300 ml",
+        "nameWithoutSubText": "Savlon Disinfectant Spray",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savlon-disinfectant-spray-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67819&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 21112
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09b8\u09cd\u09af\u09be\u09ad\u09b2\u09a8 \u09a1\u09bf\u09b8\u0987\u09a8\u09ab\u09c7\u0995\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09e7\u09e8\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Uses Savlon Disinfectant Spay:\r\n\r\nSpray on Door knob, on Lift button, on Car handle, on Transport seat, on Helmet, in Toilet areas, in  Sick rooms, on Telephone handset, on Non-porous toys.\r\n  \r\n\r\nBenefits:\r\n\r\n. Kills Flu Virus like- E.Coli, Salmonella, Listeria,  Rotavirus and Rhinovirus.\r\n\r\n\u00b7 Helps protect your family from illness by preventing the spread of harmful bacteria and viruses.\r\n\r\n\u00b7 Deodorizes by killing germs that causes odors.\r\n\r\n\u00b7 Control mold and mildew on mattresses, pillows and shower curtains.\r\n\r\nNote: Do not use on body or air. Only for surface use. ",
+        "name": "Savlon Disinfectant Spray 125 ml",
+        "nameWithoutSubText": "Savlon Disinfectant Spray",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savlon-disinfectant-spray-125-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67822&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 15254
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09a1. \u09b0\u09be\u099c\u09c7\u09b8 \u09a1\u09bf\u09b8\u0987\u09a8\u09ab\u09c7\u0995\u099f\u09c7\u09a8\u09cd\u099f \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0)) \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Dr. Rhazes Disinfectant Spray (Buy 1 Get 1 Free) 250 ml",
+        "nameWithoutSubText": "Dr. Rhazes Disinfectant Spray (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dr-rhazes-disinfectant-spray-buy-1-get-1-free-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74730&q=low&v=1"
+        ],
+        "price": 300.0,
+        "corpPrice": 300.0,
+        "objectID": 23918
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09a1\u09c7\u099f\u09b2 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u09b8\u09c7\u09aa\u099f\u09bf\u0995 \u099c\u09c0\u09ac\u09be\u09a3\u09c1\u09a8\u09be\u09b6\u0995 \u09a4\u09b0\u09b2 (\u0998\u09a8\u09c0\u09ad\u09c2\u09a4) \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Dettol Antiseptic Liquid provides lab verified protection from 100 illness causing germs. It is highly effective as first aid- used for both Medical & Personal Hygiene. Please follow the instructions on product label properly.  The 500ml bottle of Dettol Antiseptic Liquid is a value pack necessary for House hold hygiene. Recommended by Doctors of Bangladesh Private Medical Practitioners Association (BPMPA).\r\n",
+        "name": "Dettol Antiseptic Disinfectant Liquid (Concentrated) 500 ml",
+        "nameWithoutSubText": "Dettol Antiseptic Disinfectant Liquid (Concentrated)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dettol-antiseptic-disinfectant-liquid-concentrated-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80159&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60215&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60216&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60217&q=low&v=1"
+        ],
+        "price": 165.0,
+        "corpPrice": 165.0,
+        "objectID": 10208
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09a1\u09c7\u099f\u09b2 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u09b8\u09c7\u09aa\u099f\u09bf\u0995 \u099c\u09c0\u09ac\u09be\u09a3\u09c1\u09a8\u09be\u09b6\u0995 \u09a4\u09b0\u09b2 (\u0998\u09a8\u09c0\u09ad\u09c2\u09a4) \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Dettol Antiseptic Liquid provides lab verified protection from 100 illness causing germs. It is highly effective as first aid- used for both Medical & Personal Hygiene. Protects by killing bacteria and viruses. Please follow the instructions on product label properly.  The 100ml bottle of Dettol Antiseptic Liquid is a value pack necessary for House hold hygiene. Recommended by Doctors of Bangladesh Private Medical Practitioners Association (BPMPA).\r\n",
+        "name": "Dettol Antiseptic Disinfectant Liquid (Concentrated) 100 ml",
+        "nameWithoutSubText": "Dettol Antiseptic Disinfectant Liquid (Concentrated)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dettol-antiseptic-disinfectant-liquid-concentrated-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80363&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60211&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60212&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60213&q=low&v=1"
+        ],
+        "price": 52.0,
+        "corpPrice": 52.0,
+        "objectID": 10400
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09a1\u09c7\u099f\u09b2 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u09b8\u09c7\u09aa\u099f\u09bf\u0995 \u099c\u09c0\u09ac\u09be\u09a3\u09c1\u09a8\u09be\u09b6\u0995 \u09a4\u09b0\u09b2 (\u0998\u09a8\u09c0\u09ad\u09c2\u09a4) \u09ed\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Dettol Antiseptic Liquid provides lab verified protection from 100 illness causing germs. It is highly effective as first aid- used for both Medical & Personal Hygiene. Please follow the instructions on product label properly.  The 750ml bottle of Dettol Antiseptic Liquid is a value pack necessary for House hold hygiene. Recommended by Doctors of Bangladesh Private Medical Practitioners Association (BPMPA).\r\n",
+        "name": "Dettol Antiseptic Disinfectant Liquid (Concentrated) 750 ml",
+        "nameWithoutSubText": "Dettol Antiseptic Disinfectant Liquid (Concentrated)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dettol-antiseptic-disinfectant-liquid-concentrated-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80332&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60218&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60219&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60220&q=low&v=1"
+        ],
+        "price": 233.0,
+        "corpPrice": 233.0,
+        "objectID": 2199
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u0985\u0995\u09cd\u09b8\u09bf\u0995\u09cd\u09b2\u09bf\u09a8 \u09a1\u09bf\u09b8\u09bf\u0987\u09a8\u09ab\u09c7\u0995\u099f\u09c7\u09a8\u09cd\u099f \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 (\u09ab\u09cd\u09b0\u09c0 \u09b8\u09cd\u09af\u09be\u09a8\u09bf\u099f\u09be\u0987\u099c\u09be\u09b0) \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh (Raw materials from Malaysia)\r\nManufacturer: AZM chemical Industry Ltd.\r\nOxyclean Disinfectant Spray disinfects areas like the toilet areas, door handles, shower base, under sink etc. It kills 99.99% of bacteria, virus & germs on surface. It\u2019s totally safe for your family and environment.\r\n\r\n\u2022        It has no bleach.\r\n\u2022        It's safe to use where food is preserved.\r\n\u2022        It has no residue.",
+        "name": "Oxyclean Disinfectant Spray (Free Sanitizer) 500 ml",
+        "nameWithoutSubText": "Oxyclean Disinfectant Spray (Free Sanitizer)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/oxyclean-disinfectant-spray-free-sanitizer-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70771&q=low&v=1"
+        ],
+        "price": 230.0,
+        "corpPrice": 230.0,
+        "objectID": 22631
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09a1. \u09b0\u09be\u099c\u09c7\u09b8 \u0986\u09b2\u099f\u09cd\u09b0\u09be \u09aa\u09cd\u09b0\u09cb\u099f\u09c7\u0995\u09cd\u099f \u099c\u09c7\u09b2 (\u09e8 \u0998\u09a8\u09cd\u099f\u09be \u09b8\u09c1\u09b0\u0995\u09cd\u09b7\u09be) \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Dr. Rhazes Ultra Protect Gel (2 Hour Protection) 100 ml",
+        "nameWithoutSubText": "Dr. Rhazes Ultra Protect Gel (2 Hour Protection)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dr-rhazes-ultra-protect-gel-2-hour-protection-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74201&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 23767
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09b8\u09cd\u09af\u09be\u09ad\u09b2\u09a8  \u098f\u09a8\u09cd\u099f\u09bf\u09b8\u09c7\u09aa\u09cd\u099f\u09bf\u0995 \u09eb \u09b2\u09bf\u099f\u09be\u09b0 ",
+        "longDesc": "ACI Savlon",
+        "name": "ACI Savlon Antiseptic 5 ltr",
+        "nameWithoutSubText": "ACI Savlon Antiseptic",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-savlon-antiseptic-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29664&q=low&v=1"
+        ],
+        "price": 712.0,
+        "corpPrice": 712.0,
+        "objectID": 10029
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09a1. \u09b0\u09be\u099c\u09c7\u09b8 \u09b8\u09be\u09b0\u09ab\u09c7\u09b8 \u09a1\u09bf\u099c\u0987\u09a8\u09ab\u09c7\u0995\u099f\u09c7\u09a8\u09cd\u099f  \u09b8\u09bf\u09b2\u09cd\u09a1 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Dr. Rhazes Surface Disinfectant Shield 500 ml",
+        "nameWithoutSubText": "Dr. Rhazes Surface Disinfectant Shield",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dr-rhazes-surface-disinfectant-shield-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74198&q=low&v=1"
+        ],
+        "price": 500.0,
+        "corpPrice": 500.0,
+        "objectID": 23765
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09a1\u09c7\u099f\u09b2 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u09b8\u09c7\u09aa\u099f\u09bf\u0995 \u099c\u09c0\u09ac\u09be\u09a3\u09c1\u09a8\u09be\u09b6\u0995 \u09a4\u09b0\u09b2 (\u0998\u09a8\u09c0\u09ad\u09c2\u09a4) \u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Dettol Antiseptic Liquid provides lab verified protection from 100 illness causing germs. It is highly effective as first aid- used for both Medical & Personal Hygiene. Protects by killing bacteria and viruses. Please follow the instructions on product label properly.  The 50ml bottle of Dettol Antiseptic Liquid is a value pack necessary for House hold hygiene. Recommended by Doctors of Bangladesh Private Medical Practitioners Association (BPMPA).\r\n",
+        "name": "Dettol Antiseptic Disinfectant Liquid (Concentrated) 50 ml",
+        "nameWithoutSubText": "Dettol Antiseptic Disinfectant Liquid (Concentrated)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dettol-antiseptic-disinfectant-liquid-concentrated-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80306&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60208&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60209&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60210&q=low&v=1"
+        ],
+        "price": 38.0,
+        "corpPrice": 38.0,
+        "objectID": 2200
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09b8\u09cd\u09af\u09be\u09ad\u09b2\u09a8 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u09b8\u09c7\u09aa\u09cd\u099f\u09bf\u0995 \u09b2\u09bf\u0995\u09c1\u0987\u09a1 \u09e7\u09e7\u09e8 \u09ae\u09bf\u09b2\u09bf \u09ac\u09cb\u09a4\u09b2",
+        "longDesc": null,
+        "name": "ACI Savlon Antiseptic Liquid Bottle 112 ml",
+        "nameWithoutSubText": "ACI Savlon Antiseptic Liquid Bottle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-savlon-antiseptic-liquid-bottle-112-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D5675&q=low&v=1"
+        ],
+        "price": 44.0,
+        "corpPrice": 44.0,
+        "objectID": 2450
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09a1 \u09b0\u09be\u099c\u09c7\u09b8 \u0986\u09b2\u099f\u09cd\u09b0\u09be \u09aa\u09cd\u09b0\u09cb\u099f\u09c7\u0995\u09cd\u099f \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 (\u09e8 \u0998\u09a8\u09cd\u099f\u09be \u09b8\u09c1\u09b0\u0995\u09cd\u09b7\u09be) \u09e7\u09e7\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Dr Rhazes Ultra Protect Spray (2 Hour Protection) 110 ml",
+        "nameWithoutSubText": "Dr Rhazes Ultra Protect Spray (2 Hour Protection)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dr-rhazes-ultra-protect-spray-2-hour-protection-110-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74203&q=low&v=1"
+        ],
+        "price": 175.0,
+        "corpPrice": 175.0,
+        "objectID": 23768
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09a1\u09c7\u099f\u09b2 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf\u09b8\u09c7\u09aa\u099f\u09bf\u0995 \u099c\u09c0\u09ac\u09be\u09a3\u09c1\u09a8\u09be\u09b6\u0995 \u09a4\u09b0\u09b2 (\u0998\u09a8\u09c0\u09ad\u09c2\u09a4) \u09eb \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Dettol Antiseptic Liquid provides lab verified protection from 100 illness causing germs. It is highly effective as first aid- used for both Medical & Personal Hygiene. Please follow the instructions on product label properly.  The 5 L container of Dettol Antiseptic Liquid is best suited for industrial cleaning, along with providing long term hygiene solution for households. Recommended by Doctors of Bangladesh Private Medical Practitioners Association (BPMPA).\r\n",
+        "name": "Dettol Antiseptic Disinfectant Liquid (Concentrated) 5 ltr",
+        "nameWithoutSubText": "Dettol Antiseptic Disinfectant Liquid (Concentrated)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dettol-antiseptic-disinfectant-liquid-concentrated-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80364&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60221&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60222&q=low&v=1",
+            "https://chaldn.com/_mpimage/dettol-antiseptic-liquid-brown-single-pack-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60223&q=low&v=1"
+        ],
+        "price": 1380.0,
+        "corpPrice": 1380.0,
+        "objectID": 5866
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09b8\u09c7\u09ad\u09b2\u09a8 \u099c\u09c0\u09ac\u09be\u09a3\u09c1\u09a8\u09be\u09b6\u0995 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 (\u09ab\u09cd\u09b0\u09bf \u09aa\u09c7\u09a8 \u09b8\u09c7\u09a8\u09bf\u099f\u09be\u0987\u099c\u09be\u09b0)  \u09e9\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Savlon Disinfectant Spray (Free Pen Hand Sanitizer) 300ml ",
+        "nameWithoutSubText": "Savlon Disinfectant Spray (Free Pen Hand Sanitizer)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savlon-disinfectant-spray-free-pen-hand-sanitizer-300ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78215&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 24421
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09a1. \u09b0\u09be\u099c\u09c7\u09b8 \u099c\u09be\u09b0\u09ae \u0995\u09bf\u09b2 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09ab\u09cb\u09ae \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Dr. Rhazes Germ Kill Spray Foam 250 ml",
+        "nameWithoutSubText": "Dr. Rhazes Germ Kill Spray Foam",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dr-rhazes-germ-kill-spray-foam-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74195&q=low&v=1",
+            "https://chaldn.com/_mpimage/dr-rhazes-germ-kill-spray-foam-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74196&q=low&v=1",
+            "https://chaldn.com/_mpimage/dr-rhazes-germ-kill-spray-foam-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74197&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 23764
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u0986\u09b2\u09ae\u09be\u09b0 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b8\u09cd\u09af\u09be\u09a8\u09bf\u099f\u09be\u0987\u099c\u09be\u09b0 (\u09ab\u09cd\u09b0\u09c0 \u0985\u0995\u09cd\u09b8\u09bf\u0995\u09cd\u09b2\u09bf\u09a8 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7  \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf) \u09ea\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh (Raw materials from Malaysia)\r\nManufacturer: AZM chemical industry Ltd\r\nMoisturizer enriched hand sanitizer. Kills up to 99.9% germs without water.\r\nHalal certified.\r\nKeeps hand soft, smooth and supple. \r\nIngredients: Aqua, alcohol denut, glycerin, propylene glycol, acrylates/ C10-30 alkyl acrylates crosspolymer, triethnolamine. ",
+        "name": "Almer Hand Sanitizer (Free Oxyclean Spray 100 ml) 450 ml",
+        "nameWithoutSubText": "Almer Hand Sanitizer (Free Oxyclean Spray 100 ml)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/almer-hand-sanitizer-free-oxyclean-spray-100-ml-450-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69753&q=low&v=1"
+        ],
+        "price": 680.0,
+        "corpPrice": 680.0,
+        "objectID": 22102
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09b6\u09bf\u09b2\u09cd\u09a1 \u09b2\u09bf\u0995\u09c1\u0987\u09a1 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b0\u09be\u09ac \u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Shield Liquid Hand Rub 50 ml",
+        "nameWithoutSubText": "Shield Liquid Hand Rub",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shield-liquid-hand-rub-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60409&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 21507
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u099c\u09be\u09b0\u09ae\u09bf\u09b8\u09b2 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b0\u09be\u09ac \u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Square pharmaceuticals Ltd.\r\nFor the disinfection of clean and intact skin. For pre-operative surgical hand disinfection, hand disinfection on the ward prior to aseptic procedures or after handling contaminated materials. For disinfection of the patients' skin prior to surgery or other invasive procedures.\r\nIngredients: chlorhexidine gluconate 0.5% w/v, isopropyl alcohol 70%. ",
+        "name": "Germisol Hand Rub 50 ml",
+        "nameWithoutSubText": "Germisol Hand Rub",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/germisol-hand-rub-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68526&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 21157
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u099c\u09be\u09b0\u09ae\u09bf\u09b8\u09b2 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b0\u09be\u09ac \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Square pharmaceuticals Ltd.\r\nFor the disinfection of clean and intact skin. For pre-operative surgical hand disinfection, hand disinfection on the ward prior to aseptic procedures or after handling contaminated materials. For disinfection of the patients' skin prior to surgery or other invasive procedures.\r\nIngredients: chlorhexidine gluconate 0.5% w/v, isopropyl alcohol 70%. ",
+        "name": "Germisol Hand Rub 200 ml",
+        "nameWithoutSubText": "Germisol Hand Rub",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/germisol-hand-rub-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68542&q=low&v=1"
+        ],
+        "price": 131.0,
+        "corpPrice": 131.0,
+        "objectID": 21156
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u09ac\u09cb\u09b0\u09cb\u09b2\u09bf\u09a8 \u0986\u09af\u09bc\u09c1\u09b0\u09cd\u09ac\u09c7\u09a6\u09bf\u0995 \u0995\u09cd\u09b0\u09bf\u09ae \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Boroline Ayurvedic Cream 20 gm ",
+        "nameWithoutSubText": "Boroline Ayurvedic Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/boroline-ayurvedic-cream-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D19673&q=low&v=1"
+        ],
+        "price": 109.0,
+        "corpPrice": 109.0,
+        "objectID": 11207
+    },
+    {
+        "category": {
+            "name": "Antiseptics",
+            "id": "192",
+            "slug": "antiseptics"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09b8\u09cd\u09af\u09be\u09ad\u09b2\u09a8 \u098f\u09a8\u09cd\u099f\u09bf\u09b8\u09c7\u09aa\u09cd\u099f\u09bf\u0995 \u09a4\u09b0\u09b2 \u09eb\u09ec \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "ACI Savlon Antiseptic Liquid 56 ml",
+        "nameWithoutSubText": "ACI Savlon Antiseptic Liquid",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-savlon-antiseptic-liquid-56-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D29663&q=low&v=1"
+        ],
+        "price": 32.0,
+        "corpPrice": 32.0,
+        "objectID": 10720
+    }
+]

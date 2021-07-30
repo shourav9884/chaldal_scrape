@@ -1,0 +1,737 @@
+[
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ab\u09cd\u09b2\u09cd\u09af\u09be\u09ad\u09cb\u09b0\u09a1 \u099a\u0995\u09b2\u09c7\u099f \u09ae\u09bf\u09b2\u09cd\u0995 (\u09aa\u09be\u0989\u099a) \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Pran Flavored Chocolate Milk (Pouch) 200 ml",
+        "nameWithoutSubText": "Pran Flavored Chocolate Milk (Pouch)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-flavored-chocolate-milk-pouch-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46802&q=low&v=1"
+        ],
+        "price": 20.0,
+        "corpPrice": 20.0,
+        "objectID": 13603
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ab\u09cd\u09b2\u09be\u09ad\u09cb\u09b0\u09a1 \u0986\u09ae\u09c7\u09b0 \u09a6\u09c1\u09a7 (\u09aa\u09be\u0989\u099a) \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Pran Flavored Mango Milk (Pouch) 200 ml",
+        "nameWithoutSubText": "Pran Flavored Mango Milk (Pouch)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-flavored-mango-milk-pouch-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70169&q=low&v=1"
+        ],
+        "price": 20.0,
+        "corpPrice": 20.0,
+        "objectID": 13604
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u0995\u09ae\u09aa\u09cd\u09b2\u09be\u09a8 \u099a\u0995\u09b2\u09c7\u099f \u09aa\u09cd\u09af\u09be\u0995 \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Complan Chocolate  is a nourishing drink that can be made up with either milk or water. Sip it warm; enjoy it chilled; add a little to your favourite recipes.",
+        "name": "Complan Chocolate Pack 350 gm",
+        "nameWithoutSubText": "Complan Chocolate Pack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/complan-chocolate-pack-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77567&q=low&v=1"
+        ],
+        "price": 385.0,
+        "corpPrice": 385.0,
+        "objectID": 3339
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09b8\u09c7\u099c\u09be\u09a8 \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u099c\u09c1\u09b8 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Shezan Mango Juice 250 ml",
+        "nameWithoutSubText": "Shezan Mango Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shezan-mango-juice-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45898&q=low&v=1"
+        ],
+        "price": 20.0,
+        "corpPrice": 20.0,
+        "objectID": 2465
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09a8\u09bf\u09a1\u09cb \u09e9+ \u0997\u09cd\u09b0\u09cb\u0987\u0982 \u0986\u09aa \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 (\u09e9-\u09eb \u09ac\u099b\u09b0) \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Important notice: There are no substitutes of or equivalent to breast-milk.\r\n\r\nNIDO\u00ae 3+ is a Growing Up Milk Powder for 3 to 5 years old Growing Up Babies. \r\n\r\nNIDO\u00ae 3+ contains:\r\n - Prebiotics which may help to foster beneficial bacteria (probiotic) in child\u2019s digestive system.\r\n - Immuno-Nutrients that may help to strengthen the Immune system.\r\n - 13 Essential Vitamins that may helps in Growth and Development.\r\n - 9 Minerals that may helps in Growth and Development.\r\n - Protein that may helps in Growth and Development.\r\n - NO ADDED SUGAR.\r\n\r\nStorage instructions: Follow instructions on the pack\r\n\r\nManufactured by Nestl\u00e9 Chile S.A.\r\nMarketed by Nestl\u00e9 Bangladesh Ltd.",
+        "name": "Nestl\u00e9 Nido 3+ Growing Up Milk Powder (3-5 Y) 350 gm",
+        "nameWithoutSubText": "Nestl\u00e9 Nido 3+ Growing Up Milk Powder (3-5 Y)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-nido-3-growing-up-milk-powder-3-5-y-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70703&q=low&v=1",
+            "https://chaldn.com/_mpimage/nestle-nido-growing-up-milk-powder-3-bib-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58521&q=low&v=1",
+            "https://chaldn.com/_mpimage/nestle-nido-growing-up-milk-powder-3-bib-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58522&q=low&v=1",
+            "https://chaldn.com/_mpimage/nestle-nido-growing-up-milk-powder-3-bib-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58523&q=low&v=1"
+        ],
+        "price": 360.0,
+        "corpPrice": 360.0,
+        "objectID": 3847
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099c\u09be\u09b0 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "If you are concerned about your baby\u2019s prosperity, buy horlicks jar from chaldal which contains a wide range of vitamins and minerals essential for enrichment.",
+        "name": "Horlicks Health And Nutrition Drink Jar 500 gm",
+        "nameWithoutSubText": "Horlicks Health And Nutrition Drink Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/horlicks-health-and-nutrition-drink-jar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77681&q=low&v=1"
+        ],
+        "price": 339.0,
+        "corpPrice": 339.0,
+        "objectID": 21720
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u0993\u09ad\u09be\u09b2\u099f\u09bf\u09a8 \u09ae\u09b2\u09cd\u099f\u09c7\u09a1 \u099a\u0995\u09b2\u09c7\u099f \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099c\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Danish distribution network ltd. \r\nMalted barley drink with chocolate.\r\nNutrition: Energy, protein, carbohydrate, dietary fibre, fat, Vitamin A, vitamin B complex, vitamin C, vitamin E, folic acid, choline, biotin, calcium, zinc, phosphorus, magnesium, iron, iodine, potassium, chloride, manganese, sodium, salt. \r\nBasic ingredients: Malt extract(40%) Milk powder (10%), whea extract, cocoa powder(4.6%)",
+        "name": "Ovaltine Malted Chocolate Drink Jar 400 gm",
+        "nameWithoutSubText": "Ovaltine Malted Chocolate Drink Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ovaltine-malted-chocolate-drink-jar-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77573&q=low&v=1"
+        ],
+        "price": 325.0,
+        "corpPrice": 325.0,
+        "objectID": 2355
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099a\u0995\u09b2\u09c7\u099f \u099c\u09be\u09b0 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Filled with a wide range of vitamins and minerals including as Calcium, Iron, Zinc, Phosphorous, Vitamins A, C, E, D, B1, B2, B6, B12 - Horlicks is a nourishing beverage that helps support your child\u2019s growth. Produced from a mix of malted barley, wheat and milk, this unrivaled tasty recipe has been providing nutrition to people for many years. Horlicks helps to make kids Taller, Stronger and Sharper! Now available in delicious Chocolate Flavor!",
+        "name": "Horlicks Health And Nutrition Drink Chocolate Jar 500 gm",
+        "nameWithoutSubText": "Horlicks Health And Nutrition Drink Chocolate Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/horlicks-health-and-nutrition-drink-chocolate-jar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77677&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 21989
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099c\u09be\u09b0 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Filled with a wide range of vitamins and minerals including as Calcium, Iron, Zinc, Phosphorous, Vitamins A, C, E, D, B1, B2, B6, B12 - Horlicks is a nourishing beverage that helps support your child\u2019s growth. Produced from a mix of malted barley, wheat and milk, this unrivaled tasty recipe has been providing nutrition to people for many years. Horlicks helps to make kids Taller, Stronger and Sharper!",
+        "name": "Horlicks Health And Nutrition Drink Jar 250 gm",
+        "nameWithoutSubText": "Horlicks Health And Nutrition Drink Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/horlicks-health-and-nutrition-drink-jar-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77734&q=low&v=1"
+        ],
+        "price": 190.0,
+        "corpPrice": 190.0,
+        "objectID": 21719
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09ae\u09bf\u09b2\u09cb \u0985\u09cd\u09af\u09be\u0995\u09cd\u099f\u09bf\u09ad-\u0997\u09cb \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09aa\u09be\u0989\u099a \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "The World\u2019s no 1 Cocoa Malt Beverage MILO is made with yummy chocolatey flavor that kids love the most. \r\n\r\nA unique blend of malt, milk, and cocoa fortified with vitamins and minerals helps to keep them powered-up throughout the day.  \r\n\r\nNet Weight: 250g \r\n\r\nOrigin: Singapore \r\n\r\nMarketed by Nestl\u00e9 Bangladesh Limited ",
+        "name": "Nestle Milo Activ-Go Powder Drink Pouch 250 gm",
+        "nameWithoutSubText": "Nestle Milo Activ-Go Powder Drink Pouch",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-milo-activ-go-powder-drink-pouch-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77590&q=low&v=1"
+        ],
+        "price": 270.0,
+        "corpPrice": 270.0,
+        "objectID": 21264
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09aa\u09bf\u09a1\u09bf\u09df\u09be\u09b8\u09bf\u0993\u09b0 \u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be \u09a1\u09bf\u09b2\u09be\u0987\u099f \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: India\r\nBuy Pediasure Vanilla delight online and also get it at your doorstep. It is a nutritional supplement that provides complete balanced nutrition for children from age 1 to 10. Net weight 400 gm.\r\n",
+        "name": "PediaSure Vanilla Delight 400 gm",
+        "nameWithoutSubText": "PediaSure Vanilla Delight",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pediasure-vanilla-delight-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77600&q=low&v=1"
+        ],
+        "price": 699.0,
+        "corpPrice": 699.0,
+        "objectID": 2960
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09aa\u09bf\u09a1\u09bf\u09df\u09be\u09b8\u09bf\u0993\u09b0 \u0995\u09ae\u09aa\u09cd\u09b2\u09bf\u099f \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995 \u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be \u09ef\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Singapore\r\nPediasure is scientifically designed to provide complete and balanced nutrition for children between 1-10 years. It can be used as a nutritional supplement with or between mealsor as a sole source of nutrition.",
+        "name": "PediaSure Complete Classic Vanilla 900 gm",
+        "nameWithoutSubText": "PediaSure Complete Classic Vanilla",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pediasure-complete-classic-vanilla-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77602&q=low&v=1"
+        ],
+        "price": 2150.0,
+        "corpPrice": 2150.0,
+        "objectID": 16580
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09ac\u09be\u09df\u09cb\u09ae\u09bf\u09b2 \u09e8 \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 (\u09ec-\u09e7\u09e8 \u09ae\u09be\u09b8) \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Belgium",
+        "name": "Biomil 2 Milk Powder (6-12 months) 350 gm",
+        "nameWithoutSubText": "Biomil 2 Milk Powder (6-12 months)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/biomil-2-milk-powder-6-12-months-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69086&q=low&v=1"
+        ],
+        "price": 460.0,
+        "corpPrice": 460.0,
+        "objectID": 2988
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u099c\u09c1\u09a8\u09bf\u09df\u09b0 \u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09ac\u09bf\u0986\u0987\u09ac\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Junior Horlicks provides nutrition for the junior. It has DHA which, along with other vital nutrients, helps in junior\u2019s brain development and function. With 20 Vital Micronutrients, Junior Horlicks aids in optimal height, weight gain and brain development and function. Give your champ Junior Horlicks today for the \u201cRight Start for Right Growth\u201d.",
+        "name": "Junior Horlicks Health And Nutrition Drink BIB 500 gm",
+        "nameWithoutSubText": "Junior Horlicks Health And Nutrition Drink BIB",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/junior-horlicks-health-and-nutrition-drink-bib-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77690&q=low&v=1"
+        ],
+        "price": 349.0,
+        "corpPrice": 349.0,
+        "objectID": 21732
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09aa\u09bf\u09a1\u09bf\u09df\u09be\u09b6\u09bf\u0993\u09b0 \u09ad\u09c7\u09a8\u09bf\u09b2\u09be \u09a1\u09c7\u09b2\u09be\u0987\u099f \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Origin: India",
+        "name": "PediaSure Vanilla Delight 1 kg",
+        "nameWithoutSubText": "PediaSure Vanilla Delight",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pediasure-vanilla-delight-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69103&q=low&v=1"
+        ],
+        "price": 1716.0,
+        "corpPrice": 1716.0,
+        "objectID": 3003
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": " \u09ac\u09be\u09af\u09bc\u09cb\u09ae\u09bf\u09b2 \u09e9 \u09ab\u09b2\u09cb-\u0986\u09aa \u09ae\u09bf\u09b2\u09cd\u0995 \u09ab\u09b0\u09cd\u09ae\u09c1\u09b2\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 (\u09e7-\u09e8 \u09ac\u099b\u09b0) \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Biomil 3 Follow-Up Milk Formula Powder (1-2 Years) 180 gm",
+        "nameWithoutSubText": "Biomil 3 Follow-Up Milk Formula Powder (1-2 Years)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/biomil-3-follow-up-milk-formula-powder-1-2-years-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69315&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 21898
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u099c\u09c1\u09a8\u09bf\u09df\u09b0 \u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099c\u09be\u09b0 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Junior Horlicks provides nutrition for the junior. It has DHA which, along with other vital nutrients, helps in junior\u2019s brain development and function. With 20 Vital Micronutrients, Junior Horlicks aids in optimal height, weight gain and brain development and function. Give your champ Junior Horlicks today for the \u201cRight Start for Right Growth\u201d.",
+        "name": "Junior Horlicks Health And Nutrition Drink Jar 500 gm",
+        "nameWithoutSubText": "Junior Horlicks Health And Nutrition Drink Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/junior-horlicks-health-and-nutrition-drink-jar-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77691&q=low&v=1"
+        ],
+        "price": 379.0,
+        "corpPrice": 379.0,
+        "objectID": 21728
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u0993\u09ad\u09be\u09b2\u099f\u09bf\u09a8 \u09ae\u09b2\u09cd\u099f\u09c7\u09a1 \u09ae\u09bf\u09b2\u09cd\u0995 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099c\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ovaltine Malted Milk Drink Jar 400 gm",
+        "nameWithoutSubText": "Ovaltine Malted Milk Drink Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ovaltine-malted-milk-drink-jar-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54430&q=low&v=1"
+        ],
+        "price": 325.0,
+        "corpPrice": 325.0,
+        "objectID": 20609
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": " \u09ac\u09be\u09af\u09bc\u09cb\u09ae\u09bf\u09b2 \u09ea \u09ab\u09b2\u09cb-\u0986\u09aa \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 \u099f\u09bf\u09a8 (\u09e8-\u09e9 \u09ac\u099b\u09b0) \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Biomil 4 Follow-Up Milk Powder Tin (2-3 Years) 400 gm",
+        "nameWithoutSubText": "Biomil 4 Follow-Up Milk Powder Tin (2-3 Years)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/biomil-4-follow-up-milk-powder-tin-2-3-years-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61595&q=low&v=1"
+        ],
+        "price": 580.0,
+        "corpPrice": 580.0,
+        "objectID": 21932
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09ae\u09bf\u09b2\u09cb \u098f\u0995\u099f\u09bf\u09ad-\u0997\u09cb \u099a\u0995\u09b2\u09c7\u099f \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u099f\u09bf\u09a8 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "The World\u2019s no 1 Cocoa Malt Beverage MILO is made with yummy chocolatey flavor that kids love the most. \r\n\r\nA unique blend of malt, milk, and cocoa fortified with vitamins and minerals helps to keep them powered-up throughout the day.  \r\n\r\nNet Weight: 400g \r\n\r\nOrigin: Singapore \r\n\r\nMarketed by Nestl\u00e9 Bangladesh Limited ",
+        "name": "Nestle Milo Activ-Go Chocolate Powder Drink Tin 400 gm",
+        "nameWithoutSubText": "Nestle Milo Activ-Go Chocolate Powder Drink Tin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-milo-activ-go-chocolate-powder-drink-tin-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77603&q=low&v=1"
+        ],
+        "price": 430.0,
+        "corpPrice": 430.0,
+        "objectID": 21312
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": " \u09ac\u09be\u09af\u09bc\u09cb\u09ae\u09bf\u09b2 \u09b6\u09bf\u09b6\u09c1 \u09a6\u09c1\u09a7\u09c7\u09b0 \u09b8\u09bf\u09b0\u09bf\u09af\u09bc\u09be\u09b2 \u09e9 \u09ab\u09b2 (\u09ec \u09ae\u09be\u09b8) \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Biomil Infant Milk Cereal 3Fruits (6 Months) 350 gm",
+        "nameWithoutSubText": "Biomil Infant Milk Cereal 3Fruits (6 Months)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/biomil-infant-milk-cereal-3fruits-6-months-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69319&q=low&v=1"
+        ],
+        "price": 300.0,
+        "corpPrice": 300.0,
+        "objectID": 21934
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09ac\u09be\u09af\u09bc\u09cb\u09ae\u09bf\u09b2 \u09b6\u09bf\u09b6\u09c1 \u09a6\u09c1\u09a7\u09c7\u09b0 \u09b8\u09bf\u09b0\u09bf\u09af\u09bc\u09be\u09b2 \u09e9\u09ab\u09b2 (\u09ec \u09ae\u09be\u09b8) \u09e7\u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Biomil Infant Milk Cereal 3Fruits (6 Months) 175 gm",
+        "nameWithoutSubText": "Biomil Infant Milk Cereal 3Fruits (6 Months)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/biomil-infant-milk-cereal-3fruits-6-months-175-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69320&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 21933
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": " \u09ac\u09be\u09af\u09bc\u09cb\u09ae\u09bf\u09b2 \u09ea \u09ab\u09b2\u09cb-\u0986\u09aa \u09ae\u09bf\u09b2\u09cd\u0995 \u09ab\u09b0\u09cd\u09ae\u09c1\u09b2\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 (\u09e8-\u09e9 \u09ac\u099b\u09b0) \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Biomil 4 Follow-Up Milk Formula Powder (2-3 Years) 180 gm",
+        "nameWithoutSubText": "Biomil 4 Follow-Up Milk Formula Powder (2-3 Years)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/biomil-4-follow-up-milk-formula-powder-2-3-years-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69317&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 21901
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": " \u09ac\u09be\u09af\u09bc\u09cb\u09ae\u09bf\u09b2 \u09e8 \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 (\u09ec-\u09e7\u09e8 \u09ae\u09be\u09b8) \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Biomil 2 Milk Powder (6-12 Months) 180 gm",
+        "nameWithoutSubText": "Biomil 2 Milk Powder (6-12 Months)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/biomil-2-milk-powder-6-12-months-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69316&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 21896
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09ac\u09be\u09af\u09bc\u09cb\u09ae\u09bf\u09b2 \u09e7 \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 (\u09e6-\u09ec \u09ae\u09be\u09b8) \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Biomil 1 Milk Powder (0-6 Months) 180 gm",
+        "nameWithoutSubText": "Biomil 1 Milk Powder (0-6 Months)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/biomil-1-milk-powder-0-6-months-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68918&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 21895
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09ac\u09be\u09af\u09bc\u09cb\u09ae\u09bf\u09b2 4 \u09ab\u09b2\u09cb-\u0986\u09aa \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 \u09aa\u09cd\u09af\u09be\u0995 (\u09e8-\u09e9 \u09ac\u099b\u09b0) \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Biomil 4 Follow-Up Milk Powder Pack (2-3 Years) 350 gm",
+        "nameWithoutSubText": "Biomil 4 Follow-Up Milk Powder Pack (2-3 Years)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/biomil-4-follow-up-milk-powder-pack-2-3-years-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68927&q=low&v=1"
+        ],
+        "price": 470.0,
+        "corpPrice": 470.0,
+        "objectID": 21894
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": " \u09ab\u09be\u09b8\u0995\u09be \u09ac\u09be\u09af\u09bc\u09cb\u09ae\u09bf\u09b2 \u09b8\u09af\u09bc\u09be \u09a6\u09c1\u09a7 \u09ab\u09cd\u09b0\u09bf \u09a1\u09be\u09af\u09bc\u09c7\u099f \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Fasska Biomil Soy Milk Free Diet BIB 400 gm",
+        "nameWithoutSubText": "Fasska Biomil Soy Milk Free Diet BIB",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fasska-biomil-soy-milk-free-diet-bib-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69314&q=low&v=1"
+        ],
+        "price": 550.0,
+        "corpPrice": 550.0,
+        "objectID": 21893
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u098f\u09b2\u09a1\u09cb\u09ae\u09bf\u09b2\u09cd\u0995 \u09e8+ \u0997\u09cd\u09b0\u09cb\u0987\u0982 \u0986\u09aa \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 \u099c\u09be\u09b0 (\u09e8-\u09e9 \u09ac\u099b\u09b0) \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Product of Netherlands\r\nImportant Notice: There is no substitutes of or equivalent to breast-milk. \r\nGrowing Up Milk Powder for 2-3 years children. \r\n-Prebiotic: Helps in enhancing appetite by stimulating the growth of beneficial bacteria in the gut.\r\n",
+        "name": "Eldomilk2 + Growing Up Milk Powder Jar (2 - 3 Years) 350 gm",
+        "nameWithoutSubText": "Eldomilk2 + Growing Up Milk Powder Jar (2 - 3 Years)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/eldomilk2-growing-up-milk-powder-jar-2-3-years-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68928&q=low&v=1"
+        ],
+        "price": 390.0,
+        "corpPrice": 390.0,
+        "objectID": 21580
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u098f\u09b2\u09a1\u09cb\u09ae\u09bf\u09b2\u09cd\u0995 \u09e7+ \u0997\u09cd\u09b0\u09cb\u0987\u0982 \u0986\u09aa \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 \u099c\u09be\u09b0 (\u09e7-\u09e8 \u09ac\u099b\u09b0) \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Product From Europe\r\nimportant Notice: There is no substitutes of or equivalent to breast-milk. \r\nFollow Up formula for growing children of 1-2 years. \r\n-Immunonutrients: Iron, Iodine, Zinc, Selenium, Vit.C helps to keep the baby healthy & strong.\r\n",
+        "name": "Eldomilk1 + Growing Up Milk Powder Jar (1 - 2 Years) 350 gm",
+        "nameWithoutSubText": "Eldomilk1 + Growing Up Milk Powder Jar (1 - 2 Years)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/eldomilk1-growing-up-milk-powder-jar-1-2-years-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69318&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 21579
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u0993\u09ad\u09be\u09b2\u099f\u09be\u0987\u09a8 \u09aa\u09be\u0993\u09af\u09bc\u09be\u09b0 \u09e7\u09e6 \u099a\u0995\u09cb\u09b2\u09c7\u099f \u09a1\u09cd\u09b0\u09bf\u0999\u09cd\u0995 \u099c\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ovaltine Power 10 Chocolate Drink Jar 400 gm",
+        "nameWithoutSubText": "Ovaltine Power 10 Chocolate Drink Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ovaltine-power-10-chocolate-drink-jar-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46823&q=low&v=1"
+        ],
+        "price": 559.0,
+        "corpPrice": 559.0,
+        "objectID": 16846
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09aa\u09bf\u09a1\u09bf\u09df\u09be\u09b8\u09bf\u0993\u09b0 \u0995\u09ae\u09aa\u09cd\u09b2\u09bf\u099f \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995 \u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Singapore\r\nPediasure is scientifically designed to provide complete and balanced nutrition for children between 1-10 years. It can be used as a nutritional supplement with or between mealsor as a sole source of nutrition.",
+        "name": "PediaSure Complete Classic Vanilla 400 gm",
+        "nameWithoutSubText": "PediaSure Complete Classic Vanilla",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pediasure-complete-classic-vanilla-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69334&q=low&v=1"
+        ],
+        "price": 1021.0,
+        "corpPrice": 1021.0,
+        "objectID": 16579
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09ac\u09be\u09af\u09bc\u09cb\u09ae\u09bf\u09b2  \u098f\u0986\u09b0 (\u09b6\u09bf\u09b6\u09c1) \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Belgium",
+        "name": "Biomil  AR (Infants) 400 gm",
+        "nameWithoutSubText": "Biomil  AR (Infants)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/biomil-ar-infants-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69321&q=best&v=1"
+        ],
+        "price": 600.0,
+        "corpPrice": 600.0,
+        "objectID": 16334
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u0997\u09cd\u09b0\u09cb\u09a5 \u09aa\u09cd\u09b2\u09be\u09b8 \u09b9\u09c7\u09b2\u09a5 \u098f\u09a8\u09cd\u09a1 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b6\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be \u099c\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Horlicks Growth Plus is clinically proven to increase growth in children in 6 months. It is specially formulated with high quality whey protein to help children who had fallen behind the average height and weight for their age. Enjoyed twice daily mixed with hot or cold water or milk, it contains high quality whey protein to improve weight gain, and essential amino acids to naturally activate growth for strong, healthy children. It is designed to naturally enhance growth without causing obesity in children. It also contains important nutrients.",
+        "name": "Horlicks Growth Plus Health And Nutrition Drink Vanilla Jar 400 gm",
+        "nameWithoutSubText": "Horlicks Growth Plus Health And Nutrition Drink Vanilla Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/horlicks-growth-plus-health-and-nutrition-drink-vanilla-jar-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70064&q=low&v=1",
+            "https://chaldn.com/_mpimage/horlicks-growth-plus-vanilla-jar-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34542&q=best&v=1"
+        ],
+        "price": 799.0,
+        "corpPrice": 799.0,
+        "objectID": 14262
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u098f\u09b2\u09a1\u09cb\u09ae\u09bf\u09b2\u09cd\u0995 \u09e8+ \u0997\u09cd\u09b0\u09cb\u0987\u0982 \u0986\u09aa \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 (\u09e8-\u09e9 \u09ac\u099b\u09b0) \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Product of Netherlands\r\nImportant Notice: There is no substitutes of or equivalent to breast-milk. \r\nGrowing Up Milk Powder for 2-3 years children. \r\n-Prebiotic: Helps in enhancing appetite by stimulating the growth of beneficial bacteria in the gut.",
+        "name": "Eldomilk 2+ Growing Up Milk Powder (2-3 Y) 350 gm",
+        "nameWithoutSubText": "Eldomilk 2+ Growing Up Milk Powder (2-3 Y)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/eldomilk-2-growing-up-milk-powder-2-3-y-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69322&q=low&v=1"
+        ],
+        "price": 360.0,
+        "corpPrice": 360.0,
+        "objectID": 12189
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09aa\u09bf\u09a1\u09bf\u09df\u09be\u09b6\u09bf\u0993\u09b0 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09df\u09be\u09ae \u099a\u0995\u09b2\u09c7\u099f \u099c\u09be\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: India",
+        "name": "PediaSure Premium Chocolate Jar 400 gm",
+        "nameWithoutSubText": "PediaSure Premium Chocolate Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pediasure-premium-chocolate-jar-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69166&q=low&v=1"
+        ],
+        "price": 729.0,
+        "corpPrice": 729.0,
+        "objectID": 10603
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09ab\u09be\u09b8\u09cd\u0995\u09be \u09ac\u09be\u09df\u09cb\u09ae\u09bf\u09b2 \u09b8\u09df\u09ae\u09bf\u09b2\u09cd\u0995 \u09ab\u09cd\u09b0\u09bf \u09a1\u09be\u09df\u09c7\u099f \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Belgium\r\nBIOMIL\u00ae SOY is complete nutrition for infants, and has been developed from a base of soy protein isolate. BIOMIL\u00ae SOY is recommended in the event of cows\u2019 milk protein allergies or lactose intolerance.\r\n\r\nBIOMIL\u00ae SOY is the nutrition of choice as a supplement to or replacement for breast milk should this be lacking.\r\n\r\nBIOMIL\u00ae SOY is a preparation based on enriched isolated soy protein so as to be perfectly suitable for the infant\u2019s nutrition. BIOMIL\u00ae SOY contains vegetable oils and maltodextrins. BIOMIL\u00ae SOY is rich in L-methionine, taurine, choline and inositol. Il contains supplements of calcium, zinc, copper, iron and vitamins.\r\n\r\nBIOMIL\u00ae SOY meets the nutritional needs of infants of up to one year of age, as well as those of growing children and adults requiring nutrition that does not contain any cows\u2019 milk or dairy products.\r\n\r\nBIOMIL\u00ae SOY does not contain any lactose, gluten, peanuts, saccharose or fructose.\r\n\r\nThe energy density of BIOMIL\u00ae SOY is based on that of breast milk. 100 ml of BIOMIL\u00ae SOY reconstituted at 13.5% provides 67.5 kcal. The energy content of breast milk varies between 65 and 70 kcal per 100 ml.\r\n\r\nThe split of energy between proteins, lipids and carbohydrates has been developed so as to obtain high digestive tolerance.\r\n\r\nBIOMIL\u00ae SOY complies with the standards of the Codex Alimentarius and the recommendations of the European Union.\r\n\r\n",
+        "name": "Fasska Biomil Soy Milk Free Diet 400 gm",
+        "nameWithoutSubText": "Fasska Biomil Soy Milk Free Diet",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fasska-biomil-soy-milk-free-diet-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69336&q=best&v=1"
+        ],
+        "price": 660.0,
+        "corpPrice": 660.0,
+        "objectID": 3434
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u098f\u09b2\u09a1\u09cb\u09ae\u09bf\u09b2\u09cd\u0995 \u09e7+ \u0997\u09cd\u09b0\u09cb\u0987\u0982 \u0986\u09aa \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 (\u09e7-\u09e8 \u09ac\u099b\u09b0) \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Product From Europe\r\nimportant Notice: There is no substitutes of or equivalent to breast-milk. \r\nFollow Up formula for growing children of 1-2 years. \r\n-Immunonutrients: Iron, Iodine, Zinc, Selenium, Vit.C helps to keep the baby healthy & strong.",
+        "name": "Eldomilk 1+ Growing Up Milk Powder (1- 2 Y) 350 gm",
+        "nameWithoutSubText": "Eldomilk 1+ Growing Up Milk Powder (1- 2 Y)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/eldomilk-1-growing-up-milk-powder-1-2-y-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69337&q=best&v=1"
+        ],
+        "price": 370.0,
+        "corpPrice": 370.0,
+        "objectID": 3414
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u0995\u09ae\u09aa\u09cd\u09b2\u09be\u09a8 \u0995\u09cd\u09b0\u09bf\u09ae\u09bf \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995 \u09aa\u09cd\u09b2\u09c7\u0987\u09a8 \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Complan Plan has 2X milk protein which helps in children's growth, development and maintenance body. Complan provide all 9 essential Amino Acids which are indispensable Amino Acids and essential part of dietary protein requirement of human body. Protein helps in repair and replacement of body issues and muscle formation.",
+        "name": "Complan Creamy Classic Plain 350 gm",
+        "nameWithoutSubText": "Complan Creamy Classic Plain",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/complan-creamy-classic-plain-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69993&q=low&v=1"
+        ],
+        "price": 360.0,
+        "corpPrice": 360.0,
+        "objectID": 3343
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u0995\u09ae\u09aa\u09cd\u09b2\u09be\u09a8 \u099a\u0995\u09b2\u09c7\u099f \u099c\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Complan Chocolate  is a nourishing drink that can be made up with either milk or water. Sip it warm; enjoy it chilled; add a little to your favourite recipes.",
+        "name": "Complan Chocolate Jar 200 gm",
+        "nameWithoutSubText": "Complan Chocolate Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/complan-chocolate-jar-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50483&q=best&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 3337
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09ac\u09be\u09df\u09cb\u09ae\u09bf\u09b2 \u09e8 \u09ab\u09b2\u09cb-\u0986\u09aa  \u09a6\u09c1\u09a7 \u09ab\u09b0\u09cd\u09ae\u09c1\u09b2\u09be  (\u09ec-\u09e7\u09e8 \u09ae\u09be\u09b8) \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Belgium\r\nBIOMIL\u00ae 2 is a follow-up milk for infants of 6 months and over.\r\n\r\nBIOMIL\u00ae 2 is a preparation, in the form of a powder, based on modified cows\u2019 milk taking into account the nutritional needs of the child. Prepared in the strictest of hygiene conditions, the formula contains partially skimmed cows\u2019 milk, vegetable fats and maltodextrin, to which a perfectly balanced set of vitamins and minerals has been added.\r\n\r\nBIOMIL\u00ae 2 may be used as a supplement to or replacement for breast milk should this be lacking or insufficient. As follow-up milk is intended \u201cfor infants of 5 months and over\u201d and constitutes \u201cthe principal liquid element of a progressively diversified diet\u201d (Commission of the European Communities, 1991), it must supply the elements that weaning food does not provide in sufficient quantities, i.e., proteins, calcium, iron, essential fatty acids, etc.\r\n\r\nBIOMIL\u00ae 2complies with the standards of the Codex Alimentarius, the recommendations of the European Communities and those of the European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN).\r\n\r\n",
+        "name": "Biomil 2 Follow-Up Milk Formula (6-12 M) 400 gm",
+        "nameWithoutSubText": "Biomil 2 Follow-Up Milk Formula (6-12 M)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/biomil-2-follow-up-milk-formula-6-12-m-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69083&q=low&v=1"
+        ],
+        "price": 580.0,
+        "corpPrice": 580.0,
+        "objectID": 3311
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09ac\u09be\u09df\u09cb\u09ae\u09bf\u09b2 \u09e9 \u09ab\u09b2\u09cb \u0986\u09aa \u09ab\u09b0\u09cd\u09ae\u09c1\u09b2\u09be \u0997\u09c1\u0981\u09a1\u09bc\u09be \u09a6\u09c1\u09a7 (\u09e7-\u09e8 \u09ac\u099b\u09b0) \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Belgium",
+        "name": "Biomil 3 Follow Up Formula Milk Powder (1-2 Y) 350 gm",
+        "nameWithoutSubText": "Biomil 3 Follow Up Formula Milk Powder (1-2 Y)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/biomil-3-follow-up-formula-milk-powder-1-2-y-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69085&q=low&v=1"
+        ],
+        "price": 470.0,
+        "corpPrice": 470.0,
+        "objectID": 2989
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09a8\u09bf\u09a1\u09cb \u0997\u09cd\u09b0\u09cb\u0987\u0982 \u0986\u09aa \u09e7+ \u099f\u09bf\u09a8 \u09ef\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Dubai",
+        "name": "Nestle Nido Growing Up 1+ Tin 900 gm",
+        "nameWithoutSubText": "Nestle Nido Growing Up 1+ Tin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-nido-growing-up-1-tin-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69338&q=low&v=1"
+        ],
+        "price": 3129.0,
+        "corpPrice": 3129.0,
+        "objectID": 2961
+    },
+    {
+        "category": {
+            "name": "Milk, Juice & Drinks",
+            "id": "221",
+            "slug": "milk-juice-drinks"
+        },
+        "bengaliName": "\u09ac\u09be\u09df\u09cb\u09ae\u09bf\u09b2 \u09e7 \u0997\u09c1\u0981\u09dc\u09be \u09a6\u09c1\u09a7 (\u09e6-\u09ec \u09ae\u09be\u09b8) \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Belgium\r\nBreast milk is the nutrition that is best suited to infants.\r\nBIOMIL\u00ae 1 may be used as a supplement to or replacement for breast milk should this be lacking or insufficient.\r\n\r\nBIOMIL\u00ae 1 is a preparation based on modified cows\u2019 milk so as to ensure it is precisely adapted to the nutritional needs of infants.\r\n\r\nBIOMIL\u00ae 1 contains partially skimmed cows\u2019 milk, demineralised whey, vegetable oils, lactose and supplements of calcium, zinc and copper, iron salts and 14 vitamins.\r\n\r\nBIOMIL\u00ae 1 is a milk formula that is especially well tolerated by infants aged between 0 and 6 months. It may be used as a replacement for breast milk should this not be available, or as weaning food if the quantity of breast milk no longer meets the infant\u2019s needs.\r\n\r\nBIOMIL\u00ae 1 complies with the standards of the Codex Alimentarius and with the recommendations of the European Union, as well as with those of the European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN).\r\n\r\n",
+        "name": "Biomil 1 Milk Powder (0-6 months) 350 gm",
+        "nameWithoutSubText": "Biomil 1 Milk Powder (0-6 months)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/biomil-1-milk-powder-0-6-months-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69339&q=low&v=1"
+        ],
+        "price": 470.0,
+        "corpPrice": 470.0,
+        "objectID": 2152
+    }
+]

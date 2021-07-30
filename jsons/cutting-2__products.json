@@ -1,0 +1,87 @@
+[
+    {
+        "category": {
+            "name": "Cutting",
+            "id": "204",
+            "slug": "cutting-2"
+        },
+        "bengaliName": "\u09a1\u09c7\u09b2\u09bf \u0995\u09be\u0981\u099a\u09bf \u09ee \u0987\u099e\u09cd\u099a\u09bf \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Deli Scissor 8 inch (6014) 1 pcs",
+        "nameWithoutSubText": "Deli Scissor 8 inch (6014)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deli-scissor-8-inch-6014-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65511&q=low&v=1"
+        ],
+        "price": 115.0,
+        "corpPrice": 115.0,
+        "objectID": 2673
+    },
+    {
+        "category": {
+            "name": "Cutting",
+            "id": "204",
+            "slug": "cutting-2"
+        },
+        "bengaliName": "\u09a1\u09c7\u09b2\u09bf \u0995\u09be\u0981\u099a\u09bf \u09ee \u09e7/\u09ea \u0987\u099e\u09cd\u099a\u09bf \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Deli Scissor 8 1/4 inch (6010) 1 pcs",
+        "nameWithoutSubText": "Deli Scissor 8 1/4 inch (6010)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deli-scissor-8-14-inch-6010-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45411&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 16612
+    },
+    {
+        "category": {
+            "name": "Cutting",
+            "id": "204",
+            "slug": "cutting-2"
+        },
+        "bengaliName": "\u09a1\u09c7\u09b2\u09bf \u099b\u09cb\u099f \u099b\u09c1\u09b0\u09bf \u09ac\u09dc \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Deli Cutting Knife Big (2041) 1 pcs",
+        "nameWithoutSubText": "Deli Cutting Knife Big (2041)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deli-cutting-knife-big-2041-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45442&q=low&v=1"
+        ],
+        "price": 105.0,
+        "corpPrice": 105.0,
+        "objectID": 16610
+    },
+    {
+        "category": {
+            "name": "Cutting",
+            "id": "204",
+            "slug": "cutting-2"
+        },
+        "bengaliName": "\u09a1\u09c7\u09b2\u09bf \u099b\u09cb\u099f \u099b\u09c1\u09b0\u09bf \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Deli Cutting Knife (2056) 1 pcs",
+        "nameWithoutSubText": "Deli Cutting Knife (2056)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deli-cutting-knife-2056-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45430&q=low&v=1"
+        ],
+        "price": 115.0,
+        "corpPrice": 115.0,
+        "objectID": 16609
+    },
+    {
+        "category": {
+            "name": "Cutting",
+            "id": "204",
+            "slug": "cutting-2"
+        },
+        "bengaliName": "\u09a1\u09c7\u09b2\u09bf \u0996\u09be\u09ac\u09be\u09b0 \u0995\u09be\u099f\u09be\u09b0 \u099b\u09c1\u09b0\u09bf\u09b0 \u09ac\u09cd\u09b2\u09c7\u09a1 \u099b\u09cb\u099f \u09e7 \u09aa\u09cd\u09af\u09be\u0995 (\u09e7\u09e6 \u099f\u09bf)",
+        "longDesc": null,
+        "name": "Deli Cutter Knife Blade Small 1 Pack (10 pcs)",
+        "nameWithoutSubText": "Deli Cutter Knife Blade Small 1 Pack (10 pcs)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deli-cutter-knife-blade-small-1-pack-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44181&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 2671
+    }
+]

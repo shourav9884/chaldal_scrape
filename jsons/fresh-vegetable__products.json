@@ -1,0 +1,1293 @@
+[
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b2\u09be\u09b2 \u099f\u09ae\u09c7\u099f\u09cb \u00b1 \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "The tomato is consumed in diverse ways, including raw, as an ingredient in many dishes, sauces, salads, and drinks. While it is botanically a fruit, it is considered a vegetable for culinary purposes. The fruit is rich in lycopene, which may have beneficial health effects. ",
+        "name": "Red Tomato \u00b1 20 gm 500 gm",
+        "nameWithoutSubText": "Red Tomato \u00b1 20 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/red-tomato-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64361&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 6302
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0995\u09be\u0981\u099a\u09be \u09ae\u09b0\u09bf\u099a \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "The heat of chilies is stored mostly in the seeds and membranes, so remove these to remove the heat.Chilies matches well with bananas, beans, chutneys, corn, fruit, ketchup, pineapple and rice. These smaller the chilies are slightly milder.",
+        "name": "Kacha Morich (Green Chilli) 250 gm",
+        "nameWithoutSubText": "Kacha Morich (Green Chilli)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kacha-morich-green-chilli-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28576&q=low&v=1",
+            "https://chaldn.com/_mpimage/green-chili-kacha-morich-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22297&q=low&v=1"
+        ],
+        "price": 19.0,
+        "corpPrice": 19.0,
+        "objectID": 5592
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09a7\u09a8\u09c7 \u09aa\u09be\u09a4\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Locally sourced. With its sweet, bright aroma, fresh coriander is used a lot in cooking. Also known as Chinese parsley use it raw or cooked in curries, soups and salads. Its assertive taste stands up well to mild-flavored foods. Goes well with all kinds of meat and fish.",
+        "name": "Dhoniya Pata (Coriander Leaves) 100 gm",
+        "nameWithoutSubText": "Dhoniya Pata (Coriander Leaves)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dhoniya-pata-coriander-leaves-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28562&q=low&v=1",
+            "https://chaldn.com/_mpimage/coriander-leaves-dhoniya-pata-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22300&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 8323
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09a6\u09c7\u09b6\u09c0 \u09b6\u09b6\u09be \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Locally sourced.Few foods are as cool as a cucumber.While most people think of cucumbers as vegetables, they are actually a fruit.Cucumbers are naturally low in calories, carbohydrates, sodium, fat and cholesterol & hydrating properties.",
+        "name": "Deshi Shosha (Local Cucumber) \u00b1 20 gm 500 gm",
+        "nameWithoutSubText": "Deshi Shosha (Local Cucumber) \u00b1 20 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deshi-shosha-local-cucumber-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64359&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 8223
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ad\u09c7\u09a8\u09cd\u09a1\u09bf \u09a2\u09c7\u0981\u09dc\u09b8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Stewed okra is great, but for a little variety, we like to roast ours from time to time. This is so simple and easy and the okra tends to not be nearly as gummy or slimy when roasted. Chopped tomato, onion and some spices makes for great additions too.",
+        "name": "Dheros (Ladies Finger) 500 gm",
+        "nameWithoutSubText": "Dheros (Ladies Finger)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dheros-ladies-finger-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28563&q=low&v=1",
+            "https://chaldn.com/_mpimage/ladies-finger-bhendi-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28665&q=best&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 6338
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0995\u09be\u0981\u099a\u09be \u09aa\u09c7\u0981\u09aa\u09c7 \u00b1\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7.\u09ea \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Locally Sourced.Deliciously sweet with musky undertones and a soft, butter-like consistency, it is no wonder the papaya was reputably called the 'fruit of the angels' by Christopher Columbus. Once considered quite exotic, they can now be found in markets throughout the year. Although there is a slight seasonal peak in early summer and fall, papaya trees produce fruit year round.",
+        "name": "Kacha Pepe (Green Papaya)  \u00b1 50 gm 1.4 kg",
+        "nameWithoutSubText": "Kacha Pepe (Green Papaya)  \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kacha-pepe-green-papaya-50-gm-14-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69930&q=low&v=1",
+            "https://chaldn.com/_mpimage/green-papaya-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22313&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 5599
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b6\u09b8\u09be \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Locally sourced.Few foods are as cool as a cucumber.While most people think of cucumbers as vegetables, they are actually a fruit.Cucumbers are naturally low in calories, carbohydrates, sodium, fat and cholesterol & hydrating properties.",
+        "name": "Shosha (Cucumber) \u00b1 20 gm 500 gm",
+        "nameWithoutSubText": "Shosha (Cucumber) \u00b1 20 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shosha-cucumber-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64357&q=low&v=1"
+        ],
+        "price": 19.0,
+        "corpPrice": 19.0,
+        "objectID": 6298
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0986\u09b2\u09c1 \u09b0\u09c7\u0997\u09c1\u09b2\u09be\u09b0 (\u09a8\u09c7\u099f \u0993\u099c\u09a8\u00b1\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Buy regular potato from us which provides you with dietary fiber, potassium, vitamins, etc. Regular potato provides 9-10 percent of your daily need. Regular potatoes offer more of this nutrient which helps control your blood pressure. Make a good curry with regular potato. You can make French fries and you can enjoy with your family members. ",
+        "name": "Potato Regular (Net Weight \u00b1 50 gm) 1 kg",
+        "nameWithoutSubText": "Potato Regular (Net Weight \u00b1 50 gm)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/potato-regular-net-weight-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71673&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 10944
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09a6\u09c7\u09b6\u09c0 \u09aa\u09bf\u09df\u09be\u099c \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "\"Though all vegetables are important for health, certain kinds offer unique benefits.\r\n\r\nOnions are members of the Allium genus of flowering plants that also includes garlic, shallots, leeks and chives.\r\n\r\nThese vegetables contain various vitamins, minerals and potent plant compounds that have been shown to promote health in many ways.\r\n\r\nIn fact, the medicinal properties of onions have been recognized since ancient times, when they were used to treat ailments like headaches, heart disease and mouth sores.\"\r\n\r\nNutritional facts/Ingredients :\r\n\"Benefits:\r\n-Packed With Nutrients\r\n-May Benefit Heart Health\r\n-Loaded With Antioxidants\r\n-Contain Cancer-Fighting Compounds\r\n-Help Control Blood Sugar\r\n-May Boost Bone Density\r\n-Have Antibacterial Properties\r\n-May Boost Digestive Health\r\n-Easy to Add to Your Diet\"",
+        "name": "Deshi Peyaj (Local Onion) 1 kg",
+        "nameWithoutSubText": "Deshi Peyaj (Local Onion)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deshi-peyaj-local-onion-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52358&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 19987
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b2\u09be\u09b2 \u09aa\u09bf\u0981\u09df\u09be\u099c \u0987\u09ae\u09cd\u09aa\u09cb\u09b0\u09cd\u099f\u09c7\u09a1 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Lal Piyaj (Onion Red Imported) 1 kg",
+        "nameWithoutSubText": "Lal Piyaj (Onion Red Imported)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lal-piyaj-onion-red-imported-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69767&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 8221
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b2\u09ae\u09cd\u09ac\u09be \u09ac\u09dc \u09b2\u09c7\u09ac\u09c1 \u09ea \u099f\u09bf",
+        "longDesc": "Locally Sourced.Locally Sourced.From treating throat infections to aiding digestion, Lemons are a great natural remedy. The distinctive sour taste of lemon juice is used to flavour a variety of food and beverages and the rind (zest) can also be used in cooking and baking. Lemons can be stored at room temperature for up to a week and in a fridge for up to a month. Tip: microwave for 10 seconds and roll on counter top applying hard pressure prior to juicing.",
+        "name": "Lomba Lebu (Long Lemon) 4 pcs",
+        "nameWithoutSubText": "Lomba Lebu (Long Lemon)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lomba-lebu-long-lemon-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64362&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 5938
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b2\u09be\u09b2 \u09b6\u09be\u0995  \u09e7 \u0986\u0981\u099f\u09bf ",
+        "longDesc": "Red Spinach is common vegetable in  Bangladesh. Its leaves are usually round, thick, and rich green in color, but has a bright red colored central stem. The leaves and stems of red spinach contain a red liquid. This has a sweet, raw flavor and the texture is very delicate. Red spinach helps in the process of bowel movement since it contains a lot of fiber. This fibrous food helps in proper digestion and is useful for curing colon cancer, diabetes, cholesterol as well as for weight loss. Red spinach can be eaten in many ways. They can be consumed either raw or cooked. You can saut\u00e9 them, use as salad leaves, mix in vegetables, fruits, eggs, nuts, pasta or cheese. This is used widely in Indian recipes with added flavors of spices, ginger, garlic, onions, creams, and chilies. You can also store them dry and refrigerated for about one to two weeks.This is all about red spinach recipe!",
+        "name": "Lal Shak (Red Spinach)  1 Bundle",
+        "nameWithoutSubText": "Lal Shak (Red Spinach)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lal-shak-red-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7226&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 5937
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0997\u09be\u099c\u09b0 \u09a6\u09c7\u09b6\u09bf \u00b1 \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Fresh Carrots pre-packed for your convenience. Carrots are an excellent source of vitamin a and they help promote heart, eye, brain, skin and liver health. Best eaten raw for maximum health benefits.",
+        "name": "Deshi Gajor (Local Carrot) \u00b1 20 gm 500 gm",
+        "nameWithoutSubText": "Deshi Gajor (Local Carrot) \u00b1 20 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deshi-gajor-local-carrot-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64363&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 6297
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b0\u09b8\u09c1\u09a8 \u0986\u09ae\u09a6\u09be\u09a8\u09bf\u0995\u09c3\u09a4 \u00b1 \u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Garlic is an excellent source of minerals and vitamins that are essential for optimum health. The bulbs are one of the richest sources of potassium, iron, calcium, magnesium, manganese, zinc, and selenium. Selenium is a heart-healthy mineral, and is an important cofactor for antioxidant enzymes within the body.",
+        "name": "Roshun (Garlic Imported)  \u00b110 gm 500 gm",
+        "nameWithoutSubText": "Roshun (Garlic Imported)  \u00b110 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/roshun-garlic-imported-10-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D15026&q=low&v=1",
+            "https://chaldn.com/_mpimage/garlic-roshun-premium-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22342&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 8103
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u0995\u09c1\u09ae\u09a1\u09bc\u09cb \u09ab\u09be\u09b2\u09bf (\u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae) \u09ee\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Sweet Pumpkin is an extremely nutrient dense food, meaning it is chock-full of vitamins and minerals but low on calories. There are many creative ways pumpkin can be incorporated into your diet, including desserts, soups, salads, preserves and even as a substitute for butter. Sweet Pumpkin is a rich source of vitamin A. Sweet Pumpkin is one of the best-known sources of the antioxidant beta-carotene. Pumpkin puree or canned pumpkin can be used as a replacement for butter or oil in baking recipes.",
+        "name": "Misti Kumra Fali (Sweet Pumpkin Slice) \u00b1 50 gm 800 gm",
+        "nameWithoutSubText": "Misti Kumra Fali (Sweet Pumpkin Slice) \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/misti-kumra-fali-sweet-pumpkin-slice-50-gm-800-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28900&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 7442
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ab\u09c1\u09b2\u0995\u09aa\u09bf \u09e7 \u099f\u09bf",
+        "longDesc": "\"Cauliflower is as good a source of fiber and vitamins.\r\nIts ingredients may help strengthen bones, boost the cardiovascular system, and prevent cancer.\r\nTasty ways of eating cauliflower include cauliflower crust pizza and cauliflower and cheese soup.\r\nPeople who are using blood thinners should not suddenly start eating a lot of cauliflower because the high levels of vitamin K could react adversely with the drugs.\"\r\n\r\nNutritional facts/Ingredients :\r\n\"Benefits:\r\n-Helps With Digestion\r\n-Helps Fight Cancer\r\n-Sharpen Your memory\r\n-Makes your bones Stronger\r\n\"",
+        "name": "Fulcopi (Cauliflower) 1 Pcs",
+        "nameWithoutSubText": "Fulcopi (Cauliflower)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fulcopi-cauliflower-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46971&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 16371
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ac\u09be\u09a7\u09be \u0995\u09aa\u09bf \u09e7 \u099f\u09bf",
+        "longDesc": "Cabbage structurally consists of clusters of stiff leaves superimposed in compact layers, allowing it to aquire round or globular shape vegetable. Fresh cabbage is an excellent source of natural antioxidant, vitamin C. Provides 36.6 mg or about 61% of RDA per 100 g. Regular consumption of foods rich in vitamin C helps the body develop resistance against infectious agents and scavenge harmful, pro-inflammatory free radicals. Cabbage is one of storehouse of phyto-chemicals like thiocyanates, indole-3-carbinol, lutein, zea-xanthin, sulforaphane, and isothiocyanates. These compounds work as powerful antioxidants and known to help protect against breast, colon, and prostate cancers.",
+        "name": "Badhacopi (Cabbage) 1 pcs",
+        "nameWithoutSubText": "Badhacopi (Cabbage)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/badhacopi-cabbage-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D5740&q=low&v=1&m=400"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 5935
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u099a\u09be\u09df\u09a8\u09be \u0997\u09be\u0981\u099c\u09b0 \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09ec\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Gajor (Imported Carrot) \u00b1 20 gm 600 gm",
+        "nameWithoutSubText": "Gajor (Imported Carrot) \u00b1 20 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gajor-imported-carrot-20-gm-600-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78085&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 16963
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ac\u09dc \u0986\u09b2\u09c1 \u00b1\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Potato is a very healthy food and popular vegetable all over the world. Potatoes are available year-round as they are harvested somewhere every month of the year. potato's have lots of variety. these Potatoes are comparatively bigger than regular Potatoes.  potatoes contain a goodly amount of carbohydrate (starch and sugar) they are also a storehouse for many vitamins and minerals. With the exception of vitamin A, potatoes have at least some of just about every nutrient, including fiber. Potatoes are relatively low in calories.  ",
+        "name": "Boro Alu (Big Diamond Potato) \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Boro Alu (Big Diamond Potato) \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/boro-alu-big-diamond-potato-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79694&q=low&v=1",
+            "https://chaldn.com/_mpimage/big-potato-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22307&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 5594
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09aa\u099f\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Potol generally collected from locally source. Potol which is known as a Pointed gourd. Pointed gourd is a very tasty vegetable as well as cheap. Various kind of dishes can be made by Pointed gourd like boiled for stews or soups, cooked as curries or fries, and many more. There are many health benefits of eating Pointed gourd. The vegetable is rated as one of the nutritious foods and is offering vitamins like vitamin A, vitamin B1, vitamin B2 and vitamin C. Calcium provides pointed gourd also offers you very less calories and hence it helps to keep the cholesterol levels in control.",
+        "name": "Potol (Pointed Gourd) 500 gm",
+        "nameWithoutSubText": "Potol (Pointed Gourd)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/potol-pointed-gourd-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35666&q=low&v=1"
+        ],
+        "price": 19.0,
+        "corpPrice": 19.0,
+        "objectID": 6339
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0986\u09a6\u09be \u09a6\u09c7\u09b6\u09bf \u00b1\u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae)\u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Locally Sourced.It is sweet and floral on your tongue, tickles your sinuses, and warms the back of your throat. Ginger brings out the flavor in sweet and savory foods and works very well in curries, marinades and stir-fries.",
+        "name": "Deshi Ada (Local Ginger) \u00b1 10 gm 500 gm",
+        "nameWithoutSubText": "Deshi Ada (Local Ginger) \u00b1 10 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deshi-ada-local-ginger-10-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D9418&q=low&v=1",
+            "https://chaldn.com/_mpimage/ginger-deshi-ada-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22310&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 8102
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b0\u09b8\u09c1\u09a8 \u09a6\u09c7\u09b6\u09bf \u00b1 \u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Garlic is an excellent source of minerals and vitamins that are essential for optimum health. The bulbs are one of the richest sources of potassium, iron, calcium, magnesium, manganese, zinc, and selenium. Selenium is a heart-healthy mineral, and is an important cofactor for antioxidant enzymes within the body.",
+        "name": "Deshi Roshun (Garlic Local)  \u00b110 gm 500 gm",
+        "nameWithoutSubText": "Deshi Roshun (Garlic Local)  \u00b110 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deshi-roshun-garlic-local-10-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69931&q=low&v=1",
+            "https://chaldn.com/_mpimage/garlic-roshun-deshi-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22341&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 11694
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b8\u09ac\u09c1\u099c \u0995\u09cd\u09af\u09be\u09aa\u09b8\u09bf\u0995\u09be\u09ae \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae  \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Green capsicums are picked when ripe and have an all-over green appearance.A fresh, crisp green capsicum is a tasty vegetable that can be a regular part of your healthy eating plan. This vegetable is low in calories and contains 0 grams of fat and a good supply vitamins and minerals. Their mildly sweet flavor makes green bell peppers versatile enough to include a wide variety of nutritious recipes.",
+        "name": "Green Capsicum \u00b1 20 gm 300 gm",
+        "nameWithoutSubText": "Green Capsicum \u00b1 20 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/green-capsicum-20-gm-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28574&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 10224
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0995\u09b2\u09ae\u09bf \u09b6\u09be\u0995 \u09e7 \u0986\u0981\u099f\u09bf ",
+        "longDesc": "Water Spinach is a green vegetable  and that water spinach is ranked high among the world\u2019s healthiest foods and there are plenty of reasons for it being so. Water spinach is one of the ideal option to manage weight and to lower the cholesterol levels. Water spinach consists of rich amounts of iron that is required by the red blood cells during process of hemoglobin formation. So people who are suffering with anemia should include their diet with this iron rich leafy vegetable. It also serves the iron requirement of a pregnant women. Water spinach consists of rich nutrients which are known to be as pre-requisite for the maintenance of healthy hair and scalp. Spinach juice is a single solution for the hair growth, to prevent hair fall and also to improve the texture and quality of hair.",
+        "name": "Kolmi Shak (Water Spinach) 1 Bundle",
+        "nameWithoutSubText": "Kolmi Shak (Water Spinach)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kolmi-shak-water-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28561&q=low&v=1"
+        ],
+        "price": 9.0,
+        "corpPrice": 9.0,
+        "objectID": 6842
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u0986\u09b2\u09c1 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\"Sweet potatoes are sweet, starchy root vegetables that are grown worldwide.\r\n\r\nThey come in a variety of sizes and colors \u2014 including orange, white, and purple \u2014 and are rich in vitamins, minerals, antioxidants, and fiber.\r\n\r\nNot to mention, they provide a number of health benefits and are easy to add to your diet.\"\r\n\r\nNutritional facts/Ingredients :\r\n\"Benefits:\r\n-Highly Nutritious\r\n-Promote Gut Health\r\n-May Have Cancer-Fighting Properties\r\n-Support Healthy Vision\r\n-May Enhance Brain Function\r\n-May Support Your Immune System\r\n\"",
+        "name": "Misti Alu (Sweet Potato) 500 gm",
+        "nameWithoutSubText": "Misti Alu (Sweet Potato)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/misti-alu-sweet-potato-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54835&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 6844
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b2\u09ae\u09cd\u09ac\u09be \u09ac\u09c7\u0997\u09c1\u09a8 \u0995\u09be\u09b2\u09cb \u00b1 \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Brinjals are mildly sweet, moist and never bitter. Because of their small size, the silky flesh is especially tender and will cook quickly. Try them sliced, brushed with olive oil and salt, and grilled or roasted. They also make a great addition to curries and stir-fries. It contains good amounts of many essential B-complex groups of vitamins such as pantothenic acid (vitamin B5), pyridoxine (vitamin B6) and thiamin (vitamin B1), niacin (B3). These vitamins are essential in the sense that body requires them from external sources to replenish and required for fat, protein and carbohydrate metabolism.",
+        "name": "Lomba Kalo Begun (Long Brinjal Black) \u00b1 20 gm 500 gm",
+        "nameWithoutSubText": "Lomba Kalo Begun (Long Brinjal Black) \u00b1 20 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lomba-kalo-begun-long-brinjal-black-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43558&q=low&v=1",
+            "https://chaldn.com/_mpimage/long-brinjal-black-begun-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22315&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 5595
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b2\u09be\u09b2 \u0986\u09b2\u09c1 (\u09ac\u0997\u09c1\u09a1\u09bc\u09be \u0986\u09b2\u09c1) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Red potatoes provide you with essential vitamins, minerals and energy you need to fuel your busy day. They're a root vegetable that makes a healthy addition to any well-balanced diet. You'll get the most nutritional benefits from red potatoes by eating their thin skin, along with the white flesh. Just be sure to wash the outer skin of the potato well before baking or boiling to remove all dirt.  medium, red-skinned potato supplies you with 34 grams of carbohydrate. Dietary fiber accounts for three of these grams of carbohydrate. Fiber helps regulate your digestion, prevents constipation and diarrhea, may lower cholesterol and blood sugar and helps you feel full after eating. Red potatoes also provide you with a variety of vitamins to maintain your health. A medium red potato provides 36 percent of the daily value of vitamin C. Your body needs vitamin C to form collagen an essential connective-tissue protein to fight infections, to help iron and copper absorption and to maintain healthy bones. ",
+        "name": "Lal Alu (Red Potato) 500 gm",
+        "nameWithoutSubText": "Lal Alu (Red Potato)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lal-alu-red-potato-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54837&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 6304
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u099a\u09bf\u099a\u09bf\u0999\u09cd\u0997\u09be \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Cook fry (vaji) with long size, green colored and 100% fresh as well as chemical free Snake Gourd (Chichinga). You can make a delicious recipe like Chichinga posto (snake gourd curry with poppy seed), chichinga vaja, chichinga vaji with chingri etc.  ",
+        "name": "Chichinga (Snake Gourd) \u00b1 20 gm 500 gm",
+        "nameWithoutSubText": "Chichinga (Snake Gourd) \u00b1 20 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chichinga-snake-gourd-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28583&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 5930
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09aa\u09be\u09b2\u0982 \u09b6\u09be\u0995 \u09e7 \u0986\u0981\u099f\u09bf",
+        "longDesc": "Bright, vibrant-looking spinach leaves are not only more appealing to the eye but more nourishing as well. Spinach has good levels of iron. The possible health benefits of consuming spinach include improving blood glucose control in diabetics, lowering the risk of cancer, lowering blood pressure, improving bone health, lowering the risk of developing asthma and more.",
+        "name": "Palong Shak (Palong Spinach) 1 Bundle",
+        "nameWithoutSubText": "Palong Shak (Palong Spinach)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/palong-shak-palong-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28579&q=low&v=1",
+            "https://chaldn.com/_mpimage/palong-shak-palong-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80837&q=best&v=1"
+        ],
+        "price": 19.0,
+        "corpPrice": 19.0,
+        "objectID": 5936
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0986\u09a6\u09be \u0987\u09ae\u09cd\u09aa\u09cb\u09b0\u099f\u09c7\u09a1 \u00b1 \u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "It is sweet and floral on your tongue, tickles your sinuses, and warms the back of your throat. Ginger brings out the flavor in sweet and savory foods and works very well in curries, marinades and stir-fries.",
+        "name": "Ada (Ginger Imported) \u00b110 gm 500 gm",
+        "nameWithoutSubText": "Ada (Ginger Imported) \u00b110 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ada-ginger-imported-10-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22301&q=low&v=1",
+            "https://chaldn.com/_mpimage/ginger-indian-ada-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22302&q=low&v=1",
+            "https://chaldn.com/_mpimage/ginger-indian-ada-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22309&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 9864
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0995\u09be\u0997\u099c\u09bf \u09b2\u09c7\u09ac\u09c1 \u09ea \u099f\u09bf",
+        "longDesc": "Limes can be used anywhere you would normally use lemons. They have the same ability to accentuate the flavors of a meal, while adding their own extra zing.Their distinctive tangy, tart flesh and juice are delicious in both sweet and savory dishes, used in drinks, or served in wedges alongside meals. Lime juice can also help to prevent fruit from browning.",
+        "name": "Kagozi Lebu (Kagozi Lemon) 4 pcs",
+        "nameWithoutSubText": "Kagozi Lebu (Kagozi Lemon)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kagozi-lebu-kagozi-lemon-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43758&q=low&v=1",
+            "https://chaldn.com/_mpimage/kagozi-lemon-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43759&q=best&v=1"
+        ],
+        "price": 19.0,
+        "corpPrice": 19.0,
+        "objectID": 6449
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09aa\u09c1\u09a6\u09bf\u09a8\u09be \u09aa\u09be\u09a4\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "With its distinctively spicy taste and invigorating scent, mint is often an ingredient in gum, candy or tea, but people also eat it fresh. Fresh mint leaves add flavor and nutrition to many different recipes, and chewing on whole leaves may have certain health benefits and ward off some medical conditions. Fresh mint, including spearmint and peppermint, contains several key vitamins and minerals you need for good health. Mint leaves also contains mint contains trace amounts of iron, a mineral you need to make red blood cells. Mint also has small amounts of fiber, vitamin A and potassium.",
+        "name": "Pudina Pata (Mint Leaves) 100 gm",
+        "nameWithoutSubText": "Pudina Pata (Mint Leaves)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pudina-pata-mint-leaves-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7827&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 5923
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2 \u09b2\u09c7\u09ac\u09c1 \u09ea\u099f\u09bf",
+        "longDesc": "Locally Sourced.From treating throat infections to aiding digestion, Lemons are a great natural remedy. \r\nThe distinctive sour taste of lemon juice is used to flavour a variety of food and beverages and the rind (zest) can also be used in cooking and baking. Lemons can be stored at room temperature for up to a week and in a fridge for up to a month. Tip: microwave for 10 seconds and roll on counter top applying hard pressure prior to juicing.",
+        "name": "Gol Lebu (Round Lemon) 4 pcs",
+        "nameWithoutSubText": "Gol Lebu (Round Lemon)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gol-lebu-round-lemon-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54834&q=low&v=1",
+            "https://chaldn.com/_mpimage/round-lemon-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22322&q=low&v=1"
+        ],
+        "price": 19.0,
+        "corpPrice": 19.0,
+        "objectID": 5602
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b8\u099c\u09a8\u09c7 \u09a1\u09be\u0981\u099f\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Drumstick is an easily available vegetable which is cultivated mostly in Asian and African regions. It is a staple vegetable in Bangladesh and is also widely consumed in other states.",
+        "name": "Shojne Data (Drumstick) 500 gm",
+        "nameWithoutSubText": "Shojne Data (Drumstick)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shojne-data-drumstick-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75213&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 24037
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09a6\u09c7\u09b6\u09c0 \u0995\u09b0\u09b2\u09be \u0989\u099a\u09cd\u099b\u09be \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "They are dark or light green in color depending on the region where they are grown. Though they taste very bitter, they are filled with many beneficial antioxidants and essential vitamins. Bitter gourd is a rich source of cellulose, which adds to you daily dietary requirement of fibre, improving digestion and helping prevent problems like dyspepsia and constipation. Besides it also contains antihelminthic compounds that can kill infectious worms in your stomach. Bitter gourd is an extremely rich source of Vitamin C which helps boost your immunity. A 100g serving of bitter gourd contains just 17 calories making it a great option for those who want to lose weight. ",
+        "name": "Uchche (Local Bitter Gourd) \u00b1 20 gm 500 gm",
+        "nameWithoutSubText": "Uchche (Local Bitter Gourd) \u00b1 20 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/uchche-local-bitter-gourd-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D15396&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 9134
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ac\u09b0\u09ac\u099f\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Locally sourced.These beans are cooked as you would green beans.They have a mild asparagus-like flavor and are delicious sauteed or steamed.Green beans are a good source of copper, vitamin B1, chromium, magnesium, calcium, potassium, phosphorus, choline, vitamin A (in the form of carotenoids), niacin, protein, omega-3 fatty acids, iron, vitamin B6, and vitamin E. Green beans have also been shown to contain valuable amounts of the mineral.",
+        "name": "Borboti (Long Bean) 500 gm",
+        "nameWithoutSubText": "Borboti (Long Bean)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/borboti-long-bean-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22410&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 6336
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0995\u099a\u09c1\u09b0 \u09ae\u09c1\u0996\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Kachur mukhi is used in Bengali recipes in various forms. Easy to cook and easy to serve. This is a typical Bengali side dish that is slightly mushy, very spicy and flavorful. Available at chaldal. Cook and serve it with plain white rice. ",
+        "name": "Kochur Mukhi (Taro Roots) 500 gm",
+        "nameWithoutSubText": "Kochur Mukhi (Taro Roots)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kochur-mukhi-taro-roots-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28965&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 6976
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2 \u0995\u09be\u09b2\u09cb \u09ac\u09c7\u0997\u09c1\u09a8 \u00b1\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09ed\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Brinjal, is a very low calorie vegetable and has healthy nutrition. Several varieties of Brinjal grown all around the world. It contains good amounts of many essential B-complex groups of vitamins such as pantothenic acid (vitamin B5), pyridoxine (vitamin B6) and thiamine (vitamin B1), niacin (B3). These vitamins are essential in the sense that body requires them from external sources to replenish and required for fat, protein and carbohydrate metabolism. this vegetable is an also good source of minerals like manganese, copper, iron and potassium. Manganese is used as a co-factor for the antioxidant enzyme, superoxide dismutase. Potassium is an important intracellular electrolyte that helps counter pressing (hypertension) effects of sodium.\r\n",
+        "name": "Kalo Gol Begun (Round Brinjals Black) \u00b150 gm 700 Gm",
+        "nameWithoutSubText": "Kalo Gol Begun (Round Brinjals Black) \u00b150 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kalo-gol-begun-round-brinjals-black-50-gm-700-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7893&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 6617
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09aa\u09be\u099f \u09b6\u09be\u0995 \u09e7 \u0986\u0981\u099f\u09bf",
+        "longDesc": null,
+        "name": "Pat Shak (Jute Spinach) 1 Bundle",
+        "nameWithoutSubText": "Pat Shak (Jute Spinach)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pat-shak-jute-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35689&q=low&v=1"
+        ],
+        "price": 9.0,
+        "corpPrice": 9.0,
+        "objectID": 13684
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09aa\u09c1\u0987 \u09b6\u09be\u0995 \u09e7 \u0986\u0981\u099f\u09bf",
+        "longDesc": "Pui Spinach is  is a popular tropical leafy-green vegetable commonly grown as backyard plant in the home gardens. the plant is a creeping vine, and its leaves feature glossy, broad, deep green, thick, and mucilaginous. Pui Spinach is high in Vitamin A and C as well as Iron and Calcium. It is low in calories but has a good protein/calories ratio, and plenty of soluble fiber. Its thick, fleshy leaves are a good source of non-starch polysaccharide, mucilage. In addition to regular fiber (roughage) that found in the stem and leaves, mucilage facilitates in smooth digestion, bring reduction in cholesterol absorption, and help prevent bowel movement problems.",
+        "name": "Pui Shak (Pui Spinach)1 Bundle",
+        "nameWithoutSubText": "Pui Shak (Pui Spinach)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pui-shak-pui-spinach1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7071&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 6228
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09a1\u09be\u099f\u09be \u09b6\u09be\u0995 \u09e7 \u09ac\u09be\u09a8\u09cd\u09a1\u09bf\u09b2",
+        "longDesc": "\"Data Shak is packed with manganese, exceeding your daily nutrient needs in just one serving. Manganese is especially important for brain function and believed to protect against certain neurological conditions.\r\n\r\nIt\u2019s also rich in magnesium, an essential nutrient involved in nearly 300 reactions in the body, including DNA synthesis and muscle contraction. \"\r\n\r\nNutritional facts/Ingredients :\r\n\"Health Benefits:\r\n-It Contains Antioxidants\r\n-Eating Data Shak Could Reduce Inflammation\r\n-May Lower Cholesterol Levels\r\n-It Could Aid Weight Loss\r\n-Data Shak Is Naturally Gluten-Free\r\n\"",
+        "name": "Data Shak (Data Spinach) 1 Bundle ",
+        "nameWithoutSubText": "Data Shak (Data Spinach)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/data-shak-data-spinach-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D30176&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 13677
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u099c\u09be\u09b2\u09bf \u0995\u09c1\u09ae\u09a1\u09bc\u09cb \u09e7 \u099f\u09bf",
+        "longDesc": "Water Pumpkin vegetable is one of the widely grown vegetables incredibly rich in vital antioxidants, and vitamins. Though this humble backyard vegetable is less in calories, nonetheless, it carries vitamin A, and flavonoid poly-phenolic antioxidants such as lutein, xanthin, and carotenes in abundance. water Pumpkin is a storehouse of many anti-oxidant vitamins such as vitamin-A, vitamin-C and vitamin-E.",
+        "name": "Jali Kumra (Water Pumpkin) 1 pcs",
+        "nameWithoutSubText": "Jali Kumra (Water Pumpkin)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/jali-kumra-water-pumpkin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69932&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 5931
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0995\u09be\u0981\u099a\u09be \u0995\u09b2\u09be \u09ea \u099f\u09bf ",
+        "longDesc": "Green banana are the unripe version of yellow banana. While you can eat the yellow banana immediately after peeling, the green banana is best eaten cooked, either boiled or fried. Nutritionally, the green banana is a good source of fiber, vitamins and minerals, and contains a starch that may help control blood sugar, manage weight and lower blood cholesterol levels. Green bananas are also high in vitamin B-6, with a 1-cup boiled serving containing 39 percent of your daily value. Vitamin B-6 plays an important role in more than 100 enzymatic reactions in your body. It is also necessary for the formation of hemoglobin, the protein that carries oxygen in your body. Additionally, vitamin B-6 aids in blood sugar control.",
+        "name": "Kacha Kola (Banana Green) 4 pcs",
+        "nameWithoutSubText": "Kacha Kola (Banana Green)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kacha-kola-banana-green-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79342&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 6226
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u099d\u09bf\u0999\u09cd\u0997\u09be \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Ridge Gourd is a dark green, tapering and ridged vegetable. In contrast to its dark green exterior ridge gourd has white spongy pulp inside in white are embedded white seeds. Ridge gourd benefits is its low in cholesterol and saturated fats but high in vitamin C, dietary fiber, riboflavin, thiamin, zinc, iron, manganese and magnesium. Ridge gourd nutrition value makes it appropriate for weight loss plans. Usefulness of Ridge Gourd in Cookery, Health and Beauty.",
+        "name": "Jhinga (Ridge Gourd) \u00b120 gm 500 gm",
+        "nameWithoutSubText": "Jhinga (Ridge Gourd) \u00b120 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/jhinga-ridge-gourd-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7999&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 7117
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b2\u09be\u0989 \u09e7 \u099f\u09bf",
+        "longDesc": "Gourd is yellowish-green in color and usually in the shape of a bottle. The vegetable has a white pulp, with white seeds embedded in the spongy flesh.  100 g of gourd contains 15 calories, 100 g for edible portion contains 1 g fat. Its water content is 96% and It is low in saturated fat, cholesterol, high in dietary fiber, Vitamin C, riboflavin, zinc, thiamine, iron, magnesium and manganese. It promotes weight loss. The vitamins, minerals and dietary fiber in gourd keep the body well-nourished and curb unnecessary appetite, especially if you drink its juice in the morning on an empty stomach.",
+        "name": "Lau (Gourd) 1 pcs",
+        "nameWithoutSubText": "Lau (Gourd)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lau-gourd-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28573&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 5600
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0995\u099a\u09c1\u09b0 \u09b2\u09a4\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "The health benefits of taro include its ability to improve digestion, lower your blood sugar levels, prevent certain types of cancers, protect the skin, boost vision health, increase circulation, decrease blood pressure, aid the immune system, and prevent heart disease, while also supporting muscle and nerve health. It also contains good levels of some of the valuable B-complex group of vitamins such as pyridoxine (vitamin B-6), folates, riboflavin, pantothenic acid, and thiamin.",
+        "name": "Kochur Loti (Stolon Of Taro) 500 gm",
+        "nameWithoutSubText": "Kochur Loti (Stolon Of Taro)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kochur-loti-stolon-of-taro-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64498&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 7115
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09a5\u09be\u09a8\u0995\u09c1\u09a8\u09bf \u09aa\u09be\u09a4\u09be \u09e7 \u0986\u0981\u099f\u09bf",
+        "longDesc": "Thankoni leaves are natural flavoring agents with a number of important health benefits, which makes your food both healthy and tasty along with pleasing aroma. They contain various antioxidant properties and have the ability to control diarrhea, gastrointestinal problems such as indigestion, excessive acid secretion, peptic ulcers, dysentery, diabetes and an unhealthy cholesterol balance. They are also believed to have cancer fighting properties and are known to help protect the liver. The main nutrients found in Thankoni leaves are carbohydrates, energy, fiber, calcium, phosphorous, iron, magnesium, copper and minerals.  It also contains various vitamins like  nicotinic acid and vitamin C, vitamin A, vitamin B, vitamin E, antioxidants, plant sterols, amino acids, glycosides and flavonoids. Also, nearly zero fat (0.1 g per 100 g) is found in curry leaves.",
+        "name": "Thankuni Pata (Pennywort Leaves)  1 bundle",
+        "nameWithoutSubText": "Thankuni Pata (Pennywort Leaves)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/thankuni-pata-pennywort-leaves-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28578&q=low&v=1"
+        ],
+        "price": 9.0,
+        "corpPrice": 9.0,
+        "objectID": 6838
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0995\u09b0\u09b2\u09be \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Bitter Gourd is a popular vegetable. This food is low in Sodium, and very low in Cholesterol. It is also a good source of Thiamin, Riboflavin, Vitamin B6, Pantothenic Acid, Iron and Phosphorus, and a very good source of Dietary Fiber, Vitamin A, Vitamin C, Folate, Magnesium, Potassium, Zinc and Manganese.",
+        "name": "Korola (Bitter Gourd) \u00b1 20 gm 500 gm",
+        "nameWithoutSubText": "Korola (Bitter Gourd) \u00b1 20 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/korola-bitter-gourd-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22416&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 6337
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09a7\u09c1\u09a8\u09cd\u09a6\u09c1\u09b2 \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Sponge Gourd is dark green with an average length of 61 cm and diameter of 7.6 cm. The flesh is white, soft, with white beans. But when it is old, the seeds turn to black, and coarse fibrous tissue when its old.  Sponge Gourd contains various antioxidants, minerals, vitamins, nutrients and lipids. It is an excellent source of Vitamin A and carbohydrates. It is also a very good source of Vitamin B5, Manganese, Potassium, Copper, Total dietary fiber, Vitamin B6, Vitamin C and Magnesium.",
+        "name": "Dhundhul (Sponge Gourd) \u00b120 gm 500 gm",
+        "nameWithoutSubText": "Dhundhul (Sponge Gourd) \u00b120 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dhundhul-sponge-gourd-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77228&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 9589
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0995\u09be\u0981\u0995\u09b0\u09cb\u09b2 \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kakrol (Sweet Bitter Gourd)  \u00b120 gm 500 gm",
+        "nameWithoutSubText": "Kakrol (Sweet Bitter Gourd)  \u00b120 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kakrol-sweet-bitter-gourd-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64496&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 20874
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b2\u09c7\u099f\u09c1\u09b8 \u09aa\u09be\u09a4\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Locally sourced.It has soft and delicate leaves, varying in color from mid-green to brown or red tinged. It has a subtle, slightly sweet flavor, and is good in all kinds of salads.",
+        "name": "Lettuce Leaves 100 gm",
+        "nameWithoutSubText": "Lettuce Leaves",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lettuce-leaves-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28797&q=low&v=1",
+            "https://chaldn.com/_mpimage/lettuce-leaf-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22409&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 5929
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2 \u09ac\u09c7\u0997\u09c1\u09a8 \u09b8\u09ac\u09c1\u099c \u00b1\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09ed\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Brinjals are mildly sweet, moist and never bitter. Because of their small size, the silky flesh is especially tender and will cook quickly. Try them sliced, brushed with olive oil and salt, and grilled or roasted. They also make a great addition to curries and stir-fries. It contains good amounts of many essential B-complex groups of vitamins such as pantothenic acid (vitamin B5), pyridoxine (vitamin B6) and thiamin (vitamin B1), niacin (B3). These vitamins are essential in the sense that body requires them from external sources to replenish and required for fat, protein and carbohydrate metabolism.",
+        "name": "Sobuj Gol Begun (Round Brinjals Green)  \u00b150 gm 700 gm",
+        "nameWithoutSubText": "Sobuj Gol Begun (Round Brinjals Green)  \u00b150 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sobuj-gol-begun-round-brinjals-green-50-gm-700-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28795&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 8720
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ac\u09cb\u09ae\u09cd\u09ac\u09be\u0987 \u09ae\u09b0\u09bf\u099a \u09eb \u099f\u09bf",
+        "longDesc": "Chili has lots of variety, Bombay chili is one of them. Bombay chili is much bigger than the normal chili. Usually,\r\nThe heat of chilies is stored mostly in the seeds and membranes, so remove these to remove the heat.Chilies matches well with bananas, beans, chutneys, corn, fruit, ketchup, pineapple and rice. These smaller the chilies are slightly milder. Its contains, Vitamin C, proteins, minerals. ",
+        "name": "Bombay Chilli 5 pcs",
+        "nameWithoutSubText": "Bombay Chilli",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bombay-chilli-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D9417&q=low&v=1"
+        ],
+        "price": 19.0,
+        "corpPrice": 19.0,
+        "objectID": 8125
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ac\u09c0\u099f\u09b0\u09c1\u099f \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Beetroot is in low fat, so you can make juice and enjoy your drinks with your family. It is a super food for roasting, blending it in blender and make juice, as well as for making different types of curry. It has a number of health benefits. Beetroot juice may help lower your blood pressure. Drinking beetroot juice increases plasma nitrate levels and boosts physical performance. It may improve muscle power in people with heart failure. It helps you to maintain a healthy weight etc.\r\n",
+        "name": "Beetroot  \u00b120 gm 500 gm",
+        "nameWithoutSubText": "Beetroot  \u00b120 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/beetroot-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35682&q=low&v=1",
+            "https://chaldn.com/_mpimage/beetroot-net-weight-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25950&q=best&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 6343
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09aa\u09c7\u0981\u09af\u09bc\u09be\u099c \u09aa\u09be\u09a4\u09be \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Spring onions are a very popular vegetable and they come in different varieties including white, yellow and red. These tender onion bulbs are great in taste and also rich in nutrients. Like onions spring onions are also high in sulfur. High amounts of sulfur provide many health benefits. These tender onions are low in calorie. Spring onions are a variety of scallion and also called green onions.",
+        "name": "Peyaj Pata (Spring Onion) 250 gm",
+        "nameWithoutSubText": "Peyaj Pata (Spring Onion)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/peyaj-pata-spring-onion-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18770&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 6565
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b2\u09be\u0989 \u09b6\u09be\u0995 \u09e7 \u09ac\u09be\u09a8\u09cd\u09a1\u09bf\u09b2",
+        "longDesc": "Making lau shak recipe is very easy. It is very tasty and very much healthy. You can make new recipes like lau shaker chorchori, lau shak vaji etc. It is easy to make curry with lau shak. So, buy lau shak from us and make your cooking easier and faster. ",
+        "name": "Lau Shak (Sweet Bitter Melon Leaves) 1 Bundle",
+        "nameWithoutSubText": "Lau Shak (Sweet Bitter Melon Leaves)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lau-shak-sweet-bitter-melon-leaves-1-bundle?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64499&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 13668
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0998\u09c3\u09a4\u0995\u09c1\u09ae\u09be\u09b0\u09c0 \u09e7 \u099f\u09bf",
+        "longDesc": "Each leaf is full of a slimy tissue that stores water, which makes the leaves thick. This slimy, water-filled tissue is the \u201cgel\u201d we associate with Aloevera products.\r\nThe gel contains most of the bio-active compounds in the plant, including vitamins, minerals, amino acids and antioxidants.",
+        "name": "Aloe Vera 1 pcs",
+        "nameWithoutSubText": "Aloe Vera",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aloe-vera-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35684&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 6843
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b2\u09be\u09b2 \u0995\u09cd\u09af\u09be\u09aa\u09b8\u09bf\u0995\u09be\u09ae\u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae  \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "A wonderful combination of tangy taste and crunchy texture, sweet Capsicum are the ornaments of the vegetable world with their beautifully shaped glossy exterior that comes in a wide array of vivid colors ranging from red. Capsicum is not only an excellent source of carotenoids, but also a source of over 30 different members of the carotenoid nutrient family.It also contains vitamin C and E. ",
+        "name": "Red Capsicum \u00b120 gm 250 gm",
+        "nameWithoutSubText": "Red Capsicum \u00b120 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/red-capsicum-20-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54850&q=low&v=1"
+        ],
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 10226
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ae\u09c2\u09b2\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Radish is one of the nutritious root-vegetables featured in both raw salads as well as in main recipes. Snacking on radishes can help you reach your daily vitamin C intake goal. For their size, radishes have a high vitamin C content. A 1/2-cup serving offers 8.6 mg, or 14 percent of the recommended daily intake. Vitamin C works in the body to rebuild tissues, blood vessels and maintain bones and teeth. ",
+        "name": "Mula (Radish) 500 gm",
+        "nameWithoutSubText": "Mula (Radish)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mula-radish-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D15441&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 6224
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0995\u09be\u0981\u099a\u09be \u09b9\u09b2\u09c1\u09a6 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Turmeric is one of the very useful and famous Ayurvedic herbs. It is used in many forms and through many routes of administration, such as \u2013 nasal, oral, over the skin and others. Modern studies have shown Turmeric to be highly effective in curing Diabetes. It has a sacred dimension. It has been used as a cosmetic and an important Kitchen spice in India. It has also been a part of Home remedies to combat cold, cough, seasonal disorders, infections, wounds, skin diseases.",
+        "name": "Kacha Holud (Raw Turmeric) 250 gm",
+        "nameWithoutSubText": "Kacha Holud (Raw Turmeric)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kacha-holud-raw-turmeric-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7662&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 6839
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ac\u09c7\u09ac\u09bf \u0995\u09b0\u09cd\u09a3 \u09eb\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Baby corn provides the valuable nutrition which lacks in most people\u2019s diets. It is extremely low in fat as well, which can help with their weight loss goals. Baby corn is high in potassium and folic acid. It also has a better glycemic index than regular corn, making it a great substitute. A small ear of regular corn, about 3 ounces, has about 22 grams of carbohydrates. 1 cup, or 5.8 ounces, of corn kernels have 30.5 grams of carbohydrates. By comparison, a similar sized serving of baby corn would contain only 8 grams of carbohydrates. Baby corn is an excellent source of B vitamins. Baby corn provides folic acid, thiamin, riboflavin, and niacin. B vitamins contribute to digestion.  B vitamins contribute to digestion. Folates are also used in the amino acid synthesizing process. Breaking down and synthesizing amino acids is vital to building new cells, such as red blood cells. Folates have also shown to be linked to significantly reduce risk of developing Alzheimer\u2019s. Folates in general are associated with brain function, have been associated with improved memory, and slowed cognitive decline.",
+        "name": "Baby Corn 550 gm",
+        "nameWithoutSubText": "Baby Corn",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/baby-corn-550-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7995&q=low&v=1"
+        ],
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 7118
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u099b\u09cb\u099f \u099c\u09be\u09ae \u0986\u09b2\u09c1 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Whether mashed, baked or roasted, people often consider potatoes as comfort food. It is an important food staple and the number one vegetable crop in the world. Potatoes are available year-round as they are harvested somewhere every month of the year. potato's have lots of variety. these Potatoes are comparatively smaller.  potatoes contain a goodly amount of carbohydrate (starch and sugar) they are also a storehouse for many vitamins and minerals. With the exception of vitamin A, potatoes have at least some of just about every nutrient, including fiber. Potatoes are relatively low in calories. ",
+        "name": "Jaam Alu (Small Potato) 1 kg",
+        "nameWithoutSubText": "Jaam Alu (Small Potato)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/jaam-alu-small-potato-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65817&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 11526
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b2\u09ae\u09cd\u09ac\u09be \u0995\u099a\u09c1 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Lomba Kochu 1 pcs",
+        "nameWithoutSubText": "Lomba Kochu",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lomba-kochu-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D14302&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 6846
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09a5\u09be\u0987 \u0986\u09a6\u09be \u00b1 \u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "It is sweet and floral on your tongue, tickles your sinuses, and warms the back of your throat. Ginger brings out the flavor in sweet and savory foods and works very well in curries, marinades and stir-fries.It is from Thailand.",
+        "name": "Thai Ada (Ginger Thai) \u00b1 10 gm 250 gm",
+        "nameWithoutSubText": "Thai Ada (Ginger Thai) \u00b1 10 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/thai-ada-ginger-thai-10-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40654&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 7200
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0995\u09b0\u09b2\u09cd\u09b2\u09be \u09aa\u09cd\u09b0\u09b8\u09c7\u09b8 \u0995\u09b0\u09be  \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Korola (Bitter Gourd) Processed \u00b1 20 gm 500 gm",
+        "nameWithoutSubText": "Korola (Bitter Gourd) Processed \u00b1 20 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/korola-bitter-gourd-processed-20-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75944&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 24195
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b9\u09b2\u09c1\u09a6 \u0995\u09cd\u09af\u09be\u09aa\u09b8\u09bf\u0995\u09be\u09ae \u00b1\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Capsicum known as a sweet peppers.  Sweet peppers are fruit pods on the capsicum plant grown for their subtle hotness yet sweet, delicate peppery flavor they extend to the recipes. Yellow capsicum contains an impressive list of plant nutrients that found to have disease preventing and health promoting properties. Unlike in other fellow chili peppers, it has very less calories and fats. 100 g provides just 31 calories. It also contains Vitamin C and Vitamin E.",
+        "name": "Yellow Capsicum \u00b120 gm 300 gm",
+        "nameWithoutSubText": "Yellow Capsicum \u00b120 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/yellow-capsicum-20-gm-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D16552&q=low&v=1"
+        ],
+        "price": 115.0,
+        "corpPrice": 115.0,
+        "objectID": 10225
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ae\u09c7\u09b9\u09c7\u09a6\u09bf \u09aa\u09be\u09a4\u09be \u09e9 \u0986\u0981\u099f\u09bf",
+        "longDesc": "Mehandi is a medicinal plant. Mehendi leaves are widely used in Bangladesh, specially on auspicious occasions like weddings, religious ceremonies etc. Mehendi leaves are very good source of curing heat strokes. The paste of Mehendi leaves absorb the excess heat of the body thus, maintaining the right temperature also Boil water with henna leaves and use this water to gargle. This will cure sore throat instantly. Fresh leaves mixed with vinegar or limp juice is bandaged onto the soles to treat burning feet. \r\nHenna contains natural ingredients important for hair nourishment. It shares a great bond with hair as it helps to penetrate, cleanse, and thicken the hair shafts which improve the quality of hair. Its also used to treat dandruff. Its commonly used for coloring hair by mixing it into natural dyes.",
+        "name": "Mehendi Pata (Henna Leaves) 3 Bundles",
+        "nameWithoutSubText": "Mehendi Pata (Henna Leaves)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mehendi-pata-henna-leaves-3-bundles?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7669&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 6847
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b2\u09c7\u09ae\u09a8 \u0997\u09cd\u09b0\u09be\u09b8 \u09b8\u09cd\u099f\u0995 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Lemon Grass usually used in soups in in-house and different restaurants. It is very much tastier. It is a tough and long process to prepare it, but to make the soup more tasty, you can buy and use it to make soups. ",
+        "name": "Lemon Grass Stalk 250 gm",
+        "nameWithoutSubText": "Lemon Grass Stalk",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lemon-grass-stalk-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D10426&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 8606
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u0995\u09cd\u09af\u09be\u09aa\u09b8\u09bf\u0995\u09be\u09ae \u09ae\u09bf\u0995\u09cd\u09b8 \u09aa\u09cd\u09af\u09be\u0995 \u09eb\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "A wonderful combination of tangy taste and crunchy texture, sweet Capsicum are the ornaments of the vegetable world with their beautifully shaped glossy exterior that comes in a wide array of vivid colors ranging from red and green. Capsicum is not only an excellent source of carotenoids, but also a source of over 30 different members of the carotenoid nutrient family. It also contains vitamin C and E.",
+        "name": "Capsicum Mix Pack 550 Gm",
+        "nameWithoutSubText": "Capsicum Mix Pack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/capsicum-mix-pack-550-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71930&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 23391
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09aa\u09be\u09a8 \u0986\u09a7\u09be \u09ac\u09bf\u09b0\u09be (30 \u09aa\u09bf\u09b8)",
+        "longDesc": "From using it in prayers and religious ceremonies to eating it in the form of a 'paan', betel leaves contain many curative and healing health benefits. The leaves are full of vitamins like vitamin C, thiamine, niacin, riboflavin and carotene and are a great source of calcium. Since betel is an aromatic creeper, you can easily grow it as an ornamental plant in your homes and derive the maximum health benefits from the same.\r\n\r\nNutritional facts/Ingredients :\r\n\"It is believed that the components present in betel leaves can reduce the level of sugar in the blood, thus treating diabetes. Betel leaves can be used effectively by people who are trying to shed weight. It reduces 'Medha dhatu' (body fat) and increases the metabolic rate of the body.  Chewing betel leaves is known to prevent oral cancer as it helps maintain the levels of ascorbic acid in the saliva. All you need to do is boil 10 to 12 betel leaves for a few minutes and add honey to the boiled water. Drinking this on a daily basis can help. Betel leaves, when applied over a wound and bandaged, can heal a wound and accelerate the healing process. They are also widely used in Ayurveda for treating boils.  If you are suffering from a severe headache, betel leaves can come to your rescue. The leaves have cooling properties which provide instant relief from the ache when applied externally.\r\n\"",
+        "name": "Paan (Betel Leaf) 30 Pcs",
+        "nameWithoutSubText": "Paan (Betel Leaf)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/paan-betel-leaf-30-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40757&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 15708
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u099a\u09c0\u09a8\u09be \u09ac\u09be\u0981\u09a7\u09be\u0995\u09aa\u09bf \u09aa\u09be\u09a4\u09be \u09e7 \u099f\u09bf",
+        "longDesc": "Chinese Cabbage Leaves is one of the popular vegetable in china. sweet, crunchy, and celery-flavored leaves are one of the most sought-after ingredients in the far East-Asian cuisine. As in cabbages, napa grows to oblong shaped head consisting of tightly arranged crinkly, thick, light-green leaves with prominent, pale white veins. At its core, the leaves feature smooth, light yellow hue. Chinese Cabbage has very good levels of vitamin-C. 100 g of fresh leaves provides about 45% of daily requirements of this vitamin. Regular consumption of foods rich in vitamin C helps the body develop resistance against infectious agents and scavenge harmful, pro-inflammatory free radicals.",
+        "name": "Badhacopi Pata (Chinese Cabbage Leaves) 1 pcs",
+        "nameWithoutSubText": "Badhacopi Pata (Chinese Cabbage Leaves)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/badhacopi-pata-chinese-cabbage-leaves-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7070&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 6227
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ae\u09bf\u0995\u09cd\u09b8\u09a1 \u09b8\u09ac\u099c\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "For a 16-ounce bag of mixed veggies, add about a tablespoon of butter or olive oil and season with salt, pepper and garlic to taste. It sounds simple enough but adding just a little salt and fat to mixed vegetables will make a world of difference.",
+        "name": "Seasonal Mixed Vegetable Pack 500 Gm",
+        "nameWithoutSubText": "Seasonal Mixed Vegetable Pack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/seasonal-mixed-vegetable-pack-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75945&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 23128
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b8\u09c7\u09b2\u09be\u09b0\u09bf \u09aa\u09be\u09a4\u09be \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Celery Leaves 1 pcs",
+        "nameWithoutSubText": "Celery Leaves",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/celery-leaves-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46483&q=low&v=1"
+        ],
+        "price": 185.0,
+        "corpPrice": 185.0,
+        "objectID": 16738
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09b2\u09be\u09b2 \u0986\u09b2\u09c1 (\u0995\u09be\u09b0\u09cd\u09a1\u09bf\u09a8\u09be\u09b2) \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Potatoes Cardinal, mainly people grow for home cooking. It is endowed with a large number of vitamins and minerals.",
+        "name": "Lal Alu Red Cardinal Potato \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Lal Alu Red Cardinal Potato \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lal-alu-red-cardinal-potato-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76922&q=low&v=1"
+        ],
+        "price": 21.0,
+        "corpPrice": 21.0,
+        "objectID": 24282
+    },
+    {
+        "category": {
+            "name": "Fresh Vegetables",
+            "id": "12",
+            "slug": "fresh-vegetable"
+        },
+        "bengaliName": "\u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u0995\u09c1\u09ae\u09a1\u09bc\u09cb \u09e7 \u099f\u09bf",
+        "longDesc": "Sweet Pumpkin is an extremely nutrient dense food, meaning it is chock-full of vitamins and minerals but low on calories. There are many creative ways pumpkin can be incorporated into your diet, including desserts, soups, salads, preserves and even as a substitute for butter. Sweet Pumpkin is a rich source of vitamin A. Sweet Pumpkin is one of the best-known sources of the antioxidant beta-carotene. Pumpkin puree or canned pumpkin can be used as a replacement for butter or oil in baking recipes.",
+        "name": "Misti Kumra (Sweet Pumpkin) 1 pcs",
+        "nameWithoutSubText": "Misti Kumra (Sweet Pumpkin)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/misti-kumra-sweet-pumpkin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35681&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 5933
+    }
+]

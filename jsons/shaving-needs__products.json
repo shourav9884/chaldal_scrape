@@ -1,0 +1,839 @@
+[
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09ae\u09c7\u09a8 \u09aa\u09cd\u09b0\u099f\u09c7\u0995\u09cd\u099f\u09bf\u0982 \u09b6\u09c7\u09ad\u09bf\u0982 \u09ab\u09cb\u09ae \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Nivea Men Extra Moisture Shaving Foam is a rich, moisturising foam with Aloe Vera, Vitamins and Active Moisturisers that helps prevent dry skin. The advanced formula with Ultra Glide Technology softens the beard hair for a closer, smoother shave without the friction.\r\n\r\nSkin compatibility dermatologically approved.",
+        "name": "Nivea Men Protecting Shaving Foam 200 ml",
+        "nameWithoutSubText": "Nivea Men Protecting Shaving Foam",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-men-protecting-shaving-foam-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43150&q=low&v=1"
+        ],
+        "price": 325.0,
+        "corpPrice": 325.0,
+        "objectID": 10098
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09ac\u09cd\u09b2\u09c1 \u09e8 \u09b0\u09c7\u099c\u09be\u09b0 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Gillette Blue II Razor 1 pcs",
+        "nameWithoutSubText": "Gillette Blue II Razor",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-blue-ii-razor-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D4674&q=low&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 5651
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u0997\u09be\u09b0\u09cd\u09a1 \u09ac\u09cd\u09b2\u09c7\u09a1 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Gillette Guard Blade 1 pcs",
+        "nameWithoutSubText": "Gillette Guard Blade",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-guard-blade-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D19593&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 10719
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09ac\u09cd\u09b2\u09c1 \u09e9 \u09b0\u09c7\u099c\u09be\u09b0 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Gillette Blue 3 Razor 1 pcs",
+        "nameWithoutSubText": "Gillette Blue 3 Razor",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-blue-3-razor-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D17666&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 10630
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09b6\u09bf\u0995 \u098f\u0995\u09cd\u09b8\u09be\u0995\u09cd\u099f \u09e8 \u09b8\u09c7\u09a8\u09b8\u09bf\u099f\u09bf\u09ad \u09b0\u09c7\u099c\u09be\u09b0 \u09eb \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Schick Exacta 2 Sensitive Razor 5 pcs",
+        "nameWithoutSubText": "Schick Exacta 2 Sensitive Razor",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/schick-exacta-2-sensitive-razor-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25552&q=low&v=1"
+        ],
+        "price": 176.0,
+        "corpPrice": 176.0,
+        "objectID": 11624
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09ae\u09cd\u09af\u09be\u0995 \u09e9 \u09ac\u09cd\u09b2\u09c7\u09a1 \u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Gillette Mach 3 Blade 2 pcs",
+        "nameWithoutSubText": "Gillette Mach 3 Blade",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-mach-3-blade-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77367&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 8708
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09ae\u09c7\u09a8 \u0995\u09c1\u09b2 \u0995\u09bf\u0995 \u09b6\u09c7\u09ad\u09bf\u0982 \u099c\u09c7\u09b2 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Nivea Men Cool Kick Shaving Gel 200 ml",
+        "nameWithoutSubText": "Nivea Men Cool Kick Shaving Gel",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-men-cool-kick-shaving-gel-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61557&q=low&v=1"
+        ],
+        "price": 425.0,
+        "corpPrice": 425.0,
+        "objectID": 21918
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u0995\u09c1\u09b2 \u0995\u09bf\u0995 \u09b6\u09c7\u09ad\u09bf\u0982 \u09ab\u09cb\u09ae \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Nivea Cool Kick Shaving Foam 200 ml",
+        "nameWithoutSubText": "Nivea Cool Kick Shaving Foam",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-cool-kick-shaving-foam-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61556&q=low&v=1"
+        ],
+        "price": 325.0,
+        "corpPrice": 325.0,
+        "objectID": 21917
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09ae\u09cd\u09af\u09be\u09a8 \u09a1\u09bf\u09aa \u0987\u09ae\u09cd\u09aa\u09c7\u0995\u09cd\u099f \u0995\u09ae\u09ab\u09cb\u09b0\u09cd\u099f \u0986\u09ab\u099f\u09be\u09b0 \u09b6\u09c7\u09ad \u09b2\u09cb\u09b6\u09be\u09a8 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Nivea Men Deep Impact Comfort After Shave Lotion 100 ml",
+        "nameWithoutSubText": "Nivea Men Deep Impact Comfort After Shave Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-men-deep-impact-comfort-after-shave-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61478&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 21865
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0993\u09b2\u09cd\u09a1 \u09b8\u09cd\u09aa\u09be\u0987\u09b8 \u0985\u09cd\u09af\u09be\u099f\u09ae\u09be\u0987\u099c\u09be\u09b0 \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u0986\u09ab\u099f\u09be\u09b0 \u09b6\u09c7\u09ad \u09b2\u09cb\u09b6\u09be\u09a8 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Old Spice Original After Shave Lotion 100 ml",
+        "nameWithoutSubText": "Old Spice Original After Shave Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/old-spice-original-after-shave-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61028&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 21648
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0993\u09b2\u09cd\u09a1 \u09b8\u09cd\u09aa\u09be\u0987\u09b8 \u0985\u09cd\u09af\u09be\u099f\u09ae\u09be\u0987\u099c\u09be\u09b0 \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u0986\u09ab\u099f\u09be\u09b0 \u09b6\u09c7\u09ad \u09b2\u09cb\u09b6\u09be\u09a8 \u09e7\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Old Spice Atomizer Original After Shave Lotion 150 ml",
+        "nameWithoutSubText": "Old Spice Atomizer Original After Shave Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/old-spice-atomizer-original-after-shave-lotion-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61027&q=low&v=1"
+        ],
+        "price": 449.0,
+        "corpPrice": 449.0,
+        "objectID": 21647
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0993\u09b2\u09cd\u09a1 \u09b8\u09cd\u09aa\u09be\u0987\u09b8 \u0985\u09cd\u09af\u09be\u099f\u09ae\u09be\u0987\u099c\u09be\u09b0 \u09ae\u09be\u09b8\u09cd\u0995 \u09b6\u09c7\u09ad \u09b2\u09cb\u09b6\u09a8 \u09e7\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Old Spice Atomizer Musk After Shave Lotion 150 ml",
+        "nameWithoutSubText": "Old Spice Atomizer Musk After Shave Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/old-spice-atomizer-musk-after-shave-lotion-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61021&q=low&v=1"
+        ],
+        "price": 449.0,
+        "corpPrice": 449.0,
+        "objectID": 21645
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0993\u09b2\u09cd\u09a1 \u09b8\u09cd\u09aa\u09be\u0987\u09b8 \u0985\u09cd\u09af\u09be\u099f\u09ae\u09be\u0987\u099c\u09be\u09b0 \u09ab\u09cd\u09b0\u09c7\u09b8 \u09b2\u09be\u0987\u09ae \u0986\u09ab\u099f\u09be\u09b0 \u09b6\u09c7\u09ad \u09b2\u09cb\u09b6\u09be\u09a8 \u09e7\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Old Spice Atomizer Fresh Lime After Shave Lotion 150 ml",
+        "nameWithoutSubText": "Old Spice Atomizer Fresh Lime After Shave Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/old-spice-atomizer-fresh-lime-after-shave-lotion-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61020&q=low&v=1"
+        ],
+        "price": 449.0,
+        "corpPrice": 449.0,
+        "objectID": 21644
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09b8\u09c7\u09a8\u09cd\u09b8\u09bf\u099f\u09bf\u09ad \u0995\u09c1\u09b2\u09bf\u0982 \u09b8\u09c7\u09ad\u09bf\u0982 \u099c\u09c7\u09b2 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Nivea Sensitive Cooling Shaving Gel 200 ml",
+        "nameWithoutSubText": "Nivea Sensitive Cooling Shaving Gel",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-sensitive-cooling-shaving-gel-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58003&q=low&v=1"
+        ],
+        "price": 425.0,
+        "corpPrice": 425.0,
+        "objectID": 21146
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0993\u09af\u09bc\u09c7\u09ad \u09b6\u09c7\u09ad\u09bf\u0982 \u09ab\u09cb\u09ae \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Wave Shaving Foam 200 ml",
+        "nameWithoutSubText": "Wave Shaving Foam",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/wave-shaving-foam-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54973&q=low&v=1"
+        ],
+        "price": 190.0,
+        "corpPrice": 190.0,
+        "objectID": 20516
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0995\u09bf\u0989\u099f \u09b6\u09c7\u09ad\u09bf\u0982 \u0995\u09cd\u09b0\u09bf\u09ae \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nCute shaving cream glides over your skin gently to give you a comfortable shave.\r\nINGREDIENT\r\nStearic acid, myristic acid, propylene glycol, perfume, coconut oil.",
+        "name": "Cute Shaving Cream 100 gm",
+        "nameWithoutSubText": "Cute Shaving Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cute-shaving-cream-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53293&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 20365
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09ae\u09cd\u09af\u09be\u0995 \u09e9 \u099f\u09be\u09b0\u09ac\u09cb \u09ac\u09cd\u09b2\u09c7\u0987\u09a1 \u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Gillette Mach 3 Turbo Blade 2 pcs",
+        "nameWithoutSubText": "Gillette Mach 3 Turbo Blade",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-mach-3-turbo-blade-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52663&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 20141
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0995\u09bf\u0989\u099f \u0986\u09ab\u09cd\u099f\u09be\u09b0 \u09b8\u09c7\u09ad \u09b2\u09cb\u09b6\u09a8 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nApply Cute After Shave Lotion to get a smooth and fragrant skin after shaving.\r\nINGREDIENT:\r\n\u2022          Ethanol \r\n\u2022          Distilled water\r\n\u2022          Isopropyl myristate\r\n\u2022          Propylene Glycol\r\n\u2022          Vitamin -E- Acetate\r\n\u2022          Perfume",
+        "name": "Cute After Shave Lotion 100 ml",
+        "nameWithoutSubText": "Cute After Shave Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cute-after-shave-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50477&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 18627
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0995\u09c1\u09b2 \u0986\u09ab\u099f\u09be\u09b0 \u09b6\u09c7\u09ad \u09b2\u09cb\u09b7\u09a8 \u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Kool After Shave Lotion 50 ml",
+        "nameWithoutSubText": "Kool After Shave Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kool-after-shave-lotion-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50035&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 18333
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0995\u09c1\u09b2 \u0986\u09b2\u099f\u09cd\u09b0\u09be \u0997\u09cd\u09b2\u09be\u0987\u09a1 \u09b6\u09c7\u09ad\u09bf\u0982 \u09ab\u09cb\u09ae \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Kool Ultra Glide Shaving Foam 400 ml",
+        "nameWithoutSubText": "Kool Ultra Glide Shaving Foam",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kool-ultra-glide-shaving-foam-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70388&q=low&v=1"
+        ],
+        "price": 240.0,
+        "corpPrice": 240.0,
+        "objectID": 16815
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09ae\u09c7\u09a8 \u09b8\u09c7\u09a8\u09cd\u09b8\u09bf\u099f\u09bf\u09ad \u09ab\u09cd\u09b2\u09c1\u0987\u09a1 \u09b6\u09c7\u09ad \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Nivea Men Sensitive After Shave Lotion 100 ml",
+        "nameWithoutSubText": "Nivea Men Sensitive After Shave Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-men-sensitive-after-shave-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39719&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 15495
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u098f\u09a1\u09b0\u09cb \u09ae\u09cd\u09af\u09be\u0995\u09cd\u09b8 \u09eb \u09b0\u09bf\u09ab\u09bf\u09b2 \u09b0\u09c7\u099c\u09be\u09b0 \u0995\u09be\u09b0\u09cd\u099f\u09bf\u099c \u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Adoro Max 5 Refill Razor Cartridges 2 pcs",
+        "nameWithoutSubText": "Adoro Max 5 Refill Razor Cartridges",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/adoro-max-5-refill-razor-cartridges-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35188&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 14409
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a1\u09c7\u09a8\u09bf\u09ae \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u0986\u09ab\u09cd\u099f\u09be\u09b0 \u09b8\u09c7\u09ad \u09b2\u09cb\u09b6\u09a8 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Denim Original After Shave Lotion 100 ml",
+        "nameWithoutSubText": "Denim Original After Shave Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/denim-original-after-shave-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D31700&q=low&v=1"
+        ],
+        "price": 399.0,
+        "corpPrice": 399.0,
+        "objectID": 13878
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09ac\u09cd\u09b0\u09c1\u099f \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u0986\u09ab\u099f\u09be\u09b0 \u09b6\u09c7\u09ad \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: UK",
+        "name": "Brut Original After Shave 100 ml",
+        "nameWithoutSubText": "Brut Original After Shave",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/brut-original-after-shave-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D31699&q=low&v=1"
+        ],
+        "price": 649.0,
+        "corpPrice": 649.0,
+        "objectID": 13877
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u098f\u09cd\u09af\u09be\u0995\u09cd\u09b8 \u09a1\u09be\u09b0\u09cd\u0995 \u099f\u09c7\u09ae\u09cd\u09aa\u099f\u09c7\u09b6\u09be\u09a8 \u0986\u09ab\u099f\u09be\u09b0 \u09b6\u09c7\u09ad \u09b2\u09cb\u09b6\u09be\u09a8 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "AXE Dark Temptation After Shave Lotion 100 gm",
+        "nameWithoutSubText": "AXE Dark Temptation After Shave Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/axe-dark-temptation-after-shave-lotion-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D20709&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 11484
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09ab\u09bf\u0989\u09b6\u09a8 \u09ac\u09cd\u09b2\u09c7\u09a1 \u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Gillette Fusion Blade 2 pcs",
+        "nameWithoutSubText": "Gillette Fusion Blade",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-fusion-blade-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77365&q=low&v=1"
+        ],
+        "price": 499.0,
+        "corpPrice": 499.0,
+        "objectID": 11095
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09ae\u09cd\u09af\u09be\u09a8 \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2\u09b8\u09cd \u09aa\u09cb\u09b8\u09cd\u099f \u09b6\u09c7\u09ad \u09ac\u09be\u09ae \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Nivea Men Originals Replenishing After Shave Balm. The soothing formula for all skin types provides instant relief to just shaved skin. Special moisturisers, Vitamins and Aloe Vera ensure your skin looks healthy and well cared-for.",
+        "name": "Nivea Men Originals Post Shave Balm 100 ml",
+        "nameWithoutSubText": "Nivea Men Originals Post Shave Balm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-men-originals-post-shave-balm-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18603&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 10909
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09ae\u09c7\u09a8 \u0986\u09ab\u09cd\u099f\u09be\u09b0 \u09b6\u09c7\u09ad \u09b8\u09cd\u09aa\u09cd\u09b2\u09cd\u09af\u09be\u09b6 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Nivea Men After Shave Splash 100 ml",
+        "nameWithoutSubText": "Nivea Men After Shave Splash",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-men-after-shave-splash-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40429&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 10907
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09ae\u09c7\u09a8 \u09b8\u09c7\u09a8\u09cd\u09b8\u09bf\u099f\u09bf\u09ad \u09b6\u09c7\u09ad\u09bf\u0982 \u09ab\u09cb\u09ae \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "\u2022Softens the stubble for a close shave without tug and pull\r\n\u2022Protects skin from irritations without burning\r\n\u2022Skin feels comfortable and smooth",
+        "name": "Nivea Men Sensitive Shaving Foam 200 ml",
+        "nameWithoutSubText": "Nivea Men Sensitive Shaving Foam",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-men-sensitive-shaving-foam-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18576&q=low&v=1"
+        ],
+        "price": 325.0,
+        "corpPrice": 325.0,
+        "objectID": 10900
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ad\u09bf\u09df\u09be \u09ae\u09c7\u09a8 \u0995\u09c1\u09b2 \u0995\u09bf\u0995 \u09b6\u09c7\u09ad\u09bf\u0982 \u099c\u09c7\u09b2 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf ",
+        "longDesc": "NIVEA MEN COOL KICK SHAVING Gel provides a comfortable yet invigorating shave. Thanks to Mint Extracts, ISO-Magnesium and Vitamin Care it refreshes the skin while the Ultra Glide Technology ensures a close and extra comfortable shave.\r\n\u2022 For skin that feels invigorated, supple and refreshed. \r\n\u2022 Invigorates and refreshes\r\n\u2022 Provides a close and extra comfortable shave\r\n\u2022 Protects against micro cuts and irritations\r\n\u2022 Dermatologically approved\r\n\u2022 Mint Extracts, ISO-Magnesium and Vitamin Care it refreshes the skin\r\n\u2022 Ultra Glide Technology ensures a close and extra comfortable shave\r\n\u2022 Protects against micro cuts and irritations",
+        "name": "Nivea Men Cool Kick Shaving Gel 200 ml",
+        "nameWithoutSubText": "Nivea Men Cool Kick Shaving Gel",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nivea-men-cool-kick-shaving-gel-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18574&q=low&v=1"
+        ],
+        "price": 425.0,
+        "corpPrice": 425.0,
+        "objectID": 10899
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a4\u09bf\u09ac\u09cd\u09ac\u09a4 \u09b2\u09c7\u09a6\u09be\u09b0 \u09b6\u09c7\u09ad\u09bf\u0982 \u0995\u09cd\u09b0\u09bf\u09ae \u099f\u09bf\u0989\u09ac \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tibet Lather Shaving Cream Tube 50 gm",
+        "nameWithoutSubText": "Tibet Lather Shaving Cream Tube",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tibet-lather-shaving-cream-tube-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18088&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 10714
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u098f\u09cd\u09af\u09be\u0995\u09cd\u09b8 \u0986\u09ab\u09cd\u09b0\u09bf\u0995\u09be \u0986\u09ab\u099f\u09be\u09b0 \u09b6\u09c7\u09ad \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "AXE Africa After Shave 100 ml",
+        "nameWithoutSubText": "AXE Africa After Shave",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/axe-africa-after-shave-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40610&q=low&v=1"
+        ],
+        "price": 415.0,
+        "corpPrice": 415.0,
+        "objectID": 10538
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09c7\u09a8\u09b8\u09cd\u099f\u09be \u09b2\u09c7\u09a6\u09be\u09b0 \u09b6\u09c7\u09ad\u09bf\u0982 \u0995\u09cd\u09b0\u09bf\u09ae \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Genstar Lather Shaving Cream 100 gm",
+        "nameWithoutSubText": "Genstar Lather Shaving Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/genstar-lather-shaving-cream-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D17345&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 10489
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0986\u0987\u09b8 \u0995\u09c1\u09b2 \u09b6\u09c7\u09ad\u09bf\u0982 \u0995\u09cd\u09b0\u09bf\u09ae \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ice Cool Shaving Cream 50 gm",
+        "nameWithoutSubText": "Ice Cool Shaving Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ice-cool-shaving-cream-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D17627&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 10480
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a1\u09c7\u09a8\u09bf\u09ae \u09ac\u09cd\u09b2\u09cd\u09af\u09be\u0995 \u0986\u09ab\u099f\u09be\u09b0 \u09b8\u09c7\u09ad \u09b2\u09cb\u09b6\u09a8 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Denim Black After Shave Lotion 100 ml ",
+        "nameWithoutSubText": "Denim Black After Shave Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/denim-black-after-shave-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D31686&q=low&v=1"
+        ],
+        "price": 325.0,
+        "corpPrice": 325.0,
+        "objectID": 10401
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0995\u09c1\u09b2 \u0986\u09b2\u099f\u09cd\u09b0\u09be \u0997\u09cd\u09b2\u09be\u0987\u09a1 \u09b6\u09c7\u09ad\u09bf\u0982 \u09ab\u09cb\u09ae \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Kool Ultra Glide Shaving Foam 200 ml",
+        "nameWithoutSubText": "Kool Ultra Glide Shaving Foam",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kool-ultra-glide-shaving-foam-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D37509&q=low&v=1"
+        ],
+        "price": 190.0,
+        "corpPrice": 190.0,
+        "objectID": 10254
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09b6\u09c7\u09ad\u09bf\u0982 \u09ab\u09cb\u09ae \u09b8\u09c7\u09a8\u09cd\u09b8\u09bf\u099f\u09bf\u09ad \u09b8\u09cd\u0995\u09bf\u09a8 \u09ef\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Gillette Shaving Foam Sensitive Skin 98 gm",
+        "nameWithoutSubText": "Gillette Shaving Foam Sensitive Skin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-shaving-foam-sensitive-skin-98-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D16018&q=low&v=1"
+        ],
+        "price": 170.0,
+        "corpPrice": 170.0,
+        "objectID": 10025
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u09a1\u09c7\u09a8\u09bf\u09ae \u09ae\u09be\u09b8\u09cd\u0995 \u0986\u09ab\u09cd\u099f\u09be\u09b0 \u09b8\u09c7\u09ad \u09b2\u09cb\u09b6\u09a8 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Denim Musk After Shave Lotion 100 ml",
+        "nameWithoutSubText": "Denim Musk After Shave Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/denim-musk-after-shave-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D31687&q=low&v=1"
+        ],
+        "price": 365.0,
+        "corpPrice": 365.0,
+        "objectID": 9499
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0995\u09c1\u09b2 \u0986\u09ab\u09cd\u099f\u09be\u09b0 \u09b8\u09c7\u09ad \u09b2\u09cb\u09b6\u09a8 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Kool After Shave Lotion 100 ml",
+        "nameWithoutSubText": "Kool After Shave Lotion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kool-after-shave-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D31690&q=low&v=1"
+        ],
+        "price": 195.0,
+        "corpPrice": 195.0,
+        "objectID": 8334
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09b6\u09c7\u09ad\u09bf\u0982 \u09ab\u09cb\u09ae \u09b0\u09c7\u0997\u09c1\u09b2\u09be\u09b0 \u09e7\u09ef\u09ec \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Gillette Foamy Sensitive Skin is lightly fragranced and provides a rich, creamy lather that spreads easily and rinses clean for that Foamy shave men have enjoyed for generations.",
+        "name": "Gillette Shaving Foam Regular 196 gm",
+        "nameWithoutSubText": "Gillette Shaving Foam Regular",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-shaving-foam-regular-196-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D13564&q=low&v=1"
+        ],
+        "price": 269.0,
+        "corpPrice": 269.0,
+        "objectID": 7915
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09b2\u09c7\u09ae\u09a8 \u09b2\u09be\u0987\u09ae \u09b6\u09c7\u09ad\u09bf\u0982 \u09ab\u09cb\u09ae \u09e7\u09ef\u09ec \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Gillette Lemon Lime Shaving Foam 196 gm",
+        "nameWithoutSubText": "Gillette Lemon Lime Shaving Foam",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-lemon-lime-shaving-foam-196-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49931&q=low&v=1",
+            "https://chaldn.com/_mpimage/gillette-lemon-lime-shaving-foam-196-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49932&q=low&v=1"
+        ],
+        "price": 239.0,
+        "corpPrice": 239.0,
+        "objectID": 7188
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0995\u09c1\u09b2 \u09b8\u09c7\u09ad\u09bf\u0982 \u0995\u09cd\u09b0\u09bf\u09ae \u09ae\u09a8\u09b8\u09c1\u09a8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kool Shaving Cream Monsoon 50 gm",
+        "nameWithoutSubText": "Kool Shaving Cream Monsoon",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kool-shaving-cream-monsoon-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38837&q=low&v=1",
+            "https://chaldn.com/_mpimage/kool-shaving-cream-monsoon-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22211&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 6522
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09b6\u09c7\u09ad\u09bf\u0982 \u09ab\u09cb\u09ae \u09b0\u09c7\u0997\u09c1\u09b2\u09be\u09b0 \u09ef\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Gillette Foamy Sensitive Skin is lightly fragranced and provides a rich, creamy lather that spreads easily and rinses clean for that Foamy shave men have enjoyed for generations.",
+        "name": "Gillette Shaving Foam Regular 98 gm",
+        "nameWithoutSubText": "Gillette Shaving Foam Regular",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-shaving-foam-regular-98-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D4676&q=low&v=1"
+        ],
+        "price": 170.0,
+        "corpPrice": 170.0,
+        "objectID": 5653
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09b8\u09bf\u09b0\u09bf\u099c \u09b8\u09c7\u09a8\u09cd\u09b8\u09bf\u099f\u09bf\u09ad \u09b8\u09cd\u0995\u09bf\u09a8 \u099c\u09c7\u09b2 \u09e7\u09ef\u09ec \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Gillette Series Sensitive Skin Gel 196 gm",
+        "nameWithoutSubText": "Gillette Series Sensitive Skin Gel",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-series-sensitive-skin-gel-196-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49933&q=low&v=1",
+            "https://chaldn.com/_mpimage/gillette-series-sensitive-skin-gel-196-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49934&q=best&v=1"
+        ],
+        "price": 335.0,
+        "corpPrice": 335.0,
+        "objectID": 5652
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09ae\u09cd\u09af\u09be\u099a \u09e9 \u09b0\u09c7\u099c\u09be\u09b0 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Gillette Mach 3 Razor 1 pcs",
+        "nameWithoutSubText": "Gillette Mach 3 Razor",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-mach-3-razor-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D4671&q=low&v=1"
+        ],
+        "price": 379.0,
+        "corpPrice": 379.0,
+        "objectID": 5648
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09ad\u09bf\u0995\u09cd\u099f\u09b0 \u09ac\u09cd\u09b2\u09c7\u0987\u09a1 \u09e8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Gillette Vector Blade 2 pcs",
+        "nameWithoutSubText": "Gillette Vector Blade",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-vector-blade-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D4669&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 5646
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09ab\u09bf\u0989\u09b6\u09a8 \u09b0\u09c7\u099c\u09be\u09b0 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Gillette Fusion Razor 1 pcs",
+        "nameWithoutSubText": "Gillette Fusion Razor",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-fusion-razor-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77366&q=low&v=1"
+        ],
+        "price": 625.0,
+        "corpPrice": 625.0,
+        "objectID": 2918
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u099c\u09bf\u09b2\u09c7\u099f \u09b8\u09bf\u09b0\u09bf\u099c \u09ae\u09df\u09c7\u09b6\u09cd\u099a\u09be\u09b0\u09be\u0987\u099c\u09bf\u0982 \u099c\u09c7\u09b2 \u09e7\u09ef\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Gillette Series Moisturizing Gel 195 gm",
+        "nameWithoutSubText": "Gillette Series Moisturizing Gel",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gillette-series-moisturizing-gel-195-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D1339&q=low&v=1"
+        ],
+        "price": 335.0,
+        "corpPrice": 335.0,
+        "objectID": 2917
+    },
+    {
+        "category": {
+            "name": "Shaving Needs",
+            "id": "32",
+            "slug": "shaving-needs"
+        },
+        "bengaliName": "\u0995\u09c1\u09b2 \u09ab\u09cd\u09b0\u09b8\u099f\u09bf \u09b6\u09c7\u09ad\u09bf\u0982 \u0995\u09cd\u09b0\u09bf\u09ae \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kool Frosty Shaving Cream 50 gm",
+        "nameWithoutSubText": "Kool Frosty Shaving Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kool-frosty-shaving-cream-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38836&q=low&v=1",
+            "https://chaldn.com/_mpimage/kool-frosty-shaving-cream-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22209&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 2280
+    }
+]

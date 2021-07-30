@@ -1,0 +1,802 @@
+[
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09a1\u09bf\u09b6 \u0993\u09af\u09bc\u09be\u09b6\u09bf\u0982 \u09b8\u09cd\u0995\u09cd\u09b0\u09be\u09ac\u09bf\u0982 \u09aa\u09cd\u09af\u09be\u09a1 \u09e7 \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Dish Washing Scrubbing Pad 1 pcs",
+        "nameWithoutSubText": "Dish Washing Scrubbing Pad",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dish-washing-scrubbing-pad-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44027&q=low&v=1"
+        ],
+        "price": 29.0,
+        "corpPrice": 29.0,
+        "objectID": 16290
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u099f\u09cd\u09b0\u09cd\u09af\u09be\u09b6 \u09ac\u09cd\u09af\u09be\u0997 \u0995\u09be\u09b2\u09cb \u09e7\u09e8 \u099f\u09bf ",
+        "longDesc": "Size: 20x30",
+        "name": "Trash Bag Black 12 pcs",
+        "nameWithoutSubText": "Trash Bag Black",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/trash-bag-black-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49765&q=low&v=1"
+        ],
+        "price": 189.0,
+        "corpPrice": 189.0,
+        "objectID": 6981
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u0995\u09bf\u099a\u09c7\u09a8 \u099f\u09be\u0993\u09df\u09c7\u09b2 \u09b0\u09cb\u09b2 \u09e7 \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Fresh kitchen Towel Roll 1 pcs ",
+        "nameWithoutSubText": "Fresh kitchen Towel Roll",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-kitchen-towel-roll-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49743&q=low&v=1"
+        ],
+        "price": 54.0,
+        "corpPrice": 54.0,
+        "objectID": 15582
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09b0\u0995 \u09a1\u09bf\u09b8\u0993\u09df\u09be\u09b6\u09bf\u0982 \u09b8\u09cd\u099f\u09bf\u09b2 \u09ae\u09be\u099c\u09c1\u09a8\u09bf \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Rok Dishwashing Steel Scourer 1 pcs",
+        "nameWithoutSubText": "Rok Dishwashing Steel Scourer",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rok-dishwashing-steel-scourer-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68591&q=best&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 9410
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09b8\u09cd\u099f\u09c7\u0987\u09a8\u09b2\u09c7\u09b8 \u09b8\u09cd\u099f\u09bf\u09b2\u09c7\u09b0 \u09ae\u09be\u099c\u09c1\u09a8\u09bf \u09ea \u099f\u09bf",
+        "longDesc": null,
+        "name": "Stainless Steel Scourer 4 pcs",
+        "nameWithoutSubText": "Stainless Steel Scourer",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/stainless-steel-scourer-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43183&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 10890
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u0993\u09df\u09be\u09a8\u09cd\u09a1\u09be\u09b0 \u09b8\u09cd\u099f\u09c7\u0987\u09a8\u09b2\u09c7\u09b8 \u09b8\u09cd\u099f\u09c0\u09b2 \u09ae\u09be\u099c\u09c1\u09a8\u09bf \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "ACI Wonder Stainless Steel Scrubber 1 pcs",
+        "nameWithoutSubText": "ACI Wonder Stainless Steel Scrubber",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-wonder-stainless-steel-scrubber-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22932&q=low&v=1",
+            "https://chaldn.com/_mpimage/wonder-stainless-steel-scrubber-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22934&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 12055
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b2\u09be\u09a8\u09c7\u099f \u0995\u09cb\u0995\u09cb\u09a8\u09be\u099f \u09b8\u09cd\u099f\u09bf\u0995  \u09ac\u09bf\u099b\u09be\u09a8\u09be \u099d\u09be\u09dc\u09c1\u09c1 \u09e8 \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Planet Coconut Stick Broom For Bed 2 pcs",
+        "nameWithoutSubText": "Planet Coconut Stick Broom For Bed",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/planet-coconut-stick-broom-for-bed-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71713&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 23262
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09ac\u09c7\u09b8\u09bf\u09a8 \u0995\u09be\u09b0\u09cd\u09ad \u0995\u09cd\u09b2\u09bf\u09a8 \u09ac\u09cd\u09b0\u09be\u09b6  \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Basin Curve Clean Brush 1 pcs",
+        "nameWithoutSubText": "Basin Curve Clean Brush",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/basin-curve-clean-brush-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64491&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 9284
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b2\u09cb\u09b0 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09ac\u09cd\u09b0\u09be\u09b6 \u09ec \u0987\u099e\u09cd\u099a\u09bf \u09b2\u09cb\u0995\u09be\u09b2 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Floor Hand Brush 6\" Local 1 pcs",
+        "nameWithoutSubText": "Floor Hand Brush 6\" Local",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/floor-hand-brush-6-local-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64490&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 9295
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09b0\u0995 \u09a1\u09bf\u09b6\u0993\u09df\u09be\u09b6\u09bf\u0982 \u09b7\u09cd\u099f\u09bf\u09b2 \u09ae\u09be\u099c\u09c1\u09a8\u09bf (\u09e9 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0)",
+        "longDesc": null,
+        "name": "Rok Dishwashing Steel Scourer (Buy 3 Get 1 Free)",
+        "nameWithoutSubText": "Rok Dishwashing Steel Scourer (Buy 3 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rok-dishwashing-steel-scourer-buy-3-get-1-free?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78499&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 14281
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09a1\u09bf\u09b6 \u0993\u09df\u09be\u09b6\u09bf\u0982 \u09aa\u09cd\u09b2\u09be\u09b8\u09cd\u099f\u09bf\u0995 \u09b8\u09cd\u09aa\u099e\u09cd\u099c \u09ae\u09be\u09b2\u09cd\u099f\u09bf \u0995\u09be\u09b2\u09be\u09b0 \u09eb \u099f\u09bf",
+        "longDesc": null,
+        "name": "Dish Washing Plastic Sponge Multi Color 5 Pcs",
+        "nameWithoutSubText": "Dish Washing Plastic Sponge Multi Color",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dish-washing-plastic-sponge-multi-color-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79774&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 14350
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u0995\u09ae\u09cb\u09a1 \u09b9\u09c7\u09a8\u09cd\u09a1\u09c7\u09b2 \u09ac\u0995\u09cd\u09b8 \u09ac\u09cd\u09b0\u09be\u09b6 \u09e8\u09e9 \u0987\u099e\u09cd\u099a\u09bf \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Comode Handle Box Brush 23\" 1 pcs",
+        "nameWithoutSubText": "Comode Handle Box Brush 23\"",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/comode-handle-box-brush-23-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D33812&q=low&v=1"
+        ],
+        "price": 139.0,
+        "corpPrice": 139.0,
+        "objectID": 9289
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u098f\u09a8\u09aa\u09b2\u09bf \u09a1\u09be\u09b8\u09cd\u099f \u09aa\u09cd\u09af\u09be\u09a8 \u09eex\u09ec \u0987\u099e\u09cd\u099a\u09bf (\u09b2\u09be\u09b2)",
+        "longDesc": null,
+        "name": "Npoly Dust Pan 8x6 inch (Red)",
+        "nameWithoutSubText": "Npoly Dust Pan 8x6 inch (Red)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/npoly-dust-pan-8x6-inch-red?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25598&q=low&v=1"
+        ],
+        "price": 31.0,
+        "corpPrice": 31.0,
+        "objectID": 13067
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u0995\u09be\u09aa\u09dc\u09c7\u09b0 \u09aa\u09bf\u09a8 \u09ea \u099f\u09bf \u09b0\u0999\u09c7\u09b0 \u099a\u09be\u09df\u09a8\u09be \u09e7\u09ec \u099f\u09bf",
+        "longDesc": null,
+        "name": "Cloth Pin 4 Colour  16 pcs",
+        "nameWithoutSubText": "Cloth Pin 4 Colour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cloth-pin-4-colour-16-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D20478&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 10728
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u099f\u09cd\u09b0\u09cd\u09af\u09be\u09b6 \u09ac\u09cd\u09af\u09be\u0997 \u09b8\u09be\u09a6\u09be \u09e7\u09e8 \u099f\u09bf ",
+        "longDesc": "Size: 20x30",
+        "name": "Trash Bag White 10 pcs ",
+        "nameWithoutSubText": "Trash Bag White",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/trash-bag-white-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49766&q=low&v=1"
+        ],
+        "price": 189.0,
+        "corpPrice": 189.0,
+        "objectID": 6980
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09ab\u09c1\u09b2 \u099d\u09be\u09dc\u09c1  \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Flower Broom (Ful Jharu) 1 pcs",
+        "nameWithoutSubText": "Flower Broom (Ful Jharu)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/flower-broom-ful-jharu-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D20664&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 9296
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u098f\u09a8\u09aa\u09b2\u09bf \u09a1\u09bf\u099c\u09be\u0987\u09a8 \u09ae\u0997 \u09e8 \u09b2\u09bf\u099f\u09be\u09b0 (\u09a8\u09c0\u09b2)",
+        "longDesc": null,
+        "name": "Npoly Design Mug 2 ltr (Blue)",
+        "nameWithoutSubText": "Npoly Design Mug 2 ltr (Blue)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/npoly-design-mug-2-ltr-blue?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25599&q=low&v=1"
+        ],
+        "price": 38.0,
+        "corpPrice": 38.0,
+        "objectID": 13068
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u0995\u09cd\u09b2\u09bf\u09a8\u09bf\u0982 \u09b2\u0982 \u09aa\u09cd\u09b2\u09cd\u09af\u09be\u09b8\u09cd\u099f\u09bf\u0995 \u09ae\u09aa \u09ac\u09cd\u09b0\u09be\u09b6 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Cleaning Long Plastic Mop Brush 1 pcs ",
+        "nameWithoutSubText": "Cleaning Long Plastic Mop Brush",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cleaning-long-plastic-mop-brush-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D13794&q=low&v=1"
+        ],
+        "price": 190.0,
+        "corpPrice": 190.0,
+        "objectID": 9306
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u0997\u09cd\u09b2\u09be\u09b8 \u0993\u09df\u09be\u0987\u09aa\u09be\u09b0 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 (\u09e7\u09e6x\u09e7\u09e6 \u0987\u099e\u09cd\u099a\u09bf) \u099a\u09be\u09df\u09a8\u09be \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Glass Wiper Spray(10x10 inch) China 1 pcs",
+        "nameWithoutSubText": "Glass Wiper Spray(10x10 inch) China",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/glass-wiper-spray10x10-inch-china-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18175&q=low&v=1"
+        ],
+        "price": 139.0,
+        "corpPrice": 139.0,
+        "objectID": 10752
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u0995\u09be\u09aa\u09dc\u09c7\u09b0 \u09a1\u09be\u09b8\u09cd\u099f\u09be\u09b0 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Cotton Duster 1 pcs",
+        "nameWithoutSubText": "Cotton Duster",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cotton-duster-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65898&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 2802
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b2\u09cb\u09b0 \u0995\u09cd\u09b2\u09bf\u09a8\u09bf\u0982 \u09aa\u09cd\u09b0\u09bf\u09a8\u09cd\u099f\u09c7\u09a1 (\u09ea\u09eb\"x\u09e7\u09e8\") \u099d\u09be\u09dc\u09c1 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Floor Cleaning Printed (45\"x12\") Mop1 pcs",
+        "nameWithoutSubText": "Floor Cleaning Printed (45\"x12\") Mop1 pcs",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/floor-cleaning-printed-45x12-mop1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D20645&q=low&v=1"
+        ],
+        "price": 179.0,
+        "corpPrice": 179.0,
+        "objectID": 9301
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09ae\u09cd\u09af\u09be\u099c\u09bf\u0995 \u09ab\u09be\u0987\u09ac\u09be\u09b0 \u099f\u09c1\u0987\u09b8\u09cd\u099f \u09ab\u09cd\u09b2\u09cb\u09b0 \u09b8\u09cd\u099f\u09bf\u09b2 \u09ae\u09aa (\u099a\u09be\u09df\u09a8\u09be) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Magic Fiber Twist Floor Steel Mop (China) 1 pcs",
+        "nameWithoutSubText": "Magic Fiber Twist Floor Steel Mop (China)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/magic-fiber-twist-floor-steel-mop-china-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D30886&q=low&v=1"
+        ],
+        "price": 349.0,
+        "corpPrice": 349.0,
+        "objectID": 10941
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u099f\u09df\u09b2\u09c7\u099f \u09ac\u09cd\u09b0\u09be\u09b6 (\u09e8\u09ea \u0987\u099e\u09cd\u099b\u09bf) \u09b2\u09cb\u0995\u09be\u09b2 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Toilet Brush 24\" Local 1 pcs",
+        "nameWithoutSubText": "Toilet Brush 24\" Local",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/toilet-brush-24-local-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D20647&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 9696
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b2\u09be\u09a8\u09c7\u099f \u09ac\u09dc \u09b6\u09cb\u09b2\u09be \u099d\u09be\u09dc\u09c1 \u09e7 \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Planet Large Sweeping Broom 1 pcs",
+        "nameWithoutSubText": "Planet Large Sweeping Broom",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/planet-large-sweeping-broom-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71715&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 23264
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u098f\u09b8\u098f\u09b8 \u09b2\u0982 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09c7\u09b2 \u0995\u099f\u09a8 \u099d\u09be\u09dc\u09c1 \u099a\u09be\u09df\u09a8\u09be \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "SS Long Handle Cotton Mop China 1 pcs ",
+        "nameWithoutSubText": "SS Long Handle Cotton Mop China",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ss-long-handle-cotton-mop-china-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18131&q=low&v=1"
+        ],
+        "price": 329.0,
+        "corpPrice": 329.0,
+        "objectID": 10733
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u0995\u09ae\u09cb\u09a1 \u09b2\u0982 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09c7\u09b2 \u0995\u09cd\u09b2\u09bf\u09a8 \u09ac\u09cd\u09b0\u09be\u09b6 \u099a\u09be\u09df\u09a8\u09be \u09e7 \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Comode Long Handle Clean Brush 1 pcs",
+        "nameWithoutSubText": "Comode Long Handle Clean Brush",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/comode-long-handle-clean-brush-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D13764&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 9291
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u098f\u09a8\u09aa\u09b2\u09bf \u09b2\u09a8\u09cd\u09a1\u09cd\u09b0\u09bf \u09ac\u09be\u09b8\u09cd\u0995\u09c7\u099f \u09e7\u09ebx\u09e7\u09eb \u0987\u099e\u09cd\u099a\u09bf (\u09a8\u09c0\u09b2) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Npoly Laundry Basket 15x15 inch (Blue) ",
+        "nameWithoutSubText": "Npoly Laundry Basket 15x15 inch (Blue) ",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/npoly-laundry-basket-15x15-inch-blue?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25488&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 13035
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09cb\u099f\u09c7\u0995\u09cd\u099f \u099c\u09c0\u09ac\u09be\u09a3\u09c1\u09a8\u09be\u09b6\u0995 \u09b8\u09ac\u09c1\u099c (\u09e8 \u099f\u09be \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09be \u09ab\u09cd\u09b0\u09bf)  \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Protekt Disinfectant Green (Buy 2 Get 1 Free) 500ml ",
+        "nameWithoutSubText": "Protekt Disinfectant Green (Buy 2 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/protekt-disinfectant-green-buy-2-get-1-free-500ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78133&q=low&v=1"
+        ],
+        "price": 298.0,
+        "corpPrice": 298.0,
+        "objectID": 24407
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09cb\u099f\u09c7\u0995\u09cd\u099f \u099c\u09c0\u09ac\u09be\u09a3\u09c1\u09a8\u09be\u09b6\u0995 \u09a8\u09c0\u09b2  (\u09e8 \u09a4\u09be \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09be \u09ab\u09cd\u09b0\u09bf) \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Protekt Disinfectant Blue  (Buy 2 Get 1 Free) 500ml",
+        "nameWithoutSubText": "Protekt Disinfectant Blue  (Buy 2 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/protekt-disinfectant-blue-buy-2-get-1-free-500ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78132&q=low&v=1"
+        ],
+        "price": 298.0,
+        "corpPrice": 298.0,
+        "objectID": 24406
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09b8\u09cd\u0995\u099a\u09ac\u09cd\u09b0\u09be\u0987\u099f \u09ab\u09cd\u09b2\u09cb\u09b0 \u0995\u099f\u09a8 \u099d\u09be\u09dc\u09c1 \u09b0\u09bf\u09ab\u09bf\u09b2 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "ScotchBrite Floor Cotton Mop Refill 1 pcs",
+        "nameWithoutSubText": "ScotchBrite Floor Cotton Mop Refill",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/scotchbrite-floor-cotton-mop-refill-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74595&q=low&v=1"
+        ],
+        "price": 580.0,
+        "corpPrice": 580.0,
+        "objectID": 23885
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09b8\u09cd\u0995\u099a\u09ac\u09cd\u09b0\u09be\u0987\u099f \u09ab\u09cd\u09b2\u09cb\u09b0 \u0995\u099f\u09a8 \u099d\u09be\u09dc\u09c1 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "ScotchBrite Floor Cotton Mop 1 pcs",
+        "nameWithoutSubText": "ScotchBrite Floor Cotton Mop",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/scotchbrite-floor-cotton-mop-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74593&q=low&v=1"
+        ],
+        "price": 765.0,
+        "corpPrice": 765.0,
+        "objectID": 23884
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u0986\u09b2\u09ae\u09be\u09b0 \u099f\u09af\u09bc\u09b2\u09c7\u099f \u09b8\u09bf\u099f \u09b8\u09cd\u09af\u09be\u09a8\u09bf\u099f\u09be\u0987\u099c\u09be\u09b0 50 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: AZM chemical industry Ltd.\r\nToilet seat sanitizers are very important when we use common toilets at offices, schools and other public places. Because common toilet seats are sources of many diseases. \r\nAlmer toilet seat sanitizer kills 99.99% of germs.  It is gentle, safe and soothing on skin.  It has no toxic chemicals. It has no Triclosan. Always carry this sanitizer for your personal safety.",
+        "name": "Almer Toilet Seat Sanitizer 50 ml",
+        "nameWithoutSubText": "Almer Toilet Seat Sanitizer",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/almer-toilet-seat-sanitizer-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80028&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 20705
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09a1\u09bf\u09b8\u09aa\u09cb\u09b8\u09be\u09ac\u09c7\u09b2 \u09ad\u09bf\u09a8\u09be\u0987\u09b2 \u0997\u09cd\u09b2\u09be\u09ad\u09b8 (\u098f\u09b2) \u09e7 \u099f\u09bf",
+        "longDesc": "Powder and latex-free disposable vinyl gloves. Suitable for medical uses, culinary etc.\r\nFood grade\r\nGreat resilience",
+        "name": "Disposable Vinyl Gloves Pack (L) 1 pcs",
+        "nameWithoutSubText": "Disposable Vinyl Gloves Pack (L)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/disposable-vinyl-gloves-pack-l-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79928&q=low&v=1"
+        ],
+        "price": 999.0,
+        "corpPrice": 999.0,
+        "objectID": 20586
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u0995\u099f\u09a8 \u09ab\u09cd\u09b2\u09cb\u09b0 \u09ae\u09cd\u09af\u09be\u099f \u09b2\u09be\u09b2 \u0987\u09ae\u09aa\u09cb\u09b0\u09cd\u099f\u09c7\u09a1 (\u09e7\u09ecx\u09e8\u09ea \u0987\u099e\u09cd\u099a\u09bf) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Cotton Floor Mat Red (Imported) (16X24 inch) 1 pcs",
+        "nameWithoutSubText": "Cotton Floor Mat Red (Imported) (16X24 inch)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cotton-floor-mat-red-imported-16x24-inch-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D31637&q=low&v=1"
+        ],
+        "price": 399.0,
+        "corpPrice": 399.0,
+        "objectID": 13847
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u098f\u09a8\u09aa\u09b2\u09bf \u09a1\u09bf\u099c\u09be\u0987\u09a8 \u09ac\u09be\u09b2\u09a4\u09bf \u09b8\u09be\u09a5\u09c7 \u09a2\u09be\u0995\u09a8\u09be (\u09b2\u09be\u09b2) \u09e8\u09eb \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Npoly Design Bucket With Lead (Red) 25 ltr",
+        "nameWithoutSubText": "Npoly Design Bucket With Lead (Red)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/npoly-design-bucket-with-lead-red-25-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25486&q=low&v=1"
+        ],
+        "price": 345.0,
+        "corpPrice": 345.0,
+        "objectID": 13034
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b2\u09be\u09b8\u09cd\u099f\u09bf\u0995 \u09a1\u09be\u09b8\u09cd\u099f \u09aa\u09cd\u09af\u09be\u09a8 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Plastic Dust Pan 1 pcs",
+        "nameWithoutSubText": "Plastic Dust Pan",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/plastic-dust-pan-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25077&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 12886
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u0986\u09b0 \u098f\u09ab \u098f\u09b2 \u0995\u09c7\u0987\u09a8 \u09ac\u09be\u09a6\u09be\u09ae\u09bf \u09b2\u09a3\u09cd\u09a1\u09cd\u09b0\u09c0 \u09ac\u09be\u09b8\u09cd\u0995\u09c7\u099f \u09ac\u09dc \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "RFL Cane Laundry Brown Basket Big 1 pcs",
+        "nameWithoutSubText": "RFL Cane Laundry Brown Basket Big",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rfl-cane-laundry-brown-basket-big-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D19083&q=low&v=1"
+        ],
+        "price": 680.0,
+        "corpPrice": 680.0,
+        "objectID": 11029
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b2\u09be\u09b8\u09cd\u099f\u09bf\u0995 \u09ab\u09cd\u09b2\u09cb\u09b0 \u099f\u09cd\u09b0\u09cd\u09af\u09be\u09aa\u09be\u09b0 \u09ae\u09cd\u09af\u09be\u099f \u09b0\u09c7\u09a1 \u09e8\u09e9\"x\u09e7\u09eb\" (\u099a\u09be\u09df\u09a8\u09be) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Plastic Floor Trapper Mat Red 23\"x15\" (China) 1 pcs",
+        "nameWithoutSubText": "Plastic Floor Trapper Mat Red 23\"x15\" (China)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/plastic-floor-trapper-mat-red-23x15-china-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D20622&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 10943
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09b8\u09c1\u09a4\u09bf\u09b0 \u09b0\u09df\u09be\u09b2 \u09ab\u09cd\u09b2\u09cb\u09b0 \u09ae\u09cd\u09af\u09be\u099f \u09b2\u09be\u09b2 \u09ae\u09be\u099d\u09be\u09b0\u09bf (\u09e7\u09ecX\u09e8\u09ea \u0987\u099e\u09cd\u099a\u09bf) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Cotton Royal Floor Mat Red (16X24 inch) 1 pcs",
+        "nameWithoutSubText": "Cotton Royal Floor Mat Red (16X24 inch)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cotton-royal-floor-mat-red-16x24-inch-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40090&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 10942
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u0986\u09b0 \u098f\u09ab \u098f\u09b2 \u09a1\u09be\u09ac\u09b2 \u09aa\u09cd\u09af\u09be\u09a1\u09c7\u09b2 \u09e8\u09e6 \u09b2\u09bf\u099f\u09be\u09b0 \u09ac\u09bf\u09a8 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "RFL Double Paddle Bin 20 ltr 1 pcs",
+        "nameWithoutSubText": "RFL Double Paddle Bin 20 ltr",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rfl-double-paddle-bin-20-ltr-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18617&q=low&v=1"
+        ],
+        "price": 600.0,
+        "corpPrice": 600.0,
+        "objectID": 10914
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09a8\u09b0\u09ae \u09ac\u09bf\u099b\u09be\u09a8\u09be \u09af\u09be\u09b0\u09be\u09b0 \u09ac\u09cd\u09b0\u09be\u09b6 \u09ae\u09c7\u09b0\u09c1\u09a8 \u0993 \u09a7\u09c2\u09b8\u09b0 (\u09e7\u09ea\"x\u09e7.\u09eb\") \u099a\u09be\u09df\u09a8\u09be \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Soft Bed Brush Merun & Ash (14\"x1.5\") China 1 pcs",
+        "nameWithoutSubText": "Soft Bed Brush Merun & Ash (14\"x1.5\") China",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/soft-bed-brush-merun-ash-14x15-china-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18173&q=low&v=1"
+        ],
+        "price": 159.0,
+        "corpPrice": 159.0,
+        "objectID": 10751
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09ae\u09aa \u0995\u099f\u09a8 \u09b0\u09bf\u09ab\u09bf\u09b2 (\u09e7\u09ed\u0987\u099e\u09cd\u099b\u09bf) \u099a\u09be\u09df\u09a8\u09be \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Mop Cotton Refill (17\") China 1 pcs",
+        "nameWithoutSubText": "Mop Cotton Refill (17\") China",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mop-cotton-refill-17-china-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25684&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 10740
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09b8\u09cd\u09aa\u09a8\u099c \u09ae\u09aa \u09aa\u09bf\u09ad\u09bf\u098f \u09b0\u09bf\u09ab\u09bf\u09b2 \u09e7\u09e7 \u0987\u099e\u09cd\u099a\u09bf (\u09b9\u09b2\u09c1\u09a6) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Sponge Mop Pva Refill 11 inch (Yellow) 1 pcs",
+        "nameWithoutSubText": "Sponge Mop Pva Refill 11 inch (Yellow)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sponge-mop-pva-refill-11-inch-yellow-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D20467&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 10673
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09b2\u09c7\u09b8\u09bf'\u09b8 \u09b8\u09c7\u09ab\u0993\u09df\u09be\u09b0\u09cd\u09aa \u09ea\u09eb \u09b8\u09c7\u09ae\u09bf X \u09e9\u09e6\u09e6 \u09ae\u09bf\u099f\u09be\u09b0 \u09e7 \u09aa\u09cd\u09af\u09be\u0995",
+        "longDesc": null,
+        "name": "Lacy's Chefwrap 45 cm X 300 mtr 1 pack",
+        "nameWithoutSubText": "Lacy's Chefwrap 45 cm X 300 mtr",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lacys-chefwrap-45-cm-x-300-mtr-1-pack?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D15456&q=low&v=1"
+        ],
+        "price": 979.0,
+        "corpPrice": 979.0,
+        "objectID": 9763
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b2\u09be\u09b8\u09cd\u099f\u09bf\u0995 \u09b0\u09c7\u09a1 \u09ac\u09cd\u09b0\u09c1\u09ae (\u09ec\u09e8\") \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09c7\u09b2 \u099d\u09c1\u09b2 \u099d\u09be\u09dc\u09c1 (\u099a\u09be\u09df\u09a8\u09be) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Plastic Red Broom (62\") Handle Jhul Jharu (China) 1 pcs",
+        "nameWithoutSubText": "Plastic Red Broom (62\") Handle Jhul Jharu (China)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/plastic-red-broom-62-handle-jhul-jharu-china-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D20643&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 9302
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u09b2\u0982 \u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09c7\u09b2 \u09a1\u09cd\u09b0\u09be\u0987 \u09ae\u09aa \u099a\u09be\u09df\u09a8\u09be \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Long Handle Dry Mop China 1 pcs",
+        "nameWithoutSubText": "Long Handle Dry Mop China",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/long-handle-dry-mop-china-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D13770&q=low&v=1"
+        ],
+        "price": 379.0,
+        "corpPrice": 379.0,
+        "objectID": 9294
+    },
+    {
+        "category": {
+            "name": "Cleaning Accessories",
+            "id": "1276",
+            "slug": "cleaning-accessories"
+        },
+        "bengaliName": "\u0995\u09ae\u09cb\u09a1 \u09aa\u09be\u09ae\u09cd\u09aa \u09b2\u09cb\u0995\u09be\u09b2 \u09e7\u09ed \u0987\u099e\u09cd\u099a\u09bf (\u09b2\u09be\u09b2) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Comod Pump Local 17\" (Red) 1 pcs",
+        "nameWithoutSubText": "Comod Pump Local 17\" (Red)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/comod-pump-local-17-red-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D13762&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 9290
+    }
+]

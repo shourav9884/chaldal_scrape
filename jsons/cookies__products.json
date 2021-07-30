@@ -1,0 +1,427 @@
+[
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u098f\u0995\u099f\u09bf \u09ab\u09cd\u09b0\u09bf \u0985\u09ab\u09be\u09b0",
+        "longDesc": null,
+        "name": "Dekko Cookies Biscuit (Buy 2 Get 1 Offer)",
+        "nameWithoutSubText": "Dekko Cookies Biscuit (Buy 2 Get 1 Offer)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dekko-cookies-biscuit-buy-2-get-1-offer?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67288&q=low&v=1"
+        ],
+        "price": 115.0,
+        "corpPrice": 115.0,
+        "objectID": 22418
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u09b9\u09b0\u09b2\u09bf\u0995\u09cd\u09b8 \u0995\u09c1\u0995\u09bf\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f  \u09e9\u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Horlicks Cookies Biscuit 330 gm",
+        "nameWithoutSubText": "Dekko Horlicks Cookies Biscuit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dekko-horlicks-cookies-biscuit-330-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78424&q=best&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 19843
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u09ae\u09bf.\u0995\u09c1\u0995\u09bf \u09ac\u09be\u099f\u09be\u09b0 \u0995\u09cb\u0995\u09cb\u09a8\u09be\u099f \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f\u09b8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mr.Cookie Butter Coconut Biscuits 250 gm",
+        "nameWithoutSubText": "Mr.Cookie Butter Coconut Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mrcookie-butter-coconut-biscuits-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65919&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 10323
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u0993\u09ad\u09be\u09b2\u099f\u09bf\u09a8 \u0995\u09c1\u0995\u09bf\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Ovaltin Cookies Biscuit 350 gm",
+        "nameWithoutSubText": "Dekko Ovaltin Cookies Biscuit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dekko-ovaltin-cookies-biscuit-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51896&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 19846
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09ae\u09be\u09b0\u09cd\u0995 \u099a\u0995\u09b2\u09c7\u099f \u0995\u09c1\u0995\u09bf\u099c \u09e8\u09ed\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Goldmark Chocolate Cookies 270 gm",
+        "nameWithoutSubText": "Goldmark Chocolate Cookies",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/goldmark-chocolate-cookies-270-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47325&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 9033
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u0986\u09ae\u09cb\u09b0\u09c7 \u0995\u09c1\u0995\u09bf\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f  \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u09aa\u09cd\u09af\u09be\u0995 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Aamore Cookies Biscuit Family Pack 300 gm",
+        "nameWithoutSubText": "Dekko Aamore Cookies Biscuit Family Pack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dekko-aamore-cookies-family-pack-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52210&q=best&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 19841
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cb \u0996\u09bf\u09b0 \u0995\u09c1\u0995\u09bf\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u09aa\u09cd\u09af\u09be\u0995 \u09e8\u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Kheer Cookies Biscuit Family pack 265 gm",
+        "nameWithoutSubText": "Dekko Kheer Cookies Biscuit Family pack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dekko-kheer-cookies-family-pack-265-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52216&q=best&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 19844
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u09b9\u0995 \u09b8\u09b0 \u09ae\u09be\u09b2\u09be\u0987 \u09ae\u09bf\u09b2\u09cd\u0995 \u0993 \u09ac\u09be\u099f\u09be\u09b0 \u0995\u09c1\u0995\u09bf\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Haque Sor Malai Milk & Butter Cookies Biscuit 230 gm",
+        "nameWithoutSubText": "Haque Sor Malai Milk & Butter Cookies Biscuit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/haque-sor-malai-milk-butter-cookies-biscuit-230-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65965&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 12344
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0995\u09cb\u09aa\u09bf\u0995\u09cb \u09a6\u09be\u09a8\u09bf\u09b8\u09be \u09ae\u09be\u0996\u09a8 \u0995\u09c1\u0995\u09bf\u099c \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kopiko Danisa Butter Cookies 200 gm",
+        "nameWithoutSubText": "Kopiko Danisa Butter Cookies",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kopiko-danisa-butter-cookies-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74552&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 20123
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u098f\u09b2\u09be\u099a\u09bf \u0995\u09c1\u0995\u09bf\u09b8 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Elach Cookies 240 gm",
+        "nameWithoutSubText": "Olympic Elach Cookies",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-elach-cookies-240-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52096&q=best&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 16653
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09b8\u09b2\u09cd\u0995\u09cb\u099f\u09bf \u0995\u09c1\u0995\u09bf\u09b8 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Salcoti Cookies 240 gm",
+        "nameWithoutSubText": "Olympic Salcoti Cookies",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-salcoti-cookies-240-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52097&q=best&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 16652
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u099f\u09bf\u09ab\u09be\u09a8\u09bf \u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09bf \u0995\u09ae\u09b2\u09be \u0995\u09cd\u09b0\u09bf\u09ae \u09ac\u09bf\u09b8\u09cd\u0995\u09bf\u099f \u09e7\u09ec\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tiffany Sugar free Orange Cream Biscuits 162 gm",
+        "nameWithoutSubText": "Tiffany Sugar free Orange Cream Biscuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tiffany-sugar-free-orange-cream-biscuits-162-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43641&q=low&v=1"
+        ],
+        "price": 259.0,
+        "corpPrice": 259.0,
+        "objectID": 16176
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09b9\u09cd\u09af\u09be\u09b2\u09cb \u0995\u09c1\u0995\u09bf\u099c \u09ac\u09bf\u09b8\u09c1\u0987\u099f\u09b8 \u09eb\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Hello Cookies Bisuits 55 gm",
+        "nameWithoutSubText": "Olympic Hello Cookies Bisuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-hello-cookies-bisuits-55-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52283&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 19961
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09ac\u09bf\u09b8\u09cd\u0995\u09cb\u09a8\u09bf \u09ae\u09c1\u0998\u09b2 \u0995\u09c1\u0995\u09bf\u09b8 \u09e8\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Bisconi Mughal Cookies 225 gm",
+        "nameWithoutSubText": "Olympic Bisconi Mughal Cookies",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-bisconi-mughal-cookies-225-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52341&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 19975
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u09a1\u09c7\u0995\u09cd\u0995\u09cb \u0986\u09ae\u09cb\u09b0 \u0995\u09c1\u0995\u09bf\u099c \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09ea\u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dekko Amore Cookies Biscuit 430 gm",
+        "nameWithoutSubText": "Dekko Amore Cookies Biscuit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dekko-amore-cookies-biscuit-430-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61363&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 21813
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u09b0\u09cb\u09ae\u09be\u09a8\u09bf\u09df\u09be \u09aa\u09bf\u09a8\u09be\u099f \u0995\u09c1\u0995\u09bf\u099c \u09a1\u09bf\u09b2\u09be\u0987\u099f  \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Romania P'Nut Cookie Dlight 250gm",
+        "nameWithoutSubText": "Romania P'Nut Cookie Dlight",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/romania-pnut-cookie-dlight-250gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73604&q=best&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 20568
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09a1\u09c7\u0987\u09b2\u09bf \u0995\u09c1\u0995\u09bf\u099c \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Daily Cookies 250 gm",
+        "nameWithoutSubText": "Olympic Daily Cookies",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-daily-cookies-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52346&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 19977
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09b9\u09cd\u09af\u09be\u09b2\u09cb \u0995\u09c1\u0995\u09bf\u099c \u09ac\u09bf\u09b8\u09c1\u0987\u099f\u09b8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Hello Cookies Bisuits 250 gm",
+        "nameWithoutSubText": "Olympic Hello Cookies Bisuits",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-hello-cookies-bisuits-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52333&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 19970
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09b0\u09c7\u0997\u09c1\u09b2\u09be\u09b0 \u0995\u09c1\u0995\u09bf\u09b8 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Regular Cookies 240 gm",
+        "nameWithoutSubText": "Olympic Regular Cookies",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-regular-cookies-240-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52331&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 19969
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u099f\u09bf\u09ab\u09be\u09a8\u09bf \u09b8\u09c1\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09bf \u0993\u099f\u09ae\u09bf\u09b2 \u0995\u09c1\u0995\u09bf\u099c \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tiffany Sugerfree oatmil cookies 150 gm",
+        "nameWithoutSubText": "Tiffany Sugerfree oatmil cookies",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tiffany-sugerfree-oatmil-cookies-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47456&q=low&v=1"
+        ],
+        "price": 309.0,
+        "corpPrice": 309.0,
+        "objectID": 16175
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0995\u09cd\u09af\u09be\u099f\u09ac\u09c7\u09b0\u09bf \u09ac\u09b0\u09cd\u09a8 \u09ad\u09bf\u099f\u09be \u0995\u09be\u099e\u09cd\u099a\u09bf \u099a\u0995\u09b2\u09c7\u099f \u0995\u09c1\u0995\u09bf\u09b8 \u09e7\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Cadbury Bourn Vita Crunchie Chocolate Cookies 120 gm",
+        "nameWithoutSubText": "Cadbury Bourn Vita Crunchie Chocolate Cookies",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cadbury-bourn-vita-crunchie-chocolate-cookies-120-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25312&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 12986
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0985\u09b2\u09bf\u09ae\u09cd\u09aa\u09bf\u0995 \u09ac\u09be\u09a6\u09be\u09ae\u09c0 \u0995\u09c1\u0995\u09bf\u09b8 \u09ac\u09bf\u09b8\u09cd\u0995\u09c1\u099f \u09e8\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Olympic Badami Cookies Biscuit 240 gm ",
+        "nameWithoutSubText": "Olympic Badami Cookies Biscuit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/olympic-badami-cookies-biscuit-240-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47416&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 10384
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09ae\u09be\u09b0\u09cd\u0995 \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u09ab\u09cd\u09b0\u09c1\u099f \u0995\u09c1\u0995\u09bf\u099c \u09e8\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Goldmark Original Fruit Cookies 225 gm",
+        "nameWithoutSubText": "Goldmark Original Fruit Cookies",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/goldmark-original-fruit-cookies-225-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47329&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 9049
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09ae\u09be\u09b0\u09cd\u0995 \u09ae\u09bf\u09b2\u09cd\u0995 \u0995\u09c1\u0995\u09bf\u099c \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Goldmark Milk Cookies 250 gm",
+        "nameWithoutSubText": "Goldmark Milk Cookies",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/goldmark-milk-cookies-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47328&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 9035
+    },
+    {
+        "category": {
+            "name": "Cookies",
+            "id": "50",
+            "slug": "cookies"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09ae\u09be\u09b0\u09cd\u0995 \u09ac\u09be\u099f\u09be\u09b0 \u0995\u09c1\u0995\u09bf\u099c \u09e8\u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Goldmark Butter Cookies 230 gm",
+        "nameWithoutSubText": "Goldmark Butter Cookies",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/goldmark-butter-cookies-230-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47324&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 9034
+    }
+]

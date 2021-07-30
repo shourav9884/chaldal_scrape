@@ -1,0 +1,563 @@
+[
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995'\u09b8 \u0993\u09df\u09be\u0987\u09aa\u09a1 \u099f\u09aa\u09bf\u0982 \u09ae\u09bf\u0995\u09cd\u09b8 \u09ed\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Foster Clark's Whipped Topping Mix made with sugar, hydrogenated palm and coconut oil. It has no artificial color. Easy to use.",
+        "name": "Foster Clark's Whipped Topping Mix 72 gm",
+        "nameWithoutSubText": "Foster Clark's Whipped Topping Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-whipped-topping-mix-72-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68130&q=low&v=1"
+        ],
+        "price": 180.0,
+        "corpPrice": 180.0,
+        "objectID": 7700
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995'\u09b8 \u09ac\u09c7\u0995\u09bf\u0982 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e8\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Foster Clark's Baking Powder specially prepared to help you make delicious sweet dishes and various sauces to garnish your savory dishes. To obtain the fine light texture which you desire in your cakes and pastries, replace one-eighth of the flour with Foster Clark's Baking Powder.",
+        "name": "Foster Clark's Baking Powder 225 gm",
+        "nameWithoutSubText": "Foster Clark's Baking Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-baking-powder-225-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47968&q=low&v=1"
+        ],
+        "price": 180.0,
+        "corpPrice": 180.0,
+        "objectID": 2231
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u0995\u09cb\u0995\u09cb\u09df\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Cocoa powder 150 gm",
+        "nameWithoutSubText": "Ahmed Cocoa powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-cocoa-powder-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74361&q=low&v=1"
+        ],
+        "price": 140.0,
+        "corpPrice": 140.0,
+        "objectID": 23807
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995'\u09b8 \u0995\u09be\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a1 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09aa\u09cd\u09af\u09be\u0995 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Foster Clark's Custard Powder specially prepared to help you make delicious sweet dishes and various sauces to garnish your savory dishes. To obtain the fine light texture which you desire in your cakes and pastries, replace one-eighth of the flour with Foster Clark's Custard Powder.",
+        "name": "Foster Clark's Custard Powder Pack 200 gm",
+        "nameWithoutSubText": "Foster Clark's Custard Powder Pack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-custard-powder-pack-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47969&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 9830
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u0995\u09be\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a1 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Custard Powder 160 gm",
+        "nameWithoutSubText": "Ahmed Custard Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-custard-powder-160-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47966&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 7907
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09b8\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u0995'\u09b8 \u099c\u09c7\u09b2\u09bf \u09a1\u09c7\u09b8\u09be\u09b0\u09cd\u099f \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u09ee\u09eb \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Foster Clark's Jelly Dessert Strawberry 85 gm",
+        "nameWithoutSubText": "Foster Clark's Jelly Dessert Strawberry",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-jelly-dessert-strawberry-85-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77735&q=low&v=1"
+        ],
+        "price": 85.0,
+        "corpPrice": 85.0,
+        "objectID": 10667
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995'\u09b8 \u0995\u09be\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a1 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u099f\u09bf\u09a8 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Foster Clark's Custard Powder specially prepared to help you make delicious sweet dishes and various sauces to garnish your savory dishes. To obtain the fine light texture which you desire in your cakes and pastries, replace one-eighth of the flour with Foster Clark's Custard Powder.",
+        "name": "Foster Clark's Custard Powder Tin 300 gm",
+        "nameWithoutSubText": "Foster Clark's Custard Powder Tin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-custard-powder-tin-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47970&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 3449
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0982\u0995\u09b0 \u0995\u09be\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a1 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Custard Powder Vanilla 200 gm",
+        "nameWithoutSubText": "Anchor Custard Powder Vanilla",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-custard-powder-vanilla-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54852&q=best&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 2134
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6 \u0995\u09be\u09b8\u09cd\u099f\u09be\u09b0\u09a1 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh",
+        "name": "Saad Custard Powder 150 gm",
+        "nameWithoutSubText": "Saad Custard Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saad-custard-powder-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72069&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 23446
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6 \u0995\u09be\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a1 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Saad Custard Powder (Tin can) 150 gm",
+        "nameWithoutSubText": "Saad Custard Powder (Tin can)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saad-custard-powder-tin-can-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74745&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 23922
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995'\u09b8 \u099c\u09bf\u09b2\u09c7\u099f\u09bf\u09a8 \u09ac\u09be\u09a8\u09be\u09a8\u09be \u0993 \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u09ee\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Foster Clark's Gelatin Banana & Strawberry 85 ml",
+        "nameWithoutSubText": "Foster Clark's Gelatin Banana & Strawberry",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-gelatin-dessert-banana-strawberry-85-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47971&q=low&v=1"
+        ],
+        "price": 85.0,
+        "corpPrice": 85.0,
+        "objectID": 8790
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6 \u0995\u09cb\u0995\u09cb\u09df\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Saad Cocoa Powder 100 gram",
+        "nameWithoutSubText": "Saad Cocoa Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saad-cocoa-powder-100-gram?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74746&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 23923
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6 \u0995\u09cb\u0995\u09cb\u09df\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Malaysis",
+        "name": "Saad Cocoa Powder 150 gm",
+        "nameWithoutSubText": "Saad Cocoa Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saad-cocoa-powder-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72070&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 23447
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u0989\u0987\u0995\u09ab\u09bf\u09b2\u09cd\u09a1  \u09ad\u09c7\u099c \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09be\u09b2 \u099c\u09c7\u09b2\u09bf \u099a\u09c7\u09b0\u09bf \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Ingredients : Sugar (Preservatives: Sulphar dioxide) Thickner: Carageenan (2.5%) Acidity Regulators: Potassium Citrate, Fumaric Acid, Adipic Acid, Stabilizer, Potassium Chloride, Cherry Flavour&Colour ( Allura Red, Indigotine)\r\n",
+        "name": "Weikfield Veg. Crystal Jelly Cherry Flavour 75 GM",
+        "nameWithoutSubText": "Weikfield Veg. Crystal Jelly Cherry Flavour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/weikfield-veg-crystal-jelly-cherry-flavour-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68825&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 22843
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u0989\u0987\u0995\u09ab\u09bf\u09b2\u09cd\u09a1  \u09ad\u09c7\u099c \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09be\u09b2 \u099c\u09c7\u09b2\u09bf \u09b0\u09be\u09b8\u09ac\u09c7\u09b0\u09bf \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Ingredients : Sugar (Preservatives: Sulphar dioxide) Thickner: Carageenan (2.5%) Acidity Regulators: Potassium Citrate, Fumaric Acid, Adipic Acid, Stabilizer, Potassium Chloride,  Raspberry Flavour & Colour ( Allura Red)\r\n",
+        "name": "Weikfield Veg. Crystal Jelly Raspberry Flavour 75 GM",
+        "nameWithoutSubText": "Weikfield Veg. Crystal Jelly Raspberry Flavour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/weikfield-veg-crystal-jelly-raspberry-flavour-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68824&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 22842
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u0989\u0987\u0995\u09ab\u09bf\u09b2\u09cd\u09a1  \u09ad\u09c7\u099c \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09be\u09b2 \u099c\u09c7\u09b2\u09bf \u09aa\u09be\u0987\u09a8\u09be\u09aa\u09c7\u09b2 \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Ingredients : Sugar (Preservatives: Sulphar dioxide) Thickner: Carageenan (2.5%) Acidity Regulators: Potassium Citrate, Fumaric Acid, Adipic Acid, Stabilizer, Potassium Chloride, Pineapple Flavour & Colour (Tartrazine, Sunset  Yellow)\r\n",
+        "name": "Weikfield Veg. Crystal Jelly Pineapple Flavour 75 GM",
+        "nameWithoutSubText": "Weikfield Veg. Crystal Jelly Pineapple Flavour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/weikfield-veg-crystal-jelly-pineapple-flavour-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68823&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 22841
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u0989\u0987\u0995\u09ab\u09bf\u09b2\u09cd\u09a1  \u09ad\u09c7\u099c \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09be\u09b2 \u099c\u09c7\u09b2\u09bf \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Ingredients : Sugar (Preservatives: Sulphar dioxide) Thickner: Carageenan (2.5%) Acidity Regulators: Potassium Citrate, Fumaric Acid, Adipic Acid, Stabilizer, Potassium Chloride,  Orange Flavour & Colour ( Sunset  Yellow)\r\n",
+        "name": "Weikfield Veg. Crystal Jelly Orange Flavour 75 GM",
+        "nameWithoutSubText": "Weikfield Veg. Crystal Jelly Orange Flavour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/weikfield-veg-crystal-jelly-orange-flavour-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68821&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 22839
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u0989\u0987\u0995\u09ab\u09bf\u09b2\u09cd\u09a1  \u09ad\u09c7\u099c \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09be\u09b2 \u099c\u09c7\u09b2\u09bf \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Ingredients : Sugar (Preservatives: Sulphar dioxide) Thickner: Carageenan (2.5%) Acidity Regulators: Potassium Citrate, Fumaric Acid, Adipic Acid, Stabilizer, Potassium Chloride, Strawberry Flavour & Colour ( Allura Red)\r\n",
+        "name": "Weikfield Veg. Crystal Jelly Strawberry Flavour 75 GM",
+        "nameWithoutSubText": "Weikfield Veg. Crystal Jelly Strawberry Flavour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/weikfield-veg-crystal-jelly-strawberry-flavour-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68820&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 22838
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u0996\u09c1\u09b8\u09ac\u09c1 \u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09af\u09bc\u09be\u09ae \u099c\u09be\u09ab\u09b0\u09be\u09a8 \u09e6.\u09e6\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Khusboo Premium Saffron 0.05 gm",
+        "nameWithoutSubText": "Khusboo Premium Saffron",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/khusboo-premium-saffron-005-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54516&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 20624
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995\u09c7\u09b0 \u0995\u09c7\u0995 \u09ae\u09bf\u0995\u09cd\u09b8 \u09aa\u09cd\u09af\u09be\u0995 (\u0987\u09df\u09c7\u09b2\u09cb) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Foster Clark's Cake Mix Pack (Yellow) 500 gm",
+        "nameWithoutSubText": "Foster Clark's Cake Mix Pack (Yellow)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-cake-mix-pack-yellow-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61268&q=low&v=1"
+        ],
+        "price": 385.0,
+        "corpPrice": 385.0,
+        "objectID": 18584
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995\u09c7\u09b0 \u0995\u09c7\u0995 \u09ae\u09bf\u0995\u09cd\u09b8 \u09aa\u09cd\u09af\u09be\u0995 (\u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Foster Clark's Cake Mix Pack (Vanilla) 500 gm",
+        "nameWithoutSubText": "Foster Clark's Cake Mix Pack (Vanilla)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-cake-mix-pack-vanilla-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50547&q=best&v=1"
+        ],
+        "price": 385.0,
+        "corpPrice": 385.0,
+        "objectID": 18583
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995\u09c7\u09b0 \u0995\u09c7\u0995 \u09ae\u09bf\u0995\u09cd\u09b8 \u09aa\u09cd\u09af\u09be\u0995 (\u09ae\u09bf\u09b2\u09cd\u0995 \u099a\u0995\u09cb\u09b2\u09c7\u099f) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Foster Clark's Cake Mix Pack (Milk Chocolate) 500 gm",
+        "nameWithoutSubText": "Foster Clark's Cake Mix Pack (Milk Chocolate)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-cake-mix-pack-milk-chocolate-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50546&q=best&v=1"
+        ],
+        "price": 385.0,
+        "corpPrice": 385.0,
+        "objectID": 18582
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995\u09c7\u09b0 \u0995\u09c7\u0995 \u09ae\u09bf\u0995\u09cd\u09b8 \u09aa\u09cd\u09af\u09be\u0995 (\u09a1\u09be\u09b0\u09cd\u0995 \u099a\u0995\u09cb\u09b2\u09c7\u099f) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Foster Clark's Cake Mix Pack (Dark Chocolate) 500 gm",
+        "nameWithoutSubText": "Foster Clark's Cake Mix Pack (Dark Chocolate)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-cake-mix-pack-dark-chocolate-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50545&q=best&v=1"
+        ],
+        "price": 385.0,
+        "corpPrice": 385.0,
+        "objectID": 18581
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995\u09c7\u09b0 \u0995\u09cd\u09b0\u09bf\u09ae \u0995\u09be\u09b0\u09be\u09ae\u09c7\u09b2 \u09ed\u09e7 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Foster Clark's Creme Caramel 71 Gm ",
+        "nameWithoutSubText": "Foster Clark's Creme Caramel",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-creme-caramel-71-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50321&q=low&v=1"
+        ],
+        "price": 85.0,
+        "corpPrice": 85.0,
+        "objectID": 18545
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ae\u09cd\u09af\u09be\u0995\u09a1\u09cb\u09a8\u09be\u09b2\u09cd\u09a1'\u09b8 \u09ae\u09c7\u09aa\u09c7\u09b2 \u09b8\u09bf\u09b0\u09be\u09aa \u09e9\u09ed\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "MacDonald's Maple Syrup 370 ml",
+        "nameWithoutSubText": "MacDonald's Maple Syrup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/macdonalds-maple-syrup-370-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46014&q=low&v=1"
+        ],
+        "price": 1469.0,
+        "corpPrice": 1469.0,
+        "objectID": 12183
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09a8\u09c7\u09b8\u0995\u09c1\u0987\u0995 \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Nestle Nesquik Strawberry Powder is a branded product of Nestl\u00e9 Bangladesh that gives you a whole day\u2019s total nutrient. It is also added Vitamins and Minerals to complement milk. Net weight 300 gm. \r\n",
+        "name": "Nestle Nesquik Strawberry Powder 300 gm",
+        "nameWithoutSubText": "Nestle Nesquik Strawberry Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-nesquik-strawberry-powder-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77629&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 12182
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u099c\u09be\u09ab\u09cd\u09b0\u09be\u09a8 \u09e7 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Imported ",
+        "name": "Saffron (Jafran) 1 gm",
+        "nameWithoutSubText": "Saffron (Jafran)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saffron-jafran-1-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18137&q=low&v=1"
+        ],
+        "price": 499.0,
+        "corpPrice": 499.0,
+        "objectID": 10735
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6\u0993\u09df\u09c7\u09b2 \u09b0\u09be\u09b8\u09cd\u09aa\u09ac\u09c7\u09b0\u09bf \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Freshwel Raspberry 80 gm",
+        "nameWithoutSubText": "Freshwel Raspberry",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/freshwel-raspberry-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47977&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 10063
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6\u0993\u09df\u09c7\u09b2 \u09ae\u09bf\u0995\u09cd\u09b8\u09a1 \u09ab\u09cd\u09b0\u09c1\u099f \u099c\u09c7\u09b2\u09bf \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Freshwel Mixed Fruit Jelly 80 gm",
+        "nameWithoutSubText": "Freshwel Mixed Fruit Jelly",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/freshwel-mixed-fruit-jelly-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47975&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 10018
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995'\u09b8 \u099c\u09bf\u09b2\u09c7\u099f\u09bf\u09a8 \u09b2\u09c7\u09ae\u09a8 \u09ab\u09cd\u09b2\u09cd\u09af\u09be\u09ad\u09b0 \u09ee\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Foster Clark's Gelatin Lemon flavored drink makes a delicious and nutritious beverage. A 200 ml glass serving provides a full day's supply of vitamin C. \r\n\r\nIngredients\r\n\r\nSugar, Citric Acid (E330), Natural & Nature Identical Orange Flavour, Calcium Phosphate (E341), Sodium Citrate (E331), Anti caking agent E551, Vitamin C, Stabilisers (E414, E415), Approved Artificial Colours (E171, E102, E110) ",
+        "name": "Foster Clark's Gelatin Lemon Flavour 85 gm",
+        "nameWithoutSubText": "Foster Clark's Gelatin Lemon Flavour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-gelatin-lemon-flavour-85-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47972&q=low&v=1"
+        ],
+        "price": 85.0,
+        "corpPrice": 85.0,
+        "objectID": 9059
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6\u0993\u09df\u09c7\u09b2 \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u099c\u09c7\u09b2\u09bf \u09ee\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Freshwel Strawberry Jelly 80 gm",
+        "nameWithoutSubText": "Freshwel Strawberry Jelly",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/freshwel-strawberry-jelly-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47978&q=low&v=1"
+        ],
+        "price": 109.0,
+        "corpPrice": 109.0,
+        "objectID": 3491
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6\u0993\u09df\u09c7\u09b2 \u0995\u09ae\u09b2\u09be \u099c\u09c7\u09b2\u09bf \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Freshwel Orange Jelly 80 gm",
+        "nameWithoutSubText": "Freshwel Orange Jelly",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/freshwel-orange-jelly-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47976&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 3489
+    },
+    {
+        "category": {
+            "name": "Baking & Dessert Mixes",
+            "id": "101",
+            "slug": "baking-mixes"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6\u0993\u09df\u09c7\u09b2 \u0995\u09b2\u09be \u099c\u09c7\u09b2\u09bf \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Freshwel Banana Jelly 80 gm",
+        "nameWithoutSubText": "Freshwel Banana Jelly",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/freshwel-banana-jelly-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D12820&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 3481
+    }
+]

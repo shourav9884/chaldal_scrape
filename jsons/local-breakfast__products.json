@@ -1,0 +1,342 @@
+[
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6\u09be \u09ac\u09cd\u09b0\u09c7\u09a1 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "White Bread 500 gm",
+        "nameWithoutSubText": "White Bread",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/white-bread-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70765&q=low&v=1"
+        ],
+        "price": 75.0,
+        "corpPrice": 75.0,
+        "objectID": 3126
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u0995\u09c1\u09aa\u09be\u09b0\u09c7\u09b0 \u09ac\u09cd\u09b0\u09be\u0989\u09a8 \u09ac\u09cd\u09b0\u09c7\u09a1 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Special Brown Bread 300 gm",
+        "nameWithoutSubText": "Special Brown Bread",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/special-brown-bread-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60376&q=low&v=1"
+        ],
+        "price": 105.0,
+        "corpPrice": 105.0,
+        "objectID": 3125
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ae\u09c1\u09dc\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "If you think to eat a better food, we are offering you pran puffed rice (muri). Buy muri  from chaldal,  forget cooking other food and enjoy your time by watching movies. It helps you as your daily refreshment. Buy it with affordable price and get it hurry at your doorstep. ",
+        "name": "Pran Puffed Rice (Muri) 500 gm",
+        "nameWithoutSubText": "Pran Puffed Rice (Muri)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-puffed-rice-muri-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69935&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 3955
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u09b9\u09be\u09b0\u09ad\u09c7\u09b7\u09cd\u099f \u09b9\u09bf\u09ae\u09be\u09df\u09bf\u09a4 \u09aa\u09b0\u09cb\u099f\u09be \u09ab\u09cd\u09af\u09be\u09ae\u09bf\u09b2\u09bf \u09aa\u09cd\u09af\u09be\u0995 \u09e7\u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e8\u09e6 \u099f\u09bf",
+        "longDesc": "Get a classic golden frozen paratha family pack from us as your daily breakfast. One pack covers for one family. Hassle-free and easy to serve. Just tear off the packet and put it on the griddle for a few minutes and then serve it. It\u2019s a good food for your good health.",
+        "name": "Golden Harvest Frozen Paratha Family Pack 1300 gm 20 pcs",
+        "nameWithoutSubText": "Golden Harvest Frozen Paratha Family Pack 1300 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/golden-harvest-frozen-paratha-family-pack-1300-gm-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45353&q=low&v=1"
+        ],
+        "price": 219.0,
+        "corpPrice": 219.0,
+        "objectID": 3159
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u099a\u09bf\u09b0\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Shop pran flattened rice (chira) from chaldal.com. It\u2019s a domestic product. You can try it in your breakfast. If you hate cooking, just click and get it at your home from chaldal. You don\u2019t need to go to the stove, Just take a pot, keep some chira and pour water on it. Wait for a few minutes and serve a good food. ",
+        "name": "Pran Flattened Rice (Chira) 500 gm ",
+        "nameWithoutSubText": "Pran Flattened Rice (Chira)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-flattened-rice-chira-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69938&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 2379
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u09ae\u09c1\u09dc\u09bf \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Breakfast is important for your whole day\u2019s sustenance. We are giving you a mouthwatering breakfast like ruchi puffed rice (muri) for your daily needs. Brand name: square food and beverage. Net weight 500gm. ",
+        "name": "Ruchi Puffed Rice (Muri) 500 gm ",
+        "nameWithoutSubText": "Ruchi Puffed Rice (Muri)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-puffed-rice-muri-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69962&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 4108
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a3 \u09ae\u09c1\u09dc\u09bf \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Foods provides a significant ratio of the body. So, buy pran puffed rice (muri) from chaldal to fill up your family needs. You can have it with a cup of tea. Mix it with a packet of chanachur, then enjoy watching movies. Net weight 250 gm. Brand name: Pran Food and Beverage Limited.\r\n",
+        "name": "Pran Puffed Rice (Muri) 250 gm",
+        "nameWithoutSubText": "Pran Puffed Rice (Muri)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-puffed-rice-muri-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69936&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 8858
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u09b9\u09be\u09b0\u09ad\u09c7\u09b7\u09cd\u099f \u0986\u09b2\u09c1 \u09aa\u09b0\u09cb\u099f\u09be \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e8 \u099f\u09bf ",
+        "longDesc": "We hope and believe that, your amusement is our encouragement. You can make a list where you can keep the Golden Harvest Aloo Paratha as your favourite food. Brand name: Golden Harvest Agro Industries Ltd. Net weight 250gm. ",
+        "name": "Golden Harvest Aloo Paratha 250 gm 2 pcs ",
+        "nameWithoutSubText": "Golden Harvest Aloo Paratha 250 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/golden-harvest-aloo-paratha-250-gm-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78739&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 7011
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u09ae\u09c1\u09dc\u09bf \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Puffed rice (muri) is a familiar food that you can have with tea. It provides protein, iron and other nutrients, which is good for human health. You can have it regularly. So, order it from chaldal and get it hurry at your doorstep.",
+        "name": "Ruchi Puffed Rice (Muri) 250 gm ",
+        "nameWithoutSubText": "Ruchi Puffed Rice (Muri)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-puffed-rice-muri-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69959&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 6211
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u09b9\u09be\u09b0\u09ad\u09c7\u09b7\u09cd\u099f \u09ae\u09c7\u0997\u09be \u09a6\u09c7\u09b6\u09c0 \u09aa\u09b0\u09cb\u099f\u09be \u09e7\u09ec\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e8\u09e6 \u099f\u09bf",
+        "longDesc": "Golden harvest mega deshi paratha is a good food for a big family since it has 20pcs in one pack. Very easy to prepare. It saves your valuable time. Just tear off the packet and put it on the griddle and wait for a few minutes. Then it will be ready to serve. Net weight 1600gm. 20 pcs in one packet. ",
+        "name": "Golden Harvest Mega Deshi Paratha 1600 gm 20 pcs",
+        "nameWithoutSubText": "Golden Harvest Mega Deshi Paratha 1600 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/golden-harvest-mega-deshi-paratha-1600-gm-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69939&q=low&v=1"
+        ],
+        "price": 269.0,
+        "corpPrice": 269.0,
+        "objectID": 4417
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": " \u099a\u09bf\u09a1\u09bc\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Chaldal is an online grocery shopping site where you can buy your daily needs. Chira is another daily needs that you can buy from us. Which is made from the organic rice. 100% chemical free. Net weight 500gm. ",
+        "name": "Flattened Rice 500 gm",
+        "nameWithoutSubText": "Flattened Rice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/flattened-rice-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69958&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 9334
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b0\u09c7\u09a1 \u09ab\u09cd\u09b2\u09be\u099f\u09c7\u09a8\u09cd\u09a1 \u09b0\u09be\u0987\u09b8 (\u09b2\u09be\u09b2 \u099a\u09bf\u09dc\u09be) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM Red Flattened Rice (Lal Chira) 500 gm",
+        "nameWithoutSubText": "BPM Red Flattened Rice (Lal Chira)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-red-flattened-rice-lal-chira-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52500&q=best&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 19926
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u0987\u09b8\u09cd\u09aa\u09be\u09b9\u09be\u09a8\u09bf \u09ac\u09c7\u0995\u09be\u09b0\u09bf \u09ab\u09cd\u09b0\u09c7\u09b6 \u09a1\u09cd\u09b0\u09be\u0987 \u0995\u09c7\u0995 \u09e9\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Ispahani bakery fresh, dry cake is a family choice that a family wants to stock at home. You can have it in your tea time when you go to have a cup of tea in your lazier time. Net weight 350 gm.  ",
+        "name": "Ispahani Bakery Fresh Dry Cake 350 gm",
+        "nameWithoutSubText": "Ispahani Bakery Fresh Dry Cake",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ispahani-bakery-fresh-dry-cake-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69957&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 11542
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u0986\u09a8\u09ae\u09cb\u09b2 \u09ae\u09c1\u09dc\u09bf \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anmol Puffed Rice 400 gm",
+        "nameWithoutSubText": "Anmol Puffed Rice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anmol-puffed-rice-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D66011&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 22328
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b9\u09cb\u09af\u09bc\u09be\u0987\u099f \u09ab\u09cd\u09b2\u09be\u099f\u09c7\u09a8\u09cd\u09a1 \u09b0\u09be\u0987\u09b8 (\u09b8\u09be\u09a6\u09be \u099a\u09bf\u09dc\u09be) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM White Flattened Rice (Sada Chira) 500 gm",
+        "nameWithoutSubText": "BPM White Flattened Rice (Sada Chira)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-white-flattened-rice-sada-chira-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52501&q=best&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 19925
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b9\u09cb\u09ae\u09ae\u09c7\u09a1 \u09aa\u09ab\u09a1 \u09b0\u09be\u0987\u09b8 (\u09ae\u09c1\u09dc\u09bf) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM Homemade Puffed Rice (Muri) 500 gm",
+        "nameWithoutSubText": "BPM Homemade Puffed Rice (Muri)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-homemade-puffed-rice-muri-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52106&q=best&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 19924
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u09b2\u09be\u09b2 \u099a\u09bf\u09dc\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Red Flattened Rice 500 gm",
+        "nameWithoutSubText": "Red Flattened Rice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/red-flattened-rice-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69966&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 11651
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u099f\u09bf\u09ab\u09be\u09a8\u09bf \u0995\u09cd\u09b0\u09cd\u09af\u09be\u099e\u09cd\u099a '\u098f\u09a8' \u0995\u09cd\u09b0\u09bf\u09ae \u0993\u09b0\u09c7\u099e\u09cd\u099c \u0993\u09df\u09c7\u09ab\u09be\u09b0\u09b8 \u09ed\u09ec \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Are you looking to buy Tiffany Crunch \u2018n\u2019 Cream Orange wafers? Visit chaldal online grocery store to get it at your doorstep. It is a smart choice for kids as a lunch box meal. It is freshly packed with delicious taste. Net weight 76 gm. So, buy a best quality tiffany crunch \u2018n\u2019 cream orange wafers for your kids. ",
+        "name": "Tiffany Crunch 'n' Cream Orange Wafers 76 gm",
+        "nameWithoutSubText": "Tiffany Crunch 'n' Cream Orange Wafers",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tiffany-crunch-n-cream-orange-wafers-76-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69970&q=low&v=1"
+        ],
+        "price": 109.0,
+        "corpPrice": 109.0,
+        "objectID": 14064
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u09b2\u09a8\u09cd\u09a1\u09a8 \u09b8\u09c1\u0987\u099a \u09b0\u09cb\u09b2 \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u0995\u09c7\u0995 \u09ea\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "London Swiss Roll Strawberry Cake 480 gm ",
+        "nameWithoutSubText": "London Swiss Roll Strawberry Cake",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/london-swiss-roll-strawberry-cake-480-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69978&q=low&v=1"
+        ],
+        "price": 419.0,
+        "corpPrice": 419.0,
+        "objectID": 14852
+    },
+    {
+        "category": {
+            "name": "Local Breakfast",
+            "id": "228",
+            "slug": "local-breakfast"
+        },
+        "bengaliName": "\u09a2\u09be\u0995\u09be \u09a1\u09cb \u099a\u09bf\u09b0\u09be \u09ad\u09be\u099c\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dhaka Dough Flattened Rice (Chira) 200 gm",
+        "nameWithoutSubText": "Dhaka Dough Flattened Rice (Chira)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dhaka-dough-flattened-rice-chira-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59904&q=low&v=1"
+        ],
+        "price": 115.0,
+        "corpPrice": 115.0,
+        "objectID": 13255
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "category": {
+            "name": "Erasers & Correction Fluid",
+            "id": "117",
+            "slug": "erasers-correction-fluid"
+        },
+        "bengaliName": "\u09a1\u09c7\u09b2\u09bf \u09aa\u09cd\u09b2\u09be\u09b8\u09cd\u099f\u09bf\u0995 \u0987\u09b0\u09c7\u099c\u09be\u09b0 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Deli Plastic Eraser (3043)1 pcs",
+        "nameWithoutSubText": "Deli Plastic Eraser (3043)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deli-plastic-eraser-30431-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45452&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 16616
+    },
+    {
+        "category": {
+            "name": "Erasers & Correction Fluid",
+            "id": "117",
+            "slug": "erasers-correction-fluid"
+        },
+        "bengaliName": "\u09ab\u09c7\u09ac\u09bf \u09b8\u09cd\u099f\u09bf\u0995 \u0986\u09a0\u09be \u0995\u09c1\u0987\u0995 \u09a1\u09cd\u09b0\u09be\u0987\u0982 \u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Deli Correction Pen Quick Drying (7286) 8 gm",
+        "nameWithoutSubText": "Deli Correction Pen Quick Drying (7286)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deli-correction-pen-quick-drying-7286-8-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45450&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 16615
+    },
+    {
+        "category": {
+            "name": "Erasers & Correction Fluid",
+            "id": "117",
+            "slug": "erasers-correction-fluid"
+        },
+        "bengaliName": "\u09ab\u09c7\u09ad\u09be\u09b0 \u0995\u09cd\u09af\u09be\u09b8\u099f\u09c7\u09b2 \u09a1\u09be\u09b8\u09cd\u099f  \u09ab\u09cd\u09b0\u09bf \u0987\u09b0\u09c7\u099c\u09be\u09b0 \u09e7 \u099f\u09bf",
+        "longDesc": "CODE : 7086- 30 D",
+        "name": "Faber Castell Dust Free Eraser 1 pcs",
+        "nameWithoutSubText": "Faber Castell Dust Free Eraser",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/faber-castell-dust-free-eraser-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79421&q=low&v=1"
+        ],
+        "price": 19.0,
+        "corpPrice": 19.0,
+        "objectID": 14516
+    },
+    {
+        "category": {
+            "name": "Erasers & Correction Fluid",
+            "id": "117",
+            "slug": "erasers-correction-fluid"
+        },
+        "bengaliName": "\u09a1\u09c7\u09b2\u09bf \u09b8\u0982\u09b6\u09cb\u09a7\u09a8\u09c0 \u0995\u09b2\u09ae \u09ea \u09ae\u09bf\u09b2\u09bf \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Deli Correction Pen 8 ml 1 pcs",
+        "nameWithoutSubText": "Deli Correction Pen 8 ml",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/deli-correction-pen-8-ml-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D12361&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 8189
+    },
+    {
+        "category": {
+            "name": "Erasers & Correction Fluid",
+            "id": "117",
+            "slug": "erasers-correction-fluid"
+        },
+        "bengaliName": "\u09aa\u09c1\u09b6 \u0987\u09b0\u09c7\u099c\u09be\u09b0 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Push Eraser 1 pcs",
+        "nameWithoutSubText": "Push Eraser",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/push-eraser-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D1195&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 2768
+    }
+]

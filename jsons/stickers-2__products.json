@@ -1,0 +1,53 @@
+[
+    {
+        "category": {
+            "name": "Envelopes & Stickers",
+            "id": "205",
+            "slug": "stickers-2"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6\u09be \u099a\u09bf\u09a0\u09bf\u09b0 \u098f\u09a8\u09ad\u09c7\u09b2\u09be\u09aa \u09e8\u09ea \u099f\u09bf",
+        "longDesc": "Envelope Dimensions:\r\n\r\nWidth:11 cm\r\nLength: 26 cm",
+        "name": "White Letter Envelope  24 pcs",
+        "nameWithoutSubText": "White Letter Envelope",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/white-letter-envelope-24-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D5630&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 5818
+    },
+    {
+        "category": {
+            "name": "Envelopes & Stickers",
+            "id": "205",
+            "slug": "stickers-2"
+        },
+        "bengaliName": "\u09ac\u09cd\u09b0\u09be\u0989\u09a8 \u09b2\u09c7\u099f\u09be\u09b0 \u0996\u09be\u09ae \u09e8\u09ea \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Brown Letter Envelope 24 pcs",
+        "nameWithoutSubText": "Brown Letter Envelope",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/brown-letter-envelope-24-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65851&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 22303
+    },
+    {
+        "category": {
+            "name": "Envelopes & Stickers",
+            "id": "205",
+            "slug": "stickers-2"
+        },
+        "bengaliName": "\u09ac\u09be\u09a6\u09be\u09ae\u09bf \u098f\u09a8\u09ad\u09c7\u09b2\u09be\u09aa \u098f\u09ea \u09e8\u09ea \u099f\u09bf",
+        "longDesc": null,
+        "name": "Brown Envelope A4 24 pcs",
+        "nameWithoutSubText": "Brown Envelope A4",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/brown-envelope-a4-24-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D1120&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 2669
+    }
+]

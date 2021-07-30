@@ -1,0 +1,521 @@
+[
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09ae\u09be\u09ae \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf  \u09ea.\u09eb \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "MUM is a pure natural mineral drinking water. People have trust on MUM because, MUM strictly follows the guideline & standard specification of quality level of WHO, IBWA, ICDDRB, Food and Nutrition Dept. of DU. ",
+        "name": "Mum Drinking Water 4.5 ltr",
+        "nameWithoutSubText": "Mum Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mum-drinking-water-45-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74333&q=low&v=1"
+        ],
+        "price": 75.0,
+        "corpPrice": 75.0,
+        "objectID": 5638
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09ae\u09be\u09ae \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09e8 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "MUM is a pure natural mineral drinking water. People have trust on MUM because, MUM strictly follows the guideline & standard specification of quality level of WHO, IBWA, ICDDRB, Food and Nutrition Dept. of DU. ",
+        "name": "Mum Drinking Water 2 ltr",
+        "nameWithoutSubText": "Mum Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mum-drinking-water-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70048&q=low&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 5637
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09b8\u09c1\u09aa\u09be\u09b0 \u09ab\u09cd\u09b0\u09c7\u09b6 \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09e8 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Super Fresh Drinking Water is a popular and one of the the market leader among the drinking water brands in Bangladesh. It is clear, transparent, free from microorganisms and refined in seven stage of purification process as De-Iron, Pre-Ozone, De-Odor, Softening, Reverse Osmosis, Ultraviolet Treatment and Ozonation. Hygiene practice is maintained in every step of our refining process.",
+        "name": "Super Fresh Drinking Water 2 ltr",
+        "nameWithoutSubText": "Super Fresh Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/super-fresh-drinking-water-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70047&q=low&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 7593
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09b8\u09c1\u09aa\u09be\u09b0 \u09ab\u09cd\u09b0\u09c7\u09b6 \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09ee \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Super Fresh Drinking Water is a popular and one of the the market leader among the drinking water brands in Bangladesh. It is clear, transparent, free from microorganisms and refined in seven stage of purification process as De-Iron, Pre-Ozone, De-Odor, Softening, Reverse Osmosis, Ultraviolet Treatment and Ozonation. Hygiene practice is maintained in every step of our refining process.",
+        "name": "Super Fresh Drinking Water 8 ltr",
+        "nameWithoutSubText": "Super Fresh Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/super-fresh-drinking-water-8-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70049&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 7597
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0995\u09c1\u09df\u09be\u09ab\u09bf\u09a8\u09be \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09e7`\u09eb \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Pepsico\r\nPure and trusted drinking water. Drinking pure water regularly fights infections, keeps you energized, flushes out toxins, prevents headache and improves skin.   ",
+        "name": "Aquafina Drinking Water 1.5 ltr",
+        "nameWithoutSubText": "Aquafina Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aquafina-drinking-water-15-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58586&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 9012
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09aa\u09bf\u0989\u09b0\u0987\u099f \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995 \u099c\u09be\u09b0\u09cd\u09ae \u0995\u09bf\u09b2 \u0995\u09bf\u099f \u09e9\u09e6\u09e6\u09e6 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Pureit is a revolutionary innovation by Unilever to provide solution to the need of safe drinking water. It is world\u2019s one of the most advanced in-home water purifier and first of its kind. Infact, it is world\u2019s largest selling water purifier. Pureit uses advanced \u201c4-Step GermKill Technology\u201d to purify water. First, water passes through micro fiber mesh, which removes visible dirt and other material in the water. Second, it passes through the activated carbon trap, which stops all harmful parasites and other objects not visible to naked eye. At the third step, it passes through the germ kill processor that kills all the harmful virus and bacteria. Finally, the water passes through the polisher that removes any chlorine in the water and other unwanted taste or odor causing elements. ",
+        "name": "Pureit Classic Germ Kill Kit 3000 ltr",
+        "nameWithoutSubText": "Pureit Classic Germ Kill Kit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pureit-classic-germ-kill-kit-3000-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77441&q=low&v=1",
+            "https://chaldn.com/_mpimage/pureit-germ-kill-kit-3000-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28872&q=best&v=1",
+            "https://chaldn.com/_mpimage/pureit-germ-kill-kit-3000-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28879&q=best&v=1"
+        ],
+        "price": 1200.0,
+        "corpPrice": 1200.0,
+        "objectID": 8171
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09aa\u09bf\u0989\u09b0\u0987\u099f \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995 \u099c\u09be\u09b0\u09cd\u09ae \u0995\u09bf\u09b2 \u0995\u09bf\u099f \u09e7\u09eb\u09e6\u09e6 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Pureit is a revolutionary innovation by Unilever to provide solution to the need of safe drinking water. It is world\u2019s one of the most advanced in-home water purifier and first of its kind. Infact, it is world\u2019s largest selling water purifier. Pureit uses advanced \u201c4-Step GermKill Technology\u201d to purify water. First, water passes through micro fiber mesh, which removes visible dirt and other material in the water. Second, it passes through the activated carbon trap, which stops all harmful parasites and other objects not visible to naked eye. At the third step, it passes through the germ kill processor that kills all the harmful virus and bacteria. Finally, the water passes through the polisher that removes any chlorine in the water and other unwanted taste or odor causing elements. ",
+        "name": "Pureit Classic Germ Kill Kit 1500 ltr",
+        "nameWithoutSubText": "Pureit Classic Germ Kill Kit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pureit-classic-germ-kill-kit-1500-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70051&q=low&v=1",
+            "https://chaldn.com/_mpimage/pureit-germ-kill-kit-1500-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28873&q=best&v=1",
+            "https://chaldn.com/_mpimage/pureit-germ-kill-kit-1500-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28877&q=best&v=1"
+        ],
+        "price": 700.0,
+        "corpPrice": 700.0,
+        "objectID": 11929
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u0995\u09bf\u09a8\u09b2\u09c7 \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09e8 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Kinley Drinking Water 2 ltr",
+        "nameWithoutSubText": "Kinley Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kinley-drinking-water-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64223&q=low&v=1",
+            "https://chaldn.com/_mpimage/kinley-drinking-water-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64224&q=low&v=1",
+            "https://chaldn.com/_mpimage/kinley-drinking-water-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64225&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 19870
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0995\u09c1\u09df\u09be\u09ab\u09bf\u09a8\u09be \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Aquafina Drinking Water has 7-step purification system. It takes out the stuff other bottled waters leave in. 100% pure and healthy.",
+        "name": "Aquafina Drinking Water 500 ml",
+        "nameWithoutSubText": "Aquafina Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aquafina-drinking-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58585&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 8804
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09b0\u09af\u09bc\u09c7\u09b2 \u0995\u09cd\u09b0\u09be\u0989\u09a8 \u0995\u09cd\u09b2\u09be\u09ac \u09b8\u09cb\u09a1\u09be \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Royal Crown Club Soda 500 ml",
+        "nameWithoutSubText": "Royal Crown Club Soda",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/royal-crown-club-soda-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45981&q=low&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 7778
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09ae\u09be\u09ae \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "MUM is a pure natural mineral drinking water. People have trust on MUM because, MUM strictly follows the guideline & standard specification of quality level of WHO, IBWA, ICDDRB, Food and Nutrition Dept. of DU. ",
+        "name": "Mum Drinking Water 500 ml",
+        "nameWithoutSubText": "Mum Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mum-drinking-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70053&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 2318
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u0995\u09bf\u09a8\u09b2\u09c7 \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Kinley Drinking Water 500 ml",
+        "nameWithoutSubText": "Kinley Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kinley-drinking-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64226&q=low&v=1",
+            "https://chaldn.com/_mpimage/kinley-drinking-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64227&q=low&v=1",
+            "https://chaldn.com/_mpimage/kinley-drinking-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64228&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 12396
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09b8\u09c1\u09aa\u09be\u09b0 \u09ab\u09cd\u09b0\u09c7\u09b6 \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09eb \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Super Fresh Drinking Water is a popular and one of the the market leader among the drinking water brands in Bangladesh. It is clear, transparent, free from microorganisms and refined in seven stage of purification process as De-Iron, Pre-Ozone, De-Odor, Softening, Reverse Osmosis, Ultraviolet Treatment and Ozonation. Hygiene practice is maintained in every step of our refining process.",
+        "name": "Super Fresh Drinking Water 5 ltr",
+        "nameWithoutSubText": "Super Fresh Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/super-fresh-drinking-water-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70052&q=low&v=1"
+        ],
+        "price": 75.0,
+        "corpPrice": 75.0,
+        "objectID": 7596
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09ae\u09be\u09ae \u09a1\u09cd\u09b0\u09bf\u0982\u0995\u09bf\u0982 \u0993\u09df\u09be\u099f\u09be\u09b0 \u09e9\u09e9\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Mum Drinking Water 330 ml",
+        "nameWithoutSubText": "Mum Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mum-drinking-water-330-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71330&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 23138
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09b0\u0982\u09a7\u09a8\u09c1 \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Rongdhanu Drinking Water 500 ml",
+        "nameWithoutSubText": "Rongdhanu Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rongdhanu-drinking-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68062&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 22590
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09a1\u09cd\u09b0\u09bf\u0999\u09cd\u0995\u09bf\u0982 \u0993\u09df\u09be\u099f\u09be\u09b0 \u09eb\u09e6\u09e6\u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Pran Drinking Water 500 ml ",
+        "nameWithoutSubText": "Pran Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-drinking-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69672&q=best&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 22300
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995\u09bf\u0982 \u0993\u09af\u09bc\u09be\u099f\u09be\u09b0 \u09eb\u09ea\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "SUN Drinking Water 540 ml",
+        "nameWithoutSubText": "SUN Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sun-drinking-water-540-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54964&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 20515
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u098f\u09b8\u098f\u09ae\u09b8\u09bf \u09aa\u09b0\u09bf\u09b6\u09cb\u09a7\u09bf\u09a4 \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "SMC Purified Drinking Water 500 ml",
+        "nameWithoutSubText": "SMC Purified Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/smc-purified-drinking-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52888&q=best&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 19997
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09ae\u09c1\u09b8\u0995\u09be\u09a8 \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Muskan Drinking Water 500 ml",
+        "nameWithoutSubText": "Muskan Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/muskan-drinking-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70777&q=low&v=1"
+        ],
+        "price": 13.0,
+        "corpPrice": 13.0,
+        "objectID": 18712
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09ae\u09c1\u09b8\u0995\u09be\u09a8 \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09e8 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Muskan Drinking Water 2 ltr",
+        "nameWithoutSubText": "Muskan Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/muskan-drinking-water-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70776&q=low&v=1"
+        ],
+        "price": 26.0,
+        "corpPrice": 26.0,
+        "objectID": 18711
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09b8\u09cd\u09aa\u09be \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09e8.\u09e8\u09eb \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Spa Drinking Water 2.25 ltr",
+        "nameWithoutSubText": "Spa Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/spa-drinking-water-225-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80338&q=low&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 18589
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09b8\u09cd\u09aa\u09be \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Spa Drinking Water 500 ml",
+        "nameWithoutSubText": "Spa Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/spa-drinking-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50372&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 18588
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09b8\u09cd\u09ac\u09af\u09bc\u0982\u0995\u09cd\u09b0\u09bf\u09af\u09bc \u09b0\u09bf\u099a\u09be\u09b0\u09cd\u099c\u09af\u09cb\u0997\u09cd\u09af \u099c\u09b2 \u09b8\u09b0\u09ac\u09b0\u09be\u09b9\u0995\u09be\u09b0\u09c0 (\u099a\u09be\u09df\u09a8\u09be ) \u09e7 \u09aa\u09bf\u09b8",
+        "longDesc": "Free USB Charging Cable.",
+        "name": "Automatic Rechargeable Water Dispenser (China) 1 pcs ",
+        "nameWithoutSubText": "Automatic Rechargeable Water Dispenser (China)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/automatic-rechargeable-water-dispenser-china-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45967&q=low&v=1"
+        ],
+        "price": 930.0,
+        "corpPrice": 930.0,
+        "objectID": 16394
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09aa\u09bf\u0989\u09b0\u0987\u099f \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995 \u09ac\u09cd\u09b2\u09c1 \u0993\u09df\u09be\u099f\u09be\u09b0 \u09aa\u09bf\u0989\u09b0\u09bf\u09ab\u09be\u09df\u09be\u09b0 \u09e8\u09e9 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Pureit Classic Blue Water Purifier 23 ltr",
+        "nameWithoutSubText": "Pureit Classic Blue Water Purifier",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pureit-classic-blue-water-purifier-23-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45978&q=low&v=1",
+            "https://chaldn.com/_mpimage/pureit-classic-blue-water-purifier-23-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39633&q=best&v=1"
+        ],
+        "price": 3499.0,
+        "corpPrice": 3499.0,
+        "objectID": 13459
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u098f\u09ad\u09bf\u098f\u09a8 \u09aa\u09cd\u09b0\u09be\u0995\u09c3\u09a4\u09bf\u0995 \u09ae\u09bf\u09a8\u09be\u09b0\u09c7\u09b2 \u09aa\u09be\u09a8\u09bf \u09e7.\u09eb \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Evian Natural Mineral Water 1.5 ltr",
+        "nameWithoutSubText": "Evian Natural Mineral Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/evian-natural-mineral-water-15-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D21066&q=low&v=1"
+        ],
+        "price": 239.0,
+        "corpPrice": 239.0,
+        "objectID": 11582
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u099c\u09c0\u09ac\u09a8 \u09a8\u09cd\u09af\u09be\u099a\u09be\u09b0\u09be\u09b2 \u09ae\u09bf\u09a8\u09be\u09b0\u09c7\u09b2 \u09aa\u09be\u09a8\u09bf \u09eb \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Jibon Natural Mineral Water 5 ltr",
+        "nameWithoutSubText": "Jibon Natural Mineral Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/jibon-natural-mineral-water-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45969&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 8919
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09b8\u09c1\u09aa\u09be\u09b0 \u09ab\u09cd\u09b0\u09c7\u09b6 \u0996\u09be\u09ac\u09be\u09b0 \u09aa\u09be\u09a8\u09bf \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Super Fresh Drinking Water is a popular and one of the the market leader among the drinking water brands in Bangladesh. It is clear, transparent, free from microorganisms and refined in seven stage of purification process as De-Iron, Pre-Ozone, De-Odor, Softening, Reverse Osmosis, Ultraviolet Treatment and Ozonation. Hygiene practice is maintained in every step of our refining process.",
+        "name": "Super Fresh Drinking Water 500 ml",
+        "nameWithoutSubText": "Super Fresh Drinking Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/super-fresh-drinking-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70054&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 7591
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09aa\u09c7\u09b0\u09bf\u09df\u09be\u09b0 \u09ae\u09bf\u09a8\u09be\u09b0\u09c7\u09b2 \u09aa\u09be\u09a8\u09bf \u09e9\u09e9\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Perrier Mineral Water 330 ml",
+        "nameWithoutSubText": "Perrier Mineral Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/perrier-mineral-water-330-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70057&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 6692
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u09aa\u09c7\u09b0\u09bf\u09df\u09be\u09b0 \u09ae\u09bf\u09a8\u09be\u09b0\u09c7\u09b2 \u09aa\u09be\u09a8\u09bf \u09ed\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Perrier Mineral Water 750 ml",
+        "nameWithoutSubText": "Perrier Mineral Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/perrier-mineral-water-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70056&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 5762
+    },
+    {
+        "category": {
+            "name": "Water",
+            "id": "22",
+            "slug": "water"
+        },
+        "bengaliName": "\u098f\u09ad\u09bf\u09df\u09be\u09a8 \u09aa\u09cd\u09b0\u09be\u0995\u09c3\u09a4\u09bf\u0995 \u09ae\u09bf\u09a8\u09be\u09b0\u09c7\u09b2 \u09aa\u09be\u09a8\u09bf \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Evian Natural Mineral Water 500 ml",
+        "nameWithoutSubText": "Evian Natural Mineral Water",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/evian-natural-mineral-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45968&q=low&v=1"
+        ],
+        "price": 125.0,
+        "corpPrice": 125.0,
+        "objectID": 3424
+    }
+]

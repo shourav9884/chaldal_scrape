@@ -1,0 +1,277 @@
+[
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u0986\u09dc\u0982 \u09a1\u09c7\u0987\u09b0\u09bf \u099f\u0995 \u09a6\u0987 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Brac Dairy & Food Project\r\n\r\n1. Boosts Immunity Level\r\n2. Prevents Cold\r\n3. Better Digestion\r\n4. Strengthen The Bones",
+        "name": "Aarong Dairy Sour Yogurt 500 ml",
+        "nameWithoutSubText": "Aarong Dairy Sour Yogurt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-dairy-sour-yogurt-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77433&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 2115
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u09a1\u09cd\u09af\u09be\u09a8\u09bf\u09b8 \u0986\u0987\u09b0\u09be\u09a8 \u099f\u0995 \u09a6\u0987 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Danish foods Ltd.\r\nGreek- style sour yogurt. Made from fermented milk. Ayran yogurt contains more than 28 probiotic strains. \r\nIngredients: Cow milk, lactic culture.",
+        "name": "Danish Ayran Sour Yogurt 500 ml",
+        "nameWithoutSubText": "Danish Ayran Sour Yogurt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/danish-ayran-sour-yogurt-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D66035&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 22338
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u09a6\u0987 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Sweet Yogurt 100 gm",
+        "nameWithoutSubText": "Pran Sweet Yogurt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-sweet-yogurt-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47609&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 13597
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u0986\u09dc\u0982 \u09a1\u09c7\u0987\u09b0\u09bf \u09b8\u09b2\u09cd\u09aa \u099a\u09b0\u09cd\u09ac\u09bf\u09af\u09c1\u0995\u09cd\u09a4 \u099f\u0995 \u09a6\u0987 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Aarong Dairy Low Fat Yogurt (Sour) 500 gm",
+        "nameWithoutSubText": "Aarong Dairy Low Fat Yogurt (Sour)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-dairy-low-fat-yogurt-sour-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70197&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 13790
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u0986\u09dc\u0982 \u09a1\u09c7\u0987\u09b0\u09bf \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u09a6\u0987 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Aarong Dairy Sweetened Yogurt 500 ml",
+        "nameWithoutSubText": "Aarong Dairy Sweetened Yogurt",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-dairy-sweetened-yogurt-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47605&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 7749
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u09ae\u09bf\u09b2\u09cd\u0995 \u09ad\u09bf\u099f\u09be \u099f\u0995 \u09a6\u0987 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Milk Vita Sour Curd 500 ml",
+        "nameWithoutSubText": "Milk Vita Sour Curd",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/milk-vita-sour-curd-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47607&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 15996
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ae\u09be\u09a0\u09be \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Pran Matha 250 ml",
+        "nameWithoutSubText": "Pran Matha",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-matha-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70198&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 13598
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u099f\u0995 \u09a6\u0987 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Pran Sour Curd 500 ml",
+        "nameWithoutSubText": "Pran Sour Curd",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-sour-curd-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47608&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 10974
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u0997\u09cb\u09df\u09be\u09b2\u09be \u09b0\u09b8\u09ae\u09be\u09b2\u09be\u0987 \u09ec\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Gowala Roshomalai 600 gm",
+        "nameWithoutSubText": "Gowala Roshomalai",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gowala-roshomalai-600-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72134&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 14819
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u0997\u09cb\u09df\u09be\u09b2\u09be \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u09a6\u0987 \u09ec\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Gowala Sweet Curd 650 gm",
+        "nameWithoutSubText": "Gowala Sweet Curd",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gowala-sweet-curd-650-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72139&q=low&v=1",
+            "https://chaldn.com/_mpimage/gowala-sweet-curd-doi-750-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D30263&q=best&v=1",
+            "https://chaldn.com/_mpimage/gowala-sweet-curd-doi-750-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D30264&q=best&v=1",
+            "https://chaldn.com/_mpimage/gowala-sweet-curd-doi-750-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D30265&q=best&v=1"
+        ],
+        "price": 310.0,
+        "corpPrice": 310.0,
+        "objectID": 13660
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u09b6\u0995\u09cd\u09a4\u09bf \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u09a6\u0987 \u09aa\u09cd\u09b2\u09c7\u0987\u09a8 \u0995\u09ae\u09cd\u09ac\u09cb \u09aa\u09cd\u09af\u09be\u0995 \u09ea \u099f\u09bf ",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Grameen-Danone foods\r\nUnique fortified yogurt for little ones. Enriched with iodin, iron, zinc and vitamin A.\r\nIron increases blood.\r\nVitamin A improves eyesight\r\nIodin helps in brain development\r\nZinc maintains physical fitness\r\nProbiotic keeps gut healthy.",
+        "name": "Shokti Plus Sweet Yogurt Plain Combo Pack 4 pcs ",
+        "nameWithoutSubText": "Shokti Plus Sweet Yogurt Plain Combo Pack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shokti-plus-sweet-yogurt-plain-combo-pack-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47611&q=low&v=1"
+        ],
+        "price": 196.0,
+        "corpPrice": 196.0,
+        "objectID": 15302
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u09b6\u0995\u09cd\u09a4\u09bf \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u09a6\u0987 \u0986\u09ae\u09c7\u09b0 \u0995\u09ae\u09cd\u09ac\u09cb \u09aa\u09cd\u09af\u09be\u0995 \u09ea \u099f\u09bf ",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Grameen-Danone foods\r\nUnique fortified yogurt for little ones. Enriched with iodin, iron, zinc and vitamin A.\r\nIron increases blood.\r\nVitamin A improves eyesight\r\nIodin helps in brain development\r\nZinc maintains physical fitness\r\nProbiotic keeps gut healthy\r\nMango flavoured yougurt\r\nFullfils 30% of daily needs",
+        "name": "Shokti Plus Sweet Yogurt Mango Combo Pack 4 pcs",
+        "nameWithoutSubText": "Shokti Plus Sweet Yogurt Mango Combo Pack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shokti-plus-sweet-yogurt-mango-combo-pack-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47610&q=low&v=1"
+        ],
+        "price": 196.0,
+        "corpPrice": 196.0,
+        "objectID": 15303
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u09b6\u0995\u09cd\u09a4\u09bf \u09aa\u09cd\u09b2\u09be\u09b8 \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u09a6\u0987 \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u0995\u09ae\u09cd\u09ac\u09cb \u09aa\u09cd\u09af\u09be\u0995 \u09ea \u099f\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Grameen-Danone foods\r\nUnique fortified yogurt for little ones. Enriched with iodin, iron, zinc and vitamin A.\r\nIron increases blood.\r\nVitamin A improves eyesight\r\nIodin helps in brain development\r\nZinc maintains physical fitness\r\nProbiotic keeps gut healthy\r\nStrawberry flavoured yogurt\r\nFullfills 30% of daily needs",
+        "name": "Shokti Plus Sweet Yogurt Strawberry Combo Pack 4 Pcs",
+        "nameWithoutSubText": "Shokti Plus Sweet Yogurt Strawberry Combo Pack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shokti-plus-sweet-yogurt-strawberry-combo-pack-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71348&q=low&v=1"
+        ],
+        "price": 196.0,
+        "corpPrice": 196.0,
+        "objectID": 15304
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u0986\u09dc\u0982 \u09a6\u09c1\u09a7\u09c7\u09b0 \u0997\u09cb\u09b2\u09be\u09aa\u099c\u09be\u09ae (\u09e8\u09e6\u00b1\u09e8 \u099f\u09bf) \u09e7 \u0995\u09c7\u099c\u09bf ",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Arrong Dairy\r\n\r\nMade from whole milk, this dessert is absolutely exquisite and makes you crave for more. What makes our sweet delights different from the rest is that you can adjust the sweetness to your liking. You can serve this hot or cold on festivals and special occasions as well as meet your sudden cravings. Easily carry in anywhere and enjoy.\r\nComposition:\r\nWhole Milk, Channa, Suger, Wheat Flour, Ghee, Vegetable Oil, Cardamom & Potable Water\r\n\r\nNutrition: Energy, carbohydrate, sucrose, fat, calcium, sodium, minerals, protein.",
+        "name": "Aarong Dairy Golapjam (20\u00b12 pcs) 1 kg",
+        "nameWithoutSubText": "Aarong Dairy Golapjam (20\u00b12 pcs)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-dairy-golapjam-202-pcs-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67467&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 16154
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u0986\u09dc\u0982 \u09a6\u09c1\u09a7\u09c7\u09b0 \u09b0\u09b8\u09cb\u0997\u09cb\u09b2\u09cd\u09b2\u09be (\u09e8\u09e6\u00b1\u09e8 \u099f\u09bf) \u09e7 \u0995\u09c7\u099c\u09bf ",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Arrong Dairy\r\nIndulge in the most popular of Bengali desserts made with fresh cottage cheese (Chhana). This sweet dish can be served on various occasions and makes for a delightful treat.\r\nWhole Milk, Channa, Sugar, Wheat Flour, Vinegar, Cardamom and Potable Water.\r\nNutrition: Energy, carbohydrate, sucrose, fat, calcium, sodium, minerals, protein.",
+        "name": "Aarong Dairy Roshogolla (20\u00b12 pcs) 1 kg",
+        "nameWithoutSubText": "Aarong Dairy Roshogolla (20\u00b12 pcs)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-dairy-roshogolla-202-pcs-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67466&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 16155
+    },
+    {
+        "category": {
+            "name": "Yogurt & Sweet",
+            "id": "64",
+            "slug": "yogurt"
+        },
+        "bengaliName": "\u0986\u09dc\u0982 \u09a6\u09c1\u09a7\u09c7\u09b0 \u0995\u09be\u09b2\u09cb\u099c\u09be\u09ae (\u09e8\u09e6\u00b1\u09e8 \u099f\u09bf) \u09e7 \u0995\u09c7\u099c\u09bf ",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Arrong Dairy\r\nkalo jam sweets made from whole milk.\r\nIngredients: Whole Milk, Channa, Sugar, Wheat Flour, color(E-124) and Potable Water.\r\nNutrition: Energy, carbohydrate, sugar, fat, minerals, protein.",
+        "name": "Aarong Dairy Kalojam (20\u00b12 pcs) 1 kg",
+        "nameWithoutSubText": "Aarong Dairy Kalojam (20\u00b12 pcs)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-dairy-kalojam-202-pcs-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67468&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 22450
+    }
+]

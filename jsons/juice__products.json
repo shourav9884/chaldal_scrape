@@ -1,0 +1,1517 @@
+[
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09c7\u099c\u09be\u09a8 \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u099c\u09c1\u09b8 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Shezan Mango Juice 250 ml",
+        "nameWithoutSubText": "Shezan Mango Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shezan-mango-juice-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45898&q=low&v=1"
+        ],
+        "price": 20.0,
+        "corpPrice": 20.0,
+        "objectID": 2465
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09cd\u09b2\u09be\u0987\u09b8 \u09ae\u09c7\u0999\u09cd\u0997\u09cb \u099c\u09c1\u09b8 \u09e8\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Slice Mango Juice 200 ml",
+        "nameWithoutSubText": "Slice Mango Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/slice-mango-juice-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69603&q=low&v=1"
+        ],
+        "price": 20.0,
+        "corpPrice": 20.0,
+        "objectID": 22196
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09c7\u09b0\u09c7\u09b8 \u0995\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09ac\u09c7\u09b0\u09bf \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Ceres Cranberry Juice 1 ltr",
+        "nameWithoutSubText": "Ceres Cranberry Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ceres-cranberry-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74862&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 23948
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b2\u09c7\u099f\u09bf\u09a8\u09be \u09e7\u09e6\u09e6% \u099c\u09c1\u09b8 (\u0995\u09ae\u09b2\u09be) \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Chaldal has a range of locally sourced 100% natural pulp fruit juice. And Latina Orange Juice is one of them. \r\nBrand: PRAN Dairy.\r\nNet Weight: 1 Ltr.\r\nJuice Type: Orange Juice.",
+        "name": "Latina 100 % Juice (Orange) 1 Ltr",
+        "nameWithoutSubText": "Latina 100 % Juice (Orange)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/latina-100-juice-orange-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45878&q=low&v=1"
+        ],
+        "price": 175.0,
+        "corpPrice": 175.0,
+        "objectID": 12162
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b2\u09c7\u099f\u09bf\u09a8\u09be \u09e7\u09e6\u09e6% \u099c\u09c1\u09b8 (\u0986\u09aa\u09c7\u09b2) \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Made from the 100% fresh picked apples with the goodness in a bottle. So, Splash yourselves with a breath of pure refreshment with Latina Apple Juice. Brand: Pran Food and Beverage Limited. Net weight: 1 Ltr.",
+        "name": "Latina 100 % Juice (Apple) 1 ltr",
+        "nameWithoutSubText": "Latina 100 % Juice (Apple)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/latina-100-juice-apple-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45877&q=low&v=1"
+        ],
+        "price": 175.0,
+        "corpPrice": 175.0,
+        "objectID": 12161
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09c7\u099c\u09be\u09a8 \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Shezan Mango Fruit Drinks 1 ltr ",
+        "nameWithoutSubText": "Shezan Mango Fruit Drinks",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shezan-mango-fruit-drinks-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70036&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 15953
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c1\u099f\u09bf\u0995\u09be \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u099c\u09c1\u09b8 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Frutika Mango Juice 500 ml",
+        "nameWithoutSubText": "Frutika Mango Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/frutika-mango-juice-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71768&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 12844
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09ab\u09cd\u09b0\u09c1\u0987\u099f\u09be \u09ad\u09be\u0987\u099f\u09be\u09b2\u09b8 \u0986\u09ae\u09c7\u09b0 \u099c\u09c1\u09b8 (\u09ab\u09cd\u09b0\u09c0 \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09e8 \u099f\u09bf) \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Nestle Fruita Vitals Mango Juice (Free Noodles 2 pcs)1 ltr",
+        "nameWithoutSubText": "Nestle Fruita Vitals Mango Juice (Free Noodles 2 pcs)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-fruita-vitals-mango-juice-free-noodles-2-pcs1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76083&q=low&v=1"
+        ],
+        "price": 340.0,
+        "corpPrice": 340.0,
+        "objectID": 24226
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": " \u09b8\u09c7\u09b0\u09c7\u09b8 \u09a8\u09c7\u0995\u099f\u09be\u09b0 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Ceres Necter Orange Juice 1 ltr",
+        "nameWithoutSubText": "Ceres Necter Orange Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ceres-necter-orange-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74860&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 23946
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ab\u09cd\u09b0\u09c1\u099f\u09cb \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u09ab\u09cd\u09b0\u09c1\u099f \u09a1\u09cd\u09b0\u09bf\u0999\u09cd\u0995 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Pran Frooto Mango Fruit Drink 1 ltr",
+        "nameWithoutSubText": "Pran Frooto Mango Fruit Drink",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-frooto-mango-fruit-drink-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70037&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 2380
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09c7\u099c\u09be\u09a8 \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u09ab\u09cd\u09b0\u09c1\u099f \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Shezan Mango Fruit Drink 500 ml ",
+        "nameWithoutSubText": "Shezan Mango Fruit Drink",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shezan-mango-fruit-drink-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50512&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 18656
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09c7\u09b0\u09c7\u09b8 \u09a8\u09c7\u0995\u099f\u09be\u09b0 \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Ceres Necter Mango Juice 1 ltr",
+        "nameWithoutSubText": "Ceres Necter Mango Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ceres-necter-mango-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74861&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 23947
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09cd\u099f\u09b2\u09c7 \u09ab\u09cd\u09b0\u09c1\u0987\u099f\u09be \u09ad\u09be\u0987\u099f\u09be\u09b2 \u099a\u09be\u09a8\u09af\u09be \u09ae\u09c7\u0999\u09cd\u0997\u09cb \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Features: Made from Concentrate with 31% Fruit Juice Content and Natural Sweetener.\r\n\r\nBenefits: All NESTL\u00c9 FRUITA VITALS products contain less than 100kcal per serving to achieve a healthy lifestyle.\r\n\r\nStorage Instructions: Refrigerate after opening and consume within 4 days.\r\n\r\nOrigin From PakistanFeatures: Made from Concentrate with 31% Fruit Juice Content and Natural Sweetener.\r\n\r\nBenefits: All NESTL\u00c9 FRUITA VITALS products contain less than 100kcal per serving to achieve a healthy lifestyle.\r\n\r\nStorage Instructions: Refrigerate after opening and consume within 4 days.\r\n\r\nOrigin From Pakistan",
+        "name": "Nestle Fruita Vitals Chaunsa Mango Juice 1 ltr",
+        "nameWithoutSubText": "Nestle Fruita Vitals Chaunsa Mango Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-fruita-vitals-chaunsa-mango-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69609&q=low&v=1"
+        ],
+        "price": 340.0,
+        "corpPrice": 340.0,
+        "objectID": 22270
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u0987\u09aa\u09cd\u09b0\u09bf\u09a8\u09be \u09ab\u09cd\u09b0\u09c1\u099f \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u0995\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09ac\u09c7\u09b0\u09bf \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Cyprina Fruit Drink Cranberry 1 ltr ",
+        "nameWithoutSubText": "Cyprina Fruit Drink Cranberry",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cyprina-fruit-drink-cranberry-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45866&q=low&v=1"
+        ],
+        "price": 425.0,
+        "corpPrice": 425.0,
+        "objectID": 2564
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09b2\u09c7 \u09ab\u09cd\u09b0\u09c1\u0987\u099f\u09be \u09ad\u09be\u0987\u099f\u09be\u09b2\u09b8 \u0985\u09cd\u09af\u09be\u09aa\u09c7\u09b2 \u099c\u09c1\u09b8 (\u09ab\u09cd\u09b0\u09c0 \u09a8\u09c1\u09a1\u09c1\u09b2\u09b8 \u09e8 \u099f\u09bf) \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Nestle Fruita Vitals Apple Juice (Free Noodles 2 pcs) 1 ltr",
+        "nameWithoutSubText": "Nestle Fruita Vitals Apple Juice (Free Noodles 2 pcs)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-fruita-vitals-apple-juice-free-noodles-2-pcs-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76086&q=low&v=1"
+        ],
+        "price": 340.0,
+        "corpPrice": 340.0,
+        "objectID": 24228
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099a\u09c7\u09b0\u09c7\u09b8 \u0986\u09aa\u09c7\u09b2 \u099c\u09c1\u09b8 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Ceres Apple Juice 250 ml",
+        "nameWithoutSubText": "Ceres Apple Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ceres-apple-juice-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74859&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 23944
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09b8\u09cd\u0995\u09cb\u09af\u09bc\u09be\u09b6 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Orange Squashe 500 gm",
+        "nameWithoutSubText": "Ahmed Orange Squashe",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-orange-squashe-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59370&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 21372
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099a\u09c7\u09b0\u09c7\u09b8 \u0986\u09aa\u09c7\u09b2 \u099c\u09c2\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Ceres Apple juice 1 ltr",
+        "nameWithoutSubText": "Ceres Apple juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ceres-apple-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45690&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 16645
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u0987\u09aa\u09cd\u09b0\u09bf\u09a8\u09be \u0986\u0999\u09c1\u09b0 \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Cyprina Grape Juice 1 ltr",
+        "nameWithoutSubText": "Cyprina Grape Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cyprina-grape-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D16872&q=low&v=1"
+        ],
+        "price": 395.0,
+        "corpPrice": 395.0,
+        "objectID": 10330
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09ab\u09a8\u09cd\u099f\u09be\u09a8\u09be \u0995\u09ae\u09b2\u09be \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Fontana Orange Juice 1 ltr",
+        "nameWithoutSubText": "Fontana Orange Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fontana-orange-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45875&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 3442
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ab\u09cd\u09b0\u09c1\u099f\u09cb \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u09ab\u09cd\u09b0\u09c1\u099f \u09a1\u09cd\u09b0\u09bf\u0999\u09cd\u0995 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Pran Frooto Mango Fruit Drink 500 ml",
+        "nameWithoutSubText": "Pran Frooto Mango Fruit Drink",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-frooto-mango-fruit-drink-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59929&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 2382
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09bf\u09aa\u09cd\u09b0\u09bf\u09a8\u09be \u0995\u09ae\u09b2\u09be\u09b0 \u099c\u09c2\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Cyprina Orange Juice 1 ltr",
+        "nameWithoutSubText": "Cyprina Orange Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cyprina-orange-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45871&q=low&v=1"
+        ],
+        "price": 395.0,
+        "corpPrice": 395.0,
+        "objectID": 2189
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u0986\u09b0\u0986\u09ae \u099c\u09c1\u09b8 \u0985\u09cd\u09af\u09be\u09aa\u09b2 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Aaram Juice Apple 1 ltr",
+        "nameWithoutSubText": "Aaram Juice Apple",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aaram-juice-apple-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D57814&q=low&v=1"
+        ],
+        "price": 300.0,
+        "corpPrice": 300.0,
+        "objectID": 20927
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09c7\u09b0\u09c7\u09b8 \u09a8\u09c7\u0995\u099f\u09be\u09b0 \u0986\u09aa\u09c7\u09b2 \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Ceres Necter Apple Juice 1 ltr",
+        "nameWithoutSubText": "Ceres Necter Apple Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ceres-necter-apple-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74858&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 23945
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099f\u09bf\u09aa\u0995\u09cb \u09ad\u09cd\u09af\u09be\u09b2\u09c7\u09a8\u09cd\u09b8\u09bf\u09df\u09be \u0985\u09b0\u09c7\u099e\u09cd\u099c \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Tipco Velencia Orange Juice 1 ltr",
+        "nameWithoutSubText": "Tipco Velencia Orange Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tipco-velencia-orange-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45912&q=low&v=1"
+        ],
+        "price": 450.0,
+        "corpPrice": 450.0,
+        "objectID": 2509
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09a8\u09c7\u09b8\u09cd\u099f\u09b2\u09c7 \u09ab\u09cd\u09b0\u09c1\u0987\u099f\u09be \u09ad\u09be\u0987\u099f\u09be\u09b2\u09b8 \u0986\u09aa\u09c7\u09b2 \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "When surrounded by negativity, a sip of Nestle Fruita Vitals Apple Juice will always cheer you up.\r\n\r\nFeatures: Made from Concentrate with 50% Fruit Juice content and Natural Sweetener.\r\n\r\nBenefits: All NESTL\u00c9 FRUITA VITALS products contain less than 100kcal per serving to achieve a healthy lifestyle.\r\n\r\nStorage Instructions: Refrigerate after opening and consume within 4 days.\r\n\r\nOrigin From Pakistan",
+        "name": "Nestle Fruita Vitals Apple Juice 1 ltr",
+        "nameWithoutSubText": "Nestle Fruita Vitals Apple Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nestle-fruita-vitals-apple-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69608&q=low&v=1"
+        ],
+        "price": 340.0,
+        "corpPrice": 340.0,
+        "objectID": 22269
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09be\u09a8\u09cd\u099f\u09bf \u09aa\u09ae\u09bf\u0997\u09cd\u09b0\u09be\u09a8\u09c7\u099f \u098f\u09a8\u09cd\u09a1 \u099a\u09c7\u09b0\u09bf \u099c\u09c1\u09b8 \u09ed\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Grante Pomegranate and Cherry Juice 750 ml",
+        "nameWithoutSubText": "Grante Pomegranate and Cherry Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/grante-pomegranate-and-cherry-juice-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74866&q=low&v=1"
+        ],
+        "price": 520.0,
+        "corpPrice": 520.0,
+        "objectID": 23952
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u0986\u09b0\u0986\u09ae \u099c\u09c1\u09b8 \u0995\u09ae\u09b2\u09be \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Aaram Juice Orange 1 ltr",
+        "nameWithoutSubText": "Aaram Juice Orange",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aaram-juice-orange-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D57534&q=low&v=1"
+        ],
+        "price": 300.0,
+        "corpPrice": 300.0,
+        "objectID": 20928
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09be\u09a8\u09cd\u099f\u09bf \u09aa\u09ae\u09bf\u0997\u09cd\u09b0\u09be\u09a8\u09c7\u099f, \u0985\u09cd\u09af\u09be\u09aa\u09c7\u09b2 \u098f\u09a8\u09cd\u09a1 \u0997\u09cd\u09b0\u09c7\u09aa \u099c\u09c1\u09b8 \u09ed\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Grante Pomegranate, Apple and Grape Juice 750 ml",
+        "nameWithoutSubText": "Grante Pomegranate, Apple and Grape Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/grante-pomegranate-apple-and-grape-juice-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74864&q=low&v=1"
+        ],
+        "price": 520.0,
+        "corpPrice": 520.0,
+        "objectID": 23950
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u0986\u09b0\u09b0\u09be\u09ae \u09b0\u09b8 \u0986\u09ae\u09c7\u09b0 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Aaram Juice Mango 1 ltr",
+        "nameWithoutSubText": "Aaram Juice Mango",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aaram-juice-mango-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64954&q=low&v=1"
+        ],
+        "price": 300.0,
+        "corpPrice": 300.0,
+        "objectID": 20926
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09cd\u099f\u09be\u09b0\u09b6\u09bf\u09aa \u0986\u09ae \u09ab\u09cd\u09b0\u09c1\u099f \u09a1\u09cd\u09b0\u09bf\u0999\u09cd\u0995 \u09e7\u09e6\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Starship Mango Fruit Drinks-1000 ml",
+        "nameWithoutSubText": "Starship Mango Fruit Drinks-",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/starship-mango-fruit-drinks-1000-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78126&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 24405
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09be\u09a8\u09cd\u099f\u09bf \u09aa\u09ae\u09bf\u0997\u09cd\u09b0\u09be\u09a8\u09c7\u099f \u098f\u09a8\u09cd\u09a1 \u0997\u09cd\u09b0\u09c7\u09aa \u099c\u09c1\u09b8 \u09ed\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Grante Pomegranate and Grape Juice 750 ml",
+        "nameWithoutSubText": "Grante Pomegranate and Grape Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/grante-pomegranate-and-grape-juice-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74865&q=low&v=1"
+        ],
+        "price": 520.0,
+        "corpPrice": 520.0,
+        "objectID": 23951
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u0997\u09cd\u09b0\u09be\u09a8\u09cd\u099f\u09bf \u09aa\u09ae\u09bf\u0997\u09cd\u09b0\u09be\u09a8\u09c7\u099f \u099c\u09c1\u09b8 \u09ed\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Grante Pomegranate Juice 750 ml",
+        "nameWithoutSubText": "Grante Pomegranate Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/grante-pomegranate-juice-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74870&q=low&v=1"
+        ],
+        "price": 520.0,
+        "corpPrice": 520.0,
+        "objectID": 23949
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u0987\u09aa\u09cd\u09b0\u09bf\u09a8\u09be \u09ae\u09c7\u0999\u09cd\u0997\u09cb \u09a8\u09c7\u0995\u099f\u09be\u09b0 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Cyprina Mango Nectar 1 ltr",
+        "nameWithoutSubText": "Cyprina Mango Nectar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cyprina-mango-nectar-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61627&q=low&v=1"
+        ],
+        "price": 425.0,
+        "corpPrice": 425.0,
+        "objectID": 21975
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u0987\u09aa\u09cd\u09b0\u09bf\u09a8\u09be \u099f\u09cd\u09b0\u09aa\u09bf\u0995\u09cd\u09af\u09be\u09b2 \u09b0\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Cyprina Tropical Juice 1 ltr",
+        "nameWithoutSubText": "Cyprina Tropical Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cyprina-tropical-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D62894&q=low&v=1"
+        ],
+        "price": 395.0,
+        "corpPrice": 395.0,
+        "objectID": 21974
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u0987\u09aa\u09cd\u09b0\u09bf\u09a8\u09be \u099f\u09ae\u09c7\u099f\u09cb \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Cyprina Tomato Juice 1 ltr",
+        "nameWithoutSubText": "Cyprina Tomato Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cyprina-tomato-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61643&q=low&v=1"
+        ],
+        "price": 395.0,
+        "corpPrice": 395.0,
+        "objectID": 21973
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u0987\u09aa\u09cd\u09b0\u09bf\u09a8\u09be \u0997\u09c1\u09df\u09be\u09ad\u09be \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Cyprina Guava Juice 1 ltr",
+        "nameWithoutSubText": "Cyprina Guava Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cyprina-guava-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61642&q=low&v=1"
+        ],
+        "price": 395.0,
+        "corpPrice": 395.0,
+        "objectID": 21972
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u0987\u09aa\u09cd\u09b0\u09bf\u09a8\u09be \u09aa\u09be\u0987\u09a8\u09c7\u09aa\u09c7\u09b2 \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Cyprina Pineapple Juice 1 ltr",
+        "nameWithoutSubText": "Cyprina Pineapple Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cyprina-pineapple-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61641&q=low&v=1"
+        ],
+        "price": 395.0,
+        "corpPrice": 395.0,
+        "objectID": 21971
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099f\u09bf\u09aa\u0995\u09cb \u099f\u09ae\u09c7\u099f\u09cb \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Tipco Tomato Juice 1 ltr",
+        "nameWithoutSubText": "Tipco Tomato Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tipco-tomato-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61638&q=low&v=1"
+        ],
+        "price": 425.0,
+        "corpPrice": 425.0,
+        "objectID": 21969
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09cd\u099f\u09be\u09b0\u09b6\u09bf\u09aa \u09ae\u09c7\u0999\u09cd\u0997\u09cb \u09ab\u09cd\u09b0\u09c1\u099f\u09bf \u09a1\u09cd\u09b0\u09bf\u0999\u09cd\u0995 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Starship Mango Fruity 250 ml",
+        "nameWithoutSubText": "Starship Mango Fruity",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/starship-mango-fruity-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76651&q=low&v=1"
+        ],
+        "price": 20.0,
+        "corpPrice": 20.0,
+        "objectID": 21846
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": " \u09a1\u09be\u09ac\u09b0 \u09b0\u09bf\u09df\u09c7\u09b2 \u09ab\u09cd\u09b0\u09c1\u099f \u09aa\u09be\u0993\u09df\u09be\u09b0 \u09ae\u09bf\u0995\u09cd\u09b8\u09a1 \u09ab\u09cd\u09b0\u09bf\u099f \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "\"A good mixed fruit juice brings together the best qualities of different fruits while retaining a unique taste of its own. Your kid will love the stand-alone tangy-sweet taste of Real Mixed Fruit and will always ask for more. Make it a daily habit for him, because he might be fussy with fruit salads and cut fruits, but would never say no to the invigorating taste of R\u00e9al Mixed Fruit. Every time you pour him a glass of R\u00e9al Mixed Fruit, you can be sure that only the best R\u00e9al Fruit Power would reach him.\r\nThat is because every glass of R\u00e9al Mixed Fruit is loaded with the goodness of 9 nutritious fruits, namely Passion Fruit, Apricot, Mango, Banana, Pineapple, Guava, Orange, Apple and Lime. Isn\u2019t that great? The lushness of 9 fruits in 1 pack not only gives you all the nutrition but also makes you feel recharged. It is this unmatched combination of unique taste & super nutrition that makes R\u00e9al Mixed Fruit, one of the highest selling fruit beverages in the country. Besides, it can also be used in the preparation of one of the most refreshing summer drinks known as the Mixed Fruit Punch.\r\nIt is an amazingly made, healthy blend of fresh fruits, packed with much energy. Its great taste is very filling and full of health benefits. So, relish your meals with the R\u00e9al Fruit \r\nDirections: Serve the fruit beverage straight from the pack or create lip-smacking mocktails, shakes, slushes and even puddings.\r\nIngredients: Mixed fruit concentrate (12. 03%), [Apple juice concentrate (4. 72%), orange juice concentrate (2. 70%), guava puree (0. 7%), apricot puree concentrate (0. 65%), mango pulp concentrate (0. 5%), banana puree (0. 46%), lime juice conc (0. 28%), passion fruit (0. 23%), pineapple juice concentrate(0. 05%)], and sugar, acidity regulator (ins 330), antioxidant (ins300) and stabilizer (ins440) contains permitted natural colour [ins160a (ii & iii)] and added natural & nature identical flavour. No added preservatives.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n",
+        "name": "Dabur Real Fruit Power Mixed fruit Juice 1 ltr",
+        "nameWithoutSubText": "Dabur Real Fruit Power Mixed fruit Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dabur-real-fruit-power-mixed-fruit-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D57503&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 20914
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b2\u09be\u0987\u09ab \u0985\u09b0\u09c7\u099e\u09cd\u099c \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Nutrilife Orange Juice 1 ltr",
+        "nameWithoutSubText": "Nutrilife Orange Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nutrilife-orange-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54540&q=low&v=1"
+        ],
+        "price": 245.0,
+        "corpPrice": 245.0,
+        "objectID": 20637
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b2\u09be\u0987\u09ab \u0997\u09c1\u09df\u09be\u09ad\u09be \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Nutrilife Guava Juice 1 ltr ",
+        "nameWithoutSubText": "Nutrilife Guava Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nutrilife-guava-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54539&q=low&v=1"
+        ],
+        "price": 245.0,
+        "corpPrice": 245.0,
+        "objectID": 20636
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09a1\u09cd\u09b0\u09c1\u0995 \u09ae\u09cd\u09af\u09be\u0999\u09cd\u0997\u09cb \u09aa\u09be\u09a8\u09cd\u09a8\u09be \u09b8\u09cd\u0995\u09cb\u09df\u09be\u09b6 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Druk Mango Panna Sqaush 500 ml",
+        "nameWithoutSubText": "Druk Mango Panna Sqaush",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/druk-mango-panna-sqaush-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65080&q=low&v=1"
+        ],
+        "price": 309.0,
+        "corpPrice": 309.0,
+        "objectID": 18452
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09a1\u09b2\u09ab\u09bf\u09a8 \u09a8\u09be\u099f\u09be \u09a1\u09c7 \u0995\u09cb\u0995\u09cb \u09ae\u09cd\u09af\u09be\u0999\u09cd\u0997\u09cb \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09e9\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Dolphin Nata De Coco Mango Drink 350 ml",
+        "nameWithoutSubText": "Dolphin Nata De Coco Mango Drink",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dolphin-nata-de-coco-mango-drink-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50145&q=low&v=1"
+        ],
+        "price": 159.0,
+        "corpPrice": 159.0,
+        "objectID": 18433
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09a1\u09b2\u09ab\u09bf\u09a8 \u09a8\u09be\u099f\u09be \u09a1\u09c7 \u0995\u09cb\u0995\u09cb \u0986\u0999\u09cd\u0997\u09c1\u09b0 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09e9\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Dolphin Nata De Coco Grape Drink 350 ml",
+        "nameWithoutSubText": "Dolphin Nata De Coco Grape Drink",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dolphin-nata-de-coco-grape-drink-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50144&q=low&v=1"
+        ],
+        "price": 139.0,
+        "corpPrice": 139.0,
+        "objectID": 18432
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09a1\u09b2\u09ab\u09bf\u09a8 \u09a8\u09be\u099f\u09be \u09a1\u09c7 \u0995\u09cb\u0995\u09cb \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09e9\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Dolphin Nata De Coco Orange Drink 350 ml",
+        "nameWithoutSubText": "Dolphin Nata De Coco Orange Drink",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dolphin-nata-de-coco-orange-drink-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50142&q=low&v=1"
+        ],
+        "price": 159.0,
+        "corpPrice": 159.0,
+        "objectID": 18430
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b0\u09bf\u09ac\u09c7\u09a8\u09be \u09ac\u09cd\u09b2\u09cd\u09af\u09be\u0995\u0995\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u099f \u099c\u09c1\u09b8 \u09ee\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Ribena Blackcurrant Juice 850 ml",
+        "nameWithoutSubText": "Ribena Blackcurrant Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ribena-blackcurrant-juice-850-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46833&q=low&v=1"
+        ],
+        "price": 549.0,
+        "corpPrice": 549.0,
+        "objectID": 16852
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u09b8\u09c1\u0987\u099f \u09aa\u09cd\u09b0\u09c1\u09a8 \u099c\u09c1\u09b8 \u09ef\u09ea\u09ec \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Sun Sweet Prune Juice 946 ml",
+        "nameWithoutSubText": "Sun Sweet Prune Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sun-sweet-prune-juice-946-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64996&q=low&v=1"
+        ],
+        "price": 611.0,
+        "corpPrice": 611.0,
+        "objectID": 16851
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8\u0995\u09c1\u0987\u0995 \u0997\u09cb\u09b2\u09cd\u09a1 \u09ac\u09cd\u09b2\u09cd\u09af\u09be\u0995\u09be\u09b0\u09c7\u09a8\u09cd\u099f \u099c\u09c1\u09b8 \u09ee\u09ea\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Sunquick Gold Blackcurrant Juice 840 ml ",
+        "nameWithoutSubText": "Sunquick Gold Blackcurrant Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sunquick-gold-blackcurrant-juice-840-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46599&q=low&v=1"
+        ],
+        "price": 589.0,
+        "corpPrice": 589.0,
+        "objectID": 16806
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8\u0995\u09c1\u0987\u0995 \u099f\u09cd\u09b0\u09aa\u09bf\u0995\u09be \u099f\u09cd\u09b0\u09aa\u09bf\u0987\u0995\u09be\u09b2 \u099c\u09c1\u09b8 \u09ee\u09ea\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Sunquick Tropika Tropical Juice 840 ml ",
+        "nameWithoutSubText": "Sunquick Tropika Tropical Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sunquick-tropika-tropical-juice-840-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46598&q=low&v=1"
+        ],
+        "price": 589.0,
+        "corpPrice": 589.0,
+        "objectID": 16805
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "  \u09a1\u09be\u09ac\u09b0 \u09b0\u09bf\u09af\u09bc\u09c7\u09b2 \u09ab\u09cd\u09b0\u09c1\u099f \u09aa\u09be\u0993\u09df\u09be\u09b0 \u09b2\u09bf\u099a\u09c1 \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "\"Born from the peerless, world-renowned muzaffarpur litchis, these deliciously succulent litchis are an annual delight for litchi lovers who eagerly wait for the fruit every year.\r\nAbout this item\r\n\u2022 Made from the world renowned muzaffarpur litchis\r\n\u2022 Great source of vitamin c and carbs\r\n\u2022 Provides nutrition and energy\r\n\u2022 Can be savored as a delicious smoothie, a summer cooler, with ice cream or as it is\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n",
+        "name": "Dabur Real Fruit Power Litchi Juice 1 Ltr",
+        "nameWithoutSubText": "Dabur Real Fruit Power Litchi Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dabur-real-fruit-power-litchi-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64998&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 16656
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": " \u09a1\u09be\u09ac\u09b0  \u09b0\u09bf\u09af\u09bc\u09c7\u09b2 \u09ab\u09cd\u09b0\u09c1\u099f \u09aa\u09be\u0993\u09df\u09be\u09b0 \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "\"Real mango made with the best mangoes. This fruit beverage so thick with mangoes that each gulp of it is like biting deep into the tender goodness of ripe, juicy mangoes. It's the healthy source of energy your child needs to take on school and play, and still be ready for more. \r\nDirections: The fruit beverage can be consumed directly from the pack or used to make delicious blended drinks and mocktails.\r\nIngredients: Water, Mango Pulp, Acidity regulator (INS 300), Stabilizer (INS 440), Antioxidants (INS 300), Sugar (11.66 g), Energy (61 Kcal), Protein (0.1 g), Fat (0), Carbohydrate (15.3g), Calcium (3mg), Iron (0.3mg)\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n",
+        "name": "Dabur Real Fruit Power Mango Juice 1 ltr",
+        "nameWithoutSubText": "Dabur Real Fruit Power Mango Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dabur-real-fruit-power-mango-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64997&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 16655
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099a\u09c7\u09b0\u09c7\u09b8 \u09b0\u09c7\u09a1 \u0997\u09cd\u09b0\u09c7\u09aa \u099c\u09c2\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Ceres Red Grape juice 1 ltr",
+        "nameWithoutSubText": "Ceres Red Grape juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ceres-red-grape-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64959&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 16651
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099a\u09c7\u09b0\u09c7\u09b8 \u09aa\u09be\u0987\u09a8\u09be\u09aa\u09c7\u09b2 \u099c\u09c2\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Ceres Pineapple juice 1 ltr",
+        "nameWithoutSubText": "Ceres Pineapple juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ceres-pineapple-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45695&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 16650
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099a\u09c7\u09b0\u09c7\u09b8 \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u099c\u09c2\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Ceres Mango juice 1 ltr",
+        "nameWithoutSubText": "Ceres Mango juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ceres-mango-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45694&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 16649
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099a\u09c7\u09b0\u09c7\u09b8 \u09b2\u09bf\u099a\u09c1 \u099c\u09c2\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Ceres Litchi juice 1 ltr",
+        "nameWithoutSubText": "Ceres Litchi juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ceres-litchi-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45693&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 16648
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099a\u09c7\u09b0\u09c7\u09b8 \u0997\u09c1\u09df\u09be\u09ad\u09be \u099c\u09c2\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Ceres Guava  juice 1 ltr",
+        "nameWithoutSubText": "Ceres Guava  juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ceres-guava-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64958&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 16647
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099a\u09c7\u09b0\u09c7\u09b8 \u0995\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09ac\u09c7\u09b0\u09bf \u0993 \u0995\u09bf\u0989\u0987 \u099c\u09c2\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Ceres Cranberry & Kiwi juice 1 ltr",
+        "nameWithoutSubText": "Ceres Cranberry & Kiwi juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ceres-cranberry-kiwi-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64965&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 16646
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099a\u09c7\u09b0\u09c7\u09b8 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u099c\u09c2\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Ceres Orange juice 1 ltr",
+        "nameWithoutSubText": "Ceres Orange juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ceres-orange-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45689&q=low&v=1"
+        ],
+        "price": 400.0,
+        "corpPrice": 400.0,
+        "objectID": 16644
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b2\u09be\u0987\u09ab \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0 ",
+        "longDesc": null,
+        "name": "Nutrilife Mango Juice 1 ltr ",
+        "nameWithoutSubText": "Nutrilife Mango Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/nutrilife-mango-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45885&q=low&v=1"
+        ],
+        "price": 245.0,
+        "corpPrice": 245.0,
+        "objectID": 15305
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8\u0995\u09c1\u0987\u0995 \u0985\u09b0\u09c7\u09a8 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u099c\u09c1\u09b8 \u09ee\u09ea\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Sunquick Oren Orange Juice 840 ml ",
+        "nameWithoutSubText": "Sunquick Oren Orange Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sunquick-oren-orange-juice-840-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61347&q=low&v=1"
+        ],
+        "price": 589.0,
+        "corpPrice": 589.0,
+        "objectID": 13808
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u098f\u09b2\u09cb\u09ad\u09c7\u09b0\u09be \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u09a1\u09bf\u09b0\u09bf\u0999\u09cd\u0995 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Aloe Vera Original Drink 500 ml",
+        "nameWithoutSubText": "Aloe Vera Original Drink",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aloe-vera-original-drink-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45865&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 13007
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099f\u09cd\u09b0\u09aa\u09bf\u0995\u09be\u09a8\u09be \u099f\u09c1\u0987\u09b8\u09cd\u099f\u09be\u09b0 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u099c\u09c1\u09b8 \u09e7.\u09eb \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Tropicana Twister Orange Juice 1.5 ltr",
+        "nameWithoutSubText": "Tropicana Twister Orange Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tropicana-twister-orange-juice-15-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25341&q=low&v=1"
+        ],
+        "price": 759.0,
+        "corpPrice": 759.0,
+        "objectID": 12996
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09a1\u09c7\u09b2 \u09ae\u09a8\u09cd\u099f\u09bf \u09aa\u09cd\u09b0\u09c1\u09a8 \u099c\u09c1\u09b8 \u09ef\u09ea\u09ec \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Del Monte Prune Juice 946 ml",
+        "nameWithoutSubText": "Del Monte Prune Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/del-monte-prune-juice-946-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59930&q=low&v=1"
+        ],
+        "price": 739.0,
+        "corpPrice": 739.0,
+        "objectID": 12187
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b2\u099f\u09cd\u099f\u09c7 \u09b8\u09c7\u0995 \u09b8\u09c7\u0995 \u0997\u09cd\u09b0\u09c7\u09aa \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09e8\u09ea\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Lotte Sac Sac Grape Drink 240 ml ",
+        "nameWithoutSubText": "Lotte Sac Sac Grape Drink",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lotte-sac-sac-grape-drink-240-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45879&q=low&v=1"
+        ],
+        "price": 109.0,
+        "corpPrice": 109.0,
+        "objectID": 11608
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u0987\u09aa\u09cd\u09b0\u09bf\u09a8\u09be \u099c\u09c2\u09b8 \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u0986\u09aa\u09c7\u09b2 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Cyprina Juice Drink Apple 1 ltr",
+        "nameWithoutSubText": "Cyprina Juice Drink Apple",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cyprina-juice-drink-apple-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45867&q=low&v=1"
+        ],
+        "price": 395.0,
+        "corpPrice": 395.0,
+        "objectID": 10131
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u09ae\u09cd\u09ae\u09bf \u0985\u09b0\u09c7\u099e\u09cd\u099c \u099c\u09c1\u09b8 \u0995\u09cd\u09af\u09be\u09a8 \u09e8\u09ea\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Sammi Orange Juice Can 240 ml",
+        "nameWithoutSubText": "Sammi Orange Juice Can",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sammi-orange-juice-can-240-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45894&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 9516
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u09ab\u09cd\u09b0\u09c1\u099f \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Pran Mango Fruit Drink made from pure fresh mango. enriched with Vitamin C.",
+        "name": "PRAN Mango  Fruit Drink 250 ml",
+        "nameWithoutSubText": "PRAN Mango  Fruit Drink",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-mango-fruit-drink-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45891&q=low&v=1"
+        ],
+        "price": 20.0,
+        "corpPrice": 20.0,
+        "objectID": 8393
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09ae\u09be\u09b8\u09be\u09ab\u09bf \u0995\u09ae\u09b2\u09be \u099c\u09c1\u09b8 \u09e8 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Masafi juices offer a rich and natural experience of wholesome fruit blends to enjoy at every occasion. Their unique and distinctive flavour and enjoyable texture capture the perfect fruit juice drinking experience. We welcome you to explore our family of delicious juices.",
+        "name": "Masafi Orange Juice 2 ltr",
+        "nameWithoutSubText": "Masafi Orange Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/masafi-orange-juice-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65074&q=low&v=1"
+        ],
+        "price": 659.0,
+        "corpPrice": 659.0,
+        "objectID": 7278
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099f\u09bf\u09aa\u0995\u09cb \u09a1\u09be\u09b2\u09bf\u09ae\u09c7\u09b0 \u0993 \u09ae\u09bf\u09b6\u09cd\u09b0 \u09ab\u09b2\u09c7\u09b0 \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Tipco Pomegranate & Mixed Fruit Juice 1 ltr",
+        "nameWithoutSubText": "Tipco Pomegranate & Mixed Fruit Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tipco-pomegranate-mixed-fruit-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45909&q=low&v=1",
+            "https://chaldn.com/_mpimage/tipco-pomegranate-mixed-fruit-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23184&q=low&v=1"
+        ],
+        "price": 450.0,
+        "corpPrice": 450.0,
+        "objectID": 6750
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099f\u09bf\u09aa\u0995\u09cb \u098f\u09b8\u0986\u0987 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09a0\u0999 \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Tipco Si Thong Orange Juice 1 ltr",
+        "nameWithoutSubText": "Tipco Si Thong Orange Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tipco-si-thong-orange-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45911&q=low&v=1"
+        ],
+        "price": 450.0,
+        "corpPrice": 450.0,
+        "objectID": 4287
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099f\u09bf\u09aa\u0995\u09cb \u09b2\u09be\u09b2 \u0986\u0999\u09cd\u0997\u09c1\u09b0\u09c7\u09b0 \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Tipco Red Grape Juice 1 ltr",
+        "nameWithoutSubText": "Tipco Red Grape Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tipco-red-grape-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45910&q=low&v=1"
+        ],
+        "price": 450.0,
+        "corpPrice": 450.0,
+        "objectID": 4286
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099f\u09bf\u09aa\u0995\u09cb \u0986\u09a8\u09be\u09b0\u09b8\u09c7\u09b0 \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Tipco Pineapple Juice 1 ltr",
+        "nameWithoutSubText": "Tipco Pineapple Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tipco-pineapple-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D37054&q=low&v=1"
+        ],
+        "price": 425.0,
+        "corpPrice": 425.0,
+        "objectID": 4285
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099f\u09bf\u09aa\u0995\u09cb \u09ae\u09c7\u09a1\u09b2\u09bf \u0995\u09ae\u09b2\u09be\u09b0 \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Tipco Medley Orange Juice 1 ltr",
+        "nameWithoutSubText": "Tipco Medley Orange Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tipco-medley-orange-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45904&q=low&v=1"
+        ],
+        "price": 450.0,
+        "corpPrice": 450.0,
+        "objectID": 4284
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099f\u09bf\u09aa\u0995\u09cb \u09aa\u09c7\u09af\u09bc\u09be\u09b0\u09be \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Tipco Guava Juice 1 ltr",
+        "nameWithoutSubText": "Tipco Guava Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tipco-guava-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64995&q=low&v=1",
+            "https://chaldn.com/_mpimage/tipco-guava-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23181&q=low&v=1"
+        ],
+        "price": 425.0,
+        "corpPrice": 425.0,
+        "objectID": 4283
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u099f\u09bf\u09aa\u0995\u09cb \u0995\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09ac\u09c7\u09b0\u09bf \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Tipco Mixed Fruit Cranberry Juice 1 ltr",
+        "nameWithoutSubText": "Tipco Mixed Fruit Cranberry Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tipco-mixed-fruit-cranberry-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45905&q=low&v=1"
+        ],
+        "price": 450.0,
+        "corpPrice": 450.0,
+        "objectID": 4282
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09cd\u099f\u09c1\u099f \u0995\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09ac\u09c7\u09b0\u09bf \u099c\u09c1\u09b8 \u09e7.\u09eb \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Stute Cranberry Juice 1.5 ltr",
+        "nameWithoutSubText": "Stute Cranberry Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/stute-cranberry-juice-15-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67720&q=low&v=1"
+        ],
+        "price": 479.0,
+        "corpPrice": 479.0,
+        "objectID": 4195
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u09ae\u09cd\u09ae\u09bf \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u099c\u09c1\u09b8 \u0995\u09cd\u09af\u09be\u09a8 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Sammi Strawberry Juice Can 250 ml",
+        "nameWithoutSubText": "Sammi Strawberry Juice Can",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sammi-strawberry-juice-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D3238&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 4123
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u099c\u09c1\u09a8\u09bf\u09df\u09b0 \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u09ab\u09cd\u09b0\u09c1\u099f \u09a1\u09cd\u09b0\u09bf\u0999\u09cd\u0995 \u09e7\u09e8\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Pran Junior Mango Fruit Drink 125 ml",
+        "nameWithoutSubText": "Pran Junior Mango Fruit Drink",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-junior-mango-fruit-drink-125-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45890&q=low&v=1"
+        ],
+        "price": 12.0,
+        "corpPrice": 12.0,
+        "objectID": 3930
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ab\u09cd\u09b0\u09c1\u099f\u09cb \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u09ab\u09cd\u09b0\u09c1\u099f \u09a1\u09cd\u09b0\u09bf\u0999\u09cd\u0995 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Pran Frooto Mango Fruit Drink 250 ml",
+        "nameWithoutSubText": "Pran Frooto Mango Fruit Drink",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-frooto-mango-fruit-drink-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70039&q=low&v=1"
+        ],
+        "price": 22.0,
+        "corpPrice": 22.0,
+        "objectID": 3923
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09ae\u09be\u09b8\u09be\u09ab\u09bf \u09ae\u09cd\u09af\u09be\u0982\u0997\u09cb \u09a8\u09c7\u0995\u09cd\u099f\u09be\u09b0 \u099c\u09c1\u09b8 \u09e8 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Masafi juices offer a rich and natural experience of wholesome fruit blends to enjoy at every occasion. Their unique and distinctive flavour and enjoyable texture capture the perfect fruit juice drinking experience. We welcome you to explore our family of delicious juices.",
+        "name": "Masafi Mango Nectar Juice 2 ltr",
+        "nameWithoutSubText": "Masafi Mango Nectar Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/masafi-mango-nectar-juice-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65009&q=low&v=1"
+        ],
+        "price": 649.0,
+        "corpPrice": 649.0,
+        "objectID": 3741
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b2\u09cb\u099f\u09cd\u099f\u09c7 \u09b8\u09be\u0995 \u09b8\u09be\u0995 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09a1\u09cd\u09b0\u09bf\u0982\u0995 \u09e8\u09ea\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Lotte Sac Sac Orange Drink 240 ml",
+        "nameWithoutSubText": "Lotte Sac Sac Orange Drink",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lotte-sac-sac-orange-drink-240-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45880&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 3704
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09ab\u09a8\u09cd\u099f\u09be\u09a8\u09be \u0986\u09a8\u09be\u09b0\u09b8 \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Fontana Pineapple Juice 1 ltr ",
+        "nameWithoutSubText": "Fontana Pineapple Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fontana-pineapple-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45876&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 3443
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09ab\u09a8\u09cd\u099f\u09be\u09a8\u09be \u0986\u0999\u09cd\u0997\u09c1\u09b0 \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Fontana Grape Juice 1 ltr",
+        "nameWithoutSubText": "Fontana Grape Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fontana-grape-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45874&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 3441
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09ab\u09a8\u09cd\u099f\u09be\u09a8\u09be \u0986\u09aa\u09c7\u09b2 \u099c\u09c1\u09b8 \u09e7 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Fontana Apple Juice 1 ltr",
+        "nameWithoutSubText": "Fontana Apple Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fontana-apple-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45873&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 3440
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u09ae\u09cd\u09ae\u09bf \u09b0\u09c7\u09a1 \u0997\u09cd\u09b0\u09c7\u09aa \u099c\u09c1\u09b8 \u0995\u09cd\u09af\u09be\u09a8 \u09e8\u09ea\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Sammi Red Grape Juice Can 240 ml",
+        "nameWithoutSubText": "Sammi Red Grape Juice Can",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sammi-red-grape-juice-can-240-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45895&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 2567
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09b8\u09be\u09ae\u09cd\u09ae\u09bf \u09ae\u09bf\u0995\u09cd\u09b8\u09a1 \u09ab\u09b2\u09c7\u09b0 \u099c\u09c1\u09b8 \u0995\u09cd\u09af\u09be\u09a8 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Sammi Mixed Fruit Juice Can 250 ml",
+        "nameWithoutSubText": "Sammi Mixed Fruit Juice Can",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sammi-mixed-fruit-juice-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77080&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 2566
+    },
+    {
+        "category": {
+            "name": "Juice",
+            "id": "19",
+            "slug": "juice"
+        },
+        "bengaliName": "\u09ae\u09be\u09b8\u09be\u09ab\u09bf \u0986\u09aa\u09c7\u09b2 \u099c\u09c1\u09b8 \u09e8 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Masafi juices offer a rich and natural experience of wholesome fruit blends to enjoy at every occasion. Their unique and distinctive flavour and enjoyable texture capture the perfect fruit juice drinking experience. We welcome you to explore our family of delicious juices.",
+        "name": "Masafi Apple Juice 2 ltr",
+        "nameWithoutSubText": "Masafi Apple Juice",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/masafi-apple-juice-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71196&q=low&v=1"
+        ],
+        "price": 649.0,
+        "corpPrice": 649.0,
+        "objectID": 2304
+    }
+]

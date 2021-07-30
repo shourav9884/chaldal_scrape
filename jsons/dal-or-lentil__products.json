@@ -1,0 +1,427 @@
+[
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u099b\u09cb\u09b2\u09be \u09ac\u09c1\u099f \u09a1\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Chola Boot Dal 1 kg",
+        "nameWithoutSubText": "Chola Boot Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chola-boot-dal-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78224&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 24168
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09ae\u09b6\u09c1\u09b0 \u09a1\u09be\u09b2 (\u09a6\u09c7\u09b6\u09bf) \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "These skinless, red lentils are small and round. They are fast-cooking and don't need to be soaked. They are often cooked, mashed and added to curries and soups. Masoor is a very versatile lentil and has a creamy texture and warming flavor.          ",
+        "name": "Moshur Dal (Deshi) 1 kg",
+        "nameWithoutSubText": "Moshur Dal (Deshi)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/moshur-dal-deshi-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47048&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 10164
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09ae\u09b8\u09c1\u09b0 \u09a1\u09be\u09b2 (\u0987\u09ae\u09cd\u09aa\u09cb\u09b0\u099f\u09c7\u09a1) \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Local  ",
+        "name": "Moshur Dal (Imported) 1 kg",
+        "nameWithoutSubText": "Moshur Dal (Imported)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/moshur-dal-imported-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47049&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 6940
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09ae\u09c1\u0997 \u09a1\u09be\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mug Dal 500 gm",
+        "nameWithoutSubText": "Mug Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mug-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47050&q=low&v=1"
+        ],
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 2315
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09ac\u09c1\u099f \u09a1\u09be\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Boot Dal 500 gm",
+        "nameWithoutSubText": "Boot Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/boot-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47039&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 6672
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09a1\u09be\u09ac\u09b2\u09bf \u09ac\u09c1\u099f \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09aa\u09cd\u09af\u09be\u0995\u09c7\u099f",
+        "longDesc": null,
+        "name": "Dubli Boot 500 gm",
+        "nameWithoutSubText": "Dubli Boot",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dubli-boot-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47041&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 3409
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09ae\u09b6\u09c1\u09b0 \u09a1\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Fresh Moshur Dal 1 kg",
+        "nameWithoutSubText": "Fresh Moshur Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-moshur-dal-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64762&q=low&v=1"
+        ],
+        "price": 125.0,
+        "corpPrice": 125.0,
+        "objectID": 7621
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09ae\u09bf\u09b6\u09cd\u09b0 \u09a1\u09be\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Mixed Dal is basically a mixture of many kinds of dal. As it is a mixture it is able to give you a different taste. \r\n\r\nMixed Dal Contains:\r\n1. Mug daal\r\n2. Indian Moshur Daal\r\n3. Anchor Daal\r\n4. Khesari Dal\r\n5. Mash Daal",
+        "name": "Mixed Dal 500 gm",
+        "nameWithoutSubText": "Mixed Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mixed-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47047&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 3783
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u099b\u09cb\u09b2\u09be \u0995\u09be\u09ac\u09c1\u09b2\u09bf \u09ac\u09c1\u099f \u09a1\u09be\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Chick Peas (Kabuli Boot Dal) 500 gm",
+        "nameWithoutSubText": "Chick Peas (Kabuli Boot Dal)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chick-peas-kabuli-boot-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47040&q=low&v=1"
+        ],
+        "price": 139.0,
+        "corpPrice": 139.0,
+        "objectID": 3322
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u0996\u09c7\u09b8\u09be\u09b0\u09bf \u09a1\u09be\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kheshari Dal 500 gm",
+        "nameWithoutSubText": "Kheshari Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kheshari-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47046&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 7456
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u0997\u09be\u09b0\u09ac\u09be\u099e\u09cd\u099c\u09cb \u09aa\u09bf\u09b2\u09cd\u09a1 (\u0996\u09c1\u09b8\u09be \u099b\u09be\u09dc\u09be\u09a8 \u099b\u09cb\u09b2\u09be \u09ac\u09c1\u099f \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae)",
+        "longDesc": null,
+        "name": "Garbanzo Peeled (Khosha Charano Chola Boot) 500 gm",
+        "nameWithoutSubText": "Garbanzo Peeled (Khosha Charano Chola Boot)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/garbanzo-peeled-khosha-charano-chola-boot-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47044&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 8951
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u098f\u09a8\u0995\u09b0 \u09ac\u09c1\u099f \u09a1\u09be\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Boot Dal 500 gm",
+        "nameWithoutSubText": "Anchor Boot Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-boot-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47038&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 9924
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ae\u09b6\u09c1\u09b0 \u09a1\u09be\u09b2 (\u09a6\u09c7\u09b6\u09bf) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Moshur Dal (Deshi) 500 gm",
+        "nameWithoutSubText": "Pran Moshur Dal (Deshi)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-moshur-dal-deshi-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47052&q=low&v=1"
+        ],
+        "price": 66.0,
+        "corpPrice": 66.0,
+        "objectID": 13299
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u0986\u09dc\u0982 \u09a4\u09be\u099c\u09be \u09ae\u09b6\u09c1\u09b0 \u09a1\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Aarong Fresh Kalijira Aromatic Rice processed by automatic machine and sorted through D-stoning machine. Aarong fresh kalijira aromatic rice will give you an exotic natural aroma which adds special taste to any delicious food.",
+        "name": "Aarong Fresh Moshur Dal 1 kg",
+        "nameWithoutSubText": "Aarong Fresh Moshur Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-fresh-moshur-dal-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47036&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 8728
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09ae\u09c1\u0997 \u09a1\u09be\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pran Mug Dal 500 gm",
+        "nameWithoutSubText": "Pran Mug Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-mug-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47053&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 13300
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09ae\u09cd\u09af\u09be\u09b8 \u09a1\u09be\u09b2 \u09aa\u09bf\u09b2\u09c7\u09a1 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mash Dal Peeled 500 gm",
+        "nameWithoutSubText": "Mash Dal Peeled",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mash-dal-peeled-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46113&q=low&v=1"
+        ],
+        "price": 109.0,
+        "corpPrice": 109.0,
+        "objectID": 3743
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u0995\u09cd\u09af\u09be\u0999\u09cd\u0997\u09be\u09b0\u09c1 \u09ae\u09b8\u09c1\u09b0 \u09a1\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Kangaru  ",
+        "name": "Kangaroo Lentil (Moshur Dal) 1 kg",
+        "nameWithoutSubText": "Kangaroo Lentil (Moshur Dal)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kangaroo-lentil-moshur-dal-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47045&q=low&v=1"
+        ],
+        "price": 139.0,
+        "corpPrice": 139.0,
+        "objectID": 9770
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09ae\u099f\u09b0 \u09a1\u09be\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Split Pea (Motor Dal) 500 gm",
+        "nameWithoutSubText": "Split Pea (Motor Dal)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/split-pea-motor-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47054&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 8883
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09a1\u09be\u09b2 \u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09ea \u099f\u09bf ",
+        "longDesc": null,
+        "name": "Pran Dal 30 gm 4 pcs",
+        "nameWithoutSubText": "Pran Dal 30 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-dal-30-gm-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47051&q=low&v=1"
+        ],
+        "price": 32.0,
+        "corpPrice": 32.0,
+        "objectID": 3921
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09aa\u09c1\u09b7\u09cd\u099f\u09bf \u09a6\u09c7\u09b6\u09bf \u09ae\u09b6\u09c1\u09b0 \u09a1\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Pusti Deshi Moshur Dal 1 kg",
+        "nameWithoutSubText": "Pusti Deshi Moshur Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pusti-deshi-moshur-dal-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73357&q=best&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 18651
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09aa\u09bf\u0993\u09b0 \u09ae\u09b6\u09c1\u09b0 \u09a1\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf ",
+        "longDesc": null,
+        "name": "ACI Pure Moshur Dal 1 kg",
+        "nameWithoutSubText": "ACI Pure Moshur Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-pure-moshur-dal-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61231&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 12340
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09b0\u0982\u09a7\u09a8\u09c1 \u09ae\u09b8\u09c1\u09b0\u09c7\u09b0 \u09a1\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Rongdhanu Moshur Dal 1 kg",
+        "nameWithoutSubText": "Rongdhanu Moshur Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rongdhanu-moshur-dal-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68071&q=low&v=1"
+        ],
+        "price": 125.0,
+        "corpPrice": 125.0,
+        "objectID": 22598
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u099b\u09cb\u09b2\u09be \u09ac\u09c1\u099f (\u09ab\u09cd\u09b0\u09bf \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09ac\u09c1\u099f\u09c7\u09b0 \u09ac\u09c7\u09b8\u09a8) \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "BPM Chola Boot (Free 250 gm Booter Beshon) 2 kg ",
+        "nameWithoutSubText": "BPM Chola Boot (Free 250 gm Booter Beshon)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-chola-boot-free-250-gm-booter-beshon-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70238&q=low&v=1"
+        ],
+        "price": 210.0,
+        "corpPrice": 210.0,
+        "objectID": 14728
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u09b8\u09cd\u09ac\u09be\u09a6 \u09ae\u09b8\u09c1\u09b0 \u09a1\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Shaad Moshur Dal 1 kg",
+        "nameWithoutSubText": "Shaad Moshur Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shaad-moshur-dal-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50147&q=low&v=1"
+        ],
+        "price": 145.0,
+        "corpPrice": 145.0,
+        "objectID": 18435
+    },
+    {
+        "category": {
+            "name": "Dal or Lentil",
+            "id": "198",
+            "slug": "dal-or-lentil"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u09b9\u09be\u09b0\u09ad\u09c7\u09b7\u09cd\u099f \u09ae\u09b6\u09c1\u09b0 \u09a1\u09be\u09b2 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Golden Harvest Deshi Moshur Dal 1 kg",
+        "nameWithoutSubText": "Golden Harvest Deshi Moshur Dal",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/golden-harvest-deshi-moshur-dal-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67670&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 22506
+    }
+]

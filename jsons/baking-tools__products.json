@@ -1,0 +1,946 @@
+[
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09ae\u09c7\u099c\u09be\u09b0\u09ae\u09c7\u09a8\u09cd\u099f \u0995\u09be\u09aa",
+        "longDesc": null,
+        "name": "Measurement Cup Full Set",
+        "nameWithoutSubText": "Measurement Cup Full Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/measurement-cup-full-set?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80659&q=low&v=1",
+            "https://chaldn.com/_mpimage/measurement-cup-full-set?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80660&q=best&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 22690
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b2\u09bf\u0995\u09a8 \u09b8\u09cd\u09aa\u09cd\u09af\u09be\u099a\u09c1\u09b2\u09be \u09e8 \u099f\u09bf",
+        "longDesc": "Origin: China",
+        "name": "Silicon Spatula 2 pcs",
+        "nameWithoutSubText": "Silicon Spatula",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/silicon-spatula-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75131&q=low&v=1"
+        ],
+        "price": 125.0,
+        "corpPrice": 125.0,
+        "objectID": 23999
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b2\u09c7\u09b8\u09bf\u09b8 \u09ac\u09c7\u0995\u09bf\u0982 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0995\u09c1\u0995\u09bf\u0982 \u09aa\u09c7\u09aa\u09be\u09b0 \u09eb \u09ae\u09bf\u099f\u09be\u09b0",
+        "longDesc": "Origin - Sweden ",
+        "name": "Lacy's Baking & Cooking Paper 5 m",
+        "nameWithoutSubText": "Lacy's Baking & Cooking Paper 5 m",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lacys-baking-cooking-paper-5-m?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69988&q=low&v=1"
+        ],
+        "price": 279.0,
+        "corpPrice": 279.0,
+        "objectID": 22995
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09ac\u09c1\u099f\u09bf\u0995 \u09b8\u09cd\u099f\u09cd\u09b0 \u09ea \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Boutique Straw 4 Pcs",
+        "nameWithoutSubText": "Boutique Straw",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/boutique-straw-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68403&q=low&v=1"
+        ],
+        "price": 169.0,
+        "corpPrice": 169.0,
+        "objectID": 22709
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b2\u09bf\u0995\u09a8 \u099a\u0995\u09cb\u09b2\u09c7\u099f \u099b\u09be\u0981\u099a \u09e7 \u099f\u09bf",
+        "longDesc": "*Shape may vary upon availability*",
+        "name": "Silicone Chocolate Mould 1 pcs",
+        "nameWithoutSubText": "Silicone Chocolate Mould",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/silicone-chocolate-mould-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74512&q=low&v=1",
+            "https://chaldn.com/_mpimage/silicone-chocolate-mould-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74513&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 23851
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b2\u09c7\u09b8\u09bf\u09b8 \u09ac\u09c7\u0995\u09bf\u0982 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0995\u09c1\u0995\u09bf\u0982 \u09aa\u09c7\u09aa\u09be\u09b0 \u09e7\u09e6 \u09ae\u09bf\u099f\u09be\u09b0 ",
+        "longDesc": "Origin - Sweden ",
+        "name": "Lacy's Baking & Cooking Paper 10 m",
+        "nameWithoutSubText": "Lacy's Baking & Cooking Paper 10 m",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lacys-baking-cooking-paper-10-m?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70886&q=low&v=1"
+        ],
+        "price": 409.0,
+        "corpPrice": 409.0,
+        "objectID": 22994
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u0989\u09a1\u09c7\u09a8 \u09b8\u09bf\u09b2\u09bf\u0995\u09a8 \u09b8\u09cd\u09aa\u09cd\u09af\u09be\u099a\u09c1\u09b2\u09be \u09e7 \u09aa\u09bf\u09b8",
+        "longDesc": "*Color may vary upon availability*      \r\n",
+        "name": "Wooden Silicone Spatula 1 pc",
+        "nameWithoutSubText": "Wooden Silicone Spatula",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/wooden-silicone-spatula-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69263&q=low&v=1",
+            "https://chaldn.com/_mpimage/wooden-silicone-spatula-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69265&q=low&v=1"
+        ],
+        "price": 229.0,
+        "corpPrice": 229.0,
+        "objectID": 22944
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09aa\u09be\u09b0\u09c7\u09a8\u09cd\u099f \u09a1\u09bf\u09b8\u09cd\u09aa\u09cb\u09b8\u09bf\u09ac\u09b2 \u09aa\u09be\u0987\u09aa\u09bf\u0982 \u09ac\u09cd\u09af\u09be\u0997\u09b8 (\u09ee.\u09eb\"x\u09e7\u09e8.\u09eb\") \u09e7\u09e6\u09e6 \u09aa\u09bf\u09b8 ",
+        "longDesc": "Piping bags are necessary for cake decoration. Fill these piping bags with cream and squeeze these with your hand to make designs on the cake. You can fit nozzles to these piping bags for designing easily.",
+        "name": "Transparent Disposable Piping Bags (8.5\"x12.5\") 100 pcs",
+        "nameWithoutSubText": "Transparent Disposable Piping Bags (8.5\"x12.5\")",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/transparent-disposable-piping-bags-85x125-100-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69286&q=low&v=1"
+        ],
+        "price": 599.0,
+        "corpPrice": 599.0,
+        "objectID": 22941
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09ae\u09be\u09b0\u09cd\u09ac\u09c7\u09b2 \u09b2\u09cb\u09ab \u09aa\u09cd\u09af\u09be\u0981\u09a8 (\u09b8\u09cd\u09ae\u09b2)  \u09e7 \u09aa\u09bf\u09b8 ",
+        "longDesc": "*Color may vary upon availability*\r\n\r\n",
+        "name": "Small Marble Loaf Pan 1 pc",
+        "nameWithoutSubText": "Small Marble Loaf Pan",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/small-marble-loaf-pan-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69256&q=low&v=1",
+            "https://chaldn.com/_mpimage/small-marble-loaf-pan-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69285&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 22938
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09ae\u09be\u09b0\u09cd\u09ac\u09c7\u09b2 \u09b2\u09cb\u09ab \u09aa\u09cd\u09af\u09be\u0981\u09a8 (\u09b2\u09be\u09b0\u099c)  \u09e7 \u09aa\u09bf\u09b8 ",
+        "longDesc": "*Color may vary upon availability*      \r\n",
+        "name": "Large Marble Loaf Pan 1 pc",
+        "nameWithoutSubText": "Large Marble Loaf Pan",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/large-marble-loaf-pan-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69254&q=low&v=1",
+            "https://chaldn.com/_mpimage/large-marble-loaf-pan-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69257&q=low&v=1",
+            "https://chaldn.com/_mpimage/large-marble-loaf-pan-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69283&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 22936
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09a8\u09a8 \u09b8\u09cd\u099f\u09bf\u0995 \u09b8\u09cd\u09ae\u09b2 \u0995\u09c7\u0995  \u09b2\u09cb\u09ab \u09aa\u09cd\u09af\u09be\u0981\u09a8  \u09e7 \u09aa\u09bf\u09b8 ",
+        "longDesc": null,
+        "name": "Non Stick Small Cake Loaf Pan 1 pc",
+        "nameWithoutSubText": "Non Stick Small Cake Loaf Pan",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/non-stick-small-cake-loaf-pan-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69251&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 22933
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09a8\u09a8 \u09b8\u09cd\u099f\u09bf\u0995 \u09b2\u09be\u09b0\u099c \u09b2\u09cb\u09ab \u09aa\u09cd\u09af\u09be\u09a8  \u09e7 \u099f\u09bf",
+        "longDesc": "Use this non stick small cake loaf pan to make a perfect cake loaf. \r\n\r\nNon stick\r\nOven proof",
+        "name": "Non Stick Large Cake Loaf Pan 1 pcs",
+        "nameWithoutSubText": "Non Stick Large Cake Loaf Pan",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/non-stick-large-cake-loaf-pan-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69250&q=low&v=1"
+        ],
+        "price": 229.0,
+        "corpPrice": 229.0,
+        "objectID": 22932
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u0995\u09c7\u0995 \u09ae\u09be\u09ab\u09bf\u09a8 \u099f\u09bf\u09a8 \u09e7 \u099f\u09bf",
+        "longDesc": "*Color may vary upon availability*      \r\nUse this muffin tin to make muffins and cup cakes.\r\nOven proof\r\nMarble coated.",
+        "name": "Cake Muffin Tin 1 pcs",
+        "nameWithoutSubText": "Cake Muffin Tin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cake-muffin-tin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69247&q=low&v=1",
+            "https://chaldn.com/_mpimage/cake-muffin-tin-goldenashbluepink-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69248&q=low&v=1",
+            "https://chaldn.com/_mpimage/cake-muffin-tin-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69326&q=low&v=1",
+            "https://chaldn.com/_mpimage/cake-muffin-tin-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69327&q=low&v=1"
+        ],
+        "price": 229.0,
+        "corpPrice": 229.0,
+        "objectID": 22930
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b9\u09be\u09b0\u09cd\u099f \u09b6\u09c7\u09aa \u0995\u09c7\u0995 \u09aa\u09c7\u09a8 \u09e7 \u099f\u09bf",
+        "longDesc": "Make a perfect heart shaped cake with this Heart Shaped Cake Pan.\r\nOven proof\r\nMarble coated",
+        "name": "Heart Shaped Cake Pan 1 pcs",
+        "nameWithoutSubText": "Heart Shaped Cake Pan",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/heart-shaped-cake-pan-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69242&q=low&v=1"
+        ],
+        "price": 269.0,
+        "corpPrice": 269.0,
+        "objectID": 22927
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b0\u09be\u0989\u09a8\u09cd\u09a1 \u0995\u09c7\u0995 \u09aa\u09cd\u09af\u09be\u0981\u09a8 \u09e7 \u09aa\u09bf\u09b8",
+        "longDesc": "Give your cake a perfect round shape with this round cake pan.\r\nMarble coated. \r\nOver proof.",
+        "name": "Round Cake Pan 1 pc",
+        "nameWithoutSubText": "Round Cake Pan",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/round-cake-pan-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69241&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 22925
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b8\u09cd\u0995\u09af\u09bc\u09be\u09b0 \u0995\u09c7\u0995 \u09aa\u09cd\u09af\u09be\u0981\u09a8 \u09e7 \u099f\u09bf",
+        "longDesc": "Color may vary upon availability",
+        "name": "Square Cake Pan 1 pcs",
+        "nameWithoutSubText": "Square Cake Pan",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/square-cake-pan-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69239&q=low&v=1",
+            "https://chaldn.com/_mpimage/square-cake-pan-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71624&q=best&v=1"
+        ],
+        "price": 279.0,
+        "corpPrice": 279.0,
+        "objectID": 22924
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u099a\u09be\u0987\u09a8\u09bf\u099c \u09a8\u099c\u09c7\u09b2 \u09b8\u09c7\u099f \u09e8\u09ea \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Chinese Nozzle Set 24 pcs",
+        "nameWithoutSubText": "Chinese Nozzle Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chinese-nozzle-set-24-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69237&q=low&v=1"
+        ],
+        "price": 649.0,
+        "corpPrice": 649.0,
+        "objectID": 22922
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b0\u09be\u09b6\u09bf\u09af\u09bc\u09be\u09a8 \u09ab\u09cd\u09b2\u09be\u0993\u09af\u09bc\u09be\u09b0 \u09a8\u099c\u09c7\u09b2 \u09b8\u09c7\u099f \u09ed \u09aa\u09bf\u09b8",
+        "longDesc": "You need flower nozzles for cake decoration. Flower nozzles let you make flowers with cream. This is a set of 7 different types of flower nozzles. You can make roses and many other flower patterns with these steel nozzles.",
+        "name": "Russian Flower Nozzle Set 7 pcs",
+        "nameWithoutSubText": "Russian Flower Nozzle Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/russian-flower-nozzle-set-7-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69235&q=low&v=1"
+        ],
+        "price": 489.0,
+        "corpPrice": 489.0,
+        "objectID": 22920
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u0995\u09c7\u0995 \u09a1\u09c7\u0995\u09cb\u09b0\u09c7\u09b6\u09a8 \u09a8\u099c\u09c7\u09b2 \u09b8\u09c7\u099f \u09e8\u09ea \u09aa\u09bf\u09b8",
+        "longDesc": "A set of 12 cake decoration nozzles of different sizes and shapes including star nozzles and round nozzles. It is suitable for pastry and cupcake frostings.",
+        "name": "Cake Decoration Nozzle Set 24 pcs",
+        "nameWithoutSubText": "Cake Decoration Nozzle Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cake-decoration-nozzle-set-24-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69233&q=low&v=1"
+        ],
+        "price": 319.0,
+        "corpPrice": 319.0,
+        "objectID": 22918
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u0995\u09c7\u0995 \u09a1\u09c7\u0995\u09cb\u09b0\u09c7\u09b6\u09a8  \u09a8\u099c\u09c7\u09b2 \u09b8\u09c7\u099f \u09e7\u09e8 \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Cake Decoration Nozzle Set 12 pcs",
+        "nameWithoutSubText": "Cake Decoration Nozzle Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cake-decoration-nozzle-set-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69232&q=low&v=1"
+        ],
+        "price": 209.0,
+        "corpPrice": 209.0,
+        "objectID": 22917
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b8\u09cd\u099f\u09c7\u0987\u09a8\u09b2\u09c7\u09b8 \u09b8\u09cd\u099f\u09bf\u09b2 \u09b2\u09be\u09b0\u09cd\u099c  \u09b8\u09cd\u09ae\u09c1\u09a5\u09be\u09b0 \u09b8\u09cd\u09b8\u09cd\u09aa\u09cd\u09af\u09be\u099a\u09c1\u09b2\u09be \u0993\u09af\u09bc\u09be\u09a8 \u09aa\u09bf\u09b8",
+        "longDesc": "This type of spatula is needed for cake frosting. When you frost a cake with cream, you must smooth its surface first to decorate it. Get this large stainless steel spatula and give your cake a smooth finishing.",
+        "name": "Stainless Steel Large Cream Smoother Spatula 1 pc",
+        "nameWithoutSubText": "Stainless Steel Large Cream Smoother Spatula",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/stainless-steel-large-cream-smoother-spatula-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69229&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 22915
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b8\u09cd\u099f\u09c7\u09a8\u09b2\u09c7\u09b8 \u09b8\u09cd\u099f\u09bf\u09b2 \u09b8\u09cd\u09aa\u09cd\u09af\u09be\u099a\u09c1\u09b2\u09be \u09e7 \u09b8\u09c7\u099f",
+        "longDesc": null,
+        "name": "Stainless Steel Spatula 1 pc",
+        "nameWithoutSubText": "Stainless Steel Spatula",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/stainless-steel-spatula-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69225&q=low&v=1"
+        ],
+        "price": 169.0,
+        "corpPrice": 169.0,
+        "objectID": 22910
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b2\u09bf\u0995\u09a8 \u0985\u09af\u09bc\u09c7\u09b2 \u09ac\u09cd\u09b0\u09be\u09b6 \u0989\u0987\u09a5 \u09b8\u09bf\u09b2\u09bf\u0995\u09a8 \u09b8\u09cd\u09aa\u09cd\u09af\u09be\u099a\u09c1\u09b2\u09be \u09b8\u09c7\u099f \u0989\u0987\u09a5 \u09e8 \u09aa\u09bf\u099a",
+        "longDesc": "*Color may vary upon availability*                                                                            ",
+        "name": "Silicon Oil Brush With Silicone Spatula Set 2 pcs",
+        "nameWithoutSubText": "Silicon Oil Brush With Silicone Spatula Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/silicon-oil-brush-with-silicone-spatula-set-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69219&q=low&v=1",
+            "https://chaldn.com/_mpimage/silicon-oil-brush-with-silicone-spatula-set-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69222&q=low&v=1",
+            "https://chaldn.com/_mpimage/silicon-oil-brush-with-silicone-spatula-set-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69273&q=low&v=1"
+        ],
+        "price": 139.0,
+        "corpPrice": 139.0,
+        "objectID": 22909
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u0995\u09c7\u0995 \u09ae\u09cb\u09b2\u09cd\u09a1 \u09e9 \u09aa\u09bf\u09b8",
+        "longDesc": "*Color may vary upon availability*",
+        "name": "Cake Mold 3 pcs",
+        "nameWithoutSubText": "Cake Mold",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cake-mold-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69220&q=low&v=1",
+            "https://chaldn.com/_mpimage/cake-mold-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69325&q=low&v=1"
+        ],
+        "price": 169.0,
+        "corpPrice": 169.0,
+        "objectID": 22908
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b8\u09cd\u099f\u09c7\u0987\u09a8\u09b2\u09c7\u09b8 \u09b8\u09cd\u099f\u09bf\u09b2 \u0995\u09c7\u0995 \u09b2\u09c7\u09ad\u09c7\u09b2\u09be\u09b0 \u0993\u09af\u09bc\u09be\u09a8 \u09aa\u09bf\u09b8",
+        "longDesc": "Cake leveller is essential for cake frosting. When you frost a cake with cream, you must smooth its surface first to decorate it. Get this stainless steel cake leveller and give your cake a smooth finishing",
+        "name": "Stainless Steel Cake Leveler 1 pc",
+        "nameWithoutSubText": "Stainless Steel Cake Leveler",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/stainless-steel-cake-leveler-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69216&q=low&v=1"
+        ],
+        "price": 469.0,
+        "corpPrice": 469.0,
+        "objectID": 22906
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09aa\u09bf\u099c\u09be \u0995\u09be\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Pizza Cutter 1 pc",
+        "nameWithoutSubText": "Pizza Cutter",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pizza-cutter-1-pc?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69214&q=low&v=1"
+        ],
+        "price": 269.0,
+        "corpPrice": 269.0,
+        "objectID": 22904
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u0995\u09bf\u099a\u09c7\u09a8 \u099f\u09c1\u09b2\u09b8 \u09e9 \u09aa\u09bf\u09b8",
+        "longDesc": "*Color may vary upon availability*                                                                            ",
+        "name": "Kitchen Tools 3 pcs",
+        "nameWithoutSubText": "Kitchen Tools",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kitchen-tools-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69208&q=low&v=1",
+            "https://chaldn.com/_mpimage/kitchen-tools-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69210&q=low&v=1",
+            "https://chaldn.com/_mpimage/kitchen-tools-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69213&q=low&v=1"
+        ],
+        "price": 429.0,
+        "corpPrice": 429.0,
+        "objectID": 22903
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u0995\u09c7\u0995 \u09b8\u09cd\u09aa\u09be\u099a\u09c1\u09b2\u09be, \u0986\u0987\u09b8\u09bf\u0982 \u09a1\u09c7\u0995\u09cb\u09b0\u09c7\u09b6\u09a8 \u09ac\u09cd\u09af\u09be\u0997 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09a8\u099c\u09c7\u09b2 \u0995\u09ae\u09cd\u09ac\u09cb \u09b8\u09c7\u099f \u09eb \u099f\u09bf ",
+        "longDesc": "*Color may vary upon availability*",
+        "name": "Cake Spatula, Icing Decoration Bag & Nozzle Combo Set 5 pcs",
+        "nameWithoutSubText": "Cake Spatula, Icing Decoration Bag & Nozzle Combo Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cake-spatula-icing-decoration-bag-nozzle-combo-set-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71626&q=low&v=1"
+        ],
+        "price": 379.0,
+        "corpPrice": 379.0,
+        "objectID": 22902
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b2\u09bf\u0995\u09a8 \u09b2\u09c7\u09b8 ",
+        "longDesc": null,
+        "name": "Silicone Lace 1 Pcs",
+        "nameWithoutSubText": "Silicone Lace",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/silicone-lace-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68420&q=low&v=1"
+        ],
+        "price": 379.0,
+        "corpPrice": 379.0,
+        "objectID": 22715
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09aa\u09bf\u099c\u09cd\u099c\u09be \u09aa\u09cd\u09af\u09be\u09a8",
+        "longDesc": null,
+        "name": "Pizza Pan 1 Pcs",
+        "nameWithoutSubText": "Pizza Pan",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pizza-pan-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68433&q=low&v=1"
+        ],
+        "price": 599.0,
+        "corpPrice": 599.0,
+        "objectID": 22714
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b8\u09cd\u099f\u09cd\u09b0\u09c7\u0987\u09a8\u09be\u09b0",
+        "longDesc": null,
+        "name": "Strainer 1 Pcs",
+        "nameWithoutSubText": "Strainer",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/strainer-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68668&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 22713
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b9\u09c1\u0987\u09b8\u09cd\u0995  ",
+        "longDesc": "*Color may vary upon availability*",
+        "name": "Large Whisk 1 Pcs",
+        "nameWithoutSubText": "Large Whisk",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/large-whisk-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68412&q=low&v=1",
+            "https://chaldn.com/_mpimage/large-purple-whisk-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68861&q=low&v=1",
+            "https://chaldn.com/_mpimage/large-purple-whisk-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68862&q=low&v=1",
+            "https://chaldn.com/_mpimage/large-purple-whisk-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68863&q=low&v=1",
+            "https://chaldn.com/_mpimage/large-whisk-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71786&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 22712
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b9\u09c1\u0987\u09b8\u09cd\u0995  ",
+        "longDesc": "*Color may vary upon availability*",
+        "name": "Small Whisk 1Pcs",
+        "nameWithoutSubText": "Small Whisk",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/small-whisk-1pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68665&q=low&v=1",
+            "https://chaldn.com/_mpimage/small-green-whisk-1pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68858&q=low&v=1",
+            "https://chaldn.com/_mpimage/small-green-whisk-1pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68859&q=low&v=1",
+            "https://chaldn.com/_mpimage/small-green-whisk-1pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68860&q=low&v=1",
+            "https://chaldn.com/_mpimage/small-whisk-1pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71802&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 22711
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u0995\u09c1\u0995\u09bf \u0995\u09be\u099f\u09be\u09b0 (\u09b8\u09cd\u099f\u09be\u09b0) \u09ab\u09c1\u09b2 \u09b8\u09c7\u099f",
+        "longDesc": null,
+        "name": "Cookie Cutter Full Set 12 Pcs",
+        "nameWithoutSubText": "Cookie Cutter Full Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cookie-cutter-full-set-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68714&q=low&v=1"
+        ],
+        "price": 219.0,
+        "corpPrice": 219.0,
+        "objectID": 22710
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09ab\u09c1\u09a1 \u09a5\u09be\u09b0\u09cd\u09ae\u09cb\u09ae\u09bf\u099f\u09be\u09b0 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Food Thermometer 1 Pcs",
+        "nameWithoutSubText": "Food Thermometer",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/food-thermometer-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68410&q=low&v=1"
+        ],
+        "price": 319.0,
+        "corpPrice": 319.0,
+        "objectID": 22708
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09ab\u09a8\u09cd\u09a1\u09c7\u09a8\u09cd\u099f \u09b0\u09b2\u09bf\u0982 \u09aa\u09bf\u09a8 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Paste Fondant Rolling Pin 1 Pcs",
+        "nameWithoutSubText": "Paste Fondant Rolling Pin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/paste-fondant-rolling-pin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68399&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 22707
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09ab\u09a8\u09cd\u09a1\u09c7\u09a8\u09cd\u099f \u09b0\u09b2\u09bf\u0982 \u09aa\u09bf\u09a8 \u09e7 \u099f\u09bf",
+        "longDesc": "*Color may vary upon availability* ",
+        "name": "Fondant Rolling Pin 1 pcs",
+        "nameWithoutSubText": "Fondant Rolling Pin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fondant-rolling-pin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68411&q=low&v=1",
+            "https://chaldn.com/_mpimage/blue-fondant-rolling-pin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70152&q=low&v=1",
+            "https://chaldn.com/_mpimage/blue-fondant-rolling-pin-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70154&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 22706
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b8\u09ac\u09c1\u099c \u09b8\u09bf\u09b2\u09bf\u0995\u09a8 \u09ac\u09cd\u09b0\u09be\u09b6 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Green Silicone Brush 1 Pcs",
+        "nameWithoutSubText": "Green Silicone Brush",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/green-silicone-brush-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68405&q=low&v=1"
+        ],
+        "price": 229.0,
+        "corpPrice": 229.0,
+        "objectID": 22705
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b2\u09be\u09b2 \u09b8\u09bf\u09b2\u09bf\u0995\u09a8 \u09ac\u09cd\u09b0\u09be\u09b6 \u09e7 \u099f\u09bf",
+        "longDesc": "Colour may vary upon availability.",
+        "name": "Red Silicone Brush 1 Pcs",
+        "nameWithoutSubText": "Red Silicone Brush",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/red-silicone-brush-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68407&q=low&v=1",
+            "https://chaldn.com/_mpimage/red-silicone-brush-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71130&q=low&v=1"
+        ],
+        "price": 219.0,
+        "corpPrice": 219.0,
+        "objectID": 22704
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "  \u09a8\u09c0\u09b2 \u09b8\u09bf\u09b2\u09bf\u0995\u09a8 \u09ac\u09cd\u09b0\u09be\u09b6 \u09e7 \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Blue Silicone Brush 1 Pcs",
+        "nameWithoutSubText": "Blue Silicone Brush",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/blue-silicone-brush-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68440&q=low&v=1"
+        ],
+        "price": 219.0,
+        "corpPrice": 219.0,
+        "objectID": 22703
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09aa\u09bf\u099c\u09cd\u099c\u09be \u09aa\u09cd\u09af\u09be\u09a8 \u09b8\u09c7\u099f \u09e9 \u09aa\u09bf\u09b8 ",
+        "longDesc": "Size:\r\nSmall - 9 inch \r\nMedium - 10 inch \r\nLarge - 11 inch",
+        "name": "Pizza Pan Full Set 3 Pcs",
+        "nameWithoutSubText": "Pizza Pan Full Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pizza-pan-full-set-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68404&q=low&v=1"
+        ],
+        "price": 799.0,
+        "corpPrice": 799.0,
+        "objectID": 22702
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u0987\u09b2\u09c7\u0995\u099f\u09cd\u09b0\u09a8\u09bf\u0995 \u0995\u09bf\u099a\u09c7\u09a8 \u09b8\u09cd\u0995\u09c7\u09b2 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Electronic Kitchen Scale 1 Pcs",
+        "nameWithoutSubText": "Electronic Kitchen Scale",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/electronic-kitchen-scale-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68429&q=low&v=1"
+        ],
+        "price": 539.0,
+        "corpPrice": 539.0,
+        "objectID": 22700
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09ae\u09c7\u099c\u09be\u09b0\u09ae\u09c7\u09a8\u09cd\u099f \u09ae\u0997 \u099b\u09cb\u099f \u09b8\u09be\u0987\u099c \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Small Measurement Mug 1 Pcs",
+        "nameWithoutSubText": "Small Measurement Mug",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/small-measurement-mug-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68428&q=low&v=1"
+        ],
+        "price": 219.0,
+        "corpPrice": 219.0,
+        "objectID": 22699
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b2\u09bf\u0995\u09a8 \u09b8\u09cd\u09aa\u09cd\u09af\u09be\u099a\u09c1\u09b2\u09be \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Silicone Spatula 1 Pcs",
+        "nameWithoutSubText": "Silicone Spatula",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/silicone-spatula-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68439&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 22698
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u0995\u09be\u09aa\u09b2\u09be\u09b0 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Coupler 1 Pcs",
+        "nameWithoutSubText": "Coupler",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/coupler-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68413&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 22697
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u0995\u09ae\u09b2\u09be \u09ae\u09bf\u09a1\u09bf\u09df\u09be\u09ae \u09ae\u09c7\u099c\u09be\u09b0\u09ae\u09c7\u09a8\u09cd\u099f  \u09e7 \u099f\u09bf          ",
+        "longDesc": null,
+        "name": "Orange Medium Measurement Mug 1 Pcs",
+        "nameWithoutSubText": "Orange Medium Measurement Mug",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/orange-medium-measurement-mug-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68417&q=low&v=1"
+        ],
+        "price": 359.0,
+        "corpPrice": 359.0,
+        "objectID": 22693
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": " \u09b8\u09ac\u09c1\u099c  \u099b\u09cb\u099f \u09ae\u09c7\u099c\u09be\u09b0\u09ae\u09c7\u09a8\u09cd\u099f \u09ae\u0997 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Green Small Measurement Mug 1 Pcs",
+        "nameWithoutSubText": "Green Small Measurement Mug",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/green-small-measurement-mug-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68416&q=low&v=1"
+        ],
+        "price": 229.0,
+        "corpPrice": 229.0,
+        "objectID": 22692
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09ae\u09c7\u099c\u09be\u09b0\u09ae\u09c7\u09a8\u09cd\u099f \u09ae\u0997 \u0997\u09cb\u09b2\u09be\u09aa\u09c0 \u09e7 \u099f\u09bf",
+        "longDesc": "Chach",
+        "name": "Pink Large Measurement Mug 1 Pcs",
+        "nameWithoutSubText": "Pink Large Measurement Mug",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pink-large-measurement-mug-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68397&q=low&v=1"
+        ],
+        "price": 489.0,
+        "corpPrice": 489.0,
+        "objectID": 22691
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b2\u09bf\u0995\u09a8 \u09aa\u09be\u0987\u09aa \u09e7 \u099f\u09bf",
+        "longDesc": "Silicone pipes are useful for cake decoration. Fill a silicone pipe with cream and squeeze it with your hand to make designs on the cake. You can fit nozzles to this pipe for designing easily. This pipe is washable. You can clean and use it multiple times.",
+        "name": "Paste Silicone Pipe 1 Pcs",
+        "nameWithoutSubText": "Paste Silicone Pipe",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/paste-silicone-pipe-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68415&q=low&v=1"
+        ],
+        "price": 129.0,
+        "corpPrice": 129.0,
+        "objectID": 22689
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09ab\u09a8\u09cd\u09a1\u09c7\u09a8\u09cd\u099f \u0995\u09be\u099f\u09be\u09b0 \u09aa\u09c1\u09b0\u09cb \u09b8\u09c7\u099f \u09ea \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Fondant Cutter Full Set 4 Pcs",
+        "nameWithoutSubText": "Fondant Cutter Full Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fondant-cutter-full-set-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68409&q=low&v=1"
+        ],
+        "price": 195.0,
+        "corpPrice": 195.0,
+        "objectID": 22688
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09ab\u09a8\u09cd\u09a1\u09c7\u09a8\u09cd\u099f \u0995\u09be\u099f\u09be\u09b0 \u09aa\u09c1\u09b0\u09cb \u09b8\u09c7\u099f \u09e9 \u09aa\u09bf\u09b8",
+        "longDesc": null,
+        "name": "Fondant Cutter Full Set 3 Pcs",
+        "nameWithoutSubText": "Fondant Cutter Full Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fondant-cutter-full-set-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68408&q=low&v=1"
+        ],
+        "price": 195.0,
+        "corpPrice": 195.0,
+        "objectID": 22686
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u0995\u09c1\u0995\u09bf \u0995\u09be\u099f\u09be\u09b0 (\u0997\u09cb\u09b2) \u09ab\u09c1\u09b2 \u09b8\u09c7\u099f",
+        "longDesc": null,
+        "name": "Round Cookie Cutter Full Set",
+        "nameWithoutSubText": "Round Cookie Cutter Full Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/round-cookie-cutter-full-set?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68402&q=low&v=1"
+        ],
+        "price": 319.0,
+        "corpPrice": 319.0,
+        "objectID": 22683
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09ae\u09c7\u099c\u09be\u09b0\u09ae\u09c7\u09a8\u09cd\u099f \u0995\u09be\u09aa (\u09b8\u09cd\u099f\u09c7\u0987\u09a8\u09b2\u09c7\u09b8 \u09b8\u09cd\u099f\u09bf\u09b2) \u09ab\u09c1\u09b2 \u09b8\u09c7\u099f",
+        "longDesc": "Measurement cup is really necessary when we cook and bake. It is specially helpful when we try a new recipe from youtube or cook books. The set contains-\r\n1 cup, \u00bd cup, 1/3 cup, \u00bc cup, 1 table spoon, 1 tea spoon, \u00bd teaspoon and \u00bc teaspoon.\r\nMade of stainless steel. So, it is durable. ",
+        "name": "Measurement Cup (Stainless Steel) Full Set",
+        "nameWithoutSubText": "Measurement Cup (Stainless Steel) Full Set",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/measurement-cup-stainless-steel-full-set?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69269&q=low&v=1"
+        ],
+        "price": 719.0,
+        "corpPrice": 719.0,
+        "objectID": 22680
+    },
+    {
+        "category": {
+            "name": "Baking Tools",
+            "id": "1493",
+            "slug": "baking-tools"
+        },
+        "bengaliName": "\u09aa\u09b0\u09bf\u09ae\u09be\u09aa\u0995 \u09ae\u0997 \u09ac\u09dc \u09b8\u09be\u0987\u099c \u09e7 \u099f\u09bf",
+        "longDesc": "Plastic",
+        "name": "Large Measurement Mug 1 Pcs",
+        "nameWithoutSubText": "Large Measurement Mug",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/large-measurement-mug-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68382&q=low&v=1"
+        ],
+        "price": 229.0,
+        "corpPrice": 229.0,
+        "objectID": 22675
+    }
+]

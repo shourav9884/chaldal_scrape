@@ -1,0 +1,1345 @@
+[
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09ac\u09c7\u0995\u09bf\u0982 \u09b8\u09cb\u09a1\u09be \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Baking Soda 100 gm",
+        "nameWithoutSubText": "Baking Soda",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/baking-soda-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47984&q=low&v=1"
+        ],
+        "price": 19.0,
+        "corpPrice": 19.0,
+        "objectID": 2884
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09a4\u09be\u09b2 \u09ae\u09bf\u09b8\u09b0\u09bf \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sugarcandy (Tal Misri) 200 gm ",
+        "nameWithoutSubText": "Sugarcandy (Tal Misri)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sugarcandy-tal-misri-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48011&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 4201
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u0987\u09af\u09bc\u09c7\u09b8\u09cd\u099f  \u09e9\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Yeast 35 gm",
+        "nameWithoutSubText": "Anchor Yeast",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-yeast-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67531&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 22459
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0995\u09cd\u09af\u09be\u09a1\u09ac\u09be\u09b0\u09bf \u0995\u09cb\u0995\u09cb \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09aa\u09cd\u09af\u09be\u0995 \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Cadbury Cocoa Powder Pack 125 gm ",
+        "nameWithoutSubText": "Cadbury Cocoa Powder Pack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cadbury-cocoa-powder-pack-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67698&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 22518
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u0993\u09b0\u09c7\u0997\u09be\u09a8\u09cb \u09aa\u09bf\u099c\u09cd\u099c\u09be \u09e7\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Oregano Pizza 10 gm",
+        "nameWithoutSubText": "Anchor Oregano Pizza",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-oregano-pizza-10-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67545&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 22470
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u09ac\u09c7\u0995\u09bf\u0982 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u099f\u09bf\u09a8 \u09e8\u09ec\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ahmed Baking Powder Tin 265 gm",
+        "nameWithoutSubText": "Ahmed Baking Powder Tin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-baking-powder-tin-265-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47981&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 11809
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u099a\u0995\u09b2\u09c7\u099f \u099a\u09bf\u09aa\u09b8 \u09a1\u09be\u09b0\u09cd\u0995 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Chocolate Chips Dark 250 gm",
+        "nameWithoutSubText": "Chocolate Chips Dark",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chocolate-chips-dark-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73696&q=low&v=1"
+        ],
+        "price": 239.0,
+        "corpPrice": 239.0,
+        "objectID": 23595
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09ad\u09bf\u09ad\u09cb \u099f\u09aa\u09bf\u0982 \u098f\u0987\u09b8 \u09b9\u09c1\u0987\u09aa\u09bf\u0982 \u0995\u09cd\u09b0\u09bf\u09ae \u09e7\u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Vivo Topping Ace Whipping Cream 1100 gm",
+        "nameWithoutSubText": "Vivo Topping Ace Whipping Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vivo-topping-ace-whipping-cream-1100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68693&q=low&v=1"
+        ],
+        "price": 430.0,
+        "corpPrice": 430.0,
+        "objectID": 22818
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u09ac\u09c7\u0995\u09bf\u0982 \u09b8\u09cb\u09a1\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Baking Soda 50 gm",
+        "nameWithoutSubText": "Anchor Baking Soda",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-baking-soda-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67533&q=low&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 22460
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6 \u0987\u09b8\u09cd\u099f \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: China",
+        "name": "Saad Yeast 50 gm",
+        "nameWithoutSubText": "Saad Yeast",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saad-yeast-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72071&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 23448
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u09aa\u09be\u09aa\u09b0\u09bf\u0995\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Paprika Powder 15 gm",
+        "nameWithoutSubText": "Anchor Paprika Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-paprika-powder-15-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67540&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 22465
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b9\u09be\u09b0\u09b8\u09c7'\u09b8 \u099a\u0995\u09b2\u09c7\u099f \u09b8\u09bf\u09b0\u09be\u09aa \u09ec\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Hershey\u2019s chocolate syrup tastes great with ice cream, desserts, milk and sandwiches. It has the genuine chocolate flavor. It is highly tasty with milk. Brand: Hershey\u2019s. Net weight 680 gm.",
+        "name": "Hershey's Chocolate Syrup 680 gm",
+        "nameWithoutSubText": "Hershey's Chocolate Syrup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hersheys-chocolate-syrup-680-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46008&q=low&v=1"
+        ],
+        "price": 429.0,
+        "corpPrice": 429.0,
+        "objectID": 4411
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b0\u09be\u09df\u09a8\u09be\u09b0'\u09b8 \u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0\u09a1 \u098f\u09b8\u09c7\u09a8\u09cd\u09b8 \u09e8\u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Rayner's Vanilla Flavoured Essence 28 ml",
+        "nameWithoutSubText": "Rayner's Vanilla Flavoured Essence",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rayners-vanilla-flavoured-essence-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48220&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 7885
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0982\u0995\u09b0 \u0986\u0987\u09b8\u09bf\u0982 \u099a\u09bf\u09a8\u09bf \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Icing Sugar 250 gm",
+        "nameWithoutSubText": "Anchor Icing Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-icing-sugar-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47983&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 4394
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b0\u09be\u09df\u09a8\u09be\u09b0'\u09b8 \u0985\u09b0\u09c7\u099e\u09cd\u099c \u09ab\u09c1\u09a1 \u0995\u09be\u09b2\u09be\u09b0 \u09e8\u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Rayner's Orange Food Colour 28 ml",
+        "nameWithoutSubText": "Rayner's Orange Food Colour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rayners-orange-food-colour-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48453&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 4067
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995'\u09b8 \u0995\u09b0\u09cd\u09a3  \u09ab\u09cd\u09b2\u09be\u0993\u09df\u09be\u09b0 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u099f\u09bf\u09a8 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Foster Clark's cornflour specially prepared to help you make delicious sweet dishes and various sauces to garnish your savory dishes. To obtain the fine light texture which you desire in your cakes and pastries, replace one-eighth of the flour with Foster Clark's Cornflour. ",
+        "name": "Foster Clark's Corn Flour Powder Tin 400 gm",
+        "nameWithoutSubText": "Foster Clark's Corn Flour Powder Tin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-corn-flour-powder-tin-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47990&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 3448
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09ac\u09cd\u09b0\u09c7\u09a1 \u0995\u09cd\u09b0\u09be\u09ae\u09cd\u09ac\u09b8 \u0996\u09cb\u09b2\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bread Crumbs Loose 200 gm",
+        "nameWithoutSubText": "Bread Crumbs Loose",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bread-crumbs-loose-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47985&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 10576
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0987\u09ae\u09a8 \u0987\u09b8\u09cd\u099f \u09ef\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Emon Yeast 90 gm ",
+        "nameWithoutSubText": "Emon Yeast",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/emon-yeast-90-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74960&q=low&v=1"
+        ],
+        "price": 82.0,
+        "corpPrice": 82.0,
+        "objectID": 23975
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0987\u09ae\u09a8 \u09ac\u09c7\u0995\u09bf\u0982 \u09b8\u09cb\u09a1\u09be \u09e7\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Emon Baking Soda 120 gm",
+        "nameWithoutSubText": "Emon Baking Soda",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/emon-baking-soda-120-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74090&q=low&v=1"
+        ],
+        "price": 56.0,
+        "corpPrice": 56.0,
+        "objectID": 23725
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09aa\u09be\u09aa\u09b0\u09bf\u0995\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM Paprika Powder 30 gm",
+        "nameWithoutSubText": "BPM Paprika Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-paprika-powder-30-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76356&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 24198
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b8\u09cd\u09af\u09be\u09ad\u09cb\u09b0\u09bf  \u09ac\u09cd\u09b0\u09c7\u09a1 \u09b8\u09cd\u0995\u09cd\u09b0\u09be\u09ae\u09cd\u09ac\u09b8 \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Savory Breadcrumbs 180 gm",
+        "nameWithoutSubText": "Savory Breadcrumbs",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/savory-breadcrumbs-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74748&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 23925
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b0\u09be\u09df\u09a8\u09be\u09b0'\u09b8 \u09b0\u09c7\u09a1 \u09ab\u09c1\u09a1 \u0995\u09be\u09b2\u09be\u09b0 \u09e8\u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Rayner's Red Food Colour 28 ml",
+        "nameWithoutSubText": "Rayner's Red Food Colour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rayners-red-food-colour-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64824&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 8434
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0995\u09be\u09b0\u09cd\u09a8\u09c7\u09b6\u09a8  \u09ae\u09bf\u09b2\u09cd\u0995 (\u09a5\u09be\u0987) \u09ea\u09e6\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Carnation Milk (Thai) 405 gm",
+        "nameWithoutSubText": "Carnation Milk (Thai)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/carnation-milk-thai-405-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47670&q=low&v=1"
+        ],
+        "price": 189.0,
+        "corpPrice": 189.0,
+        "objectID": 8718
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6 \u09ac\u09c7\u0995\u09bf\u0982 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Saad Baking Powder 150 gm",
+        "nameWithoutSubText": "Saad Baking Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saad-baking-powder-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76941&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 23924
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0987\u09ae\u09a8 \u09ac\u09c7\u0995\u09bf\u0982 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Emon Baking Powder 200 gm",
+        "nameWithoutSubText": "Emon Baking Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/emon-baking-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74968&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 23982
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u099a\u09be\u0982 \u0987\u09b8\u09cd\u099f \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Chung Yeast 20 gm",
+        "nameWithoutSubText": "Chung Yeast",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chung-yeast-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74375&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 23818
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995'\u09b8 \u09b0\u09c7\u09a1 \u09e8\u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Foster Clark's Red 28 ml",
+        "nameWithoutSubText": "Foster Clark's Red",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-red-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48208&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 2882
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b0\u09be\u09df\u09a8\u09be\u09b0'\u09b8 \u0987\u09df\u09c7\u09b2\u09cb \u09ab\u09c1\u09a1 \u0995\u09be\u09b2\u09be\u09b0 \u09e8\u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Rayner's Yellow Food Colour 28 ml",
+        "nameWithoutSubText": "Rayner's Yellow Food Colour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rayners-yellow-food-colour-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48221&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 8432
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u099a\u0995\u09b2\u09c7\u099f \u099a\u09bf\u09aa\u09b8 \u09b9\u09cb\u09df\u09be\u0987\u099f \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Chocolate Chips White 250 gm",
+        "nameWithoutSubText": "Chocolate Chips White",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chocolate-chips-white-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73695&q=low&v=1"
+        ],
+        "price": 239.0,
+        "corpPrice": 239.0,
+        "objectID": 23594
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0995\u09cd\u09af\u09be\u09a1\u09ac\u09c7\u09b0\u09c0 \u0995\u09cb\u0995\u09cb\u09df\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Made In India.",
+        "name": "Cadbury Cocoa Powder 250 gm",
+        "nameWithoutSubText": "Cadbury Cocoa Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cadbury-cocoa-powder-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70233&q=low&v=1"
+        ],
+        "price": 429.0,
+        "corpPrice": 429.0,
+        "objectID": 3271
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0982\u0995\u09b0 \u09ac\u09c7\u0995\u09bf\u0982 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09aa\u09cd\u09af\u09be\u0995 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Baking Powder Pack 200 gm",
+        "nameWithoutSubText": "Anchor Baking Powder Pack",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-baking-powder-pack-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47982&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 3210
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0987\u09ae\u09a8 \u0995\u09cb\u0995\u09cb \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Emon Coco Powder 100 gm",
+        "nameWithoutSubText": "Emon Coco Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/emon-coco-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74964&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 23978
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u099a\u09be\u0982 \u09ac\u09c7\u0995\u09bf\u0982 \u09b8\u09cb\u09a1\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Chung Baking Soda 50 gm",
+        "nameWithoutSubText": "Chung Baking Soda",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chung-baking-soda-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74374&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 23817
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0987\u09b8\u09cd\u099f \u09ac\u09cb\u09a4\u09b2 \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Yeast Bottle 40 gm",
+        "nameWithoutSubText": "Yeast Bottle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/yeast-bottle-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48013&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 3399
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u099a\u09be\u0982 \u0987\u09b8\u09cd\u099f (\u09e8 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Chung Yeast (Buy 2 Get 1 Free) 20 gm",
+        "nameWithoutSubText": "Chung Yeast (Buy 2 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/chung-yeast-buy-2-get-1-free-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79568&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 24629
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0982\u0995\u09b0 \u09ac\u09c7\u0995\u09bf\u0982 \u09aa\u09be\u0989\u09a1\u09be\u09b0 (\u09e8 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Baking Powder (Buy 2 Get 1 Free) 200 gm",
+        "nameWithoutSubText": "Anchor Baking Powder (Buy 2 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-baking-powder-buy-2-get-1-free-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79565&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 24627
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b2\u09ad\u09be\u09b0 \u098f\u09a1\u09bf\u09ac\u09b2 \u09aa\u09c7\u09aa\u09be\u09b0 (\u099f\u09cb\u09ac\u0995) \u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Silver Edible Paper (Tobok) 25 gm",
+        "nameWithoutSubText": "Silver Edible Paper (Tobok)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/silver-edible-paper-tobok-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73694&q=low&v=1"
+        ],
+        "price": 339.0,
+        "corpPrice": 339.0,
+        "objectID": 23593
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u098f\u09a1\u09bf\u09ac\u09b2 \u09aa\u09c7\u09aa\u09be\u09b0 (\u099f\u09cb\u09ac\u0995) \u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Golden Edible Paper (Tobok) 25 gm",
+        "nameWithoutSubText": "Golden Edible Paper (Tobok)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/golden-edible-paper-tobok-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73693&q=low&v=1"
+        ],
+        "price": 339.0,
+        "corpPrice": 339.0,
+        "objectID": 23592
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b8\u09c1\u0987\u099f \u09ac\u09b2 \u0997\u09cb\u09b2\u09cd\u09a1\u09c7\u09a8 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sweet Ball Golden 150 gm",
+        "nameWithoutSubText": "Sweet Ball Golden",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sweet-ball-golden-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73691&q=low&v=1"
+        ],
+        "price": 399.0,
+        "corpPrice": 399.0,
+        "objectID": 23591
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b8\u09c1\u0987\u099f \u09ac\u09b2 \u09b9\u09cb\u09df\u09be\u0987\u099f \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sweet Ball White 150 gm",
+        "nameWithoutSubText": "Sweet Ball White",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sweet-ball-white-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73690&q=low&v=1"
+        ],
+        "price": 339.0,
+        "corpPrice": 339.0,
+        "objectID": 23590
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "  \u09b8\u09cd\u09ac\u09be\u09a6 \u09ae\u09a8\u09cb\u09b8\u09cb\u09a1\u09bf\u09df\u09be\u09ae \u0997\u09cd\u09b2\u09c1\u099f\u09be\u09ae\u09c7\u099f \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Thailand",
+        "name": "Saad Monosodium Glutamate 50 gm",
+        "nameWithoutSubText": "Saad Monosodium Glutamate",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saad-monosodium-glutamate-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72067&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 23444
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u09b8\u09bf\u098f\u09ae\u09b8\u09bf \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Cmc 20 gm ",
+        "nameWithoutSubText": "Anchor Cmc",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-cmc-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67543&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 22468
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u0987\u09af\u09bc\u09c7\u09b2\u09cb \u09ab\u09c1\u09a1 \u0995\u09be\u09b2\u09be\u09b0 35 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Yellow Food Color 35 gm",
+        "nameWithoutSubText": "Anchor Yellow Food Color",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-yellow-food-color-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68307&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 22467
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u09b8\u09be\u0987\u099f\u09cd\u09b0\u09bf\u0995 \u098f\u09b8\u09bf\u09a1 \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Citric Acid 40 gm ",
+        "nameWithoutSubText": "Anchor Citric Acid",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-citric-acid-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68314&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 22464
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u09b8\u09cb\u09a1\u09bf\u09af\u09bc\u09be\u09ae \u09ac\u09c7\u09a8\u099c\u09cb\u09af\u09bc\u09be\u099f \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Sodium Benzoate 20 gm ",
+        "nameWithoutSubText": "Anchor Sodium Benzoate",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-sodium-benzoate-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67536&q=low&v=1"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 22463
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u09b0\u09c7\u0987\u09a8\u09ac\u09cb \u09b0\u09be\u0987\u09b8 \u09aa\u09cd\u09b0\u09bf\u0999\u09cd\u0997\u09be\u09b2\u09c7 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Anchor Rainbow Rice Sprinkles 50 gm ",
+        "nameWithoutSubText": "Anchor Rainbow Rice Sprinkles",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-rainbow-rice-sprinkles-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68301&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 22458
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u099a\u0995\u09cb\u09b2\u09c7\u099f \u09b0\u09be\u0987\u099a \u09aa\u09cd\u09b0\u09bf\u0999\u09cd\u0997\u09be\u09b2\u09b8 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Anchor Chocolate Rice Sprinkles 50 gm",
+        "nameWithoutSubText": "Anchor Chocolate Rice Sprinkles",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-chocolate-rice-sprinkles-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67523&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 22457
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0985\u09cd\u09af\u09be\u0999\u09cd\u0995\u09b0 \u0995\u09cb\u0995\u09cb \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Anchor Cocoa Powder 100 gm",
+        "nameWithoutSubText": "Anchor Cocoa Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anchor-cocoa-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68300&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 22456
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0986\u0999\u09cd\u0995\u09c7\u09b2 \u09ac\u09be\u09b0\u09a8\u09cd\u09b8 \u0986\u0987\u09b8\u09bf\u0982 \u09b8\u09c1\u0997\u09be\u09b0 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Uncle Barns Icing Sugar 1 kg",
+        "nameWithoutSubText": "Uncle Barns Icing Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/uncle-barns-icing-sugar-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61617&q=low&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 21952
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": " \u09ad\u09bf\u099f\u09be\u099a\u09c7\u09af\u09bc\u09be\u09b0 \u0995\u09be\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a1 \u0997\u09c1\u0981\u09dc\u09be \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Vitacare Custard Powder  200 gm",
+        "nameWithoutSubText": "Vitacare Custard Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vitacare-custard-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61600&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 21937
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": " \u09ad\u09bf\u099f\u09be\u0995\u09c7\u09af\u09bc\u09be\u09b0 \u09ac\u09c7\u0995\u09bf\u0982 \u0997\u09c1\u0981\u09dc\u09be \u09e9\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Vitacare Baking Powder 300 gm",
+        "nameWithoutSubText": "Vitacare Baking Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vitacare-baking-powder-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61599&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 21936
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": " \u09ad\u09bf\u099f\u09be\u0995\u09c7\u09af\u09bc\u09be\u09b0 \u0995\u09cb\u0995\u09cb \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Vitacare Cocoa Powder 150 gm",
+        "nameWithoutSubText": "Vitacare Cocoa Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vitacare-cocoa-powder-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61598&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 21935
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b8\u09be\u09ab \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u0987\u09b8\u09cd\u099f \u09ea\u09eb\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Saf Instant Yeast 454 gm",
+        "nameWithoutSubText": "Saf Instant Yeast",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saf-instant-yeast-454-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58816&q=low&v=1"
+        ],
+        "price": 279.0,
+        "corpPrice": 279.0,
+        "objectID": 21269
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u0986\u0987\u09b8\u09bf\u0982 \u09b8\u09c1\u0997\u09be\u09b0 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bnagladesh\r\nManufacturer: Ahmed food products Ltd.\r\nAhmed icing sugar is a high-quality sugar  specially processed for icing and cake decoration, as well as for making fillings and sweets. \r\nVegan\r\nHalal ceritified\r\nISO  certified.\r\nIngredients: Corn starch ,Sugar\r\nNutritional fact: Carbohydrate 31.8% ",
+        "name": "Ahmed Icing Sugar 250 gm",
+        "nameWithoutSubText": "Ahmed Icing Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-icing-sugar-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52437&q=best&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 20008
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995\u09c7\u09b0 \u09ac\u09be\u09af\u09bc\u09cb\u0995\u09be\u09b0\u09cd\u09ac\u09cb\u09a8\u09c7\u099f \u09b8\u09cb\u09a1\u09be \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Foster Clark's Biocarbonate Soda 150 Gm",
+        "nameWithoutSubText": "Foster Clark's Biocarbonate Soda",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-biocarbonate-soda-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50320&q=low&v=1"
+        ],
+        "price": 140.0,
+        "corpPrice": 140.0,
+        "objectID": 18544
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09ac\u09c7\u0995 \u0995\u09bf\u0982 \u09ad\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bake King Vanilla Powder 18 gm",
+        "nameWithoutSubText": "Bake King Vanilla Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bake-king-vanilla-powder-18-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46816&q=low&v=1"
+        ],
+        "price": 349.0,
+        "corpPrice": 349.0,
+        "objectID": 16842
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09ac\u09c7\u0995 \u0995\u09bf\u0982 \u099c\u09bf\u09b2\u09c7\u099f\u09bf\u09a8 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09ec\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bake King Gelatine Powder 60 gm",
+        "nameWithoutSubText": "Bake King Gelatine Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bake-king-gelatine-powder-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46813&q=low&v=1"
+        ],
+        "price": 369.0,
+        "corpPrice": 369.0,
+        "objectID": 16839
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0986\u09b0\u09cd\u09ae \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09b9\u09cd\u09af\u09be\u09ae\u09be\u09b0 \u09ac\u09c7\u0995\u09bf\u0982 \u09b8\u09cb\u09a1\u09be \u09ea\u09eb\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Arm & Hammer Baking Soda 454 gm",
+        "nameWithoutSubText": "Arm & Hammer Baking Soda",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/arm-hammer-baking-soda-454-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46657&q=low&v=1"
+        ],
+        "price": 269.0,
+        "corpPrice": 269.0,
+        "objectID": 16825
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b9\u09be\u09b0\u09b8\u09c7'\u09b8 \u0995\u09c7\u09b0\u09be\u09ae\u09c7\u09b2 \u09b8\u09bf\u09b0\u09be\u09aa \u09ec\u09e8\u09e9 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hershey's Caramel Syrup 623 gm",
+        "nameWithoutSubText": "Hershey's Caramel Syrup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hersheys-caramel-syrup-623-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45622&q=low&v=1"
+        ],
+        "price": 519.0,
+        "corpPrice": 519.0,
+        "objectID": 12180
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b9\u09be\u09b0\u09b8\u09c7'\u09b8 \u0995\u09cb\u0995\u09cb\u09df\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u099c\u09be\u09b0 \u09e8\u09e8\u09ec \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hershey's Cocoa Powder Jar 226 gm",
+        "nameWithoutSubText": "Hershey's Cocoa Powder Jar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hersheys-cocoa-powder-jar-226-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47996&q=low&v=1"
+        ],
+        "price": 619.0,
+        "corpPrice": 619.0,
+        "objectID": 12179
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b8 \u0995\u09be\u09b8\u09cd\u099f\u09be\u09b0 \u099a\u09bf\u09a8\u09bf \u09ee\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sis Caster Sugar 800 gm",
+        "nameWithoutSubText": "Sis Caster Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sis-caster-sugar-800-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48007&q=low&v=1"
+        ],
+        "price": 300.0,
+        "corpPrice": 300.0,
+        "objectID": 12175
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b8 \u09b0 \u099a\u09bf\u09a8\u09bf \u0995\u09bf\u0989\u09ac \u09ea\u09eb\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sis Raw Sugar Cubes 454 gm",
+        "nameWithoutSubText": "Sis Raw Sugar Cubes",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sis-raw-sugar-cubes-454-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64784&q=low&v=1"
+        ],
+        "price": 279.0,
+        "corpPrice": 279.0,
+        "objectID": 12172
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u098f\u09b8\u09c7\u09a8\u09b6\u09bf\u09df\u09be\u09b2 \u0995\u09b0\u09cd\u09a8 \u09b8\u09bf\u09b0\u09be\u09aa \u09e7.\u09e8 \u09b2\u09bf\u099f\u09be\u09b0",
+        "longDesc": null,
+        "name": "Essential Corn Syrup 1.2 ltr",
+        "nameWithoutSubText": "Essential Corn Syrup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/essential-corn-syrup-12-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64828&q=low&v=1"
+        ],
+        "price": 580.0,
+        "corpPrice": 580.0,
+        "objectID": 10938
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995'\u09b8 \u0995\u09be\u09b2\u09bf\u09a8\u09be\u09b0\u09bf \u098f\u09b8\u09c7\u09a8\u09cd\u09b8 \u09b0\u09cb\u099c \u09e8\u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Foster Clarks Essences are for culinary use, and are perfect to use for cakes, creams, custard, sweets, and many savoury dishes",
+        "name": "Foster Clark's Culinary Essence Rose 28 ml",
+        "nameWithoutSubText": "Foster Clark's Culinary Essence Rose",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-culinary-essence-rose-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48202&q=low&v=1"
+        ],
+        "price": 65.0,
+        "corpPrice": 65.0,
+        "objectID": 10723
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u099f\u09be\u09b8\u09cd\u099f\u09bf \u09ac\u09cd\u09b0\u09c7\u09a1\u0995\u09cd\u09b0\u09be\u09ae\u09cd\u09ac\u09b8 \u09b2\u09be\u09b2 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tastie Breadcrumbs Red 200 gm",
+        "nameWithoutSubText": "Tastie Breadcrumbs Red",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tastie-breadcrumbs-red-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71327&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 10178
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b0\u09be\u09df\u09a8\u09be\u09b0'\u09b8 \u099a\u0995\u09b2\u09c7\u099f \u09ab\u09c1\u09a1 \u0995\u09be\u09b2\u09be\u09b0 \u09e8\u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Rayner's Chocolate Food Colour 28 ml",
+        "nameWithoutSubText": "Rayner's Chocolate Food Colour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rayners-chocolate-food-colour-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D15632&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 9851
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09ab\u09b8\u09cd\u099f\u09be\u09b0 \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995'\u09b8 \u09ac\u09c7\u0995\u09bf\u0982 \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09ea\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Foster Clark's Baking Powder specially prepared to help you make delicious sweet dishes and various sauces to garnish your savory dishes. To obtain the fine light texture which you desire in your cakes and pastries, replace one-eighth of the flour with Foster Clark's Baking Powder.",
+        "name": "Foster Clark's Baking Powder 450 gm",
+        "nameWithoutSubText": "Foster Clark's Baking Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/foster-clarks-baking-powder-450-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D41832&q=low&v=1"
+        ],
+        "price": 280.0,
+        "corpPrice": 280.0,
+        "objectID": 9849
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b2\u09ac\u0999\u09cd\u0997 \u0997\u09c1\u0981\u09dc\u09be \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Cloves (Lobongo) Powder 20 gm",
+        "nameWithoutSubText": "Cloves (Lobongo) Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cloves-lobongo-powder-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47988&q=low&v=1"
+        ],
+        "price": 89.0,
+        "corpPrice": 89.0,
+        "objectID": 9331
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09a6\u09be\u09b0\u09c1\u099a\u09bf\u09a8\u09bf \u0997\u09c1\u0981\u09dc\u09be \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Cinnamon (Daruchini) Powder 50 gm",
+        "nameWithoutSubText": "Cinnamon (Daruchini) Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cinnamon-daruchini-powder-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39115&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 9328
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b0\u09be\u09df\u09a8\u09be\u09b0'\u09b8 \u09ac\u09cd\u09b2\u09c1 \u09ab\u09c1\u09a1 \u0995\u09be\u09b2\u09be\u09b0 \u09e8\u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Rayner's Blue Food Colour 28 ml",
+        "nameWithoutSubText": "Rayner's Blue Food Colour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rayners-blue-food-colour-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48215&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 8047
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b9\u09cb\u09b8\u09c7\u09a8 \u0995\u09cb\u09df\u09be\u09b2\u09bf\u099f\u09bf \u099a\u09c7\u09b0\u09bf\u09b8 \u0989\u0987\u09a5 \u09b8\u09cd\u099f\u09c7\u09ae\u09b8 \u0987\u09a8 \u09b8\u09bf\u09b0\u09be\u09aa \u09e8\u09ee\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hosen Quality Cherries With Stems in Syrup 284 gm",
+        "nameWithoutSubText": "Hosen Quality Cherries With Stems in Syrup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hosen-quality-cherries-with-stems-in-syrup-284-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47997&q=low&v=1"
+        ],
+        "price": 350.0,
+        "corpPrice": 350.0,
+        "objectID": 7972
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b9\u09be\u09b0\u09b8\u09c7'\u09b8 \u09b8\u09cd\u099f\u09cd\u09b0\u09ac\u09c7\u09b0\u09bf \u09b8\u09bf\u09b0\u09be\u09aa \u09ec\u09e8\u09e9 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Hershey's Strawberry Syrup 623 gm",
+        "nameWithoutSubText": "Hershey's Strawberry Syrup",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hersheys-strawberry-syrup-623-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45623&q=low&v=1"
+        ],
+        "price": 529.0,
+        "corpPrice": 529.0,
+        "objectID": 4412
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u099f\u09be\u09b8\u09cd\u099f\u09bf \u09ac\u09cd\u09b0\u09c7\u09a1\u0995\u09cd\u09b0\u09be\u09ae\u09cd\u09ac\u09b8 \u09b8\u09be\u09a6\u09be \u09aa\u09cd\u09af\u09be\u0995 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Tastie Breadcrumbs White 200 gm",
+        "nameWithoutSubText": "Tastie Breadcrumbs White",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/tastie-breadcrumbs-white-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71137&q=low&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 4247
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b8 \u09b8\u09be\u09a6\u09be \u099a\u09bf\u09a8\u09bf \u0995\u09bf\u0989\u09ac \u09ea\u09eb\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sis White Sugar Cube 454 gm",
+        "nameWithoutSubText": "Sis White Sugar Cube",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sis-white-sugar-cube-454-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48009&q=low&v=1"
+        ],
+        "price": 229.0,
+        "corpPrice": 229.0,
+        "objectID": 4164
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b8\u09bf\u09b8 \u09b8\u09be\u09a6\u09be \u099a\u09bf\u09a8\u09bf \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Sis White Sugar 2 kg",
+        "nameWithoutSubText": "Sis White Sugar",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sis-white-sugar-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48010&q=low&v=1"
+        ],
+        "price": 409.0,
+        "corpPrice": 409.0,
+        "objectID": 4163
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b0\u09be\u09df\u09a8\u09be\u09b0'\u09b8 \u0997\u09cd\u09b0\u09c0\u09a8 \u09ab\u09c1\u09a1 \u0995\u09be\u09b2\u09be\u09b0 \u09e8\u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Rayner's Green Food Colour 28 ml",
+        "nameWithoutSubText": "Rayner's Green Food Colour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rayners-green-food-colour-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48216&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 4066
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u09b0\u09be\u09df\u09a8\u09be\u09b0'\u09b8 \u09ac\u09be\u09a8\u09be\u09a8\u09be \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0\u09bf\u0982 \u098f\u09b8\u09c7\u09a8\u09cd\u09b8 \u09e8\u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Rayner's Banana Flavouring Essence 28 ml",
+        "nameWithoutSubText": "Rayner's Banana Flavouring Essence",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rayners-banana-flavouring-essence-28-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48214&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 4065
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0995\u09cd\u09af\u09be\u09a1\u09ac\u09c7\u09b0\u09c0 \u0995\u09cb\u0995\u09cb\u09df\u09be \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: India\r\nCocoa powder for baking and drinking.\r\nIngredients: Cocoa , cocoa butter minimum 20% in cocoa powder, May contain milk.",
+        "name": "Cadbury Cocoa Powder 125 gm",
+        "nameWithoutSubText": "Cadbury Cocoa Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cadbury-cocoa-powder-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70234&q=low&v=1"
+        ],
+        "price": 279.0,
+        "corpPrice": 279.0,
+        "objectID": 3270
+    },
+    {
+        "category": {
+            "name": "Baking Ingredients",
+            "id": "102",
+            "slug": "baking-ingredients"
+        },
+        "bengaliName": "\u0995\u09c7\u0995 \u09a1\u09c7\u0995\u09b0\u09c7\u09b6\u09be\u09a8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Cake Decoration 100 gm",
+        "nameWithoutSubText": "Cake Decoration",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cake-decoration-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28671&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 2885
+    }
+]

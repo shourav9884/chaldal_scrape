@@ -1,0 +1,87 @@
+[
+    {
+        "category": {
+            "name": "Tableware & Trash Bags",
+            "id": "90",
+            "slug": "tableware-trash-bags"
+        },
+        "bengaliName": "\u099f\u09cd\u09b0\u09cd\u09af\u09be\u09b6 \u09ac\u09cd\u09af\u09be\u0997 \u0995\u09be\u09b2\u09cb \u09e7\u09e8 \u099f\u09bf ",
+        "longDesc": "Size: 20x30",
+        "name": "Trash Bag Black 12 pcs",
+        "nameWithoutSubText": "Trash Bag Black",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/trash-bag-black-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49765&q=low&v=1"
+        ],
+        "price": 189.0,
+        "corpPrice": 189.0,
+        "objectID": 6981
+    },
+    {
+        "category": {
+            "name": "Tableware & Trash Bags",
+            "id": "90",
+            "slug": "tableware-trash-bags"
+        },
+        "bengaliName": "\u099f\u09cd\u09b0\u09cd\u09af\u09be\u09b6 \u09ac\u09cd\u09af\u09be\u0997 \u09b8\u09be\u09a6\u09be \u09e7\u09e8 \u099f\u09bf ",
+        "longDesc": "Size: 20x30",
+        "name": "Trash Bag White 10 pcs ",
+        "nameWithoutSubText": "Trash Bag White",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/trash-bag-white-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49766&q=low&v=1"
+        ],
+        "price": 189.0,
+        "corpPrice": 189.0,
+        "objectID": 6980
+    },
+    {
+        "category": {
+            "name": "Tableware & Trash Bags",
+            "id": "90",
+            "slug": "tableware-trash-bags"
+        },
+        "bengaliName": "\u098f\u09a8\u09ad\u09bf\u0993 \u09b0\u09bf\u099a \u09ab\u09cd\u09b0\u09bf\u099c \u0993 \u099f\u09c7\u09ac\u09bf\u09b2 \u099f\u09aa \u0995\u09cd\u09b2\u09bf\u09a8\u099c\u09be\u09b0 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Malaysia\r\nManufacturer: Skin cottage\r\nEnveo Rich Fridge & Table Top Cleanser removes stains and marks in the fridge. This product is also formulated to clean surfaces such as table tops. \r\n\u00b7 Removes stains and marks in the fridge\r\n\u00b7 Non-toxic\r\n\u2022        It can be used to clean fridge with food inside as it is food graded\r\n\u2022        It has plant derived ingredients",
+        "name": "Enveo Rich Fridge & Table Top Cleanser 500 ml",
+        "nameWithoutSubText": "Enveo Rich Fridge & Table Top Cleanser",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/enveo-rich-fridge-table-top-cleanser-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49763&q=low&v=1"
+        ],
+        "price": 795.0,
+        "corpPrice": 795.0,
+        "objectID": 15090
+    },
+    {
+        "category": {
+            "name": "Tableware & Trash Bags",
+            "id": "90",
+            "slug": "tableware-trash-bags"
+        },
+        "bengaliName": "\u09b0\u09c7\u09aa\u09bf\u0982 \u09b0\u09cb\u09b2 \u09e7 \u099f\u09bf",
+        "longDesc": "400 Yards\r\n30 CM",
+        "name": "Wrapping Roll 1 pcs",
+        "nameWithoutSubText": "Wrapping Roll",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/wrapping-roll-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49767&q=low&v=1"
+        ],
+        "price": 1099.0,
+        "corpPrice": 1099.0,
+        "objectID": 13124
+    },
+    {
+        "category": {
+            "name": "Tableware & Trash Bags",
+            "id": "90",
+            "slug": "tableware-trash-bags"
+        },
+        "bengaliName": "\u09a8\u09c7\u099f \u09ac\u09cd\u09af\u09be\u0997 \u09e7\u09eb\u09e6 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Net Bag 150 pcs",
+        "nameWithoutSubText": "Net Bag",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/net-bag-150-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49764&q=low&v=1"
+        ],
+        "price": 180.0,
+        "corpPrice": 180.0,
+        "objectID": 11173
+    }
+]

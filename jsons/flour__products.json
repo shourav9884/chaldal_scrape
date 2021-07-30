@@ -1,0 +1,682 @@
+[
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09a4\u09c0\u09b0 \u0986\u099f\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "TEER Atta is milled from selected high protein wheat from America, Australia and Russia using top-notch Swiss technologies from Buhler. TEER Atta is the result of attention to detail, consistency in milling, and desire to ensure the very best baking experience possible, every time. Only selected fine Atta is packed for the consumers to ensure taste as well as nutrition.",
+        "name": "Teer Atta 2 kg",
+        "nameWithoutSubText": "Teer Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/teer-atta-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48042&q=low&v=1"
+        ],
+        "price": 81.0,
+        "corpPrice": 81.0,
+        "objectID": 6942
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ac\u09c1\u099f\u09c7\u09b0 \u09ac\u09c7\u09b8\u09a8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Booter Beshon (Chick Peas Powder) 500 gm",
+        "nameWithoutSubText": "Booter Beshon (Chick Peas Powder)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/booter-beshon-chick-peas-powder-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48030&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 4389
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09a4\u09c0\u09b0 \u09ae\u09df\u09a6\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Teer Flour manufactured from one of the best quality of wheat. Teer flour made by high technology automated machine that flour keep fresh and healthy. Its also contains Vitamin, Mineral and Protein.   ",
+        "name": "Teer Maida Flour 2 kg",
+        "nameWithoutSubText": "Teer Maida Flour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/teer-maida-flour-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48043&q=low&v=1"
+        ],
+        "price": 98.0,
+        "corpPrice": 98.0,
+        "objectID": 2490
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u0987\u09ab\u09be\u09a6 \u0986\u099f\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Ifad  ",
+        "name": "Ifad Atta 2 kg",
+        "nameWithoutSubText": "Ifad Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ifad-atta-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48037&q=low&v=1"
+        ],
+        "price": 81.0,
+        "corpPrice": 81.0,
+        "objectID": 3601
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u0986\u099f\u09be \u09e8 \u0995\u09c7\u099c\u09bf ",
+        "longDesc": null,
+        "name": "Bashundhara Atta 2 Kg ",
+        "nameWithoutSubText": "Bashundhara Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bashundhara-atta-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40383&q=low&v=1"
+        ],
+        "price": 81.0,
+        "corpPrice": 81.0,
+        "objectID": 15598
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u0986\u099f\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Fresh Atta 2 kg",
+        "nameWithoutSubText": "Fresh Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-atta-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58752&q=low&v=1"
+        ],
+        "price": 71.0,
+        "corpPrice": 71.0,
+        "objectID": 6931
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09a4\u09c0\u09b0 \u09b9\u09cb\u09b2 \u09b9\u09cb\u09df\u09c7\u099f \u0986\u099f\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Teer Whole Wheat Atta 2 kg",
+        "nameWithoutSubText": "Teer Whole Wheat Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/teer-whole-wheat-atta-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48044&q=low&v=1"
+        ],
+        "price": 88.0,
+        "corpPrice": 88.0,
+        "objectID": 11993
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u0987\u09ab\u09be\u09a6 \u09ac\u09be\u09a6\u09be\u09ae\u09bf \u0986\u099f\u09be \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Ifad Brown Atta 1 kg",
+        "nameWithoutSubText": "Ifad Brown Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ifad-brown-atta-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65203&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 3602
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": " \u099a\u09be\u09b2\u09c7\u09b0 \u0997\u09c1\u0981\u09dc\u09be \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Rice flour is a popular food item of our country. This flour is widely used to make ruti, pitha and many other delicious foods. Rice flour also can make a good facial scrub when mixed with some other ingredients.",
+        "name": "Rice Flour 1 kg",
+        "nameWithoutSubText": "Rice Flour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/rice-flour-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48041&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 4025
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09aa\u09bf\u0993\u09b0 \u0986\u099f\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "ACI Pure Atta 2 kg",
+        "nameWithoutSubText": "ACI Pure Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-pure-atta-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48025&q=low&v=1"
+        ],
+        "price": 81.0,
+        "corpPrice": 81.0,
+        "objectID": 2119
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u0987\u09ab\u09be\u09a6 \u09ae\u09df\u09a6\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Ifad    ",
+        "name": "Ifad Maida 2 kg",
+        "nameWithoutSubText": "Ifad Maida",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ifad-maida-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48039&q=low&v=1"
+        ],
+        "price": 98.0,
+        "corpPrice": 98.0,
+        "objectID": 8671
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u0995\u09b0\u09cd\u09a3 \u09ab\u09cd\u09b2\u09be\u0993\u09df\u09be\u09b0 (\u0996\u09cb\u09b2\u09be) \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Corn flour is a type of flour that's milled from dried whole corn kernels. The texture is fine and smooth, similar to whole wheat flour.\r\nCorn flour is widely used in baking and many Chinese and western recipes.",
+        "name": "Corn Flour (Loose) 500 gm",
+        "nameWithoutSubText": "Corn Flour (Loose)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/corn-flour-loose-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48033&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 9932
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09b8\u09cd\u09ac\u09be\u09a6 \u0986\u099f\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Shaad Atta 2 kg",
+        "nameWithoutSubText": "Shaad Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shaad-atta-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46967&q=low&v=1"
+        ],
+        "price": 83.0,
+        "corpPrice": 83.0,
+        "objectID": 13729
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u09ac\u09be\u09a6\u09be\u09ae\u09bf \u0986\u099f\u09be \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Bashundhara Brown Atta 1 kg",
+        "nameWithoutSubText": "Bashundhara Brown Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bashundhara-brown-atta-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40381&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 15600
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ab\u09cd\u09b0\u09c7\u09b6 \u09ae\u09df\u09a6\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Fresh Maida 2 kg",
+        "nameWithoutSubText": "Fresh Maida",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fresh-maida-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58753&q=low&v=1"
+        ],
+        "price": 88.0,
+        "corpPrice": 88.0,
+        "objectID": 6933
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u0986\u09b9\u09ae\u09c7\u09a6 \u0995\u09b0\u09cd\u09a3 \u09ab\u09cd\u09b2\u09be\u0993\u09df\u09be\u09b0 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Ahmed Food Products\r\nCorn flour is used in soups and many other Chinese dishes. Ahmed corn flour is made from good quality corns. \r\n\u2022        Organic floured.\r\n\u2022        Contains no Preservatives.\r\n\u2022        Prepared from corns picked up from own gardens\r\n\u2022        Contains no excess sweeteners.",
+        "name": "Ahmed Corn Flour 250 gm",
+        "nameWithoutSubText": "Ahmed Corn Flour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ahmed-corn-flour-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48028&q=low&v=1"
+        ],
+        "price": 95.0,
+        "corpPrice": 95.0,
+        "objectID": 10601
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09aa\u09bf\u0993\u09b0 \u09b2\u09be\u09b2 \u0986\u099f\u09be \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "ACI Pure Brown Atta 1 kg",
+        "nameWithoutSubText": "ACI Pure Brown Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-pure-brown-atta-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48026&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 2120
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09aa\u09bf\u0993\u09b0 \u09ae\u09df\u09a6\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "ACI Pure Maida 2 kg",
+        "nameWithoutSubText": "ACI Pure Maida",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-pure-maida-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48027&q=low&v=1"
+        ],
+        "price": 98.0,
+        "corpPrice": 98.0,
+        "objectID": 6203
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ac\u09b8\u09c1\u09a8\u09cd\u09a7\u09b0\u09be \u09ae\u09df\u09a6\u09be \u09e8 \u0995\u09c7\u099c\u09bf ",
+        "longDesc": null,
+        "name": "Bashundhara Maida 2 Kg ",
+        "nameWithoutSubText": "Bashundhara Maida",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bashundhara-maida-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48029&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 15599
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09b8\u09cd\u09ac\u09be\u09a6 \u09ac\u09cd\u09b0\u09be\u0989\u09a8 \u0986\u099f\u09be \u09e7 \u0995\u09c7\u099c\u09bf ",
+        "longDesc": null,
+        "name": "Shaad Brown Atta 1 kg",
+        "nameWithoutSubText": "Shaad Brown Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shaad-brown-atta-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46960&q=low&v=1"
+        ],
+        "price": 45.0,
+        "corpPrice": 45.0,
+        "objectID": 16879
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09b8\u09cd\u09ac\u09be\u09a6 \u09ae\u09df\u09a6\u09be \u09e8 \u0995\u09c7\u099c\u09bf ",
+        "longDesc": null,
+        "name": "Shaad Maida 2 kg",
+        "nameWithoutSubText": "Shaad Maida",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shaad-maida-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45810&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 13731
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ae\u09c1\u09b8\u0995\u09be\u09a8 \u0986\u099f\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Muskan Atta 2 Kg",
+        "nameWithoutSubText": "Muskan Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/muskan-atta-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50587&q=low&v=1"
+        ],
+        "price": 70.0,
+        "corpPrice": 70.0,
+        "objectID": 18708
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09b8\u09be\u09a6 \u0995\u09b0\u09cd\u09a3 \u09ab\u09cd\u09b2\u09be\u0993\u09df\u09be\u09b0 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Origin: Bangladesh",
+        "name": "Saad Corn Flour 1 kg",
+        "nameWithoutSubText": "Saad Corn Flour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saad-corn-flour-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72068&q=low&v=1"
+        ],
+        "price": 140.0,
+        "corpPrice": 140.0,
+        "objectID": 23445
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u099a\u09be\u09b2\u09c7\u09b0 \u0997\u09c1\u0981\u09dc\u09be (\u09ab\u09cd\u09b0\u09bf \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09ac\u09c7\u09b8\u09a8) \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "BPM Rice Flour (Free 250 gm Beson)  2 kg",
+        "nameWithoutSubText": "BPM Rice Flour (Free 250 gm Beson)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-rice-flour-free-250-gm-beson-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70235&q=low&v=1"
+        ],
+        "price": 170.0,
+        "corpPrice": 170.0,
+        "objectID": 14727
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u0986\u0999\u09cd\u0995\u09c7\u09b2 \u09ac\u09be\u09b0\u09cd\u09a8'\u09b8 \u099f\u09c7\u09ae\u09cd\u09aa\u09c1\u09b0\u09be \u09ae\u09df\u09a6\u09be \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Uncle Barn's Tempura Flour 500 gm",
+        "nameWithoutSubText": "Uncle Barn's Tempura Flour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/uncle-barns-tempura-flour-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64761&q=low&v=1"
+        ],
+        "price": 200.0,
+        "corpPrice": 200.0,
+        "objectID": 4327
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u099b\u09cb\u09b2\u09be \u09ac\u09c1\u099f (\u09ab\u09cd\u09b0\u09bf \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09ac\u09c1\u099f\u09c7\u09b0 \u09ac\u09c7\u09b8\u09a8) \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "BPM Chola Boot (Free 250 gm Booter Beshon) 2 kg ",
+        "nameWithoutSubText": "BPM Chola Boot (Free 250 gm Booter Beshon)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-chola-boot-free-250-gm-booter-beshon-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70238&q=low&v=1"
+        ],
+        "price": 210.0,
+        "corpPrice": 210.0,
+        "objectID": 14728
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09b0\u09c7\u09a1 \u09b0\u09be\u0987\u09b8 \u09ab\u09cd\u09b2\u09be\u0993\u09df\u09be\u09b0 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "BPM Red Rice Flour 1 kg",
+        "nameWithoutSubText": "BPM Red Rice Flour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-red-rice-flour-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75991&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 24205
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09aa\u09c1\u09b7\u09cd\u099f\u09bf \u09ae\u09df\u09a6\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Pusti Maida 2 kg",
+        "nameWithoutSubText": "Pusti Maida",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pusti-maida-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50552&q=best&v=1"
+        ],
+        "price": 98.0,
+        "corpPrice": 98.0,
+        "objectID": 18646
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u099c\u09c1\u09b2\u09bf  \u0987\u09a8\u09b8\u09cd\u099f\u09cd\u09af\u09be\u09a8\u09cd\u099f \u09ac\u09c7\u09b6\u09a8 \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Julie Instant Beshon Mix 500 gm",
+        "nameWithoutSubText": "Julie Instant Beshon Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/julie-instant-beshon-mix-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59132&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 21313
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u0986\u09b6\u09bf\u09b0\u09cd\u09ac\u09be\u09a6 \u09ae\u09be\u09b2\u09cd\u099f\u09bf\u0997\u09cd\u09b0\u09c7\u0987\u09a8 \u0986\u099f\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Aashirvaad Multigrain Atta 2 kg",
+        "nameWithoutSubText": "Aashirvaad Multigrain Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aashirvaad-multigrain-atta-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48570&q=low&v=1"
+        ],
+        "price": 389.0,
+        "corpPrice": 389.0,
+        "objectID": 17153
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u0986\u09b6\u09bf\u09b0\u09cd\u09ac\u09be\u09a6 \u0986\u099f\u09be 5 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Aashirvaad Atta 5 kg",
+        "nameWithoutSubText": "Aashirvaad Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aashirvaad-atta-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D36699&q=low&v=1"
+        ],
+        "price": 819.0,
+        "corpPrice": 819.0,
+        "objectID": 14934
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u0987\u09ae\u09a8 \u0995\u09b0\u09cd\u09a3 \u09ab\u09cd\u09b2\u09be\u0993\u09df\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Emon Corn Flour 200 gm",
+        "nameWithoutSubText": "Emon Corn Flour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/emon-corn-flour-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74093&q=low&v=1"
+        ],
+        "price": 75.0,
+        "corpPrice": 75.0,
+        "objectID": 23728
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ab\u09bf\u099f \u09ab\u09c1\u09a1 \u09ac\u09c7\u09b6\u09a8 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Fit Food Beshon 250 gm",
+        "nameWithoutSubText": "Fit Food Beshon",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/fit-food-beshon-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58525&q=low&v=1"
+        ],
+        "price": 140.0,
+        "corpPrice": 140.0,
+        "objectID": 21221
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u09a8\u09bf\u0989\u099f\u09cd\u09b0\u09bf\u09b2\u09be\u0987\u09ab \u09ae\u09be\u09b2\u09cd\u099f\u09bf\u0997\u09cd\u09b0\u09c7\u0987\u09a8 \u0986\u099f\u09be \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "ACI Nutrilife Multigrain Atta 1 kg",
+        "nameWithoutSubText": "ACI Nutrilife Multigrain Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-nutrilife-multigrain-atta-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7027&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 6204
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09aa\u09c1\u09b7\u09cd\u099f\u09bf \u0986\u099f\u09be \u09e8 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Pusti Atta 2 kg",
+        "nameWithoutSubText": "Pusti Atta",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pusti-atta-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50555&q=best&v=1"
+        ],
+        "price": 81.0,
+        "corpPrice": 81.0,
+        "objectID": 18645
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ad\u09bf\u099f\u09be\u0995\u09c7\u09df\u09be\u09b0 \u0995\u09b0\u09cd\u09a3 \u09ab\u09cd\u09b2\u09be\u0993\u09df\u09be\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Vitacare Corn Flour 200 gm",
+        "nameWithoutSubText": "Vitacare Corn Flour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/vitacare-corn-flour-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68518&q=best&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 22761
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09ae\u09b8\u09c1\u09b0 \u09a1\u09be\u09b2 \u09ac\u09c7\u09b8\u09a8 500 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM Lentil Flour 500 gm",
+        "nameWithoutSubText": "BPM Lentil Flour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-lentil-flour-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53076&q=low&v=1"
+        ],
+        "price": 90.0,
+        "corpPrice": 90.0,
+        "objectID": 19916
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ac\u09bf\u09aa\u09bf\u098f\u09ae \u09ae\u09be\u09b6\u0995\u09be\u09b2\u09be\u0987 \u09ac\u09c7\u09b8\u09a8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "BPM Mashkalai Bason 500 gm",
+        "nameWithoutSubText": "BPM Mashkalai Bason",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bpm-mashkalai-bason-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52503&q=best&v=1"
+        ],
+        "price": 110.0,
+        "corpPrice": 110.0,
+        "objectID": 19915
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ac\u09be\u09a6\u09be\u09ae \u0997\u09c1\u0981\u09a1\u09bc\u09be 250 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dhaka Dough Almond Powder 250 gm",
+        "nameWithoutSubText": "Dhaka Dough Almond Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dhaka-dough-almond-powder-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50180&q=low&v=1"
+        ],
+        "price": 480.0,
+        "corpPrice": 480.0,
+        "objectID": 18455
+    },
+    {
+        "category": {
+            "name": "Flour",
+            "id": "103",
+            "slug": "flour"
+        },
+        "bengaliName": "\u09ae\u09bf\u0983 \u09b9\u09be\u0982 \u099f\u09c7\u09ae\u09cd\u09aa\u09c1\u09b0\u09be \u09ac\u09be\u099f\u09be\u09b0 \u09ae\u09bf\u0995\u09cd\u09b8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mr Hung Tempura Batter Mix 500 gm",
+        "nameWithoutSubText": "Mr Hung Tempura Batter Mix",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mr-hung-tempura-batter-mix-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65787&q=low&v=1"
+        ],
+        "price": 189.0,
+        "corpPrice": 189.0,
+        "objectID": 8454
+    }
+]

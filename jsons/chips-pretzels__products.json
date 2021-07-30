@@ -1,0 +1,1215 @@
+[
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09ac\u09cb\u09ae\u09cd\u09ac\u09c7 \u09b8\u09c1\u0987\u099f\u09b8 \u09b0\u09bf\u0982 \u099a\u09bf\u09aa\u09b8 \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Bombay sweets and co. Ltd\r\nFresh, tasty and crispy chips.\r\nIngredients: Wheat flour, starch, baking powder, turmeric powder, vegetable oil, spices.\r\nNutrition: Fat, carbohydrate, salt, protein, calcium, iron.",
+        "name": "Bombay Sweets Ring Chips 20 gm",
+        "nameWithoutSubText": "Bombay Sweets Ring Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bombay-sweets-ring-chips-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47733&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 7277
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09ac\u09cb\u09ae\u09cd\u09ac\u09c7 \u09b8\u09c1\u0987\u099f\u09b8 \u09ae\u09bf\u0983 \u099f\u09c1\u0987\u09b8\u09cd\u099f \u099a\u09bf\u09aa\u09b8 \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": null,
+        "name": "Bombay Sweets Mr. Twist 22 gm",
+        "nameWithoutSubText": "Bombay Sweets Mr. Twist",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bombay-sweets-mr-twist-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47731&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 7276
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09ac\u09cb\u09ae\u09cd\u09ac\u09c7 \u09b8\u09c1\u0987\u099f\u09b8 \u09aa\u099f\u09c7\u099f\u09cb \u0995\u09cd\u09b0\u09cd\u09af\u09be\u0995\u09be\u09b0\u09b8 \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bombay Sweets Potato Crackers 22 gm",
+        "nameWithoutSubText": "Bombay Sweets Potato Crackers",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bombay-sweets-potato-crackers-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47732&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 2157
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u099a\u09bf\u099c \u09aa\u09be\u09ab \u09e7 \u099f\u09bf (\u099a\u09bf\u09aa\u09b8)",
+        "longDesc": null,
+        "name": "Cheese Puff 1 pcs",
+        "nameWithoutSubText": "Cheese Puff",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cheese-puff-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35210&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 2168
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09ac\u09cb\u09ae\u09cd\u09ac\u09c7 \u09b8\u09c1\u0987\u099f\u09b8 \u099a\u09bf\u099c \u09ac\u09b2 \u099a\u09bf\u099c\u09bf \u0995\u09b0\u09cd\u09a8 \u09b8\u09cd\u09a8\u09cd\u09af\u09be\u0995\u09b8 \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bombay Sweets Cheese Ball Cheezee Corn Snacks 20 gm",
+        "nameWithoutSubText": "Bombay Sweets Cheese Ball Cheezee Corn Snacks",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bombay-sweets-cheese-ball-cheezee-corn-snacks-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48121&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 17043
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09a1\u09c7\u099f\u09b8 \u099a\u09bf\u0995\u09c7\u09a8 \u0989\u0982\u09b8 \u099a\u09bf\u09aa\u09b8\u09cd \u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Detos Chicken Wings Chips 30 gm",
+        "nameWithoutSubText": "Detos Chicken Wings Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/detos-chicken-wings-chips-30-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65800&q=low&v=1"
+        ],
+        "price": 20.0,
+        "corpPrice": 20.0,
+        "objectID": 14146
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b2\u09c7\u09b8 \u0987\u099f\u09be\u09b2\u09bf\u09df\u09be\u09a8 \u09b6\u09c7\u09aa \u09aa\u09be\u09b8\u09cd\u09a4\u09be\u099c \u099a\u09bf\u09aa\u09b8 \u09e7\u09ee \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Pepsico\r\nItalian style herb and onion flavoured potato based snacks.\r\nVegan\r\nHalal certified by Bangladesh Islamic foundation.\r\nIngredients: Edible vegetable oil, corn flour, Refined wheat flour, potato flakes(15%), Natural and nature identical flavours, sugar, milk solids, salt, onion powder, parsley, dextrose, calcium carbonate, soy lecithin, gum Arabic, maltose. \r\nNutrition: Energy, protein, carbohydrate, fat, Sodium.",
+        "name": "Lay's Italian Shape Pastazz Chips 18 gm",
+        "nameWithoutSubText": "Lay's Italian Shape Pastazz Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lays-italian-shape-pastazz-chips-18-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47811&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 17019
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u099a\u09bf\u09aa\u09b8\u09cd \u09b8\u09b2\u09cd\u099f \u098f\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09aa\u09c7\u09aa\u09be\u09b0 \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sun Chips Salt & Pepper 22 gm",
+        "nameWithoutSubText": "Sun Chips Salt & Pepper",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sun-chips-salt-pepper-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65834&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 7568
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u099a\u09bf\u09aa\u09b8 \u099a\u09bf\u0982\u09a1\u09bc\u09bf \u0995\u09cd\u09b0\u09cd\u09af\u09be\u0995\u09be\u09b0 \u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sun Chips Prawn Crackers 20 gm",
+        "nameWithoutSubText": "Sun Chips Prawn Crackers",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sun-chips-prawn-crackers-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65832&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 20843
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09ac\u09cb\u09ae\u09cd\u09ac\u09c7 \u09b8\u09c1\u0987\u099f\u09b8 \u09a8\u09be\u099a\u09cb\u099c \u099a\u09be\u099f\u09a8\u09bf \u0993  \u09b2\u09be\u0987\u09ae \u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Bombay sweets\r\nCrunchy and delicious, triangular tortilla chips in Mexican nachos flavor. \r\nIngredients:Corn, Rice, Vegetable Oil, Potato Granules, Gram Grits and Seasoning",
+        "name": "Bombay Sweets Nachoz Chutney & Lime 30 gm",
+        "nameWithoutSubText": "Bombay Sweets Nachoz Chutney & Lime",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bombay-sweets-nachoz-chutney-lime-30-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48136&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 17051
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b2\u09cd\u09af\u09c7'\u09b8 \u0986\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u09b8\u09cd\u099f\u09be\u0987\u09b2 \u0995\u09cd\u09b0\u09bf\u09ae \u098f\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0985\u09a8\u09bf\u09df\u09a8 \u09eb\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Lay's American Style Cream & Onion 52 gm",
+        "nameWithoutSubText": "Lay's American Style Cream & Onion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lays-american-style-cream-onion-52-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D21317&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 8488
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0995\u09c1\u09b0\u0995\u09c1\u09b0\u09c7 \u0986\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u09b8\u09cd\u099f\u09be\u0987\u09b2 \u0995\u09cd\u09b0\u09bf\u09ae \u098f\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0985\u09a8\u09bf\u09df\u09a8 \u099a\u09bf\u09aa\u09b8\u09cd \u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kurkure American Style Cream & Onion Chips 45 gm",
+        "nameWithoutSubText": "Kurkure American Style Cream & Onion Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kurkure-american-style-cream-onion-chips-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65833&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 14634
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u099a\u09bf\u09aa\u09b8\u09cd \u0997\u09be\u09b0\u09cd\u09b2\u09bf\u0995 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u099a\u09bf\u09b2\u09bf \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sun Chips Garlic & Chilli 22 gm",
+        "nameWithoutSubText": "Sun Chips Garlic & Chilli",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sun-chips-garlic-chilli-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D55146&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 20842
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u099a\u09bf\u09aa\u09b8\u09cd \u09ae\u09bf\u0995\u09cd\u09b8 \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sun Chips Mix Masala 22 gm",
+        "nameWithoutSubText": "Sun Chips Mix Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sun-chips-mix-masala-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54956&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 4375
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0995\u09cd\u09b0\u09bf\u09b8\u09aa\u09bf \u0995\u09be\u09b0\u09cd\u09b2 \u099a\u09bf\u09aa\u09b8 (\u09eb \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09b9\u099f \u09ab\u09bf\u0999\u09cd\u0997\u09be\u09b0 \u09ab\u09cd\u09b0\u09c0)",
+        "longDesc": null,
+        "name": "Krispy Curl Chips (Buy 5 Get 1 Hot Fingers Free)",
+        "nameWithoutSubText": "Krispy Curl Chips (Buy 5 Get 1 Hot Fingers Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/krispy-curl-chips-buy-5-get-1-hot-fingers-free?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74068&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 23713
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0986\u09b2\u09c1\u099c \u0993\u09df\u09c7\u09ad\u09b0\u09b8 \u09ac\u09bf\u09ac\u09bf\u0995\u09bf\u0989 \u09aa\u099f\u09be\u099f\u09cb \u099a\u09bf\u09aa\u09b8\u09cd \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Alooz Waves B-B-Q Potato Chips 22 gm",
+        "nameWithoutSubText": "Alooz Waves B-B-Q Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/alooz-waves-b-b-q-potato-chips-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47723&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 16499
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09ac\u09cb\u09ae\u09cd\u09ac\u09c7 \u09b8\u09c1\u0987\u099f\u09b8 \u0986\u09b2\u09c1\u099c \u09ae\u09cd\u09af\u09be\u099c\u09bf\u0995 \u09ae\u09be\u09b8\u09be\u09b2\u09be  \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bombay Sweets Alooz Magic Masala  22 gm",
+        "nameWithoutSubText": "Bombay Sweets Alooz Magic Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bombay-sweets-alooz-magic-masala-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47725&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 2154
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09ac\u09cb\u09ae\u09cd\u09ac\u09c7 \u09b8\u09c1\u0987\u099f\u09b8 \u0986\u09cd\u09b2\u09c1\u099c \u099a\u09bf\u09b2\u09bf \u099a\u09be\u099f\u0995\u09be \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bombay Sweets Alooz Chilli Chatka 22 gm",
+        "nameWithoutSubText": "Bombay Sweets Alooz Chilli Chatka",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bombay-sweets-alooz-chilli-chatka-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47726&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 8105
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b2\u09c7\u0987\u09b8 \u0993\u09df\u09c7\u09b8\u09cd\u099f \u0987\u09a8\u09cd\u09a1\u09bf\u09df\u09be\u09a8 \u09b9\u099f \u098f\u09a8 \u09b8\u09c1\u0987\u099f \u099a\u09bf\u09b2\u09bf \u09eb\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Lay's West Indian Hot n Sweet Chilli 52 gm",
+        "nameWithoutSubText": "Lay's West Indian Hot n Sweet Chilli",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lays-west-indian-hot-n-sweet-chilli-52-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74024&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 23695
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0987\u09ab\u09be\u09a6 \u098f\u0997\u09bf \u09b8\u09cd\u099f\u09bf\u0995\u09cd\u09b8 \u09ac\u09be\u09b0-\u09ac\u09bf-\u0995\u09bf\u0989 \u099a\u09bf\u09aa\u09b8\u09cd \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ifad Eggy Stix Bar-B-Q Chips 20 gm",
+        "nameWithoutSubText": "Ifad Eggy Stix Bar-B-Q Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ifad-eggy-stix-bar-b-q-chips-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D19411&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 11126
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0995\u09c1\u09b0\u0995\u09c1\u09b0\u09c7 \u099a\u09bf\u09b2\u09bf \u099a\u09be\u099f\u0995\u09be \u099a\u09bf\u09aa\u09b8 \u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kurkure Chilli Chatka Chips 45 gm",
+        "nameWithoutSubText": "Kurkure Chilli Chatka Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kurkure-chilli-chatka-chips-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35761&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 13562
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09aa\u09be\u09b0\u09b8 \u0995\u09b0\u09cd\u09a3 \u0995\u09cb\u0995\u09cb\u09a8\u09be\u099f \u09aa\u09be\u09ab\u09b8 \u099a\u09bf\u09aa\u09b8\u09cd \u09e8\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Poppers Corn Coconut Puffs Chips 25 gm",
+        "nameWithoutSubText": "Poppers Corn Coconut Puffs Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/poppers-corn-coconut-puffs-chips-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65801&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 11861
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u099a\u09bf\u09aa\u09b8\u09cd \u099f\u09ae\u09c7\u099f\u09cb \u099f\u09cd\u09af\u09be\u0999\u09cd\u0997\u09cb \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sun Chips Tomato Tango 22 gm",
+        "nameWithoutSubText": "Sun Chips Tomato Tango",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sun-chips-tomato-tango-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54960&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 2478
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0995\u09c1\u09b0\u0995\u09c1\u09b0\u09c7 \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ae\u09be\u099e\u09cd\u099b \u099a\u09bf\u09aa\u09b8\u09cd \u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kurkure Masala Manch Chips 45 gm",
+        "nameWithoutSubText": "Kurkure Masala Manch Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kurkure-masala-manch-chips-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65798&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 14636
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b2\u09cd\u09af\u09c7'\u09b8 \u09b8\u09cd\u09aa\u09cd\u09af\u09be\u09a8\u09bf\u09b6 \u099f\u09ae\u09c7\u099f\u09cb \u099f\u09cd\u09af\u09be\u0982\u0997\u09cb \u099a\u09bf\u09aa\u09b8\u09cd \u09eb\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Lay's Spanish Tomato Tango Chips 52 gm",
+        "nameWithoutSubText": "Lay's Spanish Tomato Tango Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lays-spanish-tomato-tango-chips-52-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D21313&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 2283
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0986\u09b2\u09c1\u099c \u0993\u09df\u09c7\u09ad\u09b0\u09b8 \u09b9\u099f \u09aa\u099f\u09be\u099f\u09cb \u099a\u09bf\u09aa\u09b8\u09cd \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Alooz Waves Hot  Flavour Potato Chips 22 gm",
+        "nameWithoutSubText": "Alooz Waves Hot  Flavour Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/alooz-waves-hot-flavour-potato-chips-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47727&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 16663
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u099a\u09bf\u09aa\u09b8\u09cd \u0993\u09df\u09be\u09b8\u09be\u09ac\u09bf \u09e9\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sun Chips Wasabi 38 gm",
+        "nameWithoutSubText": "Sun Chips Wasabi",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sun-chips-wasabi-38-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54963&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 4378
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b2\u09cd\u09af\u09c7'\u09b8 \u0987\u09a4\u09be\u09b2\u09bf\u09af\u09bc\u09be\u09a8 \u09b6\u09c7\u09aa \u09aa\u09be\u09b8\u09cd\u09a4\u09be\u099c \u099a\u09bf\u09aa\u09b8 \u09e9\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Pepsico\r\nItalian style herb and onion flavoured potato based snacks.\r\nVegan\r\nHalal certified by Bangladesh Islamic foundation.\r\nIngredients: Edible vegetable oil, corn flour, Refined wheat flour, potato flakes(15%), Natural and nature identical flavours, sugar, milk solids, salt, onion powder, parsley, dextrose, calcium carbonate, soy lecithin, gum Arabic, maltose. \r\nNutrition: Energy, protein, carbohydrate, fat, Sodium.",
+        "name": "Lay's Italian Shape Pastazz Chips 37 gm",
+        "nameWithoutSubText": "Lay's Italian Shape Pastazz Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lays-italian-shape-pastazz-chips-37-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47810&q=low&v=1"
+        ],
+        "price": 20.0,
+        "corpPrice": 20.0,
+        "objectID": 17018
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0995\u09bf\u0982 \u09ab\u09cd\u09b0\u09c7\u099e\u09cd\u099a \u09ab\u09cd\u09b0\u09be\u0987 \u09e7\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "King French Fry 15 gm",
+        "nameWithoutSubText": "King French Fry",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/king-french-fry-15-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65829&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 18699
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u09aa\u09bf \u099a\u09bf\u09aa\u09b8 \u0995\u09ae\u09cd\u09ac\u09cb \u09e9 \u099f\u09bf",
+        "longDesc": "Krispy Potato Crackers 20 gm 1 pcs\r\nKrispy Karl 20 gm 1 pcs\r\nAnd Thinos Chips 20 gm 1 pcs\r\n\r\n\t\r\n\t\r\n\t",
+        "name": "Krispy Chips Combo 3 pcs",
+        "nameWithoutSubText": "Krispy Chips Combo",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/krispy-chips-combo-3-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65516&q=best&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 18599
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09ac\u09cb\u09ae\u09cd\u09ac\u09c7 \u09b8\u09c1\u0987\u099f\u09b8 \u0986\u09b2\u09c1\u099c \u09b8\u09cd\u09aa\u09cd\u09af\u09be\u09a8\u09bf\u09b6 \u099f\u09ae\u09c7\u099f\u09cb \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bombay Sweets Alooz Spanish Tomato Flavor 22 gm",
+        "nameWithoutSubText": "Bombay Sweets Alooz Spanish Tomato Flavor",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bombay-sweets-alooz-spanish-tomato-flavor-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47724&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 8106
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b8\u09cd\u09aa\u09be\u0987\u09b8\u09bf \u09aa\u099f\u09c7\u099f\u09cb \u09b8\u09cd\u099f\u09bf\u0995 \u09e7\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Spicy Potato Stick 15 gm",
+        "nameWithoutSubText": "Spicy Potato Stick",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/spicy-potato-stick-15-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50572&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 18694
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0982\u0997\u09c7\u09b2\u09b8 \u09aa\u099f\u09c7\u099f\u09cb \u099a\u09bf\u09aa\u09b8 \u0995\u09ae\u09cd\u09ac\u09cb \u0985\u09ab\u09be\u09b0 \u09e7\u09ea\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\u2022 Pringles brings to you the Red & Green Combo for the Boishakhi Month. \r\n\u2022 The combo contains 1 Pringles Potato Chips Original 147gm & 1 Pringles Potato Chips Sour Cream & Onion 147gm. \r\n\u2022 Unlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can!\r\n\u2022 Experience the Pringles magic today, and also get a 51 taka discount. ",
+        "name": "Pringles Potato Chips Combo Offer 147 gm",
+        "nameWithoutSubText": "Pringles Potato Chips Combo Offer",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-potato-chips-combo-offer-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76706&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-potato-chips-boishakhi-combo-offer?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76708&q=best&v=1",
+            "https://chaldn.com/_mpimage/pringles-potato-chips-boishakhi-combo-offer?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76709&q=best&v=1",
+            "https://chaldn.com/_mpimage/pringles-potato-chips-boishakhi-combo-offer?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76710&q=best&v=1"
+        ],
+        "price": 399.0,
+        "corpPrice": 399.0,
+        "objectID": 24256
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0987\u09ab\u09be\u09a6 \u098f\u0997\u09bf \u09aa\u09bf\u09b2\u0993 \u09ac\u09be\u09b0-\u09ac\u09bf-\u0995\u09bf\u0989 \u099a\u09bf\u09aa\u09b8\u09cd \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Ifad Eggy Pillow Bar-B-Q Chips made from 100% flour. Very crispy, tasty and healthy. ",
+        "name": "Ifad Eggy Pillow Bar-B-Q Chips 20 gm",
+        "nameWithoutSubText": "Ifad Eggy Pillow Bar-B-Q Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ifad-eggy-pillow-bar-b-q-chips-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D19409&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 11125
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0995\u09c1\u09b0\u0995\u09c1\u09b0\u09c7 \u09b8\u09cd\u09aa\u09cd\u09af\u09be\u09a8\u09bf\u09b6 \u099f\u09ae\u09c7\u099f\u09cb \u099f\u09be\u0999\u09cd\u0997\u09cb \u099a\u09bf\u09aa\u09b8 \u09ea\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kurkure Spanish Tomato Tango Chips 45 gm",
+        "nameWithoutSubText": "Kurkure Spanish Tomato Tango Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kurkure-spanish-tomato-tango-chips-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52449&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 20046
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u099a\u09bf\u09aa\u09b8\u09cd \u09ae\u09bf\u0995\u09cd\u09b8 \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09e9\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sun Chips Mix Masala 38 gm",
+        "nameWithoutSubText": "Sun Chips Mix Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sun-chips-mix-masala-38-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54957&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 4376
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b0\u09c1\u099a\u09bf \u09ac\u09bf \u09ac\u09bf \u0995\u09bf\u0989 \u09aa\u099f\u09c7\u099f\u09cb \u0995\u09cd\u09b0\u09cd\u09af\u09be\u0995\u09be\u09b0\u09b8 \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ruchi BBQ Potato Crackers 22 gm",
+        "nameWithoutSubText": "Ruchi BBQ Potato Crackers",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ruchi-bbq-potato-crackers-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65831&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 20361
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0999\u09cd\u0997\u09c7\u09b2\u09b8 \u09b8\u09cb\u09b0 \u0995\u09cd\u09b0\u09bf\u09ae \u0993 \u0985\u09a8\u09bf\u09df\u09a8 \u09aa\u099f\u09c7\u099f\u09cb \u099a\u09bf\u09aa\u09b8 \u09e7\u09ea\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Malaysia\r\n\u2022\tTry our Pringles Sour Cream & Onion Flavour!\r\n\u2022\tUnlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can!\r\n\u2022\tExperience the Pringles magic today!",
+        "name": "Pringles Sour Cream & Onion Potato Chips 147 gm",
+        "nameWithoutSubText": "Pringles Sour Cream & Onion Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-sour-cream-onion-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74251&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-sour-cream-onion-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74252&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-sour-cream-onion-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74253&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-sour-cream-onion-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74254&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 23785
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0982\u09b2\u09c7\u09b8 \u099a\u09bf\u099c\u09bf \u09aa\u09a8\u09bf\u09b0 \u0986\u09b2\u09c1 \u099a\u09bf\u09aa\u09cd\u09b8 \u09ea\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\"\u2022\tTry our Pringles Cheesy Cheese Flavour!\r\n\u2022\tUnlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can!\r\n\u2022\tExperience the Pringles magic today!\"\r\n",
+        "name": "Pringles Cheesy Cheese Potato Chips 42 gm",
+        "nameWithoutSubText": "Pringles Cheesy Cheese Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-cheesy-cheese-potato-chips-42-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76853&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-cheesy-cheese-potato-chips-42-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76854&q=best&v=1",
+            "https://chaldn.com/_mpimage/pringles-cheesy-cheese-potato-chips-42-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76855&q=best&v=1",
+            "https://chaldn.com/_mpimage/pringles-cheesy-cheese-potato-chips-42-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76856&q=best&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 22194
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u099a\u09bf\u09aa\u09b8\u09cd \u09ae\u09bf\u0995\u09cd\u09b8 \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sun Chips Mix Masala 80 gm",
+        "nameWithoutSubText": "Sun Chips Mix Masala",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sun-chips-mix-masala-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54958&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 8499
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0999\u09cd\u0997\u09c7\u09b2\u09b8 \u09b8\u09cb\u09b0 \u0995\u09cd\u09b0\u09bf\u09ae \u0993 \u0985\u09a8\u09bf\u09df\u09a8 \u09aa\u099f\u09c7\u099f\u09cb \u099a\u09bf\u09aa\u09b8 \u09ea\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Malaysia \r\n\u2022\tTry our Pringles Sour Cream & Onion Flavour!\r\n\u2022\tUnlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can!\r\n\u2022\tExperience the Pringles magic today!",
+        "name": "Pringles Sour Cream & Onion Potato Chips 42 gm",
+        "nameWithoutSubText": "Pringles Sour Cream & Onion Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-sour-cream-onion-potato-chips-42-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74244&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-sour-cream-onion-potato-chips-42-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74245&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-sour-cream-onion-potato-chips-42-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74246&q=low&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 23783
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": " \u0995\u09bf\u0982 \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u09aa\u09bf \u098f\u0999\u09cd\u0997\u09c7\u09b2 \u09e7\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "King Crispy Angle 15 gm",
+        "nameWithoutSubText": "King Crispy Angle",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/king-crispy-angle-15-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50578&q=best&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 18700
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0987\u09ab\u09be\u09a6 \u0993\u09df\u09c7\u09ad\u09bf \u099a\u09bf\u09aa\u09b8\u09cd (\u09ac\u09be\u09b0-\u09ac\u09bf-\u0995\u09bf\u0989) \u09e9\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Ifad Wavy Chips (Bar-B-Q) 30 gm",
+        "nameWithoutSubText": "Ifad Wavy Chips (Bar-B-Q)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/ifad-wavy-chips-bar-b-q-30-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D19413&q=low&v=1"
+        ],
+        "price": 15.0,
+        "corpPrice": 15.0,
+        "objectID": 11127
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0999\u09cd\u0997\u09c7\u09b2\u09b8 \u09b8\u09b8\u09bf \u09ac\u09bf\u09ac\u09bf\u0995\u09bf\u0989 \u09aa\u099f\u09c7\u099f\u09cb \u099a\u09bf\u09aa\u09b8 \u09e7\u09ea\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Malaysia\r\n\u2022\tTry our Pringles Saucy BBQ Flavour!\r\n\u2022\tUnlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can!\r\n\u2022\tExperience the Pringles magic today!",
+        "name": "Pringles Saucy BBQ Potato Chips 147 gm ",
+        "nameWithoutSubText": "Pringles Saucy BBQ Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-saucy-bbq-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74256&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-saucy-bbq-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74257&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-saucy-bbq-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74258&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-saucy-bbq-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74259&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 23786
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0999\u09cd\u0997\u09c7\u09b2\u09b8 \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u09aa\u099f\u09c7\u099f\u09cb \u099a\u09bf\u09aa\u09b8 \u09e7\u09ea\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Malaysia\r\n\u2022\tTry our Pringles Original Flavour!\r\n\u2022\tUnlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can!\r\n\u2022\tExperience the Pringles magic today!",
+        "name": "Pringles Original Potato Chips 147 gm",
+        "nameWithoutSubText": "Pringles Original Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-original-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74247&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-original-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74248&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-original-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74249&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-original-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74250&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 23784
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0995\u09c1\u09b0\u0995\u09c1\u09b0\u09c7 \u099a\u09bf\u09b2\u09bf \u099a\u09be\u099f\u0995\u09be \u099a\u09bf\u09aa\u09b8 \u09ef\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kurkure Chilli Chatka Chips 90 gm",
+        "nameWithoutSubText": "Kurkure Chilli Chatka Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kurkure-chilli-chatka-chips-90-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52443&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 20042
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0999\u09cd\u0997\u09c7\u09b2\u09b8 \u09b9\u099f \u0993 \u09b8\u09cd\u09aa\u09be\u0987\u09b8\u09bf \u09aa\u099f\u09c7\u099f\u09cb \u099a\u09bf\u09aa\u09b8 \u09e7\u09ea\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Malaysia\r\n\u2022\tTry our Pringles Hot & Spicy Flavour!\r\n\u2022\tUnlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can!\r\n\u2022\tExperience the Pringles magic today!",
+        "name": "Pringles Hot & Spicy Potato Chips 147 gm",
+        "nameWithoutSubText": "Pringles Hot & Spicy Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-hot-spicy-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74261&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-hot-spicy-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74262&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-hot-spicy-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74263&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-hot-spicy-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74264&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 23787
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0982\u09b2\u09c7\u09b8 \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u09aa\u099f\u09c7\u099f\u09cb \u099a\u09bf\u09aa\u09cd\u09b8 \u09ea\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\"\u2022\tTry our Pringles Original Flavour!\r\n\u2022\tUnlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can!\r\n\u2022\tExperience the Pringles magic today!\"\r\n",
+        "name": "Pringles Original Potato Chips 42 gm",
+        "nameWithoutSubText": "Pringles Original Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-original-potato-chips-42-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76966&q=low&v=1",
+            "https://chaldn.com/_mpimage/pringles-original-potato-chips-42-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76970&q=best&v=1",
+            "https://chaldn.com/_mpimage/pringles-original-potato-chips-42-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76971&q=best&v=1",
+            "https://chaldn.com/_mpimage/pringles-original-potato-chips-42-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76972&q=best&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 22127
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u099a\u09bf\u09aa\u09b8\u09cd \u099f\u09ae\u09c7\u099f\u09cb \u099f\u09cd\u09af\u09be\u0999\u09cd\u0997\u09cb \u09e9\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sun Chips Tomato Tango 38 gm",
+        "nameWithoutSubText": "Sun Chips Tomato Tango",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sun-chips-tomato-tango-38-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54961&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 2477
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0995\u09c1\u09b0\u0995\u09c1\u09b0\u09c7 \u09ae\u09be\u09b8\u09be\u09b2\u09be \u09ae\u09be\u099e\u09cd\u099b \u099a\u09bf\u09aa\u09b8\u09cd \u09ef\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kurkure Masala Manch Chips 90 gm",
+        "nameWithoutSubText": "Kurkure Masala Manch Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kurkure-masala-manch-chips-90-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52444&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 20043
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b2\u09c7\u0987\u09b8 \u09b8\u09c7\u09aa\u09b8 \u09aa\u09be\u09b8\u09cd\u09a4\u09be\u099c \u09ed\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Lay's Shapes Pastazz 75 gm",
+        "nameWithoutSubText": "Lay's Shapes Pastazz",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lays-shapes-pastazz-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74023&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 23694
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0995\u09c1\u09b0\u0995\u09c1\u09b0\u09c7 \u09b8\u09cd\u09aa\u09cd\u09af\u09be\u09a8\u09bf\u09b6 \u099f\u09ae\u09c7\u099f\u09cb \u099f\u09cd\u09af\u09be\u0999\u09cd\u0997\u09cb  \u099a\u09bf\u09aa\u09b8 \u09ef\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kurkure Spanish Tomato Tango Flavor Chips 90 gm",
+        "nameWithoutSubText": "Kurkure Spanish Tomato Tango Flavor Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kurkure-spanish-tomato-tango-flavor-chips-90-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D42281&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 15923
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09ae\u09bf\u09b8\u09cd\u09a4\u09be\u09b0 \u09aa\u099f\u09c7\u099f\u09cb \u09b8\u09be\u0993\u09df\u09be\u09b0 \u0995\u09c7\u0987\u09ae \u098f\u09a8\u09cd\u09a1 \u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u09b8 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mister Potato Sour Cream & Onion Crisps 100 gm",
+        "nameWithoutSubText": "Mister Potato Sour Cream & Onion Crisps",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mister-potato-sour-cream-onion-crisps-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61606&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 21941
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b8\u09be\u09a8 \u099a\u09bf\u09aa\u09b8\u09cd \u099f\u09ae\u09c7\u099f\u09cb \u099f\u09cd\u09af\u09be\u0999\u09cd\u0997\u09cb \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Sun Chips Tomato Tango 80 gm",
+        "nameWithoutSubText": "Sun Chips Tomato Tango",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sun-chips-tomato-tango-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54962&q=low&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 8500
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u0995\u09cb\u0995\u09cb\u09b2\u09be \u0995\u09cb\u0995\u09cb \u0995\u09cd\u09b0\u09be\u099e\u09cd\u099a \u099a\u09bf\u09aa\u09b8 \u09e8\u09e8 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Cocola Koko Krunch Chips 22 gm",
+        "nameWithoutSubText": "Cocola Koko Krunch Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cocola-koko-krunch-chips-22-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D20019&q=low&v=1"
+        ],
+        "price": 10.0,
+        "corpPrice": 10.0,
+        "objectID": 11337
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0999\u09cd\u0997\u09c7\u09b2\u09b8 \u09b8\u09c1\u0987\u099f \u099a\u09bf\u09b2\u09bf \u09aa\u099f\u09c7\u099f\u09cb \u099a\u09bf\u09aa\u09cd\u09b8 \u09e7\u09ea\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\"\u2022\tTry our Pringles Sweet Chilly Flavour!\r\n\u2022\tUnlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can!\r\n\u2022\tExperience the Pringles magic today!\"\r\n",
+        "name": "Pringles Sweet Chilli Potato Chips 147 gm",
+        "nameWithoutSubText": "Pringles Sweet Chilli Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-sweet-chilli-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65399&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 17122
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b2\u09c7\u0987\u09b8 \u09b8\u09cd\u099f\u09cd\u09af\u09be\u0995\u09cd\u09b8 \u09b8\u09be\u0993\u09b0 \u0995\u09cd\u09b0\u09bf\u09ae \u098f\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0985\u09a8\u09bf\u09df\u09a8 \u09e7\u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Lay's Stax Sour Cream and Onion 140 gm",
+        "nameWithoutSubText": "Lay's Stax Sour Cream and Onion",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lays-stax-sour-cream-and-onion-140-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7372&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 5774
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09ae\u09bf\u09b7\u09cd\u099f\u09be\u09b0 \u09aa\u099f\u09c7\u099f\u09cb \u09ac\u09bf \u09ac\u09bf \u0995\u09bf\u0989 \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u09aa\u09b8  \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mister Potato BBQ Crisps  100 gm",
+        "nameWithoutSubText": "Mister Potato BBQ Crisps",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mister-potato-bbq-crisps-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50339&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 18557
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0982\u09b2\u09c7\u09b8 \u099f\u0995 \u0995\u09cd\u09b0\u09bf\u09ae \u098f\u09ac\u0982 \u09aa\u09bf\u09df\u09be\u099c \u0993 \u0986\u09b2\u09c1 \u099a\u09bf\u09aa\u09cd\u09b8 \u09e7\u09ea\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\"\u2022\tTry our Pringles Sour Cream & Onion Flavour!\r\n\u2022\tUnlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can!\r\n\u2022\tExperience the Pringles magic today!\"\r\n",
+        "name": "Pringles Sour Cream & Onion Potato Chips 147 gm",
+        "nameWithoutSubText": "Pringles Sour Cream & Onion Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-sour-cream-onion-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64408&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 22129
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0982\u09b2\u09c7\u09b8 \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u09aa\u099f\u09c7\u099f\u09cb \u099a\u09bf\u09aa\u09cd\u09b8 \u09e7\u09ea\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\"\u2022\tTry our Pringles Original Flavour!\r\n\u2022\tUnlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can!\r\n\u2022\tExperience the Pringles magic today!\"\r\n",
+        "name": "Pringles Original Potato Chips 147 gm",
+        "nameWithoutSubText": "Pringles Original Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-original-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64407&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 22128
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09ae\u09bf\u09b7\u09cd\u099f\u09be\u09b0 \u09aa\u099f\u09c7\u099f\u09cb \u09b9\u099f \u0993 \u09b8\u09aa\u09bf\u09b8\u09bf \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u09aa\u09b8   \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mister Potato Hot & Spicy Crisps  100 gm",
+        "nameWithoutSubText": "Mister Potato Hot & Spicy Crisps",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mister-potato-hot-spicy-crisps-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65824&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 18558
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09ae\u09bf\u09b7\u09cd\u099f\u09be\u09b0 \u09aa\u099f\u09c7\u099f\u09cb \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u09aa\u09b8  \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Mister Potato Orignal Crisps 100 gm",
+        "nameWithoutSubText": "Mister Potato Orignal Crisps",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mister-potato-orignal-crisps-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50338&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 18556
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0999\u09cd\u0997\u09c7\u09b2\u09b8 \u099f\u09ae \u0987\u09df\u09be\u09ae \u09aa\u099f\u09c7\u099f\u09cb  \u099a\u09bf\u09aa\u09cd\u09b8 \u09e7\u09ea\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\u2022Try our Pringles Tom Yum Flavour.\r\n\r\n\u2022Unlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can.\r\n\r\n\u2022Experience the Pringles magic today.\r\n\r\n",
+        "name": "Pringles Tom Yum Potato Chips 147 gm",
+        "nameWithoutSubText": "Pringles Tom Yum Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-tom-yum-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65826&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 17123
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0982\u09b2\u09c7\u09b8 \u09b9\u099f \u0993 \u09b8\u09aa\u09bf\u09b8\u09bf  \u09aa\u099f\u09c7\u099f\u09cb \u099a\u09bf\u09aa\u09b8\u09cd \u09e7\u09ea\u09ed \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\u2022Try our Pringles Hot & Spicy Flavour.\r\n\r\n\u2022Unlike other Potato chips, Pringles crisps are made from a mix of Potato, Rice flour, Corn Flour, and Wheat starch. It is light and crispy and comes in a can.\r\n\r\n\u2022Experience the Pringles magic today.\r\n",
+        "name": "Pringles Hot & Spicy Potato Chips 147 gm",
+        "nameWithoutSubText": "Pringles Hot & Spicy Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-hot-spicy-potato-chips-147-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68809&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 16682
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0982\u09b2\u09c7\u09b8 \u09b8\u09cc\u09b0 \u0995\u09cd\u09b0\u09bf\u09ae \u098f\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0985\u09a8\u09bf\u09df\u09a8 \u099a\u09bf\u09aa\u09b8\u09cd \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pringles Sour Cream & Onion Chips 40 gm",
+        "nameWithoutSubText": "Pringles Sour Cream & Onion Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-sour-cream-onion-chips-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65825&q=low&v=1"
+        ],
+        "price": 109.0,
+        "corpPrice": 109.0,
+        "objectID": 10859
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0982\u09b2\u09c7\u09b8 \u09b9\u09be\u09a8\u09bf \u09ae\u09be\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a1 \u09e7\u09eb\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pringles Honey Mustard 158 gm",
+        "nameWithoutSubText": "Pringles Honey Mustard",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-honey-mustard-158-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D9299&q=low&v=1"
+        ],
+        "price": 259.0,
+        "corpPrice": 259.0,
+        "objectID": 7969
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0982\u09b2\u09c7\u09b8 \u09ac\u09bf\u09ac\u09bf\u0995\u09bf\u0989 \u09aa\u099f\u09c7\u099f\u09cb \u099a\u09bf\u09aa\u09b8\u09cd \u09e7\u09eb\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pringles BBQ Potato Chips 158 gm",
+        "nameWithoutSubText": "Pringles BBQ Potato Chips",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-bbq-potato-chips-158-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58282&q=low&v=1"
+        ],
+        "price": 259.0,
+        "corpPrice": 259.0,
+        "objectID": 3982
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09b2\u09c7\u0987\u09b8 \u09b8\u09cd\u099f\u09cd\u09af\u09be\u0995\u09cd\u09b8 \u09ac\u09be\u09b0\u09ac\u09bf\u0995\u09bf\u0989 \u09e7\u09eb\u09eb \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Lay's Stax Barbecue 155 gm",
+        "nameWithoutSubText": "Lay's Stax Barbecue",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lays-stax-barbecue-155-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D1089&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 2628
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0982\u09b2\u09c7\u09b8 \u09aa\u099f\u09c7\u099f\u09cb \u099a\u09bf\u09aa\u09b8\u09cd \u09aa\u09bf\u099c\u09cd\u099c\u09be \u09ab\u09cd\u09b2\u09c7\u09ad\u09be\u09b0 \u09e7\u09eb\u09ee \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pringles Potato Chips Pizza Flavour 158 gm",
+        "nameWithoutSubText": "Pringles Potato Chips Pizza Flavour",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-potato-chips-pizza-flavour-158-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D21085&q=low&v=1"
+        ],
+        "price": 259.0,
+        "corpPrice": 259.0,
+        "objectID": 2554
+    },
+    {
+        "category": {
+            "name": "Chips & Pretzels",
+            "id": "53",
+            "slug": "chips-pretzels"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09bf\u0982\u09b2\u09c7\u09b8 \u09aa\u099f\u09c7\u099f\u09cb \u099a\u09bf\u09aa\u09b8\u09cd \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u09e7\u09ea\u09ef \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Pringles Potato Chips Original 149 gm",
+        "nameWithoutSubText": "Pringles Potato Chips Original",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pringles-potato-chips-original-149-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D21083&q=low&v=1"
+        ],
+        "price": 229.0,
+        "corpPrice": 229.0,
+        "objectID": 2553
+    }
+]

@@ -1,0 +1,478 @@
+[
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09dc\u0982 \u0985\u09b7\u09cd\u099f\u0997\u09cd\u09b0\u09be\u09ae \u09aa\u09a8\u09bf\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae ",
+        "longDesc": "Origin: Bangladesh\r\nManuacturer: Aarong dairy\r\nAustagram Cheese is a white, salty, semi-hard indigenous cheese. Common salt is an important constituent of this cheese for its role in preservation.\r\nComposition:\r\nCow\u2019s Fresh Milk, Enzyme & Sodium Chloride\r\nNutrition: Protein, Energy, Milk fat, Carbohydrate, Minerals.",
+        "name": "Aarong Austogram Cheese 200 gm",
+        "nameWithoutSubText": "Aarong Austogram Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-austogram-cheese-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47612&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 15543
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09a1\u09bc\u0982 \u09a1\u09c7\u0987\u09b0\u09bf \u09aa\u09a8\u09bf\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Aarong Dairy Paneer 200 gm",
+        "nameWithoutSubText": "Aarong Dairy Paneer",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-dairy-paneer-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65617&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 22272
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u09aa\u09cd\u09b0\u09be\u09a8 \u09a2\u09be\u0995\u09be \u099a\u09bf\u099c \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Pran \r\nProtein enriched, delicious cheese from Dhaka.",
+        "name": "Pran Dhaka Cheese 200 gm",
+        "nameWithoutSubText": "Pran Dhaka Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/pran-dhaka-cheese-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47624&q=low&v=1"
+        ],
+        "price": 160.0,
+        "corpPrice": 160.0,
+        "objectID": 13759
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0997\u09c1\u09a1\u09b2\u09be\u0987\u09ab \u09ae\u09af\u09be\u09b0\u09c7\u09b2\u09be \u09aa\u09a8\u09bf\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Goodlife Mozzarella Cheese 200 gm",
+        "nameWithoutSubText": "Goodlife Mozzarella Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/goodlife-mozzarella-cheese-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47620&q=low&v=1"
+        ],
+        "price": 170.0,
+        "corpPrice": 170.0,
+        "objectID": 13605
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u09ae\u09c7\u09b2\u09ac\u09cb\u09b0\u09cd\u09a8 \u09b8\u09c7\u09a8\u09cd\u09a1\u09c1\u0987\u09b8 \u09b8\u09cd\u09b2\u09be\u0987\u09b8\u09a1 \u09aa\u09a8\u09bf\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae (\u09e7\u09e8 \u099f\u09c1\u0995\u09b0\u09be)",
+        "longDesc": null,
+        "name": "Melbourne Sandwich Sliced Cheese 200 gm (12 slices)",
+        "nameWithoutSubText": "Melbourne Sandwich Sliced Cheese 200 gm (12 slices)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/melbourne-sandwich-sliced-cheese-200-gm-12-slices?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47622&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 10736
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09dc\u0982 \u09a1\u09c7\u0987\u09b0\u09bf \u0995\u09be\u099f\u09be \u09ae\u09cb\u099c\u09b0\u09c7\u09c7\u09b2\u09be \u09aa\u09a8\u09bf\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Aarong dairy\r\nIt\u2019s a delicious cheese that can be used in any meal. It\u2019s Soft and creamy. Melts very easily. It is perfect for topping a pizza, sandwich, pasta and many more.\r\nComposition:\r\nPasteurized cow\u2019s milk, Pasteurized skimmed milk, Iodized Salt, Stabilizer (Calcium Chloride), microbial cultures and microbial rennet.\r\n Nutrition: Protein, Energy, Milk fat, Carbohydrate",
+        "name": "Aarong Dairy Shredded Mozzarella Cheese 200 gm",
+        "nameWithoutSubText": "Aarong Dairy Shredded Mozzarella Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-dairy-shredded-mozzarella-cheese-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71002&q=low&v=1"
+        ],
+        "price": 220.0,
+        "corpPrice": 220.0,
+        "objectID": 15999
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09b2\u09ae\u09be\u09b0\u09be\u0987 \u099f\u09cd\u09b0\u09be\u0987\u0985\u09cd\u09af\u09be\u0999\u09cd\u0997\u09c7\u09b2 \u099a\u09bf\u099c (\u09ee \u099f\u09c1\u0995\u09b0\u09be) \u09e7\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Almarai Triangles Cheese (8 Slices) 120 gm",
+        "nameWithoutSubText": "Almarai Triangles Cheese (8 Slices)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/almarai-triangles-cheese-8-slices-120-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73417&q=low&v=1"
+        ],
+        "price": 219.0,
+        "corpPrice": 219.0,
+        "objectID": 23535
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u0997\u09be\u09b0\u09cd\u09a1\u09c7\u09a8 \u0986\u09b0\u09b2\u09be \u09ac\u09be\u09b0\u09cd\u0997\u09be\u09b0 \u09b8\u09cd\u09b2\u09be\u0987\u09b8 \u099a\u09c7\u09a1\u09be\u09b0 \u09aa\u09a8\u09bf\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Arla Burger Slice Cheddar Cheese 200 gm",
+        "nameWithoutSubText": "Arla Burger Slice Cheddar Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/arla-burger-slice-cheddar-cheese-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60023&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 21457
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u09ae\u09cb\u09af\u09be\u09b0\u09c7\u09b2\u09be \u099a\u09bf\u099c \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nMozzarella cheese is essential in making pizza, white sauce pasta and many more dishes. \r\nIngredients: 100% fresh cow\u2019s milk, salt, non- animal rennet, starter culture.\r\nNutritional facts: Fat, Protein, Carbohydrate, Mineral salt, calcium, Iron, Energy, Vitamin ABDEK.",
+        "name": "Mozzarella Cheese 250 gm",
+        "nameWithoutSubText": "Mozzarella Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mozzarella-cheese-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47623&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 5928
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u09ad\u09c7\u0997\u09be \u0997\u09c1\u09b0\u09ae\u09c7\u099f \u09b8\u09cd\u09b2\u09be\u0987\u09b8\u09c7\u09b8 \u09aa\u09a8\u09bf\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Bega Gourmet Slices Cheese 200 gm",
+        "nameWithoutSubText": "Bega Gourmet Slices Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bega-gourmet-slices-cheese-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70176&q=low&v=1"
+        ],
+        "price": 319.0,
+        "corpPrice": 319.0,
+        "objectID": 10611
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09b2\u09ae\u09be\u09b0\u09be\u0987 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7\u09a1\u09be\u09ac\u09be\u09b2 \u0995\u09cd\u09b0\u09bf\u09ae \u099a\u09bf\u099c \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: UAE \r\nSpreadable  processed cream cheese with vegetable oil. \r\nIngredients: water, palm oil, milk fat, milk solids, mineral salts, salt, stabilizers, preservatives, culture, milk (6% minimum)\r\nNutrition: Calories, Saturated fat, Cholesterol, Sodium, Vitamin A, calcium.",
+        "name": "Almarai Spreadable Cream Cheese 200 gm",
+        "nameWithoutSubText": "Almarai Spreadable Cream Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/almarai-spreadable-cream-cheese-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77737&q=low&v=1"
+        ],
+        "price": 339.0,
+        "corpPrice": 339.0,
+        "objectID": 8920
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u09ab\u09bf\u09b2\u09be\u09a1\u09c7\u09b2\u09ab\u09bf\u09df\u09be \u0995\u09cd\u09b0\u09bf\u09ae \u099a\u09bf\u099c \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Philadelphia cream cheese is soft, mild-testing fresh cheese made from milk and cream and good for make delicious breakfast, dinners and desserts. It contains protein, vitamin including A, D, B-12, C, Iron, magnesium. Your daily needs can be filled with Philadelphia cream cheese. So, collect it now from chaldal. Net weight 250 gm.\r\n",
+        "name": "Philadelphia Cream Cheese 250 gm",
+        "nameWithoutSubText": "Philadelphia Cream Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/philadelphia-cream-cheese-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71135&q=low&v=1"
+        ],
+        "price": 499.0,
+        "corpPrice": 499.0,
+        "objectID": 4595
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u0997\u09be\u09b0\u09cd\u09a1\u09c7\u09a8 \u0986\u09b0\u09b2\u09be \u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u0989\u0987\u099a \u09b8\u09cd\u09b2\u09be\u0987\u09b8 \u09aa\u09a8\u09bf\u09b0 \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: New Zealand \r\nGive your sandwiches a boost \u2013 slide the Arla Sandwiches Slices in for that epic upgrade! Arla Sandwich Slices are a delightful blend of vegetable fat and cheese (24% fat); it is great to use with all types of bread, and is melts wonderfully on toast. Enjoy the richness of protein and calcium in the soft texture of every slice, wrapped conveniently in individual packages. No matter the type of sandwich you choose to make, each slice is a guaranteed cheesy delight. Storage Information: Refrigerate between 2-8\u00b0C.\r\nIngredients:Cheese (49%, water, butter, skimmed milk powder, emulsifying salts (E452, E341), milk protein, salt, acidity regulator (E500), preservative (E200)",
+        "name": "Arla Sandwich Slice Cheese 200 gm\t",
+        "nameWithoutSubText": "Arla Sandwich Slice Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/arla-sandwich-slice-cheese-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60026&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 21458
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09dc\u0982 \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7\u09a1 \u099a\u09bf\u099c \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Aarong dairy\r\nSmooth and creamy cheese with cheesy flavor. One can spread it on bread for quick breakfast or snacks or to add extra taste in any foods.\r\nComposition:\r\nMilk Solids, Cheese, Water, Emulsifiers (INS 452(i), INS 339(iii), INS 331(iii)), Iodised Salt, Stabilizer (INS 412), Preservative(INS 200), Acidity Regulator (INS 270, INS 260).\r\nNutrition: Protein, Energy, Milk fat, Carbohydrate",
+        "name": "Aarong Classic Spread Cheese 180 gm ",
+        "nameWithoutSubText": "Aarong Classic Spread Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-classic-spread-cheese-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47614&q=low&v=1"
+        ],
+        "price": 220.0,
+        "corpPrice": 220.0,
+        "objectID": 15661
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0995\u09bf\u09b8\u09be\u09a8 \u09aa\u09cd\u09b0\u09b8\u09c7\u09b8\u09cd\u09a1 \u099a\u09bf\u099c \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kissan Processed Cheese 200 gm",
+        "nameWithoutSubText": "Kissan Processed Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kissan-processed-cheese-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47621&q=low&v=1"
+        ],
+        "price": 249.0,
+        "corpPrice": 249.0,
+        "objectID": 3148
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09b0\u09b2\u09be \u09a8\u09cd\u09af\u09be\u099a\u09b0\u09be\u09b2 \u0995\u09cd\u09b0\u09bf\u09ae \u099a\u09bf\u099c \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Arla Natural Cream Cheese 150 gm",
+        "nameWithoutSubText": "Arla Natural Cream Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/arla-natural-cream-cheese-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73419&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 23537
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09dc\u0982 \u0997\u09be\u09b0\u09b2\u09bf\u0995 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7\u09a1 \u099a\u09bf\u099c \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae  ",
+        "longDesc": null,
+        "name": "Aarong Garlic Spread Cheese 180 Gm",
+        "nameWithoutSubText": "Aarong Garlic Spread Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-garlic-spread-cheese-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47615&q=low&v=1"
+        ],
+        "price": 230.0,
+        "corpPrice": 230.0,
+        "objectID": 15663
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09dc\u0982 \u09aa\u09bf\u099c\u09be \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7\u09a1 \u099a\u09bf\u099c \u09e7\u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Origin: Bangladesh\r\nManufacturer: Aarong dairy\r\nSmooth and creamy cheese with pizza flavor. One can spread it on bread for quick breakfast or snacks or to add extra taste in any foods.\r\nComposition:\r\nMilk Solids, Water, Cheese,  Emulsifiers (INS 452(i), INS 331(iii), INS 339(iii)), Iodised Salt, , Preservative(INS 200), Acidity Regulator (INS 270, INS 260),Stabilizer (INS 412).\r\nCONTAINS ADDED FLAVOUR (NATURE- IDENTICAL FLAVOURING SUBSTANCES).\r\n\r\nNutrition: Protein, Energy, Milk fat, Carbohydrate",
+        "name": "Aarong Pizza Spread Cheese 180 Gm",
+        "nameWithoutSubText": "Aarong Pizza Spread Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-pizza-spread-cheese-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47617&q=low&v=1"
+        ],
+        "price": 230.0,
+        "corpPrice": 230.0,
+        "objectID": 15662
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09b0\u09b2\u09be \u09b9\u09be\u09b0\u09ac\u09b8 \u0993 \u09b8\u09cd\u09aa\u09be\u0987\u09b8\u09c7\u09b8 \u0995\u09cd\u09b0\u09bf\u09ae \u099a\u09bf\u099c \u09e7\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Arla Herbs & Spices Cream Cheese 150 gm",
+        "nameWithoutSubText": "Arla Herbs & Spices Cream Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/arla-herbs-spices-cream-cheese-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73418&q=low&v=1"
+        ],
+        "price": 239.0,
+        "corpPrice": 239.0,
+        "objectID": 23536
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0995\u09cd\u09b0\u09be\u09ab\u09cd\u099f \u09aa\u09cd\u09b0\u09b8\u09c7\u09b8\u09a1 \u099a\u09c7\u09a6\u09cd\u09a6\u09be\u09b0 \u099a\u09bf\u099c \u099f\u09bf\u09a8 \u09e7\u09ef\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Kraft Processed Cheddar Cheese Tin 190 gm",
+        "nameWithoutSubText": "Kraft Processed Cheddar Cheese Tin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kraft-processed-cheddar-cheese-tin-190-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70175&q=low&v=1"
+        ],
+        "price": 289.0,
+        "corpPrice": 289.0,
+        "objectID": 10865
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09dc\u0982 \u0995\u09cd\u09b2\u09be\u09b8\u09bf\u0995 \u09b8\u09cd\u09b2\u09be\u0987\u09b8 \u099a\u09bf\u099c \u09e8\u09e6\u09ea \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "12 slices",
+        "name": "Aarong Classic Sliced Cheese 204 gm",
+        "nameWithoutSubText": "Aarong Classic Sliced Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aarong-classic-sliced-cheese-204-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47613&q=low&v=1"
+        ],
+        "price": 270.0,
+        "corpPrice": 270.0,
+        "objectID": 15664
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09b2\u09ae\u09be\u09b0\u09be\u0987 \u09ab\u09bf\u099f\u09be \u099a\u09bf\u099c \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Almarai Feta Cheese 400 gm",
+        "nameWithoutSubText": "Almarai Feta Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/almarai-feta-cheese-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73413&q=low&v=1"
+        ],
+        "price": 600.0,
+        "corpPrice": 600.0,
+        "objectID": 23531
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09b2\u09ae\u09be\u09b0\u09be\u0987 \u099a\u09bf\u099c \u09b8\u09cd\u09b2\u09be\u0987\u09b8 \u09ac\u09be\u09b0\u0997\u09be\u09b0 (\u09e7\u09e6 \u099f\u09bf \u099f\u09c1\u0995\u09b0\u09be) \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Almarai Cheese Slices Burger (10 Slices) 200 gm",
+        "nameWithoutSubText": "Almarai Cheese Slices Burger (10 Slices)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/almarai-cheese-slices-burger-10-slices-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73414&q=low&v=1"
+        ],
+        "price": 359.0,
+        "corpPrice": 359.0,
+        "objectID": 23532
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09b2\u09ae\u09be\u09b0\u09be\u0987 \u099a\u09bf\u099c \u09b8\u09cd\u09b2\u09be\u0987\u09b8 \u09b2\u09cb \u09ab\u09cd\u09af\u09be\u099f (\u09e7\u09e6 \u099f\u09c1\u0995\u09b0\u09be) \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Almarai Cheese Slices Low Fat (10 Slices) 200 gm",
+        "nameWithoutSubText": "Almarai Cheese Slices Low Fat (10 Slices)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/almarai-cheese-slices-low-fat-10-slices-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73415&q=low&v=1"
+        ],
+        "price": 380.0,
+        "corpPrice": 380.0,
+        "objectID": 23533
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u0997\u09be\u09b0\u09cd\u09a1\u09c7\u09a8 \u09aa\u09aa\u0995\u09b0\u09cd\u09a8 \u099a\u09bf\u099c \u09e8\u09ed\u09e9 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "American Garden Popcorn Cheese 273 gm",
+        "nameWithoutSubText": "American Garden Popcorn Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/american-garden-popcorn-cheese-273-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60041&q=low&v=1"
+        ],
+        "price": 369.0,
+        "corpPrice": 369.0,
+        "objectID": 21466
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0986\u09b2\u09ae\u09be\u09b0\u09be\u0987 \u09aa\u09cd\u09b0\u09cb\u09b8\u09c7\u09b8\u09cd\u09a1 \u0995\u09cd\u09b0\u09bf\u09ae \u099a\u09bf\u099c \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Order Alamarai Processed Cream cheese and get full calories for your good health. It has the calories like sodium, protein etc. It is a cheesy item to make your food much tastier than before. Net weight 500 gm.\r\n",
+        "name": "Alamarai Processed Cream Cheese 500 gm",
+        "nameWithoutSubText": "Alamarai Processed Cream Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/alamarai-processed-cream-cheese-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45598&q=low&v=1"
+        ],
+        "price": 699.0,
+        "corpPrice": 699.0,
+        "objectID": 13778
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u0995\u09cb\u09df\u09be\u09b2\u09bf\u099f\u09bf \u09ae\u09cb\u09af\u09be\u09b0\u09c7\u09b2\u09be \u099a\u09bf\u099c \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Quality Mozzarella Cheese 1 kg",
+        "nameWithoutSubText": "Quality Mozzarella Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/quality-mozzarella-cheese-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70177&q=low&v=1"
+        ],
+        "price": 870.0,
+        "corpPrice": 870.0,
+        "objectID": 10237
+    },
+    {
+        "category": {
+            "name": "Cheese",
+            "id": "60",
+            "slug": "cheese-2"
+        },
+        "bengaliName": "\u099c\u09be\u09b0\u09cd\u09ae\u09be\u09a8 \u09b9\u09cb\u09df\u09be\u0987\u099f \u0995\u09ae\u09cd\u09ac\u09bf \u09aa\u09a8\u09bf\u09b0 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "German White Combi Cheese 500 gm",
+        "nameWithoutSubText": "German White Combi Cheese",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/german-white-combi-cheese-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18449&q=low&v=1"
+        ],
+        "price": 595.0,
+        "corpPrice": 595.0,
+        "objectID": 6740
+    }
+]

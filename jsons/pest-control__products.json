@@ -1,0 +1,961 @@
+[
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09ac\u09be\u0993\u09ae\u09be \u09ae\u09b6\u09be\u09b0 \u0995\u09df\u09c7\u09b2 \u09e7\u09e6 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Baoma Mosquito Coil 10 pcs",
+        "nameWithoutSubText": "Baoma Mosquito Coil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/baoma-mosquito-coil-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49785&q=low&v=1"
+        ],
+        "price": 72.0,
+        "corpPrice": 72.0,
+        "objectID": 14344
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u09a8\u09bf\u0989 \u09b9\u09bf\u099f \u09a4\u09c7\u09b2\u09be\u09aa\u09cb\u0995\u09be \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Most of us, who use regular solution (boric powder, chalk) to get rid of the cockroaches, often complain that it is impossible to kill the cockroaches, which are hidden in difficult corners and cervices of the kitchen/bathroom. Therefore we simply ignore them. For eliminate the menace caused by cockroaches, Red HIT, with its unique formulation and nozzle design, flushes out the cockroaches & kills them. Red HIT has a special Seek 'n' Kill Applicator which delivers the spray to even the remotest cracks and crevices where cockroaches hide. With Red HIT, No cockroaches for 6 weeks.\r\n\r\n* Lal HIT Instantly Kills disease spreading cockroaches\r\n*Its unique \u2018Seek and Kill\u2019 applicator/nozzle guides the spray into places where cockroaches are hiding\r\n* Spray inside the kitchen sink outlet, wash basin outlet, cracks and corners of the kitchen\r\n* Just spray for 3 sec in each location and see all the hidden cockroaches dead\r\n",
+        "name": "Godrej New Hit Cockroaches Spray 400 ml",
+        "nameWithoutSubText": "Godrej New Hit Cockroaches Spray",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-new-hit-cockroaches-spray-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49831&q=low&v=1"
+        ],
+        "price": 290.0,
+        "corpPrice": 290.0,
+        "objectID": 11034
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u098f\u09b0\u09cb\u09b8\u09b2 \u09aa\u09cb\u0995\u09be \u09a8\u09bf\u09a7\u09a8\u0995\u09be\u09b0\u09c0 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09ee\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "ACI Aerosol Insect Spray Jumbo 800 ml",
+        "nameWithoutSubText": "ACI Aerosol Insect Spray Jumbo",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-aerosol-insect-spray-jumbo-800-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70353&q=low&v=1"
+        ],
+        "price": 450.0,
+        "corpPrice": 450.0,
+        "objectID": 2559
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u09aa\u09be\u0993\u09df\u09be\u09b0 \u098f\u0995\u099f\u09bf\u09ad + \u0995\u09be\u09b0\u099f\u09bf\u099c \u09ea\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Godrej Good Knight Power Activ + Cartridge 45 ml",
+        "nameWithoutSubText": "Godrej Good Knight Power Activ + Cartridge",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-good-knight-power-activ-cartridge-45-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49823&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 12302
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u098f\u0995\u09cd\u09b8\u099f\u09cd\u09b0\u09bf\u09ae \u09ae\u09b6\u09be\u09b0 \u0995\u09df\u09c7\u09b2 \u09e7\u09e6 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Xtreme Mosquito Coil 10 pcs",
+        "nameWithoutSubText": "Xtreme Mosquito Coil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/xtreme-mosquito-coil-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D73893&q=low&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 23665
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09b8\u09c1\u09aa\u09be\u09b0 \u0985\u09cd\u09af\u09be\u0995\u09b6\u09a8 \u09ac\u09c1\u09b8\u09cd\u099f\u09be\u09b0 \u09ae\u09b6\u09be \u0995\u09af\u09bc\u09c7\u09b2 \u09e7\u09e6 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Super Action Booster Mosquito Coil 10 pcs",
+        "nameWithoutSubText": "Super Action Booster Mosquito Coil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/super-action-booster-mosquito-coil-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53268&q=low&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 20343
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u098f\u09b8\u09bf\u0986\u0987 \u098f\u09b0\u09cb\u09b8\u09b2 \u09aa\u09cb\u0995\u09be \u09a8\u09bf\u09a7\u09a8\u0995\u09be\u09b0\u09c0 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09ea\u09ed\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Bangladesh\r\nManufacturing: ACI Limited\r\nACI aerosol insect spray kills mosquitoes that may carry dengue, malaria and chikungunya. \r\nIngredients: 0.20% w/w prallethrin, 0.15% w/w D-Phenothrin",
+        "name": "ACI Aerosol Insect Spray 475 ml",
+        "nameWithoutSubText": "ACI Aerosol Insect Spray",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-aerosol-insect-spray-475-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77443&q=low&v=1"
+        ],
+        "price": 320.0,
+        "corpPrice": 320.0,
+        "objectID": 2116
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09ae\u09c7\u09a1\u09bf\u0995\u09be\u09b0 \u09b8\u09c7\u09ab\u09b2\u09be\u0987\u09ab \u09b8\u09ac\u099c\u09bf \u0993\u09af\u09bc\u09be\u09b6 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Fruits and vegetables are extremely important for a healthy diet and contain nutritional values. However, before reaching the end consumers it comes in contact with many hands and hence may get contaminated with germs, bacteria, pesticide and harmful chemicals which do not go away by washing with water alone. Hence Marico Bangladesh Limited has come with the solution of Mediker SafeLife Veggie Wash\r\n\r\n\u2022 Mediker SafeLife Veggie Wash is an International expert in protection\r\n\u2022 100% Safe Ingredients\r\n\u2022 Made with Halal Ingredients\r\n\u2022 Removes harmful germs, bacteria , pesticides and wax\r\n\u2022 No residue after taste or smell\r\n\r\n\r\nHow to use\r\n1. Pour 2 capful of the solution in 2 litres of water\r\n2. Soak the fruits and vegetables well in the water for 5 minutes.\r\n3. Rub the fruits and vegetables individually.\r\n4. Rinse well for at least 30 seconds in running water.",
+        "name": "Mediker SafeLife Veggie Wash  250 ml",
+        "nameWithoutSubText": "Mediker SafeLife Veggie Wash",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mediker-safelife-veggie-wash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68523&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 21601
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09a8\u09c7\u09aa\u09a5\u09be\u09b2\u09bf\u09a8 \u09ac\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Usage :\r\nNaphthalene is used when storing clothing and other things for protect damage from insects. It's also work as a deodorant.\r\nSource : M/S Abdul Kader General Store\r\nManufacturer : Factory\r\nOrigin : Bangladesh",
+        "name": "Naphthalene Ball 500 gm",
+        "nameWithoutSubText": "Naphthalene Ball",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/naphthalene-ball-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68529&q=low&v=1"
+        ],
+        "price": 139.0,
+        "corpPrice": 139.0,
+        "objectID": 4374
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u09a8\u09a4\u09c1\u09a8 \u09b9\u09bf\u099f \u098f\u09cd\u09af\u09be \u09b0\u09cb\u099a \u099c\u09c7\u09b2 \u09ea\u09eb \u09a6\u09bf\u09a8 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Godrej New Hit Anti Roach Gel 45 Days 1 pcs",
+        "nameWithoutSubText": "Godrej New Hit Anti Roach Gel 45 Days",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-new-hit-anti-roach-gel-45-days-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49830&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 7902
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u098f\u09b2\u09bf\u09ab\u09cd\u09af\u09be\u09a8\u09cd\u099f \u0995\u09bf\u0982 \u099c\u09be\u09ae\u09cd\u09ac\u09cb \u09ad\u09be\u09af\u09bc\u09cb\u09b2\u09c7\u099f \u09ae\u09b6\u09be\u09b0 \u0995\u09af\u09bc\u09c7\u09b2 \u09e7\u09e6 \u09aa\u09bf\u09b8\u09bf",
+        "longDesc": null,
+        "name": "Elephant King Jumbo Violet Mosquito Coil 10 pcs",
+        "nameWithoutSubText": "Elephant King Jumbo Violet Mosquito Coil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/elephant-king-jumbo-violet-mosquito-coil-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47800&q=best&v=1"
+        ],
+        "price": 50.0,
+        "corpPrice": 50.0,
+        "objectID": 16922
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09ab\u09bf\u09a8\u09bf\u09b6 \u09aa\u09cb\u0995\u09be \u09ae\u09be\u0995\u09dc \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09ee\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Finis Insect Powder 80 gm",
+        "nameWithoutSubText": "Finis Insect Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/finis-insect-powder-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70354&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 10519
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u098f\u0995\u09cd\u09b8\u09aa\u09cd\u09b0\u09c7\u09b8 \u09b8\u09bf\u09b8\u09cd\u099f\u09c7\u09ae \u09b2\u09bf\u0995\u09c1\u0987\u09a1 \u09ad\u09cd\u09af\u09be\u09aa\u09cb\u09b0\u09be\u0987\u099c\u09be\u09b0 \u09e9\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "A mosquito's irritating bites can ruin almost any occasion. It\u2019s not just about the nuisance they cause; mosquitoes are also carriers of some of the most deadly diseases! Hence, getting rid of them should be a priority. Protect your families happy moments with the most innovative mosquito repellents from the house of Good knight. We bring to you the safest and the most technologically superior products to protect your family and loved ones.\r\n",
+        "name": "Godrej Good Knight Xpress System Liquid Vapouriser 35 ml",
+        "nameWithoutSubText": "Godrej Good Knight Xpress System Liquid Vapouriser",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-good-knight-xpress-system-liquid-vapouriser-35-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40787&q=low&v=1"
+        ],
+        "price": 135.0,
+        "corpPrice": 135.0,
+        "objectID": 11483
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u098f \u09b8\u09bf \u0986\u0987 \u098f\u09b0\u09cb\u09b8\u09b2 \u09aa\u09cb\u0995\u09be \u09a8\u09bf\u09a7\u09a8\u0995\u09be\u09b0\u09c0 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "ACI Aerosol Insect Spray 250 ml",
+        "nameWithoutSubText": "ACI Aerosol Insect Spray",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/aci-aerosol-insect-spray-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22660&q=low&v=1"
+        ],
+        "price": 185.0,
+        "corpPrice": 185.0,
+        "objectID": 8063
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09ab\u09bf\u09a8\u09bf\u09b6 \u09aa\u09cb\u0995\u09be \u09ae\u09be\u0995\u09dc \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Finis Insect Powder 100 gm",
+        "nameWithoutSubText": "Finis Insect Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/finis-insect-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70356&q=low&v=1"
+        ],
+        "price": 40.0,
+        "corpPrice": 40.0,
+        "objectID": 9196
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u09ab\u09c7\u09ac\u09cd\u09b0\u09bf\u0995 \u09b0\u09cb\u09b2 \u0985\u09a8 \u09b8\u09be\u0987\u099f\u09cd\u09b0\u09be\u09b8 (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Godrej Good Knight Fabric Roll On Citrus (B1 G1 Free) 8 ml",
+        "nameWithoutSubText": "Godrej Good Knight Fabric Roll On Citrus (B1 G1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-good-knight-fabric-roll-on-citrus-b1-g1-free-8-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75477&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 24116
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0985\u09a1\u09cb\u09ae\u09b8 \u0995\u09cd\u09b0\u09bf\u09ae \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\"Odomos is a clinically proven brand of mosquito repellent that offers the most effective protection from mosquitoes, the carriers of deadly viruses that cause diseases like Dengue, Chikungunya, Malaria, Filarial and Encephalitis etc. Independent institutes have clinically tested and certified Odomos to be one of the best protector against mosquito bites for up to 8 hours.\r\nContrary to popular perception, mosquito borne diseases like Dengue and Chikungunya are spread by daytime mosquitoes. Children, when they venture out to play in gardens or even while in school, are at risk of being bitten by these mosquitoes. Sticking mosquito repellent patches on clothes or using Odomos mosquito repellent wristband can give your kids protection from mosquitoes. Even people in offices are at risk of falling sick after being bitten by these mosquitoes. Odomos is the only personal application product that offers users complete protection from daytime mosquitoes that spread such life-threatening diseases.\r\nHow Odomos Mosquito Repellent Works:\r\nUnlike most mosquito repellents, Odomos does not contain deadly chemicals which kills or knocks down mosquitoes. Mosquitoes detect you by the odours that your body emits. New advanced Odomos uses a formula which masks the distinctive body odour that human skin emits making you virtually invisible to mosquitoes. Odomos offers 100% protection against mosquito bites.\r\nAlso, conventional mosquito repellents -- like liquid vaporizers, mats and coils -- offer protection when one is in the closed confines of a room, whereas the Odomos personal application range offers protection not only inside the house but also when one is outdoors where the chances of getting bitten by disease-causing mosquitoes is very high. By just applying mosquito repellent fabric roll on you can easily protect yourself from mosquito bites.\r\nSafety:\r\nOdomos is one of the best mosquito repellent endorsed by the NATIONAL INTEGRATED MEDICAL ASSOCIATION (NIMA). Since Odomos does not contain deadly chemicals which kills or knocks down mosquitoes, it is one of the safest mosquito repellants available.\r\nOdomos has been certified by reputed institutes on its efficacy & safety for usage. Odomos is certified as safe to use by leading authorities in India while being highly effective against mosquitoes. Odomos Mosquito Repellent Cream has also been tested to be safe even for babies\"\t\t\t\t\t\t\t\t\t\r\n",
+        "name": "Odomos Mosquito Repellent Cream 100 gm",
+        "nameWithoutSubText": "Odomos Mosquito Repellent Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/odomos-mosquito-repellent-cream-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64623&q=low&v=1",
+            "https://chaldn.com/_mpimage/odomos-mosquito-repellent-cream-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46803&q=low&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 14807
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u09ab\u09c7\u09ac\u09cd\u09b0\u09bf\u0995 \u09b0\u09cb\u09b2 \u0985\u09a8 \u09ac\u09be\u09ac\u09b2 \u0997\u09be\u09ae (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) \u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Good Knight Fabric Roll On Bubble Gum (B 1 G 1 Free) 8 ml",
+        "nameWithoutSubText": "Good Knight Fabric Roll On Bubble Gum (B 1 G 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/good-knight-fabric-roll-on-bubble-gum-b-1-g-1-free-8-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75479&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 24117
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09ab\u09bf\u09a8\u09bf\u09b6 \u099c\u09be\u09ae\u09cd\u09ac\u09c1 \u09ae\u09b6\u09be \u0995\u09af\u09bc\u09c7\u09b2 \u09e7\u09e6 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Finis Jumboo Mosquito Coil 10 pcs",
+        "nameWithoutSubText": "Finis Jumboo Mosquito Coil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/finis-jumboo-mosquito-coil-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52545&q=best&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 19942
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u09aa\u09be\u0993\u09df\u09be\u09b0 \u098f\u09cd\u09af\u09be\u0995\u099f\u09bf\u09ad \u09ae\u09c7\u09b6\u09bf\u09a8 \u0993 \u09b0\u09bf\u09ab\u09bf\u09b2",
+        "longDesc": "Meet GoodKnight Power Activ+, which is better known as \"Push\r\nKaro, Khush Thako\". We all know that Bangladesh is so varied that\r\neven the mosquito wars we fight are different every time;\r\nsometimes heavy, sometimes light. We noticed that ordinary liquid\r\nvaporizers were just not enough; you needed something special.\r\nThe GoodKnight Power Activ has the powerful Activ+ mode that\r\nprovides double the power and double the effectiveness. So if\r\nthere are way too many mosquitoes troubling you, all you have to\r\ndo is push the switch up to the activ+ mode, the light goes orange\r\nand the mosquitoes disappear. Once the mosquitoes are gone you\r\ncan push the button down to the normal mode, the light turns\r\ngreen and you can carry on with happy times.\r\n\r\nFeature\r\n\r\nSuperior heating system: ensures a low electricity consumption\r\nand a consistent release of the Activ+\r\n\r\nDual mode advantage: use normal mode when there are few\r\nmosquitos and Activ+ mode when there are too many\r\nmosquitos\r\n\r\nActiv+ Refill: The Activ+ refill has a high caliber porous wick\r\nwith consistent flow",
+        "name": "Godrej Good Knight Power Active Machine + Refill",
+        "nameWithoutSubText": "Godrej Good Knight Power Active Machine + Refill",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-good-knight-power-active-machine-refill?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49824&q=low&v=1",
+            "https://chaldn.com/_mpimage/godrej-good-knight-power-active-dual-power-machine-refill?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D43403&q=best&v=1"
+        ],
+        "price": 130.0,
+        "corpPrice": 130.0,
+        "objectID": 11480
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09ab\u09bf\u09a8\u09bf\u09b6 \u09aa\u09cb\u0995\u09be \u09ae\u09be\u0995\u09dc \u09aa\u09be\u0989\u09a1\u09be\u09b0 \u09ea\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Finis Insect Powder 40 gm",
+        "nameWithoutSubText": "Finis Insect Powder",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/finis-insect-powder-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70360&q=low&v=1"
+        ],
+        "price": 30.0,
+        "corpPrice": 30.0,
+        "objectID": 10599
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09b9\u09bf\u099f \u09b2\u09be\u0987\u09ae \u0985\u09cd\u09af\u09be\u09b0\u09cb\u09b8\u09b2 \u09ae\u09b8\u0995\u09bf\u099f\u09cb (\u09ab\u09cd\u09b0\u09c0 \u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u09ab\u09c7\u09ac\u09cd\u09b0\u09bf\u0995 \u09b0\u09cb\u09b2 \u0985\u09a8) \u09ec\u09e8\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Hit Lime Aerosol Mosquito (Free GK Fabric Roll On) 625 ml",
+        "nameWithoutSubText": "Hit Lime Aerosol Mosquito (Free GK Fabric Roll On)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hit-lime-aerosol-mosquito-free-gk-fabric-roll-on-625-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75389&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 24098
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09aa\u09c2\u09b0\u09cd\u09a3\u09be\u09ad\u09be \u09ae\u09b6\u09be \u09a8\u09bf\u09b0\u09cb\u09a7\u0995 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09ab\u09cd\u09b0\u09c0) 75 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Purnava Mosquito Repellent Spray (Buy 1 Get 1 Free) 75 ml",
+        "nameWithoutSubText": "Purnava Mosquito Repellent Spray (Buy 1 Get 1 Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/purnava-mosquito-repellent-spray-buy-1-get-1-free-75-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75385&q=low&v=1"
+        ],
+        "price": 175.0,
+        "corpPrice": 175.0,
+        "objectID": 24096
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09b9\u09bf\u099f \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf \u09ae\u09b8\u09cd\u0995\u09bf\u0989\u099f\u09cb \u09b0\u200d\u09cd\u09af\u09be\u0995\u09c7\u099f \u09e7 \u09aa\u09bf\u09b8 ",
+        "longDesc": "Dangerous mosquitoes that spread diseases like Dengue, Chikungunya, Malaria etc hide in dark corners of your home. To keep you and your family protected, use the HIT Anti Mosquito Racquet for instant kill of mosquitoes.\r\n\r\n\r\nMade from aircraft grade ABS plastic for strength and long life\r\n\r\n\r\nHigher net area for better coverage. Unique shape to reach corners effectively\r\n\r\n\r\n\r\n3,500V DC voltage on the net mesh kills mosquitoes instantly\r\n\r\n\r\n\r\n400mAh battery lasts up to 1 month on one full charge and is rechargeable up to 200 times\r\n\r\nSuper bright LED light to kill mosquitoes in the dark\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+        "name": "Hit Anti Mosquito Racquet 1 Pcs",
+        "nameWithoutSubText": "Hit Anti Mosquito Racquet",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hit-anti-mosquito-racquet-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74644&q=low&v=1"
+        ],
+        "price": 550.0,
+        "corpPrice": 550.0,
+        "objectID": 23905
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u09ae\u09b8\u0995\u09c1\u0987\u099f\u09cb \u09ab\u09be\u09ac\u09cd\u09b0\u09bf\u0995 \u09b0\u09cb\u09b2 \u0985\u09a8 \u09ee \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": ">New innovative mosquito personal repellent. \r\n>Net content: 8ml\r\n>100% natural ingredients. Each bottle consists of pure citronella and eucalyptus oil.\r\n>Just apply 4 dots of the non-staining formula on clothes for complete outdoor protection\r\n>Protects from all kind of mosquitoes for 8 hours including those spreading dengue, malaria and chikungunya\r\n>Safe for children, For babies under 2 years of age apply on their prams, cots and strollers\r\n  ",
+        "name": "Godrej Good Knight Mosquito Fabric Roll On 8 ml",
+        "nameWithoutSubText": "Godrej Good Knight Mosquito Fabric Roll On",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-good-knight-mosquito-fabric-roll-on-8-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49820&q=low&v=1",
+            "https://chaldn.com/_mpimage/godrej-good-knight-mosquito-fabric-roll-on-8-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46522&q=low&v=1",
+            "https://chaldn.com/_mpimage/godrej-good-knight-mosquito-fabric-roll-on-8-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46523&q=low&v=1",
+            "https://chaldn.com/_mpimage/godrej-good-knight-mosquito-fabric-roll-on-8-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46524&q=low&v=1",
+            "https://chaldn.com/_mpimage/godrej-good-knight-mosquito-fabric-roll-on-8-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46525&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 16658
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0985\u09a1\u09cb\u09ae\u09b8 \u0995\u09cd\u09b0\u09bf\u09ae \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\r\n\"Odomos is a clinically proven brand of mosquito repellent that offers the most effective protection from mosquitoes, the carriers of deadly viruses that cause diseases like Dengue, Chikungunya, Malaria, Filarial and Encephalitis etc. Independent institutes have clinically tested and certified Odomos to be one of the best protector against mosquito bites for up to 8 hours.\r\nContrary to popular perception, mosquito borne diseases like Dengue and Chikungunya are spread by daytime mosquitoes. Children, when they venture out to play in gardens or even while in school, are at risk of being bitten by these mosquitoes. Sticking mosquito repellent patches on clothes or using Odomos mosquito repellent wristband can give your kids protection from mosquitoes. Even people in offices are at risk of falling sick after being bitten by these mosquitoes. Odomos is the only personal application product that offers users complete protection from daytime mosquitoes that spread such life-threatening diseases.\r\nHow Odomos Mosquito Repellent Works:\r\nUnlike most mosquito repellents, Odomos does not contain deadly chemicals which kills or knocks down mosquitoes. Mosquitoes detect you by the odours that your body emits. New advanced Odomos uses a formula which masks the distinctive body odour that human skin emits making you virtually invisible to mosquitoes. Odomos offers 100% protection against mosquito bites.\r\nAlso, conventional mosquito repellents -- like liquid vaporizers, mats and coils -- offer protection when one is in the closed confines of a room, whereas the Odomos personal application range offers protection not only inside the house but also when one is outdoors where the chances of getting bitten by disease-causing mosquitoes is very high. By just applying mosquito repellent fabric roll on you can easily protect yourself from mosquito bites.\r\nSafety:\r\nOdomos is one of the best mosquito repellent endorsed by the NATIONAL INTEGRATED MEDICAL ASSOCIATION (NIMA). Since Odomos does not contain deadly chemicals which kills or knocks down mosquitoes, it is one of the safest mosquito repellants available.\r\nOdomos has been certified by reputed institutes on its efficacy & safety for usage. Odomos is certified as safe to use by leading authorities in India while being highly effective against mosquitoes. Odomos Mosquito Repellent Cream has also been tested to be safe even for babies\"\t\t\t\t\t\t\t\t\t\r\n",
+        "name": "Odomos Mosquito Repellent Cream 50 gm",
+        "nameWithoutSubText": "Odomos Mosquito Repellent Cream",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/odomos-mosquito-repellent-cream-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64622&q=low&v=1",
+            "https://chaldn.com/_mpimage/odomos-mosquito-repellent-cream-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46805&q=low&v=1"
+        ],
+        "price": 80.0,
+        "corpPrice": 80.0,
+        "objectID": 16674
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09ab\u09bf\u09a8\u09bf\u09b6 \u0987\u09a6\u09c1\u09b0 \u09ae\u09be\u09b0\u09be\u09b0 \u0994\u09b7\u09a7 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Finis Rat Killer 50 gm",
+        "nameWithoutSubText": "Finis Rat Killer",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/finis-rat-killer-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49817&q=low&v=1"
+        ],
+        "price": 20.0,
+        "corpPrice": 20.0,
+        "objectID": 10672
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u098f\u0995\u09cd\u09b8\u09aa\u09c7\u09b2 \u098f\u09b0\u09cb\u09b8\u09b2 \u09ea\u09ed\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Xpel Aerosol 475 ml ",
+        "nameWithoutSubText": "Xpel Aerosol",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/xpel-aerosol-475-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49840&q=low&v=1"
+        ],
+        "price": 305.0,
+        "corpPrice": 305.0,
+        "objectID": 2523
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u09b9\u09bf\u099f \u09b2\u09be\u0987\u09ae \u09ae\u09b6\u09be \u0993 \u09ae\u09be\u099b\u09bf\u09b0 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "The new HIT Lime spray/aerosol is a mosquito killing spray with the fragrance of lime flower. It instantly kills mosquito's and dangerous houseflies by reaching even the deepest corners of your house. Spray daily in all corners like below the bed, behind the curtain, below the sofa, in the toilet/bathroom, etc.\r\n\r\n\r\n*Power of HIT with lime flower fragrance\r\n*Instantly kills dangerous mosquitoes and houseflies\r\n*Reaches even the deepest corners of your house and kills every hidden mosquito\r\n*Spray daily in all corners like below the bed, behind the curtain, below the sofa, in the toilet or bathroom, etc.\r\n",
+        "name": "Godrej Hit Lime Mosquitoes & Flies Spray 400 ml",
+        "nameWithoutSubText": "Godrej Hit Lime Mosquitoes & Flies Spray",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-hit-lime-mosquitoes-flies-spray-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49829&q=low&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 13026
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u0997\u09c1\u09a1\u09a8\u09be\u0987\u099f \u0985\u09cd\u09af\u09be\u09a1\u09ad\u09be\u09a8\u09cd\u09b8\u09a1 \u098f\u0995\u09cd\u09b8\u09aa\u09cd\u09b0\u09c7\u09b8 \u0995\u09df\u09c7\u09b2 \u09e7\u09e6 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Godrej Good Knight Advanced Xpress Coil 10 pcs",
+        "nameWithoutSubText": "Godrej Good Knight Advanced Xpress Coil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-good-knight-advanced-xpress-coil-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49819&q=low&v=1"
+        ],
+        "price": 60.0,
+        "corpPrice": 60.0,
+        "objectID": 13343
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u09b9\u09bf\u099f \u09ac\u09be\u09a8\u09cd\u09a1\u09c7\u09b2 \u0985\u09ab\u09be\u09b0",
+        "longDesc": "Godrej Hit Lime Mosquitoes & Flies Spray 400 ml\r\n\r\nGodrej New Hit Cockroaches Spray\r\n400 ml",
+        "name": "Godrej Hit Bundle Offer ",
+        "nameWithoutSubText": "Godrej Hit Bundle Offer ",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-hit-bundle-offer?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49828&q=low&v=1"
+        ],
+        "price": 510.0,
+        "corpPrice": 510.0,
+        "objectID": 15312
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09a1\u09b0\u09c7\u099c \u09b9\u09bf\u099f \u09ae\u09b8\u0995\u09bf\u099f\u09cb \u0985\u09cd\u09af\u09be\u09b0\u09cb\u09b8\u09b2 \u09ec\u09e8\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Godrej Hit Mosquito Aerosol 625 ml ",
+        "nameWithoutSubText": "Godrej Hit Mosquito Aerosol",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-hit-mosquito-aerosol-625-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71828&q=low&v=1"
+        ],
+        "price": 375.0,
+        "corpPrice": 375.0,
+        "objectID": 23334
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09ab\u09bf\u09a8\u09bf\u09b6 \u09aa\u09be\u0993\u09af\u09bc\u09be\u09b0 \u09b9\u09bf\u099f \u09ae\u09b6\u09be\u09b0\u09bf \u0995\u09af\u09bc\u09c7\u09b2 \u09e7\u09e6 \u09aa\u09bf\u09b8\u09bf",
+        "longDesc": null,
+        "name": "Finis Power Hit Mosquito Coil 10 pcs",
+        "nameWithoutSubText": "Finis Power Hit Mosquito Coil",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/finis-power-hit-mosquito-coil-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52373&q=best&v=1"
+        ],
+        "price": 100.0,
+        "corpPrice": 100.0,
+        "objectID": 19944
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09a1. \u09b0\u09be\u099c\u09c7\u09b8 \u09ae\u09b6\u09be \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 (\u09ab\u09cd\u09b0\u09c0 \u0986\u09b2\u09cd\u099f\u09cd\u09b0\u09be \u09aa\u09cd\u09b0\u099f\u09c7\u0995\u09cd\u099f \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7) \u09ed\u09e9 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Dr Rhazes Mosquito Spray (Free Ultra Protect Spray) 73 gm",
+        "nameWithoutSubText": "Dr Rhazes Mosquito Spray (Free Ultra Protect Spray)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dr-rhazes-mosquito-spray-free-ultra-protect-spray-73-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80801&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 24850
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u09aa\u09be\u0993\u09af\u09bc\u09be\u09b0 \u0985\u09cd\u09af\u09be\u0995\u09cd\u099f\u09bf\u09ad \u09ae\u09c7\u09b6\u09bf\u09a8+\u09ea\u09eb \u09ae\u09bf\u09b2\u09bf \u0995\u09ae\u09cd\u09ac\u09cb (\u09ab\u09cd\u09b0\u09bf \u09ea\u09eb \u09ae\u09bf\u09b2\u09bf)",
+        "longDesc": "Free Good Knight Advance Refill 45 ml\r\n",
+        "name": "Good Knight Power Active Machine + Refill 45 ml Combo (Free 45 ml)",
+        "nameWithoutSubText": "Good Knight Power Active Machine + Refill 45 ml Combo (Free 45 ml)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/good-knight-power-active-machine-refill-45-ml-combo-free-45-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80683&q=low&v=1"
+        ],
+        "price": 229.0,
+        "corpPrice": 229.0,
+        "objectID": 24840
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09b9\u09bf\u099f \u09ae\u09b8\u0995\u09bf\u0989\u099f\u09cb \u0985\u09cd\u09af\u09be\u09b0\u09cb\u09b8\u09b2 \u09ee\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf (\u09ab\u09cd\u09b0\u09bf \u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u09ea\u09eb \u09ae\u09bf\u09b2\u09bf)",
+        "longDesc": "Free Good Knight Advance Refill 45 ml",
+        "name": "Hit Aerosol Mosquito 800 ml Buy 1 (Get Free Good Knight)",
+        "nameWithoutSubText": "Hit Aerosol Mosquito 800 ml Buy 1 (Get Free Good Knight)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hit-aerosol-mosquito-800-ml-buy-1-get-free-good-knight?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80681&q=low&v=1"
+        ],
+        "price": 445.0,
+        "corpPrice": 445.0,
+        "objectID": 24838
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09b9\u09bf\u099f \u0985\u09cd\u09af\u09be\u09b0\u09cb\u09b8\u09b2 \u09ae\u09b8\u0995\u09bf\u099f\u09cb \u09b2\u09be\u0987\u09ae (\u09ab\u09cd\u09b0\u09c0 \u09ab\u09c7\u09ac\u09cd\u09b0\u09bf\u0995 \u09b0\u09cb\u09b2 \u0985\u09a8) \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Hit Aerosol Mosquito Lime (Free Fabric Roll On) 400 ml",
+        "nameWithoutSubText": "Hit Aerosol Mosquito Lime (Free Fabric Roll On)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hit-aerosol-mosquito-lime-free-fabric-roll-on-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79745&q=low&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 24657
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09b9\u09bf\u099f \u0985\u09cd\u09af\u09be\u09b0\u09cb\u09b8\u09b2 \u09ae\u09b8\u0995\u09bf\u099f\u09cb (\u09ab\u09cd\u09b0\u09c0 \u09ab\u09c7\u09ac\u09cd\u09b0\u09bf\u0995 \u09b0\u09cb\u09b2 \u0985\u09a8) \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Hit Aerosol Mosquito (Free Fabric Roll On) 400 ml",
+        "nameWithoutSubText": "Hit Aerosol Mosquito (Free Fabric Roll On)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/hit-aerosol-mosquito-free-fabric-roll-on-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79742&q=low&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 24655
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u0997\u09cb\u09b2\u09cd\u09a1 \u09ad\u09cd\u09af\u09be\u09aa\u09cb\u09b0\u09be\u0987\u099c\u09be\u09b0 \u09ae\u09c7\u09b6\u09bf\u09a8 (\u09e7 \u099f\u09bf \u0995\u09bf\u09a8\u09b2\u09c7 \u09e7 \u099f\u09bf \u09b8\u09be\u09ac\u09be\u09a8 \u09ab\u09cd\u09b0\u09bf)",
+        "longDesc": null,
+        "name": "Good Knight Gold Vaporizer Machine (B1 G1 Soap Free)",
+        "nameWithoutSubText": "Good Knight Gold Vaporizer Machine (B1 G1 Soap Free)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/good-knight-gold-vaporizer-machine-b1-g1-soap-free?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78143&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 24410
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u0997\u09cb\u09b2\u09cd\u09a1 \u09ab\u09cd\u09b2\u09cd\u09af\u09be\u09b6 \u09b2\u09bf\u0995\u09c1\u0987\u09a1 \u09ad\u09cd\u09af\u09be\u09aa\u09cb\u09b0\u09be\u0987\u099c\u09be\u09b0 \u09b0\u09bf\u09ab\u09bf\u09b2 \u09ea\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Good Knight Gold Flash Liquid Vapouriser Refill 45 ml",
+        "nameWithoutSubText": "Good Knight Gold Flash Liquid Vapouriser Refill",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/good-knight-gold-flash-liquid-vapouriser-refill-45-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71830&q=low&v=1"
+        ],
+        "price": 120.0,
+        "corpPrice": 120.0,
+        "objectID": 23336
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u0997\u09cb\u09b2\u09cd\u09a1 \u09ab\u09cd\u09b2\u09cd\u09af\u09be\u09b6 \u09b2\u09bf\u0995\u09c1\u0987\u09a1 \u09ad\u09cd\u09af\u09be\u09aa\u09cb\u09b0\u09be\u0987\u099c\u09be\u09b0 \u09ae\u09cd\u09af\u09be\u09b6\u09bf\u09a8",
+        "longDesc": null,
+        "name": "Good Knight Gold Flash Liquid Vapouriser Machin",
+        "nameWithoutSubText": "Good Knight Gold Flash Liquid Vapouriser Machin",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/good-knight-gold-flash-liquid-vapouriser-machin?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71829&q=low&v=1"
+        ],
+        "price": 199.0,
+        "corpPrice": 199.0,
+        "objectID": 23335
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09c1\u09a1\u09ae\u09c7\u09a1 \u09ac\u09be\u09af\u09bc\u09cb \u09ad\u09c7\u099c\u09bf \u0993\u09af\u09bc\u09be\u09b6 \u09eb\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Goodmaid Bio Veggie Wash 500 ml",
+        "nameWithoutSubText": "Goodmaid Bio Veggie Wash",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/goodmaid-bio-veggie-wash-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61624&q=low&v=1"
+        ],
+        "price": 360.0,
+        "corpPrice": 360.0,
+        "objectID": 21957
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09c1\u09a1\u0995\u09be\u0987\u099f\u09a8\u09be\u0987\u099f \u0995\u09c1\u09b2 \u099c\u09c7\u09b2 \u09ae\u09b6\u09be\u09b0\u09bf \u09aa\u09cd\u09b0\u09a4\u09bf\u09b0\u09cb\u09a7\u09c0 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "GoodKnight Cool Gel Mosquito Repellent 50 gm",
+        "nameWithoutSubText": "GoodKnight Cool Gel Mosquito Repellent",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/goodknight-cool-gel-mosquito-repellent-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D55081&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 20830
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u098f\u0995\u09cd\u09b8\u09aa\u09c7\u09b2 \u098f\u09b0\u09cb\u09b8\u09b2 \u09e8\u09eb\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Xpel Aerosol 250 ml",
+        "nameWithoutSubText": "Xpel Aerosol",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/xpel-aerosol-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50030&q=low&v=1"
+        ],
+        "price": 185.0,
+        "corpPrice": 185.0,
+        "objectID": 18328
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09a8\u09bf\u09ae \u09a4\u09c7\u09b2 (\u09b9\u09cb\u09ae \u09ae\u09c7\u09a1) \u09e8\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\u09aa\u09cb\u0995\u09be-\u09ae\u09be\u0995\u09dc \u0993 \u09ae\u09b6\u09be \u09a5\u09c7\u0995\u09c7 \u09b8\u09c1\u09b0\u0995\u09cd\u09b7\u09be \u09aa\u09c7\u09a4\u09c7 \u09a8\u09bf\u09ae \u09a4\u09c7\u09b2\u09c7\u09b0 \u099c\u09c1\u09dc\u09bf \u09a8\u09c7\u0987\u0964 \u09a4\u09be\u0987 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09aa\u09cd\u09b0\u09a4\u09bf\u09b0\u09cb\u09a7\u09c7 \u09a8\u09bf\u09ae\u09c7\u09b0 \u09a4\u09c7\u09b2 \u0985\u09a4\u09cd\u09af\u09a8\u09cd\u09a4 \u0995\u09be\u09b0\u09cd\u09af\u0995\u09b0\u0964\r\n\u09a8\u09bf\u09ae\u09c7\u09b0 \u09a4\u09c7\u09b2\u09c7 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09bf-\u0985\u0995\u09cd\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f \u09ac\u09bf\u09a6\u09cd\u09af\u09ae\u09be\u09a8\u0964 \u098f\u099f\u09bf \u09a4\u09cd\u09ac\u0995\u09c7\u09b0  \u099c\u09a8\u09cd\u09af\u09c7 \u0996\u09c1\u09ac\u0987 \u0989\u09aa\u0995\u09be\u09b0\u09bf\u0964 \u09a4\u09cd\u09ac\u0995\u09c7 \u09b8\u09b9\u099c\u09c7  \u09ac\u09be\u09b0\u09cd\u09a7\u0995\u09cd\u09af\u09c7\u09b0 \u099b\u09be\u09aa \u09aa\u09dc\u09a4\u09c7 \u09a6\u09c7\u09df \u09a8\u09be\u0964 \u098f\u0987 \u09a4\u09c7\u09b2\u09c7\u09b0 \u09ab\u09cd\u09af\u09be\u099f\u09bf  \u098f\u09b8\u09bf\u09a1 \u09a4\u09cd\u09ac\u0995\u09c7\u09b0 \u09b8\u09be\u09a5\u09c7 \u09ae\u09bf\u09b6\u09c7  \u098f\u0995\u09c7 \u0986\u09b0\u09cb \u09a8\u09ae\u09a8\u09c0\u09df \u0995\u09b0\u09c7 \u09a4\u09cb\u09b2\u09c7,  \u09a4\u09cd\u09ac\u0995\u09c7\u09b0  \u09b2\u09be\u09b2 \u09a6\u09be\u0997 \u09b8\u09ae\u09c2\u09b9 \u09a6\u09c2\u09b0 \u0995\u09b0\u09c7, \u09ac\u09cd\u09b0\u09a3\u09c7\u09b0 \u0995\u09cd\u09b7\u09a4 \u09b8\u09be\u09b0\u09bf\u09df\u09c7 \u09a4\u09cb\u09b2\u09c7\u0964 \u09a8\u09bf\u09ae\u09c7\u09b0 \u09a4\u09c7\u09b2  \u098f\u0997\u099c\u09bf\u09ae\u09be \u09aa\u09cd\u09b0\u09a4\u09bf\u09b0\u09cb\u09a7 \u0995\u09b0\u09c7\u0964 \u098f\u099b\u09be\u09dc\u09be\u0993 \u098f\u099f\u09bf \u09a4\u09cd\u09ac\u0995\u09c7 \u09ae\u09c7\u09b2\u09be\u09a8\u09bf\u09a8 \u09a4\u09c8\u09b0\u09bf\u09a4\u09c7 \u09ac\u09be\u0981\u09a7\u09be \u09a6\u09c7\u09df\u0964 \u09a8\u09bf\u09ae\u09c7\u09b0 \u09a4\u09c7\u09b2 \u09ae\u09be\u09a5\u09be\u09b0 \u09a4\u09be\u09b2\u09c1\u09b0 \u09b6\u09c1\u09b7\u09cd\u0995\u09a4\u09be \u09a6\u09c2\u09b0 \u0995\u09b0\u09a4\u09c7 \u09b8\u09be\u09b9\u09be\u09af\u09cd\u09af \u0995\u09b0\u09c7\u0964 \u098f\u0987 \u09a4\u09c7\u09b2 \u09ae\u09be\u09a5\u09be\u09df \u09a6\u09bf\u09b2\u09c7 \u0996\u09c1\u09b6\u0995\u09bf \u09a6\u09c2\u09b0 \u09b9\u09df\u0964 \u09af\u09be\u09a6\u09c7\u09b0 \u09ae\u09be\u09a5\u09be\u09b0 \u09a4\u09be\u09b2\u09c1\u09a4\u09c7 \u09ac\u09cd\u09b0\u09a3\u09c7\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be \u0986\u099b\u09c7 \u09a4\u09be\u09b0\u09be \u098f\u0987 \u09a4\u09c7\u09b2 \u09ae\u09be\u09a5\u09be\u09df \u09a6\u09bf\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7\u0964 \u09af\u09be\u09a6\u09c7\u09b0 \u09ae\u09be\u09a5\u09be\u09b0 \u099a\u09c1\u09b2 \u09ac\u09c7\u09b6\u09bf \u09a4\u09c8\u09b2\u09be\u0995\u09cd\u09a4 \u09a4\u09be\u09b0\u09be\u0993 \u098f\u0987 \u09a4\u09c7\u09b2 \u09ae\u09be\u09a5\u09be\u09df \u09b2\u09be\u0997\u09be\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7\u0964 \u099a\u09c1\u09b2\u09c7\u09b0 \u09b0\u09c1\u0995\u09cd\u09b7\u09a4\u09be \u09a6\u09c2\u09b0 \u0995\u09b0\u09a4\u09c7 \u09a8\u09bf\u09ae\u09c7\u09b0 \u09a4\u09c7\u09b2 \u0996\u09c1\u09ac \u09ad\u09be\u09b2 \u0995\u09be\u099c \u09a6\u09c7\u09df\u0964 \u09a8\u09bf\u09df\u09ae\u09bf\u09a4 \u09ae\u09be\u09a5\u09be\u09df \u098f\u0987 \u09a4\u09c7\u09b2 \u09b2\u09be\u0997\u09be\u09b2\u09c7 \u099a\u09c1\u09b2 \u09aa\u09dc\u09be \u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u0964 \u09af\u09be\u09a6\u09c7\u09b0 \u09ae\u09be\u09a5\u09be\u09b0 \u09a4\u09be\u09b2\u09c1\u09a4\u09c7 \u099a\u09c1\u09b2\u0995\u09c1\u09a8\u09bf\u09b0 \u09b8\u09ae\u09b8\u09cd\u09af\u09be \u0986\u099b\u09c7 \u09a4\u09be\u09b0\u09be \u09a8\u09bf\u09ae\u09c7\u09b0 \u09a4\u09c7\u09b2 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09b2\u09c7 \u0989\u09aa\u0995\u09be\u09b0 \u09aa\u09be\u09ac\u09c7\u09a8\u0964\u0964",
+        "name": "Neem Oil (Home Made) 200 ml",
+        "nameWithoutSubText": "Neem Oil (Home Made)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/neem-oil-home-made-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69941&q=low&v=1"
+        ],
+        "price": 335.0,
+        "corpPrice": 335.0,
+        "objectID": 16633
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0995\u09cd\u09b2\u09bf\u09a8 \u0986\u09ad\u09be \u09ab\u09b2 \u0993 \u09b8\u09ac\u099c\u09bf \u0993\u09df\u09be\u09b6 \u09e7\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "100% Natural Ingredients",
+        "name": "CleanAva Vegetable & Fruits Wash 100 ml ",
+        "nameWithoutSubText": "CleanAva Vegetable & Fruits Wash",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cleanava-vegetable-fruits-wash-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49787&q=low&v=1"
+        ],
+        "price": 250.0,
+        "corpPrice": 250.0,
+        "objectID": 15673
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09b8\u09c1\u09aa\u09be\u09b0 \u09ae\u09c1\u09a8 \u0987\u09b2\u09c7\u0995\u099f\u09cd\u09b0\u09a8\u09bf\u0995 \u09ae\u09b6\u09be\u09b0 \u09b8\u09df\u09c7\u099f\u09be\u09b0 (\u099a\u09be\u09df\u09a8\u09be) \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Super Moon Electronic Mosquito Swatter (China)",
+        "nameWithoutSubText": "Super Moon Electronic Mosquito Swatter (China)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/super-moon-electronic-mosquito-swatter-china?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49839&q=low&v=1"
+        ],
+        "price": 449.0,
+        "corpPrice": 449.0,
+        "objectID": 15509
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09ac\u09b8\u09cd\u09a8\u09bf \u09ac\u09bf\u09b7\u09ae\u09c1\u0995\u09cd\u09a4 \u0987\u09a6\u09c1\u09b0 \u09ae\u09be\u09b0\u09be\u09b0 \u0986\u09a0\u09be \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": null,
+        "name": "Bosny Non Poisonous Rat Glue 400 ml",
+        "nameWithoutSubText": "Bosny Non Poisonous Rat Glue",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bosny-non-poisonous-rat-glue-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49786&q=low&v=1"
+        ],
+        "price": 349.0,
+        "corpPrice": 349.0,
+        "objectID": 14778
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09a8\u09be\u0987\u099f \u0995\u09c1\u0987\u09a8 \u09ae\u09cd\u09af\u09be\u099c\u09bf\u0995 \u09ae\u09b6\u09be\u09b0\u09bf (\u09b8\u09be\u0987\u099c \u09ec'X\u09ed') \u09e7 \u099f\u09bf ",
+        "longDesc": "Origin: Bangladesh\r\nNight queen magic mosquito net protects you from mosquitoes. It is made from soft fabric. So, air can easily pass through it. You can sleep comfortably while staying safe from mosquitoes. Comes with a free USB LED lamp.",
+        "name": "Night Queen Magic Mosquito Net (Size 6'X7') 1 Pcs",
+        "nameWithoutSubText": "Night Queen Magic Mosquito Net (Size 6'X7')",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/night-queen-magic-mosquito-net-size-6x7-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69774&q=low&v=1"
+        ],
+        "price": 479.0,
+        "corpPrice": 479.0,
+        "objectID": 13879
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0987\u09df\u09be\u0997 \u0987\u09b2\u09c7\u0995\u099f\u09cd\u09b0\u09a8\u09bf\u0995 \u09ae\u09b6\u09be\u09b0 \u09b8\u09df\u09c7\u099f\u09be\u09b0 \u09e7 \u099f\u09bf",
+        "longDesc": "Origin: China\r\nManufacturer:Yage by rozzby \r\n \r\nInsect killing rechargeable electric racket. Can kill mosquitoes and flies. It has dense mesh. So mosquitoes cannot escape. It is safe to touch. Has an built-in LED. So that you can use it in the dark.\r\nSupply voltage: 110-220V \r\nLithium battery operated",
+        "name": "YAGE Electronic Mosquito Swatter 1 pcs",
+        "nameWithoutSubText": "YAGE Electronic Mosquito Swatter",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/yage-electronic-mosquito-swatter-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39707&q=low&v=1"
+        ],
+        "price": 429.0,
+        "corpPrice": 429.0,
+        "objectID": 12831
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09b8\u09be\u09ac\u09be \u09b6\u09be\u0995 \u09b8\u09ac\u099c\u09bf \u09a7\u09cb\u09df\u09be\u09b0 \u09a4\u09b0\u09b2 \u09e7\u09e8\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Origin: Japan\r\nSaba Vegetable Washing Liquid  is made from pine tree oil.  This liquid destroys all types of Formalin, Insecticides, Pesticides, Carbide and Chemicals from Vegetables, Fruits, Fishes etc. For the first time in Bangladesh this product is directly imported from JAPAN. One bottle can be used  for  six months to 1 year. Because 3/4 drops are enough to clean enough fruit, vegetables.",
+        "name": "Saba Vegetable Washing Liquid 125 ml",
+        "nameWithoutSubText": "Saba Vegetable Washing Liquid",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/saba-vegetable-washing-liquid-125-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49838&q=low&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 12626
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u09aa\u09c1\u09b0\u09a8\u09be\u09ad\u09be \u09ae\u09b6\u09be \u09a4\u09be\u09a1\u09bc\u09be\u09a8\u09cb\u09b0 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09ed\u09eb \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Citronella oil in combination with Eucalyptus oil & Peppermint oil acts as a fantastic natural solution to repel mosquito like annoying insects from the body. Purnava Mosquito Repellent repels unwanted insects and safe guard your health with this easy to use product which can be sprayed directly on the skin and clothes. A reliable formula that soothes your skin and makes an  environment-conscious choice.   \r\n  ",
+        "name": "Purnava Mosquito Repellent Spray 75 ml",
+        "nameWithoutSubText": "Purnava Mosquito Repellent Spray",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/purnava-mosquito-repellent-spray-75-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D39858&q=low&v=1"
+        ],
+        "price": 175.0,
+        "corpPrice": 175.0,
+        "objectID": 12068
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u098f\u0995\u09cd\u09b8\u09aa\u09cd\u09b0\u09c7\u09b8 \u09b2\u09bf\u0995\u09c1\u0987\u09a1 \u09ad\u09c7\u09aa\u09cb\u09b0\u09be\u0987\u099c\u09be\u09b0 \u09ae\u09c7\u09b6\u09bf\u09a8 \u09e7 \u099f\u09bf",
+        "longDesc": "A mosquito's irritating bites can ruin almost any occasion. It\u2019s not\r\njust about the nuisance they cause; mosquitoes are also carriers of\r\nsome of the most deadly diseases! Hence, getting rid of them\r\nshould be a priority. Protect your families happy moments with the\r\nmost innovative mosquito repellents from the house of Good\r\nknight. We bring to you the safest and the most technologically\r\nsuperior products to protect your family and loved ones.\r\n\r\nFeature\r\n\r\n9 minute action\r\n\r\nPleasant fragrance\r\n\r\nInstant relief from mosquitoes",
+        "name": "Godrej Good Knight Xpress Liquid Vapouriser Machine 1 pcs",
+        "nameWithoutSubText": "Godrej Good Knight Xpress Liquid Vapouriser Machine",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-good-knight-xpress-liquid-vapouriser-machine-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49826&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 11042
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u09a8\u09bf\u0989 \u09b9\u09bf\u099f \u09ae\u09b6\u09be\u09b0 \u09b8\u09cd\u09aa\u09cd\u09b0\u09c7 \u09ea\u09e6\u09e6 \u09ae\u09bf\u09b2\u09bf",
+        "longDesc": "Hit Black Aerosol - Kills Flies and Mosquitoes. Every person dreams to achieve that one aim in his/her life. Even a single opportunity of realizing that dream should not be missed. However, diseases like Malaria & Dengue can kill such opportunities. So\u00a0Kill Malaria with Kala HIT!\r\n*Instant Action\r\n*Kills flies and mosquitoes\r\n*Kill Malaria with Kala HIT\r\n",
+        "name": "Godrej New Hit Mosquitoes Spray 400 ml",
+        "nameWithoutSubText": "Godrej New Hit Mosquitoes Spray",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-new-hit-mosquitoes-spray-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49832&q=low&v=1"
+        ],
+        "price": 275.0,
+        "corpPrice": 275.0,
+        "objectID": 11035
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09cb\u09a6\u09b0\u09c7\u099c \u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u099f\u09be\u09b0\u09ac\u09cb \u09ae\u09c7\u09b6\u09bf\u09a8 \u09b0\u09bf\u09ab\u09bf\u09b2 \u09ea\u09eb \u09b0\u09be\u09a4",
+        "longDesc": null,
+        "name": "Godrej Good Knight Turbo Machine Refill 45 Night",
+        "nameWithoutSubText": "Godrej Good Knight Turbo Machine Refill 45 Night",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-good-knight-advance-machine-silver-refill-45-night?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49818&q=low&v=1"
+        ],
+        "price": 225.0,
+        "corpPrice": 225.0,
+        "objectID": 10989
+    },
+    {
+        "category": {
+            "name": "Pest Control",
+            "id": "88",
+            "slug": "pest-control"
+        },
+        "bengaliName": "\u0997\u09a1\u09cd\u09b0\u09c7\u099c \u0997\u09c1\u09a1 \u09a8\u09be\u0987\u099f \u09aa\u09be\u0993\u09af\u09bc\u09be\u09b0 \u09b2\u09be\u0987\u099f \u0995\u09ae\u09cd\u09ac\u09cb \u09ea\u09eb \u09a8\u09be\u0987\u099f",
+        "longDesc": null,
+        "name": "Godrej Good Knight Power Light Combo 45 Nights",
+        "nameWithoutSubText": "Godrej Good Knight Power Light Combo 45 Nights",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/godrej-good-knight-power-light-combo-45-nights?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D49825&q=low&v=1"
+        ],
+        "price": 150.0,
+        "corpPrice": 150.0,
+        "objectID": 2239
+    }
+]

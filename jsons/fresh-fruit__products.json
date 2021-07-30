@@ -1,0 +1,701 @@
+[
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": " \u0986\u09ae \u0986\u09ae\u09cd\u09b0\u09aa\u09be\u09b2\u09bf \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e9 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Chaldal has brought you the best chemical free Amrapali straight from Shibganj. Its flesh is deep orange-red, medium size, with yellowish green skin. This mango offers a healthy dose of vitamins, minerals and enzymes that are beneficial for your health.\r\n\r\n It was developed as a hybrid variety of 'Dasheri' and 'Neelum'. Among other mangoes, Amrapali is considered to be  the most tasteful and popular mango you can enjoy with your family and loved ones.\r\n\r\n\u099a\u09be\u09b2\u09a1\u09be\u09b2\u09c7 \u09aa\u09be\u099a\u09cd\u099b\u09c7\u09a8 \u09b8\u09b0\u09be\u09b8\u09b0\u09bf \u09b6\u09bf\u09ac\u0997\u099e\u09cd\u099c \u09a5\u09c7\u0995\u09c7 \u0986\u0997\u09a4 \u09b6\u09a4\u09ad\u09be\u0997 \u09aa\u09cd\u09b0\u09be\u0995\u09c3\u09a4\u09bf\u0995 \u0989\u09aa\u09be\u09df\u09c7 \u09b8\u0982\u0997\u09cd\u09b0\u09b9\u0995\u09c3\u09a4 \u0986\u09ae\u09cd\u09b0\u09aa\u09be\u09b2\u09bf \u0986\u09ae\u0964\r\n\r\n\u098f\u0987 \u0986\u09ae\u099f\u09bf \u09aa\u09be\u0995\u09b2\u09c7 \u09b8\u09be\u09a7\u09be\u09b0\u09a8\u09a4 \u09b9\u09b2\u09c1\u09a6 \u098f\u09ac\u0982 \u09b9\u09be\u09b2\u0995\u09be \u09b2\u09be\u09b2\u099a\u09c7 \u09b8\u09ac\u09c1\u099c \u09ac\u09b0\u09cd\u09a3\u09c7\u09b0 \u09b9\u09df\u0964\r\n\r\n\u09aa\u09cd\u09b0\u099a\u09c1\u09b0 \u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8 \u098f\u09ac\u0982 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af\u09b8\u09ae\u09cd\u09ae\u09a4 \u098f\u0987 \u0986\u09ae\u09c7\u09b0 \u0989\u09aa\u0995\u09be\u09b0\u09bf\u09a4\u09be \u09ac\u09b2\u09c7 \u09b6\u09c7\u09b7 \u0995\u09b0\u09be \u09af\u09be\u09ac\u09c7 \u09a8\u09be\u0964\r\n\r\n\u09ac\u09bf\u0996\u09cd\u09af\u09be\u09a4 \u0986\u09ae \u09a6\u09c1\u2019\u09b8\u09c7\u09b9\u09b0\u09c0 \u098f\u09ac\u0982 \u09a8\u09c0\u09b2\u09ae \u099c\u09be\u09a4\u09c7\u09b0 \u09b8\u0982\u09ae\u09bf\u09b6\u09cd\u09b0\u09a8\u09c7 \u098f\u0987 \u0986\u09ae\u09c7\u09b0 \u09b8\u09c3\u09b7\u09cd\u099f\u09bf \u0964 \u0985\u09a8\u09cd\u09af\u09a8\u09cd\u09af \u0986\u09ae\u09c7\u09b0 \u09a4\u09c1\u09b2\u09a8\u09be\u09df \u09b8\u09ac\u09be\u09b0 \u09ae\u09be\u099d\u09c7 \u0986\u09ae\u09cd\u09b0\u09aa\u09be\u09b2\u09bf \u0985\u09a8\u09c7\u0995 \u09b8\u09c1\u09b8\u09cd\u09ac\u09be\u09a6\u09c1 \u098f\u09ac\u0982 \u099c\u09a8\u09aa\u09cd\u09b0\u09bf\u09df \u0986\u09ae \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u09aa\u09b0\u09bf\u099a\u09bf\u09a4 \u09af\u09be \u0986\u09aa\u09a8\u09bf \u0986\u09aa\u09a8\u09be\u09b0 \u09aa\u09b0\u09bf\u09ac\u09be\u09b0\u0995\u09c7 \u09a8\u09bf\u09df\u09c7 \u0989\u09aa\u09ad\u09cb\u0997 \u0995\u09b0\u09a4\u09c7 \u09aa\u09be\u09b0\u09ac\u09c7\u09a8\u0964",
+        "name": "Mango Aamropali  \u00b1 50 gm 3 kg",
+        "nameWithoutSubText": "Mango Aamropali  \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mango-aamropali-50-gm-3-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79768&q=low&v=1"
+        ],
+        "price": 419.0,
+        "corpPrice": 419.0,
+        "objectID": 15055
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0986\u09ae \u09ab\u099c\u09b2\u09bf \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e9 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Mango Fazli \u00b1 50 gm 3 kg",
+        "nameWithoutSubText": "Mango Fazli \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mango-fazli-50-gm-3-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80575&q=low&v=1"
+        ],
+        "price": 299.0,
+        "corpPrice": 299.0,
+        "objectID": 10288
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u099a\u09c7\u09b0\u09bf \u0986\u09a8\u09be\u09b0\u09b8 \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Cherry Anaros (Cherry Pineapple)  1 Pcs",
+        "nameWithoutSubText": "Cherry Anaros (Cherry Pineapple)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/cherry-anaros-cherry-pineapple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77400&q=low&v=1"
+        ],
+        "price": 25.0,
+        "corpPrice": 25.0,
+        "objectID": 23825
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09ae\u09be\u09b2\u09cd\u099f\u09be \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Malta, a variety of orange, is a popular citrus fruit cultivated in hot climate. The fruit is rich in mineral salts and other ingredients of nutritive value such as iron, lime, phosphorus, and vital minerals. Malta is loaded with vitamin C and vitamin B complex. It is a round-shaped, medium-sized fruit, weighting an average of 145.8 gm. It has a rough-surfaced orange ringed  with a segment of around 9.67 centimeters and a sweet-tasting juice content of around 33.7 per cent. The fruit is often used to make processed juice, jam, jelly and marmalade.",
+        "name": "Malta \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Malta \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/malta-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77383&q=low&v=1"
+        ],
+        "price": 165.0,
+        "corpPrice": 165.0,
+        "objectID": 6010
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0995\u09be\u0981\u099a\u09be \u0986\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Kacha Aam (Green Mango) 1 kg",
+        "nameWithoutSubText": "Kacha Aam (Green Mango)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kacha-aam-green-mango-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35636&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 14554
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0997\u09be\u09b2\u09be \u0986\u09aa\u09c7\u09b2 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "We believe in your satisfaction and get Gala apple from Chaldal with a mild and sweet pleasant flavor. Overall orange in colour It's Parentage: Golden Delicious and Kidd's Orange Red with good quality. It is one of the most favorite fruits not only in Bangladesh but also in the world. So, buy Gala apply from Chaldal.",
+        "name": "Gala Apple \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Gala Apple \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gala-apple-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18115&q=low&v=1"
+        ],
+        "price": 179.0,
+        "corpPrice": 179.0,
+        "objectID": 10727
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09a8\u09be\u09b6\u09aa\u09be\u09a4\u09bf \u09e8 \u099f\u09bf",
+        "longDesc": "Pears are valuable fruits that have been widely used and savored for their delicious flavor since ancient times. Pear has a unique nutrient qualities. Pears fruit is packed with health benefiting nutrients such as dietary fiber, anti-oxidants, minerals and vitamins, which are necessary for optimum health also Pears are a good source of dietary fiber. 100 gm fruit provides 3.1 gm or 8% of fiber per 100 gm. Regular eating of this fruit may offer protection against colon cancer. In addition, pear fruit is one of the very low calorie fruits; provides just 58 calories per 100gm. They contain good quantities of vitamin C. Fresh fruits provide about 7% of RDA per 100 gm. The fruit is a good source of minerals such as copper, iron, potassium, manganese and magnesium as well as B-complex vitamins such as folates, riboflavin and pyridoxine (vitamin B-6). Pears have been suggested in various traditional medicines in the treatment of colitis, chronic gallbladder disorders, arthritis, and gout.",
+        "name": "Shada Nashpati (Pear White) 2 pcs",
+        "nameWithoutSubText": "Shada Nashpati (Pear White)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shada-nashpati-pear-white-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71168&q=low&v=1"
+        ],
+        "price": 105.0,
+        "corpPrice": 105.0,
+        "objectID": 10052
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09b2\u09be\u09b2 \u0986\u0999\u09cd\u0997\u09c1\u09b0 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "The combination of unique texture and sweet, tart flavor has made Red Grapes an extra-ordinary fruit. Red Grapes are small round or oval berries that feature semi-translucent flesh encased by a smooth skin. Red grapes are relatively low in calories and are fat and cholesterol free. A 1-cup serving of red grapes contains only 104 calories, yet still provides 1 g of protein and 1 g of fiber. However, this serving also contains 27 g of total carbohydrates, 23 g of which come from sugar. Red grapes are a good source of several vitamins. One serving of red grapes offers 16 mg of vitamin C, which is about 27 percent of the daily value, based on a 2,000-calorie diet. It also contains 22 mcg of vitamin K and 0.4 mg of thiamin, which is about 28 percent and 27 percent of the daily value, respectfully. Red grapes also contain small amounts of vitamin E, vitamin A, vitamin K, pantothenic acid, vitamin B-6, folate, beta carotene and alpha carotene. These nutrients help your body processes function properly.",
+        "name": "Lal Angur (Red Grapes) 250 gm",
+        "nameWithoutSubText": "Lal Angur (Red Grapes)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lal-angur-red-grapes-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D26171&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 10050
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u099a\u09be\u09df\u09a8\u09be \u09ab\u09c1\u099c\u09bf \u0986\u09aa\u09c7\u09b2 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Apples are some of the most popular and delicious fruits on the planet. There are more than 7,500 varieties of this delicious fruit. China Fuji Apple is one of them. Fuji apples are typically round and range from large to very large, averaging 75 mm in diameter. They contain between 9\u201311% sugars by weight and have a dense flesh that is sweeter and crisper than many other apple cultivars, making them popular with consumers around the world. Fuji apples also have a very long shelf life compared to other apples, even without refrigeration. With refrigeration, Fuji apples can remain fresh for up to a year. Fuji apples are a variety of apple that originates in Japan. They are yellowish-green in color with red highlights. Harvested in September and October. Fuji apples are a healthy addition to most diets. They have no fat, sodium or cholesterol. A medium-sized apple weights about 154 grams and provides 80 calories. The FDA categorizes Fuji apples as a low-calorie food. Calories come from carbohydrates, proteins, fats and sugar. Any calories that your body does not use is stored as fat. A medium-sized Fuji apple also provides 170 milligrams of potassium. It offers 20 percent of the recommended daily value for vitamin C and 2 percent of the DV for vitamin A, calcium and iron, based on a 2,000-calorie diet.",
+        "name": "China Fuji Apple \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "China Fuji Apple \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/china-fuji-apple-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54849&q=low&v=1",
+            "https://chaldn.com/_mpimage/china-fuji-apple-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D22432&q=low&v=1"
+        ],
+        "price": 165.0,
+        "corpPrice": 165.0,
+        "objectID": 6009
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09a8\u09be\u09b0\u0995\u09c7\u09b2 \u09e7 \u099f\u09bf",
+        "longDesc": "Coconut is one of very versatile and indispensable food item for millions of inhabitants in South and South-East Asia. It is one of the most sought-after ingredients in the kitchen since it employed in almost each and every recipe prepared in these parts of the world. Coconut is a very versatile and indispensable food item for most people under the tropical belt. It is a complete food rich in calories, vitamins, and minerals. A medium-size coconut carrying 400 g edible meat and some 30-150 ml of water may provide almost all the daily-required essential minerals, vitamins, and energy of an average-sized individual. Coconut water is a very refreshing drink to beat tropical summer thirst. The juice is packed with simple sugar, electrolytes, minerals, and bioactive compounds such as cytokinin, and enzymes such as acid phosphatase, catalase, dehydrogenase, peroxidase, polymerases, etc. Altogether, these enzymes aid in digestion and metabolism. It is also a very good source of B-complex vitamins such as folates, riboflavin, niacin, thiamin, and pyridoxine. These vitamins are essential in the sense that body requires them from external sources to replenish. Coconut meat and water contain a very good amount of potassium. 100 g of fresh meat contains 356 mg% or 7.5% of daily required levels of potassium. A full-sized coconut weighs about 1.44 kg (3.2 lb). ",
+        "name": "Narikel (Coconut) 1 pcs",
+        "nameWithoutSubText": "Narikel (Coconut)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/narikel-coconut-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28588&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 6021
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09b2\u099f\u0995\u09a8 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Lotkon (Baccaurea Motleyana) \u00b1 50 gm 500 gm",
+        "nameWithoutSubText": "Lotkon (Baccaurea Motleyana) \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/lotkon-baccaurea-motleyana-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61087&q=low&v=1"
+        ],
+        "price": 69.0,
+        "corpPrice": 69.0,
+        "objectID": 21631
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0995\u09ae\u09b2\u09be \u0986\u09ae\u09a6\u09be\u09a8\u09bf\u0995\u09c3\u09a4 \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "The orange is the fruit of the citrus species Citrus \u00d7 sinensis in the family Rutaceae, native to China. It is also called sweet orange, to distinguish it from the related Citrus \u00d7 aurantium, referred to as bitter orange. The sweet orange reproduces asexually; varieties of sweet orange arise through mutations.\r\n\r\nNutritional facts/Ingredients :\"Vitamin A\t4%\tVitamin C\t88%\r\nCalcium\t4%\tIron\t0%\r\nVitamin D\t0%\tVitamin B-6\t5%\r\nCobalamin\t0%\tMagnesium\t2%  \"",
+        "name": "Komola (Orange) Imported 1 kg",
+        "nameWithoutSubText": "Komola (Orange) Imported",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/komola-orange-imported-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64292&q=low&v=1"
+        ],
+        "price": 239.0,
+        "corpPrice": 239.0,
+        "objectID": 9743
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09b8\u09ac\u09c1\u099c \u09a8\u09be\u09b6\u09aa\u09be\u09a4\u09bf \u09e8 \u099f\u09bf",
+        "longDesc": "\"A pear is a mild, sweet fruit with a fibrous center. Pears are rich in essential antioxidants, plant compounds, and dietary fiber. They pack all of these nutrients in a fat free, cholesterol free, 100 calorie package.\r\n\r\nAs part of a balanced, nutritious diet, consuming pears could support weight loss and reduce a person\u2019s risk of cancer, diabetes, and heart disease.\"\r\n\r\nNutritional facts/Ingredients :\r\n\"Benefits:\r\n-Providing fiber\r\n-Treating diverticulosis\r\n-Reducing the risk of cardiovascular disease\r\n-Encouraging detoxification\r\n-Fighting free radicals\r\n\"",
+        "name": "Sobuj Nashpati (Pear Green) 2 pcs",
+        "nameWithoutSubText": "Sobuj Nashpati (Pear Green)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sobuj-nashpati-pear-green-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D75117&q=low&v=1"
+        ],
+        "price": 115.0,
+        "corpPrice": 115.0,
+        "objectID": 15644
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0986\u09ae\u09dc\u09be \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Hog plums are rich in vitamin C, which, in addition to being an essential vitamin, is a natural antioxidant, protecting your body from damage caused by free radicals, potentially reducing your risk of heart disease. A 100-gram portion of hog plums has 46.4 milligrams of vitamin C per serving. This provides 39 to 49 percent of the daily intake needed each day. Vitamin C gives support to your immune system, and it helps with the production of collagen, which keeps your skin, ligaments, tendons and cartilage healthy. A 100-gram serving of hog plums has 2.8 milligrams of iron. This provides 15.5 to 35 percent of the recommended intake of iron per day. Iron is essential for overall health and body function because it is needed to produce hemoglobin and myoglobin, both of which carry oxygen throughout your body. Hemoglobin is stored in red blood cells, so having enough iron in your diet is key for red blood cell production. The fruits can be eaten raw and whole as a snack, but people are commonly made into fresh juices, or used to  jams and jellies. In Bangladesh, unripe hog plums are pickled to make a sour-spicy side dish.",
+        "name": "Amra (Hog Plum) \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Amra (Hog Plum) \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/amra-hog-plum-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23157&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 7825
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0995\u09be\u09ae\u09b0\u09be\u0999\u09cd\u0997\u09be \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Carambola or star fruit is one of the most sought after fruits due to its nutrient density and antioxidant levels. This exotic fruit is definitely one of the best fruits that promote health! Carambola fruit is an extremely low-calorie fruit that is rich in dietary fibre, vitamin A, B and C along with minerals like zinc, phosphorus, magnesium, sodium, iron and potassium among others. Moreover, it has high amounts of antioxidants like polyphenolic compounds, quercetin, gallic acid and epicatechin.\r\n\r\nNutritional facts/Ingredients :\r\n\"Health benefits:\r\n-Is anti-inflammatory\r\n-Heart-friendly\r\n-Promotes weight loss\r\n-Regulates blood pressure\r\n-Boosts digestion\r\n-Diabetic-friendly\r\n-May improve metabolism\r\n-Helps reduce cholesterol levels\r\n-May improve respiratory health\"",
+        "name": "Kamranga (Carambola) \u00b1 50 gm  500 gm ",
+        "nameWithoutSubText": "Kamranga (Carambola) \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/kamranga-carambola-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D57590&q=low&v=1&m=400"
+        ],
+        "price": 35.0,
+        "corpPrice": 35.0,
+        "objectID": 20983
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09a2\u09c7\u0989\u09df\u09be \u09ea \u099f\u09bf",
+        "longDesc": null,
+        "name": "Dewa ( Monkey Jack ) 4 pcs",
+        "nameWithoutSubText": "Dewa ( Monkey Jack )",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dewa-monkey-jack-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67580&q=low&v=1"
+        ],
+        "price": 119.0,
+        "corpPrice": 119.0,
+        "objectID": 17086
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09ae\u09bf\u0995\u09cd\u09b8 \u09ab\u09cd\u09b0\u09c1\u099f \u09b8\u09be\u09b2\u09be\u09a6 \u09e9\u09e8\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Seasonal Mixed Fruit Platter 320 Gm",
+        "nameWithoutSubText": "Seasonal Mixed Fruit Platter",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/seasonal-mixed-fruit-platter-320-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71824&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 23319
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0995\u09b0\u09ae\u099a\u09be \u09ab\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Carissa carandas is a species of flowering shrub in the family Apocynaceae. It produces berry-sized fruits that are commonly used as a condiment in Indian pickles and spices. It is a hardy, drought-tolerant plant that thrives well in a wide range of soils. ",
+        "name": "Koromcha Fruit  500 gm ",
+        "nameWithoutSubText": "Koromcha Fruit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/koromcha-fruit-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79836&q=low&v=1"
+        ],
+        "price": 49.0,
+        "corpPrice": 49.0,
+        "objectID": 24670
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u099c\u09be\u09ae\u09b0\u09c1\u09b2 \u09ab\u09b2  \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Jamrul (Java Apple) 500 gm ",
+        "nameWithoutSubText": "Jamrul (Java Apple)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/jamrul-java-apple-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79835&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 24669
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09ac\u09be\u0982\u09b2\u09be \u0995\u09b2\u09be \u09ea \u099f\u09bf",
+        "longDesc": null,
+        "name": "Bangla Kola 4 pcs",
+        "nameWithoutSubText": "Bangla Kola",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bangla-kola-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79398&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 24609
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09b8\u09be\u0997\u09b0 \u0995\u09b2\u09be 8 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Shagor Kola (Banana Sagor) 4 pcs ",
+        "nameWithoutSubText": "Shagor Kola (Banana Sagor)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/shagor-kola-banana-sagor-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76879&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 23904
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09a1\u09be\u09ac \u09e7 \u099f\u09bf",
+        "longDesc": "Green coconut or young coconut is a very popular fruit all over the world. Green coconut produces more water than the brown or mature coconut. It is a complete food rich in calories, vitamins, and minerals. One whole green coconut contains roughly 140 calories, 28 grams of carbohydrates, 2 grams fiber, 3 grams fat, and 2 grams of protein. Coconut water is a very refreshing drink to beat tropical summer thirst. It is also a very good source of B-complex vitamins. These vitamins are essential in the sense that body requires them from external sources to replenish. Coconut water contains a very good amount of potassium. Coconut\u2019s water reduce the risk of heart disease, boost your daily energy.",
+        "name": "Daab (Green Coconut) 1 pcs",
+        "nameWithoutSubText": "Daab (Green Coconut)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/daab-green-coconut-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40755&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 6023
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u099a\u09ae\u09cd\u09aa\u09be \u0995\u09b2\u09be \u09e7\u09e8 \u099f\u09bf",
+        "longDesc": "Banana is the most popular fresh fruit in all over the world. It has lots of variety. Chompa Banana is one of them. Chompa Bananas are comparatively smaller than the normal bananas. Bananas are great super food which provides us with energy, make us feel full and provide our body with essential nutrients and high amount of fiber. Banana is one of the high calorie tropical fruits. 100 grams of its flesh carries 90 calories. Besides, it contains good amount of health benefiting fiber, anti-oxidants, minerals, and vitamins. Bananas could help you to feel happier as they contain tryptophan, a type of protein that the body converts into serotonin, known to promote relaxation and improve mood. ",
+        "name": "Banana Chompa 12 pcs",
+        "nameWithoutSubText": "Banana Chompa",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/banana-chompa-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D31723&q=low&v=1"
+        ],
+        "price": 59.0,
+        "corpPrice": 59.0,
+        "objectID": 6424
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09b8\u09ac\u09b0\u09bf \u0995\u09b2\u09be \u09ea \u099f\u09bf",
+        "longDesc": "\"Bananas are one of the most popular fruits worldwide. They contain essential nutrients that can have a protective impact on health.\r\n\r\nEating bananas can help lower blood pressure and may reduce the risk of cancer. Bananas are rich in the mineral potassium. Potassium helps maintain fluid levels in the body and regulates the movement of nutrients and waste products in and out of cells.\r\n\r\nPotassium also helps muscles to contract and nerve cells to respond. It keeps the heart beating regularly and can reduce the effect of sodium on blood pressure.\"\r\n\r\nNutritional facts/Ingredients :\r\n\"Here are some tips for using bananas:\r\n\r\n-Add a sliced banana to your morning cereal or oatmeal for a more nutritious --breakfast.\r\n-Mash ripe bananas and use to replace butter or oil in baked goods.\r\n-Add mashed bananas to muffins, cookies, and cakes for a naturally sweet flavor.\r\n-Add bananas to a smoothie.\r\n-Take a banana to work or school for a healthful, portable snack.\"",
+        "name": "Banana Sobri 4 pcs",
+        "nameWithoutSubText": "Banana Sobri",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/banana-sobri-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D76878&q=low&v=1"
+        ],
+        "price": 39.0,
+        "corpPrice": 39.0,
+        "objectID": 23802
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0986\u09a8\u09be\u09b0\u09b8 \u09e7 \u099f\u09bf",
+        "longDesc": "Pineapples are one of the most popular tropical fruits in the world.Fresh pineapple is low in calories. Nonetheless, it is a storehouse for several unique health promoting compounds, minerals and vitamins that are essential for optimum health. Fresh pineapples contain 50 calories per 100 grams, which amounts to only 83 calories per cup (165 grams). They consist of water (86%) and carbs (13%), with almost no protein or fat.The oval to cylindrical-shaped, compound fruit develops from many small fruits fused together.  It is both juicy and fleshy with the stem serving as the fibrous core. The tough, waxy rind may be dark green, yellow, orange-yellow or reddish when the fruit is ripe. The flesh ranges from nearly white to yellow. In size the fruits are up to 12 inches long and weight 1 to 10 pounds or more. Pineapples are delicious when consumed fresh, but they can also be enjoyed as juice, dried, canned, or as an ingredient in various recipes.",
+        "name": "Anaros (Pineapple) 1 pcs",
+        "nameWithoutSubText": "Anaros (Pineapple)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/anaros-pineapple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61358&q=low&v=1",
+            "https://chaldn.com/_mpimage/pineapple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34716&q=best&v=1"
+        ],
+        "price": 55.0,
+        "corpPrice": 55.0,
+        "objectID": 6022
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09aa\u09c7\u09df\u09be\u09b0\u09be \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Guava is a tropical fruit rich in high-profile nutrients. Thai guavas are generally the size of a softball with apple green skin that can range from bumpy to smooth. The flesh is white with pale yellow seeds and tends to be drier than the pink type of guavas. Thai guavas are only mildly sweet and have very little fragrance. The crunchy flesh and hard seeds are both edible. Guavas come in two broad groups divided by the color of their flesh: pink and white. Thai guavas are a group of guavas within the white category that include a number of varieties. Thai Guava Guava is very helpful for those who want to lose weight without compromising their intake of proteins, vitamins and fiber. Guava is very high in roughage and rich in vitamins, proteins and minerals Adding a medium-sized guava to your lunch and you will not feel hungry again until the evening.",
+        "name": "Guava Thai \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Guava Thai \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/guava-thai-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67818&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 6024
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09b8\u09ac\u09c1\u099c \u0986\u09aa\u09c7\u09b2 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "Green apples provide a huge range of health and beauty benefits, especially when compared to red apples. Green apple has some sweet and sour variety and amazing taste. Green apples possess glossy skin, along with a juicy flesh. They're high in fiber and help keep the digestive tract clean and healthy. Green apples are energy givers, contain both flavonoid and polyphenol, also can help prevent diarrhea. One of the major green apple benefits is the high fiber content. These high levels of fiber can help to reduce cholesterol. Green apple decreases chance of colon cancer. A 1-cup serving of green apple juice has 253 calories, with less than 1 gram of total fat. It also has 1.92 grams of protein and almost 42 grams of sugar. Because of this, a single serving of green apple juice has over 59 grams of carbohydrates.",
+        "name": "Green Apple \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Green Apple \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/green-apple-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77434&q=low&v=1"
+        ],
+        "price": 209.0,
+        "corpPrice": 209.0,
+        "objectID": 6008
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09a1\u09be\u09b2\u09bf\u09ae / \u09ac\u09c7\u09a6\u09be\u09a8\u09be \u09e8 \u099f\u09bf",
+        "longDesc": "Pomegranate fruit is one of the most popular, nutritionally rich fruit with unique flavor, taste, and health promoting characteristics. The fruit is moderate in calories, holds about 83 calories per 100 grams; slightly more than that of in the apples. It contains no cholesterol or saturated fats. It is a good source of soluble and insoluble dietary fibers; providing about 4 grams per 100 g (about 12% of RDA). Dietary fiber aid in smooth digestion and bowel movements. The fruit is an also good source of antioxidant vitamin-C, provides about 17% per 100 g of daily requirement. Consumption of fruits rich in vitamin C helps the body develop resistance against infectious agents by boosting immunity. Pomegranate seeds make an attractive garnish on salads and dishes and fresh fruits make fantastic refreshing juice. Pomegranate juice can be employed to prepare soups, jellies, sorbets, sauces as well as to flavor cakes, baked apples and other desserts.",
+        "name": "Dalim (Pomegranate) 2 pcs",
+        "nameWithoutSubText": "Dalim (Pomegranate)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dalim-pomegranate-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28589&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 6012
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09aa\u09be\u0995\u09be \u09aa\u09c7\u0981\u09aa\u09c7 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "\"One medium papaya has approximately:\r\n\r\n120 calories, 30 grams of carbohydrate \u2013 including 5 grams of fiber and 18 grams of sugar, 2 grams of protein\r\nPapayas are also a good source of: folate, vitamin A, magnesium, copper, pantothenic, acid, fiber.\r\n\r\nThey also have B vitamins, alpha and beta-carotene, lutein and zeaxanthin, vitamin E, calcium, potassium, vitamin K, and lycopene, the powerful antioxidant most commonly associated with tomatoes.\"\r\n\r\nNutritional facts/Ingredients :The nutrients found in papaya are thought to have a range of health benefits. They may help protect against a number of health conditions such as Age-related macular degeneration, Asthma prevention, Cancer, Bone health, Diabetes, Digestion, Heart disease, Inflammation, Skin and healing, Hair health. ",
+        "name": "Paka Pape \u00b1 50 gm 1 kg",
+        "nameWithoutSubText": "Paka Pape \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/paka-pape-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23193&q=low&v=1"
+        ],
+        "price": 155.0,
+        "corpPrice": 155.0,
+        "objectID": 6965
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09b8\u09ac\u09c1\u099c \u0986\u0999\u09cd\u0997\u09c1\u09b0 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Crunchy, sweet and juicy, green seedless grapes satisfy a multitude of cravings, which may be why everyone like them so much. With 104 calories per 1-cup serving, green grapes make a healthy and natural low-calorie snack. The 1-cup serving of green grapes fills you up and satisfies hunger, which helps keep overall calories and ultimately weight under control. Grapes contain a substance called resveratrol, which is a natural compound that protects the fruit from environmental stress, fungal infections and ultraviolet radiation. Resveratrol also works to protect human health. As an antioxidant, it may protect your cells from free-radical damage and lower your risk of heart disease by preventing blood clots and reducing inflammation. The resveratrol in green seedless grapes may also prevent the growth of cancer cells. Green seedless grapes can help you meet your vitamins A, C and K needs. One cup of grapes provides 100 international units of vitamin A, 4.8 milligrams of vitamin C and 22 micro grams of vitamin K. Vitamin A helps your body fight off infection by boosting your immune system. Vitamin C is important for healthy gums and muscles and also helps wounds to heal. And finally, vitamin K is essential for blood clotting.",
+        "name": "Sobuj Angur (Green Grapes) 250 gm",
+        "nameWithoutSubText": "Sobuj Angur (Green Grapes)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sobuj-angur-green-grapes-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D28591&q=low&v=1"
+        ],
+        "price": 109.0,
+        "corpPrice": 109.0,
+        "objectID": 10049
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09ac\u09c7\u09b2 \u09e7 \u099f\u09bf",
+        "longDesc": "Wood apple is cultivated mostly in Rajshahi and Kushtia and one of the most uncommon fruits in our country. The pulp of the Wood apple is brown, strongly pungent, mealy in texture, resinous, astringent, and tastes acidic or sweet depending on the variety. Available at chaldal. Wood apple has antioxidant properties and is a natural antimicrobial agent. Moreover, it is very tasty to eat. So, collect it hurry from chaldal and taste a different flavor.",
+        "name": "Bel (Wood Apple) 1 pcs",
+        "nameWithoutSubText": "Bel (Wood Apple)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/bel-wood-apple-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D34665&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 14308
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09b8\u09ab\u09c7\u09a6\u09be \u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Sofeda (Sapodilla) 1 kg",
+        "nameWithoutSubText": "Sofeda (Sapodilla)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sofeda-sapodilla-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18391&q=low&v=1&m=400"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 10829
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u099c\u09be\u09ae\u09cd\u09ac\u09c1\u09b0\u09be \u099c\u09be\u09ae\u09cd\u09ac\u09c1\u09b0\u09be \u09e7 \u099f\u09bf",
+        "longDesc": null,
+        "name": "Jambura (Pomelo) 1 pcs",
+        "nameWithoutSubText": "Jambura (Pomelo)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/jambura-pomelo-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D27679&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 13346
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0986\u09ae \u09ac\u09be\u09b0\u09bf \u09ea \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e9 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Mango Bari 4 \u00b1 50 gm 3 kg",
+        "nameWithoutSubText": "Mango Bari 4 \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mango-bari-4-50-gm-3-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80577&q=low&v=1&m=400"
+        ],
+        "price": 359.0,
+        "corpPrice": 359.0,
+        "objectID": 22168
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0986\u09ae\u09b2\u0995\u09c0 \u09e8\u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "Despite its long history of use in Ayurvedic medicine, Amalaki, and its health effects have been tested in few scientific studies. However, some preliminary research suggests that Amalaki may offer certain health benefits. Here's a look at some key findings from the available studies on Amalaki: Fight against : High Cholesterol, High Blood Pressure, Diabetes, Cancer, Joint pain, Diarrhea, Obesity\r\n\r\n",
+        "name": "Amloki (Amla) 250 gm",
+        "nameWithoutSubText": "Amloki (Amla)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/amloki-amla-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7994&q=low&v=1"
+        ],
+        "price": 99.0,
+        "corpPrice": 99.0,
+        "objectID": 6841
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u09a1\u09cd\u09b0\u09be\u0997\u09a8 \u09ab\u09b2 \u00b1 \u09e7\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e7.\u09e7 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Dragon Fruit Local \u00b1 100 gm  1.1 kg",
+        "nameWithoutSubText": "Dragon Fruit Local \u00b1 100 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/dragon-fruit-local-100-gm-11-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50270&q=low&v=1"
+        ],
+        "price": 329.0,
+        "corpPrice": 329.0,
+        "objectID": 18522
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u099f\u0995 \u09ac\u09b0\u0987 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": "\"Plums are extremely nutritious, with a variety of health benefits to offer.\r\n\r\nThey contain many vitamins and minerals, in addition to fiber and antioxidants that may help reduce your risk of several chronic diseases.\r\n\r\nYou can consume plums fresh or dried. Dried plums, or prunes, are known for improving several health conditions, including constipation and osteoporosis.\"\r\n\r\nNutritional facts/Ingredients :\r\n\"Benefits: \r\n-Plums Are Rich in Antioxidants\r\n-It May Help Lower Your Blood Sugar\r\n-Plums May Benefit Heart Health\r\n-Easy to Add to Your Diet\"",
+        "name": "Tok Boroi (Sour Plum) 500 Gm",
+        "nameWithoutSubText": "Tok Boroi (Sour Plum)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/sour-plum-red-tok-boroi-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53027&q=best&v=1"
+        ],
+        "price": 115.0,
+        "corpPrice": 115.0,
+        "objectID": 16381
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0997\u09be\u09ac \u09ab\u09b2 \u09eb\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Gaab Fruit  500 gm",
+        "nameWithoutSubText": "Gaab Fruit",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/gaab-fruit-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80829&q=low&v=1"
+        ],
+        "price": 79.0,
+        "corpPrice": 79.0,
+        "objectID": 24797
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0986\u09ae \u09b9\u09be\u09dc\u09bf\u09ad\u09be\u0999\u09cd\u0997\u09be \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e9 \u0995\u09c7\u099c\u09bf",
+        "longDesc": null,
+        "name": "Mango Harivanga \u00b1 50 gm 3 kg",
+        "nameWithoutSubText": "Mango Harivanga \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mango-harivanga-50-gm-3-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80017&q=low&v=1&m=400"
+        ],
+        "price": 449.0,
+        "corpPrice": 449.0,
+        "objectID": 24694
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0986\u09ae \u09b2\u0995\u09cd\u09b7\u09a3 \u09ad\u09cb\u0997 \u00b1 \u09eb\u09e6 \u0997\u09cd\u09b0\u09be\u09ae \u09e9 \u0995\u09c7\u099c\u09bf",
+        "longDesc": "\u09b2\u0995\u09cd\u09b7\u09a8\u09ad\u09cb\u0997 \u0986\u09ae \u09b2\u0996\u09a8\u09be \u09a8\u09be\u09ae\u09c7\u0987 \u09ac\u09c7\u09b6\u09bf \u09aa\u09b0\u09bf\u099a\u09bf\u09a4\u0964 \u098f\u0987 \u0986\u09ae\u0995\u09c7 \u0985\u09a8\u09c7\u0995\u09c7 \u09ae\u09bf\u09b7\u09cd\u099f\u09bf \u0995\u09ae \u09b9\u0993\u09df\u09be\u09df \u09a1\u09be\u09af\u09bc\u09be\u09ac\u09c7\u099f\u09bf\u09b8 \u0986\u09ae\u0993 \u09ac\u09b2\u09c7\u0964 \u09b2\u0995\u09cd\u09b7\u09a3\u09ad\u09cb\u0997 \u0986\u09ae\u09c7\u09b0 \u0986\u0981\u09b6 \u0996\u09c1\u09ac\u0987 \u0995\u09ae\u0964 \u098f\u09b0 \u09b0\u0982 \u0993 \u0997\u09a8\u09cd\u09a7 \u0985\u09b8\u09be\u09a7\u09be\u09b0\u09a8\u0964 \u0996\u09cb\u09b8\u09be \u09aa\u09be\u09a4\u09b2\u09be \u0993 \u0986\u099f\u09bf \u09aa\u09be\u09a4\u09b2\u09be\u0964 \u098f\u0987 \u0986\u09ae \u0985\u0997\u09cd\u09b0\u09bf\u09ae \u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09bf\u09b0 \u0986\u09ae \u09b9\u0993\u09af\u09bc\u09be\u09af\u09bc \u0986\u09ae\u09c7\u09b0 \u09ae\u09cc\u09b8\u09c1\u09ae\u09c7\u09b0 \u09b6\u09c1\u09b0\u09c1\u09a4\u09c7\u0987 \u09aa\u09be\u0993\u09af\u09bc\u09be \u09af\u09be\u09af\u09bc\u0964 \u09b2\u0995\u09cd\u09b7\u09a3\u09ad\u09cb\u0997 \u0986\u09ae \u09aa\u09be\u0995\u09be\u09b0 \u09aa\u09b0\u09c7\u0993 \u09ec-\u09ee \u09a6\u09bf\u09a8 \u09ad\u09be\u09b2 \u09a5\u09be\u0995\u09c7\u0964",
+        "name": "Mango Lakshman Bhog \u00b1 50 gm 3 kg",
+        "nameWithoutSubText": "Mango Lakshman Bhog \u00b1 50 gm",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/mango-lakshman-bhog-50-gm-3-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D80578&q=low&v=1&m=400"
+        ],
+        "price": 269.0,
+        "corpPrice": 269.0,
+        "objectID": 21625
+    },
+    {
+        "category": {
+            "name": "Fresh Fruits",
+            "id": "11",
+            "slug": "fresh-fruit"
+        },
+        "bengaliName": "\u0986\u09b2 \u09a2\u09be\u09ab\u09b0\u09be \u0996\u09c7\u099c\u09c1\u09b0 \u09ea\u09e6\u09e6 \u0997\u09cd\u09b0\u09be\u09ae",
+        "longDesc": null,
+        "name": "Al Dhafra Dates (Khejur) 400 gm",
+        "nameWithoutSubText": "Al Dhafra Dates (Khejur)",
+        "picturesUrls": [
+            "https://chaldn.com/_mpimage/al-dhafra-dates-khejur-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47956&q=low&v=1"
+        ],
+        "price": 149.0,
+        "corpPrice": 149.0,
+        "objectID": 14802
+    }
+]
